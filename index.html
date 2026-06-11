@@ -11,60 +11,64 @@ header{text-align:center;position:relative}
 .dot{display:inline-block;width:7px;height:7px;background:var(--green);border-radius:50%;margin-right:5px}
 h1{font-size:30px} h1 .o{color:var(--gold)} .sub{color:var(--mut);font-size:14px;margin-top:4px}
 .upd{color:var(--mut);font-size:12px;text-align:center;margin:8px 0 16px} #clk{color:var(--green)}
-.next{background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:12px;padding:12px 16px;text-align:center;margin-bottom:18px;font-size:14px} .next b{color:var(--gold)}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:13px;margin-bottom:13px}
-.card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:14px;padding:16px;text-align:center}
-.card .lbl{color:var(--mut);font-size:11px;text-transform:uppercase} .card .val{font-size:28px;font-weight:700;margin-top:6px} .card .note{font-size:11px;color:var(--mut);margin-top:4px} .gold{color:var(--gold)}
-.cmp{display:grid;grid-template-columns:1fr 1fr;gap:13px;margin-bottom:8px} @media(max-width:560px){.cmp{grid-template-columns:1fr}}
-.cmpc{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;display:flex;justify-content:space-between;align-items:center}
-.cmpc .l{font-size:12px;color:var(--mut)} .cmpc .l b{color:var(--gold);font-size:13px} .cmpc .r{font-size:20px;font-weight:700}
+.next{background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:12px;padding:14px 16px;text-align:center;margin-bottom:20px;font-size:15px} .next .t{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--mut);display:block;margin-bottom:3px} .next b{color:var(--gold)}
 h2{font-size:17px;margin:26px 0 6px;border-left:4px solid var(--gold);padding-left:10px}
 .h2note{color:var(--mut);font-size:12px;margin:0 0 12px 14px}
-.analise{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:18px;font-size:14px;line-height:1.7;color:#dfe8f2}
-.simrow{display:grid;grid-template-columns:1fr 1fr;gap:13px} @media(max-width:720px){.simrow{grid-template-columns:1fr}}
-.simcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
-.simcard h3{font-size:14px;margin-bottom:2px;color:var(--gold)} .simcard .role{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--mut);margin-bottom:8px}
-.simcard .big{font-size:26px;font-weight:700} .simcard .sm{font-size:12px;color:var(--mut);margin-top:4px} .simcard .def{font-size:11px;color:var(--mut);margin-top:10px;border-top:1px solid var(--line);padding-top:8px;line-height:1.5}
-.news{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:20px}
+.news{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:8px}
 .news-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:6px}
 .news-title{font-weight:700;font-size:14px;color:var(--gold)} .news-upd{font-size:11px;color:var(--mut)}
 .ni{padding:9px 0;border-top:1px solid var(--line);font-size:13px;display:flex;gap:12px;align-items:flex-start} .ni:first-child{border-top:none}
 .ni .h{color:var(--green);font-weight:700;min-width:42px}
 .tag{font-size:9px;font-weight:700;padding:2px 7px;border-radius:20px;flex-shrink:0;text-transform:uppercase;margin-top:1px}
 .t-analise{background:#332810;color:var(--gold)} .t-lance{background:#0e2a1f;color:var(--green)} .t-previsao{background:#12243f;color:#7fb0e6}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:13px;margin-bottom:13px}
+.card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:14px;padding:16px;text-align:center}
+.card .lbl{color:var(--mut);font-size:11px;text-transform:uppercase} .card .val{font-size:28px;font-weight:700;margin-top:6px} .card .note{font-size:11px;color:var(--mut);margin-top:4px} .gold{color:var(--gold)}
+.simrow{display:grid;grid-template-columns:1fr 1fr;gap:13px} @media(max-width:720px){.simrow{grid-template-columns:1fr}}
+.simcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.simcard h3{font-size:14px;margin-bottom:2px;color:var(--gold)} .simcard .role{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--mut);margin-bottom:8px}
+.simcard .big{font-size:26px;font-weight:700} .simcard .sm{font-size:12px;color:var(--mut);margin-top:4px} .simcard .def{font-size:11px;color:var(--mut);margin-top:10px;border-top:1px solid var(--line);padding-top:8px;line-height:1.5}
+.cta{margin:24px 0;background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:16px;padding:22px;text-align:center}
+.cta h3{font-size:19px;color:#fff;margin-bottom:6px} .cta p{color:var(--mut);font-size:13px;margin-bottom:14px}
+.btn{display:inline-block;background:var(--gold);color:#1a1205;font-weight:700;text-decoration:none;padding:12px 26px;border-radius:30px}
+.analise{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:18px;font-size:14px;line-height:1.7;color:#dfe8f2}
 .resp{background:#1a1208;border:1px solid #3a2c10;border-radius:10px;padding:12px;margin-top:18px;color:#d9c08a;font-size:12px;text-align:center}
-footer{margin-top:24px;text-align:center;color:var(--mut);font-size:12px;line-height:1.7}
+footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-height:1.7}
 .pos{color:var(--green)} .neg{color:var(--red)}
 </style></head><body><div class="wrap">
+
 <header><div class="live"><span class="dot"></span>AO VIVO</div>
 <h1><span class="o">&#9670;</span> ORACULO ESTATISTICO</h1>
 <div class="sub">Tips de futebol baseadas em ciencia de dados - Mercado 1/X/2</div></header>
 <div class="upd">Piloto Copa do Mundo 2026 - <span id="clk">--:--:--</span> - Modelo independente em modo sombra</div>
-<div class="next" id="nextBox">Proximo jogo: <b id="nextJogo">-</b> as <b id="nextHora">-</b></div>
-<div class="grid">
-<div class="card"><div class="lbl">Tips publicados</div><div class="val gold" id="mTips">0</div><div class="note">produto: Edge >= +4pp</div></div>
-<div class="card"><div class="lbl">Taxa de acerto</div><div class="val" id="mHit">-</div><div class="note">resultado 1/X/2</div></div>
-<div class="card"><div class="lbl">Pontos bolao</div><div class="val" id="mBolao">0</div><div class="note">Prodefy acumulado</div></div>
-<div class="card"><div class="lbl">CLV medio</div><div class="val" id="mClv">-</div><div class="note">so tips publicados</div></div>
-</div>
-<div class="cmp">
-<div class="cmpc"><div class="l"><b>Disciplinado</b><br>produto - ROI: <span id="cmpDiscRoi">-</span></div><div class="r" id="cmpDisc">R$ 0</div></div>
-<div class="cmpc"><div class="l"><b>Jogo Louco</b><br>laboratorio - ROI: <span id="cmpLoucoRoi">-</span></div><div class="r" id="cmpLouco">R$ 0</div></div>
-</div>
-<h2>Analise fundamentada</h2>
-<div class="h2note">Por que o palpite e o que e, com base nos dados.</div>
-<div class="analise" id="analiseBox">Carregando analise...</div>
-<h2>Simulacao financeira (aposta de R$100 por jogo)</h2>
-<div class="h2note">A 1a estrategia e o PRODUTO; a 2a e um LABORATORIO de teste. Leia as definicoes nos cartoes.</div>
-<div class="simrow">
-<div class="simcard"><h3>Disciplinado</h3><div class="role">o produto - a venda</div><div class="big" id="simDisc">R$ 0</div><div class="sm" id="simDiscSm">apostado: R$ 0 - ROI: -</div>
-<div class="def"><b>O que e:</b> so aposta quando o modelo tem vantagem comprovada sobre o mercado (Edge maior ou igual a +4pp). Seletivo, baixo risco - frequentemente NAO aposta. E o produto que se vende.</div></div>
-<div class="simcard"><h3>Jogo Louco</h3><div class="role">o laboratorio - nao e o produto</div><div class="big" id="simLouco">R$ 0</div><div class="sm" id="simLoucoSm">apostado: R$ 0 - ROI: -</div>
-<div class="def"><b>O que e:</b> aposta em QUALQUER cenario que pareca favoravel, em TODO jogo, sem corte. NAO e para ganhar dinheiro - e o experimento que mede se o nosso faro de valor e real. Perdas aqui sao esperadas e fazem parte do diagnostico.</div></div>
-</div>
+
+<div class="next" id="nextBox"><span class="t">Proximo jogo</span><b id="nextJogo">-</b> &nbsp;as&nbsp; <b id="nextHora">-</b></div>
+
 <h2>Central de Atualizacoes ao Vivo</h2>
 <div class="news"><div class="news-head"><span class="news-title">Acompanhamento ao vivo</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
 <div id="newsList"><div class="ni"><span class="h">--:--</span><span class="tag t-previsao">Previsao</span><span>Carregando...</span></div></div></div>
+
+<h2>Desempenho (a prova)</h2>
+<div class="h2note">O track record auditavel. ROI e CLV contam so os tips publicados (produto Disciplinado).</div>
+<div class="grid">
+<div class="card"><div class="lbl">Pontos bolao</div><div class="val gold" id="mBolao">0</div><div class="note">Prodefy acumulado</div></div>
+<div class="card"><div class="lbl">Taxa de acerto</div><div class="val" id="mHit">-</div><div class="note">resultado 1/X/2</div></div>
+<div class="card"><div class="lbl">Tips publicados</div><div class="val" id="mTips">0</div><div class="note">Edge >= +4pp</div></div>
+<div class="card"><div class="lbl">CLV medio</div><div class="val" id="mClv">-</div><div class="note">so tips publicados</div></div>
+</div>
+<div class="simrow">
+<div class="simcard"><h3>Disciplinado</h3><div class="role">o produto - a venda</div><div class="big" id="simDisc">R$ 0</div><div class="sm" id="simDiscSm">apostado: R$ 0 - ROI: -</div>
+<div class="def"><b>O que e:</b> aposta R$100 so quando o modelo tem vantagem comprovada sobre o mercado (Edge maior ou igual a +4pp). Seletivo, baixo risco - frequentemente NAO aposta. E o produto que se vende.</div></div>
+<div class="simcard"><h3>Jogo Louco</h3><div class="role">o laboratorio - nao e o produto</div><div class="big" id="simLouco">R$ 0</div><div class="sm" id="simLoucoSm">apostado: R$ 0 - ROI: -</div>
+<div class="def"><b>O que e:</b> aposta R$100 em QUALQUER cenario que pareca favoravel, em TODO jogo, sem corte. NAO e para ganhar dinheiro - e o experimento que mede se o nosso faro de valor e real. Perdas aqui sao esperadas, parte do diagnostico.</div></div>
+</div>
+
+<div class="cta"><h3>Receba os tips com vantagem comprovada</h3><p>Analises 1/X/2 que precificam o que o mercado ignora. Disciplina, dados e track record auditavel.</p><a class="btn" href="#" id="ctaBtn">Quero os tips no Telegram</a></div>
+
+<h2>Analise fundamentada</h2>
+<div class="h2note">Por que o palpite e o que e, com base nos dados.</div>
+<div class="analise" id="analiseBox">Carregando analise...</div>
+
 <div class="resp">Conteudo de analise estatistica, nao recomendacao financeira. Apostas envolvem risco - aposte apenas o que pode perder. +18. Jogo responsavel.</div>
 <footer>Oraculo Estatistico - Modelo Dixon-Coles + fatores da Copa - Track record auditavel e transparente.</footer>
 </div>
@@ -77,11 +81,10 @@ function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r
   $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;
   $("nextJogo").textContent=s.next.jogo;$("nextHora").textContent=s.next.hora;
   if(s.analise)$("analiseBox").textContent=s.analise;
+  if(s.telegram)$("ctaBtn").href=s.telegram;
   var d=s.sim100.disc,l=s.sim100.louco;
   $("simDisc").textContent=money(d.pnl);$("simDisc").className="big "+(d.pnl>=0?"pos":"neg");$("simDiscSm").textContent="apostado: R$ "+d.stake+" - ROI: "+d.roi;
   $("simLouco").textContent=money(l.pnl);$("simLouco").className="big "+(l.pnl>=0?"pos":"neg");$("simLoucoSm").textContent="apostado: R$ "+l.stake+" - ROI: "+l.roi;
-  $("cmpDisc").textContent=money(d.pnl);$("cmpDisc").className="r "+(d.pnl>=0?"pos":"neg");$("cmpDiscRoi").textContent=d.roi;
-  $("cmpLouco").textContent=money(l.pnl);$("cmpLouco").className="r "+(l.pnl>=0?"pos":"neg");$("cmpLoucoRoi").textContent=l.roi;
 }).catch(function(){});}
 function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"]};return m[t]||["t-lance","Ao vivo"];}
 function loadNews(){fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
