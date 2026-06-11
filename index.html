@@ -12,54 +12,36 @@
   header{text-align:center;position:relative}
   .live{position:absolute;right:0;top:4px;font-size:11px;color:var(--green);border:1px solid #1f5c3f;border-radius:20px;padding:3px 10px;background:#0e2a1f}
   .dot{display:inline-block;width:7px;height:7px;background:var(--green);border-radius:50%;margin-right:5px}
-  h1{font-size:30px;letter-spacing:.5px}
-  h1 .o{color:var(--gold)}
+  h1{font-size:30px} h1 .o{color:var(--gold)}
   .sub{color:var(--mut);font-size:14px;margin-top:4px}
-  .upd{color:var(--mut);font-size:12px;text-align:center;margin:8px 0 20px}
-  #clk{color:var(--green)}
+  .upd{color:var(--mut);font-size:12px;text-align:center;margin:8px 0 20px} #clk{color:var(--green)}
   .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:13px;margin-bottom:8px}
   .card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:14px;padding:16px;text-align:center}
-  .card .lbl{color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.6px}
-  .card .val{font-size:28px;font-weight:700;margin-top:6px}
-  .card .note{font-size:11px;color:var(--mut);margin-top:4px}
-  .gold{color:var(--gold)}
+  .card .lbl{color:var(--mut);font-size:11px;text-transform:uppercase} .card .val{font-size:28px;font-weight:700;margin-top:6px} .card .note{font-size:11px;color:var(--mut);margin-top:4px} .gold{color:var(--gold)}
   h2{font-size:17px;margin:26px 0 12px;border-left:4px solid var(--gold);padding-left:10px}
   .news{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:20px}
   .news-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:6px}
-  .news-title{font-weight:700;font-size:14px;color:var(--gold)}
-  .news-upd{font-size:11px;color:var(--mut)}
-  .ni{padding:9px 0;border-top:1px solid var(--line);font-size:13px;display:flex;gap:12px;align-items:flex-start}
-  .ni:first-child{border-top:none}
+  .news-title{font-weight:700;font-size:14px;color:var(--gold)} .news-upd{font-size:11px;color:var(--mut)}
+  .ni{padding:9px 0;border-top:1px solid var(--line);font-size:13px;display:flex;gap:12px;align-items:flex-start} .ni:first-child{border-top:none}
   .ni .h{color:var(--green);font-weight:700;min-width:42px}
-  .tag{font-size:9px;font-weight:700;padding:2px 7px;border-radius:20px;flex-shrink:0;text-transform:uppercase;letter-spacing:.4px;margin-top:1px}
+  .tag{font-size:9px;font-weight:700;padding:2px 7px;border-radius:20px;flex-shrink:0;text-transform:uppercase;margin-top:1px}
   .t-analise{background:#332810;color:var(--gold)} .t-lance{background:#0e2a1f;color:var(--green)} .t-previsao{background:#12243f;color:#7fb0e6}
-  .lines{display:grid;grid-template-columns:repeat(3,1fr);gap:13px}
-  @media(max-width:720px){.lines{grid-template-columns:1fr}}
-  .lcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
-  .lcard h3{font-size:14px;margin-bottom:8px} .lcard .big{font-size:22px;font-weight:700;margin:4px 0}
-  .ltag{font-size:12px;color:var(--mut)}
+  .lines{display:grid;grid-template-columns:repeat(3,1fr);gap:13px} @media(max-width:720px){.lines{grid-template-columns:1fr}}
+  .lcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px} .lcard h3{font-size:14px;margin-bottom:8px} .lcard .big{font-size:22px;font-weight:700;margin:4px 0} .ltag{font-size:12px;color:var(--mut)}
   table{width:100%;border-collapse:collapse;background:var(--card);border-radius:12px;overflow:hidden}
-  th{background:var(--navy);color:#fff;font-size:11px;text-transform:uppercase;padding:10px;text-align:left}
-  td{padding:10px;border-top:1px solid var(--line);font-size:13px}
-  .badge{display:inline-block;padding:2px 9px;border-radius:20px;font-size:12px;font-weight:600}
-  .b-bolao{background:#173a2c;color:var(--green)} .b-none{background:#3a2020;color:var(--red)}
+  th{background:var(--navy);color:#fff;font-size:11px;text-transform:uppercase;padding:10px;text-align:left} td{padding:10px;border-top:1px solid var(--line);font-size:13px}
+  .badge{display:inline-block;padding:2px 9px;border-radius:20px;font-size:12px;font-weight:600} .b-bolao{background:#173a2c;color:var(--green)} .b-none{background:#3a2020;color:var(--red)}
   .cta{margin:26px 0;background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:16px;padding:22px;text-align:center}
-  .cta h2{border:none;padding:0;margin:0 0 6px;font-size:20px;color:#fff}
-  .cta p{color:var(--mut);font-size:13px;margin-bottom:14px}
+  .cta h2{border:none;padding:0;margin:0 0 6px;font-size:20px;color:#fff} .cta p{color:var(--mut);font-size:13px;margin-bottom:14px}
   .btn{display:inline-block;background:var(--gold);color:#1a1205;font-weight:700;text-decoration:none;padding:12px 26px;border-radius:30px}
   .resp{background:#1a1208;border:1px solid #3a2c10;border-radius:10px;padding:12px;margin-top:18px;color:#d9c08a;font-size:12px;text-align:center}
   footer{margin-top:24px;text-align:center;color:var(--mut);font-size:12px;line-height:1.7}
-</style>
-</head>
-<body>
-<div class="wrap">
-  <header>
-    <div class="live"><span class="dot"></span>AO VIVO</div>
+</style></head>
+<body><div class="wrap">
+  <header><div class="live"><span class="dot"></span>AO VIVO</div>
     <h1><span class="o">&#9670;</span> ORACULO ESTATISTICO</h1>
-    <div class="sub">Tips de futebol baseadas em ciencia de dados - Mercado 1/X/2</div>
-  </header>
+    <div class="sub">Tips de futebol baseadas em ciencia de dados - Mercado 1/X/2</div></header>
   <div class="upd">Piloto Copa do Mundo 2026 - <span id="clk">--:--:--</span> - Modelo independente em modo sombra</div>
-
   <div class="grid">
     <div class="card"><div class="lbl">Tips publicados</div><div class="val gold">0</div><div class="note">so com Edge maior ou igual a +4pp</div></div>
     <div class="card"><div class="lbl">Taxa de acerto</div><div class="val">-</div><div class="note">aguardando amostra</div></div>
@@ -67,67 +49,33 @@
     <div class="card"><div class="lbl">CLV medio</div><div class="val">-</div><div class="note">odd pega vs fechamento</div></div>
     <div class="card"><div class="lbl">Brier modelo</div><div class="val">-</div><div class="note">vs mercado</div></div>
   </div>
-
   <h2>Central de Atualizacoes ao Vivo</h2>
-  <div class="news">
-    <div class="news-head"><span class="news-title">Mexico x Africa do Sul - Grupo A</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
-    <div id="newsList">
-      <div class="ni"><span class="h">16:36</span><span class="tag t-analise">Analise</span><span>Mexico segura o 1x0 aos 30' do 1T, RSA no zero. Defesa elite funcionando como o modelo projetou - no caminho do 1x0 exato + Under 2,5.</span></div>
-      <div class="ni"><span class="h">16:16</span><span class="tag t-lance">Ao vivo</span><span>GOL DO MEXICO! Mexico 1 x 0 Africa do Sul.</span></div>
-      <div class="ni"><span class="h">15:30</span><span class="tag t-previsao">Previsao</span><span>Mexico 1x0 (EP 3,00) - Mexico 65,5% | Empate 23,8% | RSA 10,7% - Under 2,5 = 58,7%.</span></div>
-    </div>
-  </div>
-
+  <div class="news"><div class="news-head"><span class="news-title">Mexico x Africa do Sul - Grupo A</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
+    <div id="newsList"><div class="ni"><span class="h">--:--</span><span class="tag t-previsao">Previsao</span><span>Carregando...</span></div></div></div>
   <h2>As tres linhas do modelo</h2>
   <div class="lines">
     <div class="lcard"><h3>Bolao (vitrine)</h3><div class="big">Mexico 1x0</div><div class="ltag">Prova publica em bolao real</div></div>
     <div class="lcard"><h3>Disciplinado (produto)</h3><div class="big">-</div><div class="ltag">So publica com Edge maior ou igual a +4pp</div></div>
     <div class="lcard"><h3>Jogo Louco (lab)</h3><div class="big">-</div><div class="ltag">Diagnostico: o edge e real?</div></div>
   </div>
-
   <h2>Jogos avaliados - 11/06/2026 (Grupo A)</h2>
-  <table>
-    <thead><tr><th>Jogo</th><th>Tese</th><th>Bolao</th><th>Tip 1X2</th><th>Status</th></tr></thead>
-    <tbody>
-      <tr><td>Mexico x Africa do Sul</td><td class="ltag">Base camp da RSA em Pachuca (2.430m) anula a altitude - mercado superestima o Mexico</td><td><span class="badge b-bolao">1x0</span></td><td>-</td><td><span class="badge b-none">Sem edge</span></td></tr>
-      <tr><td>Coreia do Sul x Rep. Tcheca</td><td class="ltag">Jogo de moeda; desempate (H2H + elenco + FIFA) aponta a Coreia</td><td><span class="badge b-bolao">1x0</span></td><td>-</td><td><span class="badge b-none">Sem edge</span></td></tr>
-    </tbody>
-  </table>
-
-  <div class="cta">
-    <h2>Receba os tips com vantagem comprovada</h2>
-    <p>Analises 1/X/2 que precificam o que o mercado ignora. Disciplina, dados e track record auditavel.</p>
-    <a class="btn" href="#">Quero acompanhar no Telegram</a>
-  </div>
-
-  <h2>Como medimos o nosso valor</h2>
-  <table>
-    <thead><tr><th>Metrica</th><th>O que mede</th><th>Por que importa</th></tr></thead>
-    <tbody>
-      <tr><td><strong>CLV</strong></td><td>Se pegamos odd melhor que a de fechamento</td><td>Melhor preditor de lucro de longo prazo</td></tr>
-      <tr><td><strong>Brier vs mercado</strong></td><td>Calibracao do modelo vs o consenso</td><td>Prova que batemos o mercado, nao so acertamos</td></tr>
-      <tr><td><strong>ROI</strong></td><td>Retorno por unidade apostada</td><td>O resultado financeiro real - com as perdas incluidas</td></tr>
-    </tbody>
-  </table>
-
+  <table><thead><tr><th>Jogo</th><th>Tese</th><th>Bolao</th><th>Tip 1X2</th><th>Status</th></tr></thead><tbody>
+    <tr><td>Mexico x Africa do Sul</td><td class="ltag">Base camp da RSA em Pachuca (2.430m) anula a altitude</td><td><span class="badge b-bolao">1x0</span></td><td>-</td><td><span class="badge b-none">Sem edge</span></td></tr>
+    <tr><td>Coreia do Sul x Rep. Tcheca</td><td class="ltag">Jogo de moeda; desempate aponta a Coreia</td><td><span class="badge b-bolao">1x0</span></td><td>-</td><td><span class="badge b-none">Sem edge</span></td></tr>
+  </tbody></table>
+  <div class="cta"><h2>Receba os tips com vantagem comprovada</h2><p>Analises 1/X/2 que precificam o que o mercado ignora.</p><a class="btn" href="#">Quero acompanhar no Telegram</a></div>
   <div class="resp">Conteudo de analise estatistica, nao recomendacao financeira. Apostas envolvem risco - aposte apenas o que pode perder. +18. Jogo responsavel.</div>
-  <footer>Oraculo Estatistico - Modelo Dixon-Coles + fatores da Copa - Track record auditavel e transparente.</footer>
+  <footer>Oraculo Estatistico - Modelo Dixon-Coles + fatores da Copa - Track record auditavel.</footer>
 </div>
-
 <script>
 try{
-  function tk(){var e=document.getElementById("clk"); if(e) e.textContent=new Date().toLocaleTimeString("pt-BR");}
-  tk(); setInterval(tk,1000);
-  function badge(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"]};return m[t]||["t-lance","Ao vivo"];}
-  function loadNews(){
-    fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
-      var html=d.map(function(n){var b=badge(n.tipo);return '<div class="ni"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}).join("");
-      var el=document.getElementById("newsList"); if(el&&html) el.innerHTML=html;
-      var u=document.getElementById("newsUpd"); if(u) u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
-    }).catch(function(){});
-  }
-  loadNews(); setInterval(loadNews,45000);
+  function tk(){var e=document.getElementById("clk");if(e)e.textContent=new Date().toLocaleTimeString("pt-BR");}
+  tk();setInterval(tk,1000);
+  function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"]};return m[t]||["t-lance","Ao vivo"];}
+  function ln(){fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
+    var h=d.map(function(n){var b=bd(n.tipo);return '<div class="ni"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}).join("");
+    var el=document.getElementById("newsList");if(el&&h)el.innerHTML=h;
+    var u=document.getElementById("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");}).catch(function(){});}
+  ln();setInterval(ln,30000);
 }catch(e){}
-</script>
-</body>
-</html>
+</script></body></html>
