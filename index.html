@@ -2,7 +2,7 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Oraculo Estatistico - Track Record ao Vivo</title>
 <style>
-:root{--navy:#0B2545;--gold:#C8A24B;--txt:#e8eef6;--mut:#9fb3c8;--card:#10233f;--card2:#0e2038;--green:#3fb98a;--red:#e06464;--line:#1d3556}
+:root{--navy:#0B2545;--gold:#C8A24B;--txt:#e8eef6;--mut:#9fb3c8;--card:#10233f;--card2:#0e2038;--green:#3fb98a;--red:#e06464;--line:#1d3556;--amber:#C8924B}
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:radial-gradient(1200px 600px at 50% -10%,#12294a,#0a1626);color:var(--txt);padding:22px;min-height:100vh}
 .wrap{max-width:1000px;margin:0 auto}
@@ -12,23 +12,28 @@ header{text-align:center;position:relative}
 h1{font-size:30px} h1 .o{color:var(--gold)} .sub{color:var(--mut);font-size:14px;margin-top:4px}
 .upd{color:var(--mut);font-size:12px;text-align:center;margin:8px 0 16px} #clk{color:var(--green)}
 .next{background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:12px;padding:14px 16px;text-align:center;margin-bottom:20px;font-size:15px} .next .t{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--mut);display:block;margin-bottom:3px} .next b{color:var(--gold)}
-h2{font-size:17px;margin:26px 0 6px;border-left:4px solid var(--gold);padding-left:10px}
+h2{font-size:17px;margin:28px 0 6px;border-left:4px solid var(--gold);padding-left:10px}
 .h2note{color:var(--mut);font-size:12px;margin:0 0 12px 14px}
-.news{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:8px}
+.news{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
 .news-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:6px}
 .news-title{font-weight:700;font-size:14px;color:var(--gold)} .news-upd{font-size:11px;color:var(--mut)}
 .ni{padding:9px 0;border-top:1px solid var(--line);font-size:13px;display:flex;gap:12px;align-items:flex-start} .ni:first-child{border-top:none}
 .ni .h{color:var(--green);font-weight:700;min-width:42px}
 .tag{font-size:9px;font-weight:700;padding:2px 7px;border-radius:20px;flex-shrink:0;text-transform:uppercase;margin-top:1px}
 .t-analise{background:#332810;color:var(--gold)} .t-lance{background:#0e2a1f;color:var(--green)} .t-previsao{background:#12243f;color:#7fb0e6}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:13px;margin-bottom:13px}
-.card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:14px;padding:16px;text-align:center}
-.card .lbl{color:var(--mut);font-size:11px;text-transform:uppercase} .card .val{font-size:28px;font-weight:700;margin-top:6px} .card .note{font-size:11px;color:var(--mut);margin-top:4px} .gold{color:var(--gold)}
-.simrow{display:grid;grid-template-columns:1fr 1fr;gap:13px} @media(max-width:720px){.simrow{grid-template-columns:1fr}}
-.simcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
-.simcard h3{font-size:14px;margin-bottom:2px;color:var(--gold)} .simcard .role{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--mut);margin-bottom:8px}
-.simcard .big{font-size:26px;font-weight:700} .simcard .sm{font-size:12px;color:var(--mut);margin-top:4px} .simcard .def{font-size:11px;color:var(--mut);margin-top:10px;border-top:1px solid var(--line);padding-top:8px;line-height:1.5}
-.cta{margin:24px 0;background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:16px;padding:22px;text-align:center}
+.block{border:1px solid var(--line);border-radius:16px;padding:18px;margin-top:10px}
+.blockTitle{font-size:15px;font-weight:700;margin-bottom:2px} .blockSub{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--mut);margin-bottom:14px}
+.prod{background:linear-gradient(180deg,#10233f,#0c1b30);border-color:#234a6e}
+.lab{background:linear-gradient(180deg,#211a10,#16110a);border-color:#5a4520}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:11px}
+.card{background:#0e2038;border:1px solid var(--line);border-radius:12px;padding:14px;text-align:center}
+.card .lbl{color:var(--mut);font-size:10px;text-transform:uppercase} .card .val{font-size:24px;font-weight:700;margin-top:4px} .card .note{font-size:10px;color:var(--mut);margin-top:3px} .gold{color:var(--gold)}
+.pnl{display:flex;align-items:baseline;gap:12px;margin-top:14px} .pnl .big{font-size:30px;font-weight:700} .pnl .sm{font-size:12px;color:var(--mut)}
+.def{font-size:12px;color:var(--mut);margin-top:12px;border-top:1px solid var(--line);padding-top:10px;line-height:1.6}
+.gloss{font-size:12px;color:var(--mut);margin-top:12px;line-height:1.6;background:#0a1830;border:1px dashed #2a4straight;border:1px dashed #2a466b;border-radius:10px;padding:10px 12px}
+.gloss b{color:var(--gold)}
+.badge-exp{display:inline-block;background:#5a4520;color:var(--amber);font-size:10px;font-weight:700;padding:2px 8px;border-radius:12px;text-transform:uppercase;letter-spacing:.5px;margin-left:6px}
+.cta{margin:26px 0;background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:16px;padding:22px;text-align:center}
 .cta h3{font-size:19px;color:#fff;margin-bottom:6px} .cta p{color:var(--mut);font-size:13px;margin-bottom:14px}
 .btn{display:inline-block;background:var(--gold);color:#1a1205;font-weight:700;text-decoration:none;padding:12px 26px;border-radius:30px}
 .analise{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:18px;font-size:14px;line-height:1.7;color:#dfe8f2}
@@ -48,29 +53,38 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 <div class="news"><div class="news-head"><span class="news-title">Acompanhamento ao vivo</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
 <div id="newsList"><div class="ni"><span class="h">--:--</span><span class="tag t-previsao">Previsao</span><span>Carregando...</span></div></div></div>
 
-<h2>Desempenho (a prova)</h2>
-<div class="h2note">O track record auditavel. ROI e CLV contam so os tips publicados (produto Disciplinado).</div>
-<div class="grid">
-<div class="card"><div class="lbl">Pontos bolao</div><div class="val gold" id="mBolao">0</div><div class="note">Prodefy acumulado</div></div>
-<div class="card"><div class="lbl">Taxa de acerto</div><div class="val" id="mHit">-</div><div class="note">resultado 1/X/2</div></div>
-<div class="card"><div class="lbl">Tips publicados</div><div class="val" id="mTips">0</div><div class="note">Edge >= +4pp</div></div>
-<div class="card"><div class="lbl">CLV medio</div><div class="val" id="mClv">-</div><div class="note">so tips publicados</div></div>
-</div>
-<div class="simrow">
-<div class="simcard"><h3>Disciplinado</h3><div class="role">o produto - a venda</div><div class="big" id="simDisc">R$ 0</div><div class="sm" id="simDiscSm">apostado: R$ 0 - ROI: -</div>
-<div class="def"><b>O que e:</b> aposta R$100 so quando o modelo tem vantagem comprovada sobre o mercado (Edge maior ou igual a +4pp). Seletivo, baixo risco - frequentemente NAO aposta. E o produto que se vende.</div></div>
-<div class="simcard"><h3>Jogo Louco</h3><div class="role">o laboratorio - nao e o produto</div><div class="big" id="simLouco">R$ 0</div><div class="sm" id="simLoucoSm">apostado: R$ 0 - ROI: -</div>
-<div class="def"><b>O que e:</b> aposta R$100 em QUALQUER cenario que pareca favoravel, em TODO jogo, sem corte. NAO e para ganhar dinheiro - e o experimento que mede se o nosso faro de valor e real. Perdas aqui sao esperadas, parte do diagnostico.</div></div>
+<h2>1. O Produto (Disciplinado)</h2>
+<div class="h2note">A vitrine de venda: o track record auditavel dos tips publicados.</div>
+<div class="block prod">
+  <div class="blockTitle gold">Track record</div><div class="blockSub">so conta tips publicados (Edge maior ou igual a +4pp)</div>
+  <div class="grid">
+    <div class="card"><div class="lbl">Pontos bolao</div><div class="val gold" id="mBolao">0</div><div class="note">Prodefy</div></div>
+    <div class="card"><div class="lbl">Taxa de acerto</div><div class="val" id="mHit">-</div><div class="note">resultado 1/X/2</div></div>
+    <div class="card"><div class="lbl">Tips publicados</div><div class="val" id="mTips">0</div><div class="note">com Edge</div></div>
+    <div class="card"><div class="lbl">ROI</div><div class="val" id="mRoi">-</div><div class="note">aposta R$100</div></div>
+    <div class="card"><div class="lbl">CLV medio</div><div class="val" id="mClv">-</div><div class="note">vs fechamento</div></div>
+  </div>
+  <div class="pnl"><span class="big" id="simDisc">R$ 0</span><span class="sm" id="simDiscSm">apostado: R$ 0 - ROI: -</span></div>
+  <div class="def"><b>O que e:</b> a estrategia que se vende. So aposta R$100 quando o modelo tem vantagem comprovada sobre o mercado (Edge maior ou igual a +4pp). Seletivo, baixo risco - frequentemente NAO aposta.</div>
+  <div class="gloss"><b>ROI</b> = retorno sobre o valor apostado (lucro dividido pelo total apostado). Ex.: +10% = a cada R$100 apostados, R$10 de lucro.<br><b>CLV (Closing Line Value)</b> = se pegamos uma odd melhor que a de fechamento (a ultima antes do jogo). E o melhor indicador de que estamos batendo o mercado no longo prazo - aparece com menos jogos que o lucro.</div>
 </div>
 
-<div class="cta"><h3>Receba os tips com vantagem comprovada</h3><p>Analises 1/X/2 que precificam o que o mercado ignora. Disciplina, dados e track record auditavel.</p><a class="btn" href="#" id="ctaBtn">Quero os tips no Telegram</a></div>
+<h2>2. O Laboratorio <span class="badge-exp">experimento</span></h2>
+<div class="h2note">NAO e o produto. E um teste para medir se o nosso faro de valor e real.</div>
+<div class="block lab">
+  <div class="blockTitle" style="color:var(--amber)">Jogo Louco</div><div class="blockSub">aposta em todo jogo, sem corte - so para diagnostico</div>
+  <div class="pnl"><span class="big" id="simLouco">R$ 0</span><span class="sm" id="simLoucoSm">apostado: R$ 0 - ROI: -</span></div>
+  <div class="def"><b>O que e:</b> aposta R$100 em QUALQUER cenario que pareca favoravel, em TODO jogo. Como aposta em tudo, perdas aqui sao esperadas - o objetivo NAO e ganhar dinheiro, e medir, ao longo da Copa, se as vantagens que o modelo enxerga sao reais ou ruido. Quando ele vira lucro de forma sustentada, sabemos que o edge e verdadeiro.</div>
+</div>
+
+<div class="cta"><h3>Receba os tips com vantagem comprovada</h3><p>Analises 1/X/2 que precificam o que o mercado ignora.</p><a class="btn" href="#" id="ctaBtn">Quero os tips no Telegram</a></div>
 
 <h2>Analise fundamentada</h2>
 <div class="h2note">Por que o palpite e o que e, com base nos dados.</div>
 <div class="analise" id="analiseBox">Carregando analise...</div>
 
 <div class="resp">Conteudo de analise estatistica, nao recomendacao financeira. Apostas envolvem risco - aposte apenas o que pode perder. +18. Jogo responsavel.</div>
-<footer>Oraculo Estatistico - Modelo Dixon-Coles + fatores da Copa - Track record auditavel e transparente.</footer>
+<footer>Oraculo Estatistico - Modelo Dixon-Coles + fatores da Copa - Track record auditavel.</footer>
 </div>
 <script>
 function $(i){return document.getElementById(i);}
@@ -78,7 +92,7 @@ try{
 function tk(){var e=$("clk");if(e)e.textContent=new Date().toLocaleTimeString("pt-BR");} tk();setInterval(tk,1000);
 function money(v){return (v>0?"+":"")+"R$ "+v;}
 function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r.json();}).then(function(s){
-  $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;
+  $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;$("mRoi").textContent=s.roi;
   $("nextJogo").textContent=s.next.jogo;$("nextHora").textContent=s.next.hora;
   if(s.analise)$("analiseBox").textContent=s.analise;
   if(s.telegram)$("ctaBtn").href=s.telegram;
