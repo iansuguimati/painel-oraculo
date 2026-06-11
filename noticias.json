@@ -1,10 +1,8 @@
 [
-  { "tipo": "analise", "hora": "16:36", "texto": "🟢 Cenário ideal seguindo firme: aos 30' do 1T o México mantém o 1×0 e a RSA segue no zero. Defesa elite funcionando como o modelo projetou — no caminho do placar exato 1×0 + Under 2,5." },
-  { "tipo": "lance", "hora": "16:36", "texto": "⚽ [30'] México 1 x 0 África do Sul" },
-  { "tipo": "analise", "hora": "16:29", "texto": "🟢 Cenário ideal mantido: aos 23' do 1T o México segura o 1×0 e a RSA segue no zero. Defesa elite funcionando como o modelo projetou — no caminho do placar exato 1×0 + Under 2,5." },
-  { "tipo": "lance", "hora": "16:29", "texto": "⚽ [23'] México 1 x 0 África do Sul" },
-  { "tipo": "analise", "hora": "16:27", "texto": "🟢 Cenário ideal mantido: aos 22' do 1T o México segura o 1×0 e a RSA continua no zero. Defesa elite funcionando como o modelo projetou — rumo ao placar exato 1×0 + Under 2,5." },
-  { "tipo": "lance", "hora": "16:27", "texto": "⚽ [22'] México 1 x 0 África do Sul" },
-  { "tipo": "analise", "hora": "16:22", "texto": "🟢 Cenário ideal seguindo: México segura o 1×0 aos 16' do 1T, RSA no zero. Defesa elite funcionando exatamente como o modelo projetou — no caminho do placar exato 1×0 + Under 2,5." },
-  { "tipo": "lance", "hora": "16:22", "texto": "⚽ [16'] México 1 x 0 África do Sul" }
+  {"tipo":"analise","hora":"17:41","texto":"Atencao ao Under: com um a mais e o Mexico pressionando, o 3o gol pode sair e estourar o Under 2,5. Por ora (2 gols), segue de pe."},
+  {"tipo":"analise","hora":"17:40","texto":"2x0! Perdemos o placar exato (1x0), mas pela regra completa do Prodefy isso vale 4 PONTOS: vencedor certo + RSA no zero. E o nivel de 4 pts que mostramos ser o maior do EP. Modelo se provando."},
+  {"tipo":"lance","hora":"17:40","texto":"GOL! Mexico 2 x 0 Africa do Sul - pressao total."},
+  {"tipo":"lance","hora":"17:38","texto":"VERMELHO! Expulsao na Africa do Sul - Mexico com um a mais."},
+  {"tipo":"lance","hora":"16:16","texto":"GOL DO MEXICO! Mexico 1 x 0 Africa do Sul."},
+  {"tipo":"previsao","hora":"15:30","texto":"Previsao do modelo: Mexico 1x0 (EP 3,00) - Mexico 65,5% | Empate 23,8% | RSA 10,7% - Under 2,5 = 58,7%."}
 ]
