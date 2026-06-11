@@ -40,6 +40,9 @@ h2{font-size:17px;margin:28px 0 6px;border-left:4px solid var(--gold);padding-le
 .resp{background:#1a1208;border:1px solid #3a2c10;border-radius:10px;padding:12px;margin-top:18px;color:#d9c08a;font-size:12px;text-align:center}
 footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-height:1.7}
 .pos{color:var(--green)} .neg{color:var(--red)}
+.picks{display:grid;grid-template-columns:repeat(3,1fr);gap:11px;margin-bottom:6px} @media(max-width:560px){.picks{grid-template-columns:1fr}}
+.pick{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;text-align:center}
+.pick .pl{font-size:10px;text-transform:uppercase;letter-spacing:.4px;color:var(--mut)} .pick .pv{font-size:22px;font-weight:700;margin-top:4px} .pick.main{border-color:var(--gold)} .pick.main .pv{color:var(--gold)}
 </style></head><body><div class="wrap">
 
 <header><div class="live"><span class="dot"></span>AO VIVO</div>
@@ -48,6 +51,15 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 <div class="upd">Piloto Copa do Mundo 2026 - <span id="clk">--:--:--</span> - Modelo independente em modo sombra</div>
 
 <div class="next" id="nextBox"><span class="t">Proximo jogo</span><b id="nextJogo">-</b> &nbsp;as&nbsp; <b id="nextHora">-</b></div>
+
+
+<h2>Nosso palpite (proximo jogo)</h2>
+<div class="h2note">O que o modelo recomenda para a proxima partida.</div>
+<div class="picks">
+  <div class="pick main"><div class="pl">Bolao - placar</div><div class="pv" id="pBolao">-</div></div>
+  <div class="pick"><div class="pl">Tip do produto</div><div class="pv" id="pDisc">-</div></div>
+  <div class="pick"><div class="pl">Jogo Louco (lab)</div><div class="pv" id="pLouco">-</div></div>
+</div>
 
 <h2>Central de Atualizacoes ao Vivo</h2>
 <div class="news"><div class="news-head"><span class="news-title">Acompanhamento ao vivo</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
@@ -94,6 +106,7 @@ function money(v){return (v>0?"+":"")+"R$ "+v;}
 function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r.json();}).then(function(s){
   $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;$("mRoi").textContent=s.roi;
   $("nextJogo").textContent=s.next.jogo;$("nextHora").textContent=s.next.hora;
+  $("pBolao").textContent=s.lines.bolao;$("pDisc").textContent=(s.lines.disc==="-"?"sem tip (sem edge)":s.lines.disc);$("pLouco").textContent=s.lines.louco;
   if(s.analise)$("analiseBox").textContent=s.analise;
   if(s.telegram)$("ctaBtn").href=s.telegram;
   var d=s.sim100.disc,l=s.sim100.louco;
