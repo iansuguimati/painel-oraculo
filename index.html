@@ -1,81 +1,85 @@
-<!doctype html>
-<html lang="pt-BR">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!doctype html><html lang="pt-BR"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Oraculo Estatistico - Track Record ao Vivo</title>
 <style>
-  :root{--navy:#0B2545;--gold:#C8A24B;--blue:#2E75B6;--txt:#e8eef6;--mut:#9fb3c8;--card:#10233f;--card2:#0e2038;--green:#3fb98a;--red:#e06464;--line:#1d3556}
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:radial-gradient(1200px 600px at 50% -10%,#12294a,#0a1626);color:var(--txt);padding:22px;min-height:100vh}
-  .wrap{max-width:1000px;margin:0 auto}
-  header{text-align:center;position:relative}
-  .live{position:absolute;right:0;top:4px;font-size:11px;color:var(--green);border:1px solid #1f5c3f;border-radius:20px;padding:3px 10px;background:#0e2a1f}
-  .dot{display:inline-block;width:7px;height:7px;background:var(--green);border-radius:50%;margin-right:5px}
-  h1{font-size:30px} h1 .o{color:var(--gold)}
-  .sub{color:var(--mut);font-size:14px;margin-top:4px}
-  .upd{color:var(--mut);font-size:12px;text-align:center;margin:8px 0 20px} #clk{color:var(--green)}
-  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:13px;margin-bottom:8px}
-  .card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:14px;padding:16px;text-align:center}
-  .card .lbl{color:var(--mut);font-size:11px;text-transform:uppercase} .card .val{font-size:28px;font-weight:700;margin-top:6px} .card .note{font-size:11px;color:var(--mut);margin-top:4px} .gold{color:var(--gold)}
-  h2{font-size:17px;margin:26px 0 12px;border-left:4px solid var(--gold);padding-left:10px}
-  .news{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:20px}
-  .news-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:6px}
-  .news-title{font-weight:700;font-size:14px;color:var(--gold)} .news-upd{font-size:11px;color:var(--mut)}
-  .ni{padding:9px 0;border-top:1px solid var(--line);font-size:13px;display:flex;gap:12px;align-items:flex-start} .ni:first-child{border-top:none}
-  .ni .h{color:var(--green);font-weight:700;min-width:42px}
-  .tag{font-size:9px;font-weight:700;padding:2px 7px;border-radius:20px;flex-shrink:0;text-transform:uppercase;margin-top:1px}
-  .t-analise{background:#332810;color:var(--gold)} .t-lance{background:#0e2a1f;color:var(--green)} .t-previsao{background:#12243f;color:#7fb0e6}
-  .lines{display:grid;grid-template-columns:repeat(3,1fr);gap:13px} @media(max-width:720px){.lines{grid-template-columns:1fr}}
-  .lcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px} .lcard h3{font-size:14px;margin-bottom:8px} .lcard .big{font-size:22px;font-weight:700;margin:4px 0} .ltag{font-size:12px;color:var(--mut)}
-  table{width:100%;border-collapse:collapse;background:var(--card);border-radius:12px;overflow:hidden}
-  th{background:var(--navy);color:#fff;font-size:11px;text-transform:uppercase;padding:10px;text-align:left} td{padding:10px;border-top:1px solid var(--line);font-size:13px}
-  .badge{display:inline-block;padding:2px 9px;border-radius:20px;font-size:12px;font-weight:600} .b-bolao{background:#173a2c;color:var(--green)} .b-none{background:#3a2020;color:var(--red)}
-  .cta{margin:26px 0;background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:16px;padding:22px;text-align:center}
-  .cta h2{border:none;padding:0;margin:0 0 6px;font-size:20px;color:#fff} .cta p{color:var(--mut);font-size:13px;margin-bottom:14px}
-  .btn{display:inline-block;background:var(--gold);color:#1a1205;font-weight:700;text-decoration:none;padding:12px 26px;border-radius:30px}
-  .resp{background:#1a1208;border:1px solid #3a2c10;border-radius:10px;padding:12px;margin-top:18px;color:#d9c08a;font-size:12px;text-align:center}
-  footer{margin-top:24px;text-align:center;color:var(--mut);font-size:12px;line-height:1.7}
-</style></head>
-<body><div class="wrap">
-  <header><div class="live"><span class="dot"></span>AO VIVO</div>
-    <h1><span class="o">&#9670;</span> ORACULO ESTATISTICO</h1>
-    <div class="sub">Tips de futebol baseadas em ciencia de dados - Mercado 1/X/2</div></header>
-  <div class="upd">Piloto Copa do Mundo 2026 - <span id="clk">--:--:--</span> - Modelo independente em modo sombra</div>
-  <div class="grid">
-    <div class="card"><div class="lbl">Tips publicados</div><div class="val gold">0</div><div class="note">so com Edge maior ou igual a +4pp</div></div>
-    <div class="card"><div class="lbl">Taxa de acerto</div><div class="val">-</div><div class="note">aguardando amostra</div></div>
-    <div class="card"><div class="lbl">ROI acumulado</div><div class="val">-</div><div class="note">em unidades</div></div>
-    <div class="card"><div class="lbl">CLV medio</div><div class="val">-</div><div class="note">odd pega vs fechamento</div></div>
-    <div class="card"><div class="lbl">Brier modelo</div><div class="val">-</div><div class="note">vs mercado</div></div>
-  </div>
-  <h2>Central de Atualizacoes ao Vivo</h2>
-  <div class="news"><div class="news-head"><span class="news-title">Mexico x Africa do Sul - Grupo A</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
-    <div id="newsList"><div class="ni"><span class="h">--:--</span><span class="tag t-previsao">Previsao</span><span>Carregando...</span></div></div></div>
-  <h2>As tres linhas do modelo</h2>
-  <div class="lines">
-    <div class="lcard"><h3>Bolao (vitrine)</h3><div class="big">Mexico 1x0</div><div class="ltag">Prova publica em bolao real</div></div>
-    <div class="lcard"><h3>Disciplinado (produto)</h3><div class="big">-</div><div class="ltag">So publica com Edge maior ou igual a +4pp</div></div>
-    <div class="lcard"><h3>Jogo Louco (lab)</h3><div class="big">-</div><div class="ltag">Diagnostico: o edge e real?</div></div>
-  </div>
-  <h2>Jogos avaliados - 11/06/2026 (Grupo A)</h2>
-  <table><thead><tr><th>Jogo</th><th>Tese</th><th>Bolao</th><th>Tip 1X2</th><th>Status</th></tr></thead><tbody>
-    <tr><td>Mexico x Africa do Sul</td><td class="ltag">Base camp da RSA em Pachuca (2.430m) anula a altitude</td><td><span class="badge b-bolao">1x0</span></td><td>-</td><td><span class="badge b-none">Sem edge</span></td></tr>
-    <tr><td>Coreia do Sul x Rep. Tcheca</td><td class="ltag">Jogo de moeda; desempate aponta a Coreia</td><td><span class="badge b-bolao">1x0</span></td><td>-</td><td><span class="badge b-none">Sem edge</span></td></tr>
-  </tbody></table>
-  <div class="cta"><h2>Receba os tips com vantagem comprovada</h2><p>Analises 1/X/2 que precificam o que o mercado ignora.</p><a class="btn" href="#">Quero acompanhar no Telegram</a></div>
-  <div class="resp">Conteudo de analise estatistica, nao recomendacao financeira. Apostas envolvem risco - aposte apenas o que pode perder. +18. Jogo responsavel.</div>
-  <footer>Oraculo Estatistico - Modelo Dixon-Coles + fatores da Copa - Track record auditavel.</footer>
+:root{--navy:#0B2545;--gold:#C8A24B;--txt:#e8eef6;--mut:#9fb3c8;--card:#10233f;--card2:#0e2038;--green:#3fb98a;--red:#e06464;--line:#1d3556}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:radial-gradient(1200px 600px at 50% -10%,#12294a,#0a1626);color:var(--txt);padding:22px;min-height:100vh}
+.wrap{max-width:1000px;margin:0 auto}
+header{text-align:center;position:relative}
+.live{position:absolute;right:0;top:4px;font-size:11px;color:var(--green);border:1px solid #1f5c3f;border-radius:20px;padding:3px 10px;background:#0e2a1f}
+.dot{display:inline-block;width:7px;height:7px;background:var(--green);border-radius:50%;margin-right:5px}
+h1{font-size:30px} h1 .o{color:var(--gold)} .sub{color:var(--mut);font-size:14px;margin-top:4px}
+.upd{color:var(--mut);font-size:12px;text-align:center;margin:8px 0 16px} #clk{color:var(--green)}
+.next{background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:12px;padding:12px 16px;text-align:center;margin-bottom:18px;font-size:14px}
+.next b{color:var(--gold)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:13px;margin-bottom:8px}
+.card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:14px;padding:16px;text-align:center}
+.card .lbl{color:var(--mut);font-size:11px;text-transform:uppercase} .card .val{font-size:28px;font-weight:700;margin-top:6px} .card .note{font-size:11px;color:var(--mut);margin-top:4px} .gold{color:var(--gold)}
+h2{font-size:17px;margin:26px 0 12px;border-left:4px solid var(--gold);padding-left:10px}
+.simrow{display:grid;grid-template-columns:1fr 1fr;gap:13px} @media(max-width:720px){.simrow{grid-template-columns:1fr}}
+.simcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.simcard h3{font-size:14px;margin-bottom:8px;color:var(--gold)} .simcard .big{font-size:26px;font-weight:700} .simcard .sm{font-size:12px;color:var(--mut);margin-top:4px}
+.news{background:linear-gradient(180deg,#10233f,#0e2038);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:20px}
+.news-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:6px}
+.news-title{font-weight:700;font-size:14px;color:var(--gold)} .news-upd{font-size:11px;color:var(--mut)}
+.ni{padding:9px 0;border-top:1px solid var(--line);font-size:13px;display:flex;gap:12px;align-items:flex-start} .ni:first-child{border-top:none}
+.ni .h{color:var(--green);font-weight:700;min-width:42px}
+.tag{font-size:9px;font-weight:700;padding:2px 7px;border-radius:20px;flex-shrink:0;text-transform:uppercase;margin-top:1px}
+.t-analise{background:#332810;color:var(--gold)} .t-lance{background:#0e2a1f;color:var(--green)} .t-previsao{background:#12243f;color:#7fb0e6}
+.lines{display:grid;grid-template-columns:repeat(3,1fr);gap:13px} @media(max-width:720px){.lines{grid-template-columns:1fr}}
+.lcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px} .lcard h3{font-size:14px;margin-bottom:8px} .lcard .big{font-size:22px;font-weight:700;margin:4px 0} .ltag{font-size:12px;color:var(--mut)}
+.resp{background:#1a1208;border:1px solid #3a2c10;border-radius:10px;padding:12px;margin-top:18px;color:#d9c08a;font-size:12px;text-align:center}
+footer{margin-top:24px;text-align:center;color:var(--mut);font-size:12px;line-height:1.7}
+.pos{color:var(--green)} .neg{color:var(--red)}
+</style></head><body><div class="wrap">
+<header><div class="live"><span class="dot"></span>AO VIVO</div>
+<h1><span class="o">&#9670;</span> ORACULO ESTATISTICO</h1>
+<div class="sub">Tips de futebol baseadas em ciencia de dados - Mercado 1/X/2</div></header>
+<div class="upd">Piloto Copa do Mundo 2026 - <span id="clk">--:--:--</span> - Modelo independente em modo sombra</div>
+<div class="next" id="nextBox">Proximo jogo: <b id="nextJogo">-</b> as <b id="nextHora">-</b></div>
+<div class="grid">
+<div class="card"><div class="lbl">Tips publicados</div><div class="val gold" id="mTips">0</div><div class="note">so com Edge >= +4pp</div></div>
+<div class="card"><div class="lbl">Taxa de acerto</div><div class="val" id="mHit">-</div><div class="note">resultado 1/X/2</div></div>
+<div class="card"><div class="lbl">ROI acumulado</div><div class="val" id="mRoi">-</div><div class="note">tips disciplinados</div></div>
+<div class="card"><div class="lbl">CLV medio</div><div class="val" id="mClv">-</div><div class="note">odd pega vs fechamento</div></div>
+<div class="card"><div class="lbl">Pontos bolao</div><div class="val" id="mBolao">0</div><div class="note">Prodefy acumulado</div></div>
+</div>
+<h2>Simulacao financeira (aposta de R$100 por jogo)</h2>
+<div class="simrow">
+<div class="simcard"><h3>Disciplinado (so com Edge)</h3><div class="big" id="simDisc">R$ 0</div><div class="sm" id="simDiscSm">apostado: R$ 0 - ROI: -</div></div>
+<div class="simcard"><h3>Jogo Louco (todo edge)</h3><div class="big" id="simLouco">R$ 0</div><div class="sm" id="simLoucoSm">apostado: R$ 0 - ROI: -</div></div>
+</div>
+<h2>Central de Atualizacoes ao Vivo</h2>
+<div class="news"><div class="news-head"><span class="news-title">Acompanhamento ao vivo</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
+<div id="newsList"><div class="ni"><span class="h">--:--</span><span class="tag t-previsao">Previsao</span><span>Carregando...</span></div></div></div>
+<h2>As tres linhas do modelo</h2>
+<div class="lines">
+<div class="lcard"><h3>Bolao (vitrine)</h3><div class="big" id="lBolao">-</div><div class="ltag">Prova publica em bolao real</div></div>
+<div class="lcard"><h3>Disciplinado (produto)</h3><div class="big" id="lDisc">-</div><div class="ltag">So publica com Edge >= +4pp</div></div>
+<div class="lcard"><h3>Jogo Louco (lab)</h3><div class="big" id="lLouco">-</div><div class="ltag">Diagnostico: o edge e real?</div></div>
+</div>
+<div class="resp">Conteudo de analise estatistica, nao recomendacao financeira. Apostas envolvem risco - aposte apenas o que pode perder. +18. Jogo responsavel.</div>
+<footer>Oraculo Estatistico - Modelo Dixon-Coles + fatores da Copa - Track record auditavel e transparente.</footer>
 </div>
 <script>
+function $(i){return document.getElementById(i);}
 try{
-  function tk(){var e=document.getElementById("clk");if(e)e.textContent=new Date().toLocaleTimeString("pt-BR");}
-  tk();setInterval(tk,1000);
-  function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"]};return m[t]||["t-lance","Ao vivo"];}
-  function ln(){fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
-    var h=d.map(function(n){var b=bd(n.tipo);return '<div class="ni"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}).join("");
-    var el=document.getElementById("newsList");if(el&&h)el.innerHTML=h;
-    var u=document.getElementById("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");}).catch(function(){});}
-  ln();setInterval(ln,30000);
+function tk(){var e=$("clk");if(e)e.textContent=new Date().toLocaleTimeString("pt-BR");} tk();setInterval(tk,1000);
+function money(v){var s=(v>0?"+":"")+"R$ "+v;return s;}
+function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r.json();}).then(function(s){
+  $("mTips").textContent=s.tips; $("mHit").textContent=s.hit; $("mRoi").textContent=s.roi; $("mClv").textContent=s.clv; $("mBolao").textContent=s.bolao;
+  $("nextJogo").textContent=s.next.jogo; $("nextHora").textContent=s.next.hora;
+  $("lBolao").textContent=s.lines.bolao; $("lDisc").textContent=s.lines.disc; $("lLouco").textContent=s.lines.louco;
+  var d=s.sim100.disc, l=s.sim100.louco;
+  $("simDisc").textContent=money(d.pnl); $("simDisc").className="big "+(d.pnl>=0?"pos":"neg"); $("simDiscSm").textContent="apostado: R$ "+d.stake+" - ROI: "+d.roi;
+  $("simLouco").textContent=money(l.pnl); $("simLouco").className="big "+(l.pnl>=0?"pos":"neg"); $("simLoucoSm").textContent="apostado: R$ "+l.stake+" - ROI: "+l.roi;
+}).catch(function(){});}
+function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"]};return m[t]||["t-lance","Ao vivo"];}
+function loadNews(){fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
+  var h=d.map(function(n){var b=bd(n.tipo);return '<div class="ni"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}).join("");
+  var el=$("newsList");if(el&&h)el.innerHTML=h; var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
+}).catch(function(){});}
+loadStats();loadNews();setInterval(loadStats,30000);setInterval(loadNews,30000);
 }catch(e){}
 </script></body></html>

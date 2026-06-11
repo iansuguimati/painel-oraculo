@@ -1,0 +1,8 @@
+{
+  "updated": "11/06/2026",
+  "tips": 0, "hit": "-", "roi": "-", "clv": "-", "brier": "-",
+  "bolao": 0,
+  "sim100": { "disc": {"stake": 0, "pnl": 0, "roi": "-"}, "louco": {"stake": 0, "pnl": 0, "roi": "-"} },
+  "lines": {"bolao": "Mexico 1x0", "disc": "-", "louco": "-"},
+  "next": {"jogo": "Coreia do Sul x Rep. Tcheca", "hora": "23:00 (Brasilia)"}
+}
