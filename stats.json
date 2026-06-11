@@ -1,8 +1,9 @@
 {
-  "updated": "11/06/2026 20:04",
-  "tips": 0, "hit": "100% (1/1)", "roi": "-", "clv": "-", "brier": "0,187 (mkt 0,149)",
+  "updated": "11/06/2026",
+  "tips": 0, "hit": "100% (1/1)", "roi": "-", "clv": "-", "brier": "0,187",
   "bolao": 4,
   "sim100": { "disc": {"stake": 0, "pnl": 0, "roi": "-"}, "louco": {"stake": 100, "pnl": -100, "roi": "-100%"} },
   "lines": {"bolao": "Coreia 1x0", "disc": "-", "louco": "Tcheca"},
-  "next": {"jogo": "Coreia do Sul x Rep. Tcheca", "hora": "23:00 (Brasilia)"}
+  "next": {"jogo": "Coreia do Sul x Rep. Tcheca", "hora": "23:00 (Brasilia)"},
+  "analise": "COREIA DO SUL x REP. TCHECA - por que o palpite e Coreia 1x0. O modelo trata este jogo como uma moeda quase perfeita: Coreia 34,7% | Empate 29,6% | Tcheca 35,7%, com os dois lados dentro de ~1 ponto percentual - estatisticamente empatado, dentro do ruido do proprio modelo. Quando os numeros nao separam os times, entra o criterio de desempate por qualidade, e os tres pilares apontam para a Coreia: (1) HISTORICO - a Coreia venceu o ultimo confronto direto (2016, 2x1 em Praga); (2) ELENCO - a Coreia leva vantagem em jogadores de elite, com Son Heung-min (56 gols pela selecao), Kim Min-jae (zagueiro do Bayern) e Lee Kang-in (PSG), contra Schick (Leverkusen) e Soucek (West Ham); (3) RANKING FIFA - Coreia em 25o contra a Tcheca em 39o. Some-se a isso uma leve desvantagem de fadiga da Tcheca e o mando psicologico coreano na Concacaf, e o fiel da balanca pende para a Coreia. Total de gols esperado ~2,4 (jogo morno, defesas organizadas), o que sustenta um placar baixo tipo 1x0. NO PRODUTO (Disciplinado): NAO publicamos tip neste jogo - a vantagem sobre o mercado (Edge) ficou em apenas ~+2pp, abaixo do nosso corte de +4pp, entao a disciplina manda ficar de fora. NO LABORATORIO (Jogo Louco): a maior vantagem aparente apareceu na Tcheca (+2,2pp sobre a implicita do mercado), entao e nela que o experimento aposta - puramente para medir se esse tipo de leitura contraria se confirma ao longo da Copa."
 }
