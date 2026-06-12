@@ -1,47 +1,9 @@
 {
   "updated": "12/06/2026",
-  "tips": 0,
-  "hit": "50% (1/2)",
-  "roi": "-",
-  "clv": "-",
-  "brier": "0,465",
-  "bolao": 4,
-  "sim100": {
-    "disc": {
-      "stake": 0,
-      "pnl": 0,
-      "roi": "-"
-    },
-    "louco": {
-      "stake": 200,
-      "pnl": -200,
-      "roi": "-100%"
-    }
-  },
-  "lines": {
-    "bolao": "Canada 1x0",
-    "disc": "sem tip",
-    "louco": "Empate"
-  },
-  "next": {
-    "jogo": "Bosnia-Herzegovina x Canada",
-    "hora": "16:00 (Brasilia)"
-  },
-  "analise": "Mando real do Canada (BMO Field, Toronto) - a API lista a Bosnia como mandante, mas quem joga em casa e o Canada. FORMA: o Canada perdeu so 1 jogo desde set/2025 (bateu Pais de Gales, Venezuela e Uzbequistao), porem vive seca de gol - Jonathan David fez 1 gol de bola rolando em 10 jogos e Cyle Larin esta zerado em 14; o ultimo amistoso foi 1x1 com a Irlanda, com gol contra. Defesa solida, ataque travado. A Bosnia tem ranking FIFA 64 mas esta SUBAVALIADA: marcou 19 gols em 10 jogos nas eliminatorias, eliminou a Italia no playoff e empatou 1x1 com Italia, Pais de Gales e Austria - nao perde facil. Dzeko (40 anos, capitao, 73 gols pela selecao) fez 6 nas eliminatorias e segue decisivo. CONTEXTO COPA: sem altitude, junho ameno em Toronto; o unico atrito e a viagem e o fuso da Bosnia vindo da Europa. LEITURA: jogo de margem estreita, decidido pela organizacao e nao por goleada - dai o 1x0. Lambda do modelo: Canada 1,47 x Bosnia 0,82. PRODUTO: sem tip - modelo ancorado bate o mercado ponto a ponto (53,0/25,8/21,2; Under ja a -150), nenhuma divergencia chega a +4pp. LAB: o modelo sombra ve leve valor no empate (+270, ~+3pp).",
-  "analises": [
-    {
-      "jogo": "Bosnia-Herzegovina x Canada (12/06, 16:00, Grupo B)",
-      "bolao": "Canada 1x0 (EP 2,52)",
-      "disc": "sem tip (Edge < +4pp)",
-      "louco": "Empate (+270)",
-      "texto": "Mando real do Canada (BMO Field, Toronto) - a API lista a Bosnia como mandante, mas quem joga em casa e o Canada. FORMA: o Canada perdeu so 1 jogo desde set/2025 (bateu Pais de Gales, Venezuela e Uzbequistao), porem vive seca de gol - Jonathan David fez 1 gol de bola rolando em 10 jogos e Cyle Larin esta zerado em 14; o ultimo amistoso foi 1x1 com a Irlanda, com gol contra. Defesa solida, ataque travado. A Bosnia tem ranking FIFA 64 mas esta SUBAVALIADA: marcou 19 gols em 10 jogos nas eliminatorias, eliminou a Italia no playoff e empatou 1x1 com Italia, Pais de Gales e Austria - nao perde facil. Dzeko (40 anos, capitao, 73 gols pela selecao) fez 6 nas eliminatorias e segue decisivo. CONTEXTO COPA: sem altitude, junho ameno em Toronto; o unico atrito e a viagem e o fuso da Bosnia vindo da Europa. LEITURA: jogo de margem estreita, decidido pela organizacao e nao por goleada - dai o 1x0. Lambda do modelo: Canada 1,47 x Bosnia 0,82. PRODUTO: sem tip - modelo ancorado bate o mercado ponto a ponto (53,0/25,8/21,2; Under ja a -150), nenhuma divergencia chega a +4pp. LAB: o modelo sombra ve leve valor no empate (+270, ~+3pp)."
-    },
-    {
-      "jogo": "Paraguai x EUA (12/06, 22:00, Grupo D)",
-      "bolao": "EUA 1x0 (EP 2,39)",
-      "disc": "sem tip (Under ja caro)",
-      "louco": "X2 Paraguai (+245)",
-      "texto": "Mando real dos EUA (SoFi Stadium, Inglewood) - a API lista o Paraguai como mandante. FORMA: os EUA estao invictos em boa sequencia, criam chances e as vezes pecam na pontaria; o H2H e amplo a favor (5V-2E-2D em 9 jogos, venceram o ultimo 2x1 em amistoso no fim de 2025). O Paraguai e uma MURALHA sob Gustavo Alfaro: fez so 14 gols e sofreu 10 em 18 jogos nas eliminatorias da Conmebol (0,78 gol marcado por jogo, o menor ataque da competicao), comecou mal e cresceu no fim (6 vitorias nos ultimos 11). CONTEXTO COPA: SoFi com teto translucido, Los Angeles ameno e fuso curto para o Paraguai. LEITURA: jogo de bloco baixo - os EUA tem a bola, o Paraguai segura; o gol do anfitriao tende a sair de bola parada ou lance individual. Dai o 1x0 (EP 2,39), que captura a faixa de 4 pontos do Prodefy. Lambda do modelo: EUA 1,35 x Paraguai 0,85. PRODUTO: sem tip - modelo em linha com o mercado (48,6/27,5/24,0) e o Under ja esta caro a -165. LAB: maior valor aparente no X2/empate do Paraguai (+245), so como experimento."
-    }
-  ]
+  "tips": 0, "hit": "100% (2/2)", "roi": "-", "clv": "-", "brier": "0,414",
+  "bolao": 7,
+  "sim100": { "disc": {"stake": 0, "pnl": 0, "roi": "-"}, "louco": {"stake": 200, "pnl": -200, "roi": "-100%"} },
+  "lines": {"bolao": "Canada vence", "disc": "-", "louco": "a definir"},
+  "next": {"jogo": "Canada x Bosnia e Herzegovina", "hora": "16:00 (Brasilia)"},
+  "analise": "CANADA x BOSNIA E HERZEGOVINA (Grupo B, 12/06 as 16:00 Brasilia, BMO Field, Toronto) - leitura preliminar. O Canada joga em casa, com mando e empurrado pela torcida, e aparece bem acima da Bosnia no ranking FIFA, o que faz dos anfitrioes os favoritos naturais na estreia. A Bosnia depende muito do brilho individual (Dzeko) e tende a ceder espaco como visitante. Total de gols esperado moderado. Palpite inicial do bolao: vitoria do Canada por placar baixo/moderado. ATENCAO: as probabilidades exatas (1X2), o Edge sobre o mercado e a definicao das linhas do Disciplinado e do Jogo Louco serao calculadas no PRE-JOGO (15 min antes do apito), com escalacoes confirmadas e odds de fechamento - sem inventar numeros agora."
 }
