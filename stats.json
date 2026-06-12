@@ -27,5 +27,23 @@
     "jogo": "Bosnia-Herzegovina x Canada",
     "hora": "16:00 (Brasilia)"
   },
-  "analise": "BOSNIA-HERZEGOVINA x CANADA (Grupo B, sabado 16:00 Brasilia, Toronto) - leitura PRELIMINAR (modelo completo e escalacoes saem na janela pre-jogo). Canada joga em casa como co-anfitria e entra favorita: ranking FIFA ~30 contra a Bosnia em 64o, e o mercado aponta o 1x0 para o Canada como placar mais provavel. Trunfos do Canada: mando de campo em Toronto e Jonathan David (39 gols pela selecao, batedor de penalti) como referencia ofensiva. A Bosnia chega na 2a Copa da sua historia apos eliminar a Italia nos penaltis na repescagem e tem em Edin Dzeko (6 gols nas eliminatorias) o perigo principal. Palpite preliminar do bolao: Canada 1x0. No PRODUTO, a decisao Disciplinado/Louco fica para o pre-jogo, com xG, forma e escalacoes confirmadas para medir o Edge sobre o mercado."
+  "analise": "BOSNIA-HERZEGOVINA x CANADA (Grupo B, sabado 16:00 Brasilia, Toronto) - leitura PRELIMINAR (modelo completo e escalacoes saem na janela pre-jogo). Canada joga em casa como co-anfitria e entra favorita: ranking FIFA ~30 contra a Bosnia em 64o, e o mercado aponta o 1x0 para o Canada como placar mais provavel. Trunfos do Canada: mando de campo em Toronto e Jonathan David (39 gols pela selecao, batedor de penalti) como referencia ofensiva. A Bosnia chega na 2a Copa da sua historia apos eliminar a Italia nos penaltis na repescagem e tem em Edin Dzeko (6 gols nas eliminatorias) o perigo principal. Palpite preliminar do bolao: Canada 1x0. No PRODUTO, a decisao Disciplinado/Louco fica para o pre-jogo, com xG, forma e escalacoes confirmadas para medir o Edge sobre o mercado.",
+  "analises": [
+    {
+      "jogo": "Bosnia-Herzegovina x Canada",
+      "hora": "16:00",
+      "bolao": "Canada 1x0",
+      "disc": "-",
+      "louco": "Under 2,5",
+      "texto": "Canada favorita em casa (Toronto), invicta ha 8 jogos com 6 sem sofrer gol; Jonathan David (39 gols) e a referencia ofensiva. Bosnia na 2a Copa da historia e com ataque fraco (Dzeko, 40 anos; 1 gol em 2 amistosos). Mercado: Canada -125 e Under 2,5 favorito. Com o fator cautela de estreia (1a rodada e mais travada) + defesa canadense solida, palpite do bolao Canada 1x0 (alternativa de maior EP: 2x0). Disciplinado fica de fora (edge ~+2pp, abaixo do corte +4pp). Lab aposta Under 2,5, onde mais divergimos do mercado."
+    },
+    {
+      "jogo": "Paraguai x EUA",
+      "hora": "22:00",
+      "bolao": "EUA 1x0",
+      "disc": "Empate (X) a observar",
+      "louco": "Empate (X)",
+      "texto": "Jogo de moeda. EUA joga em casa, mas em ma fase (3 derrotas nos ultimos 4). Paraguai chega melhor (invicto ha 8, com vitorias sobre Brasil, Argentina e Uruguai) e solido na defesa, mas PERDE o craque Enciso (lesao). Mercado: EUA -105, empate +245, Paraguai +295, Under 2,5 forte. Palpite do bolao EUA 1x0, com o empate 1x1 muito vivo. Disciplinado: o Empate (X) a +245 e o ponto de valor, publica se o modelo cravar P(empate) maior ou igual a 32% (a observar). Lab aposta Empate (X)."
+    }
+  ]
 }

@@ -53,13 +53,9 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 <div class="next" id="nextBox"><span class="t">Proximo jogo</span><b id="nextJogo">-</b> &nbsp;as&nbsp; <b id="nextHora">-</b></div>
 
 
-<h2>Nosso palpite (proximo jogo)</h2>
-<div class="h2note">O que o modelo recomenda para a proxima partida.</div>
-<div class="picks">
-  <div class="pick main"><div class="pl">Bolao - placar</div><div class="pv" id="pBolao">-</div></div>
-  <div class="pick"><div class="pl">Tip do produto</div><div class="pv" id="pDisc">-</div></div>
-  <div class="pick"><div class="pl">Jogo Louco (lab)</div><div class="pv" id="pLouco">-</div></div>
-</div>
+<h2>Nossos palpites (jogos de hoje)</h2>
+<div class="h2note">O que o modelo recomenda para cada jogo de hoje.</div>
+<div id="palpitesDia"><div class="h2note">Carregando...</div></div>
 
 <h2>Central de Atualizacoes ao Vivo</h2>
 <div class="news"><div class="news-head"><span class="news-title">Acompanhamento ao vivo</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
@@ -91,7 +87,7 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 
 
 
-<h2>Analise fundamentada</h2>
+<h2>Analise fundamentada (jogos de hoje)</h2>
 <div class="h2note">Por que o palpite e o que e, com base nos dados.</div>
 <div class="analise" id="analiseBox">Carregando analise...</div>
 
@@ -113,7 +109,7 @@ function money(v){return (v>0?"+":"")+"R$ "+v;}
 function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r.json();}).then(function(s){
   $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;$("mRoi").textContent=s.roi;
   $("nextJogo").textContent=s.next.jogo;$("nextHora").textContent=s.next.hora;
-  $("pBolao").textContent=s.lines.bolao;$("pDisc").textContent=(s.lines.disc==="-"?"sem tip (sem edge)":s.lines.disc);$("pLouco").textContent=s.lines.louco;
+  if(s.analises&&s.analises.length){$("palpitesDia").innerHTML=s.analises.map(function(a){var dc=(!a.disc||a.disc==="-")?"sem tip (sem edge)":a.disc;return '<div style="margin-bottom:14px"><div style="font-size:13px;font-weight:700;color:var(--gold);margin:0 0 6px 2px">'+(a.hora?a.hora+" - ":"")+a.jogo+'</div><div class="picks"><div class="pick main"><div class="pl">Bolao</div><div class="pv">'+a.bolao+'</div></div><div class="pick"><div class="pl">Disciplinado</div><div class="pv" style="font-size:15px">'+dc+'</div></div><div class="pick"><div class="pl">Jogo Louco</div><div class="pv" style="font-size:15px">'+a.louco+'</div></div></div></div>';}).join("");}
   if(s.analises&&s.analises.length){$("analiseBox").innerHTML=s.analises.map(function(a){return '<div class="acard"><h4>'+a.jogo+'</h4><div class="meta">Bolao: '+a.bolao+'  |  Produto: '+a.disc+'  |  Lab: '+a.louco+'</div><div class="body">'+a.texto+'</div></div>';}).join("");}
   else if(s.analise)$("analiseBox").textContent=s.analise;
   if(s.telegram)$("ctaBtn").href=s.telegram;
