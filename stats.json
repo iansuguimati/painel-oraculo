@@ -1,9 +1,31 @@
 {
   "updated": "12/06/2026",
-  "tips": 0, "hit": "100% (2/2)", "roi": "-", "clv": "-", "brier": "0,414",
+  "tips": 0,
+  "hit": "100% (2/2)",
+  "roi": "-",
+  "clv": "-",
+  "brier": "0,414",
   "bolao": 7,
-  "sim100": { "disc": {"stake": 0, "pnl": 0, "roi": "-"}, "louco": {"stake": 200, "pnl": -200, "roi": "-100%"} },
-  "lines": {"bolao": "Canada 1x0", "disc": "-", "louco": "-"},
-  "next": {"jogo": "Bosnia-Herzegovina x Canada", "hora": "16:00 (Brasilia)"},
+  "sim100": {
+    "disc": {
+      "stake": 0,
+      "pnl": 0,
+      "roi": "-"
+    },
+    "louco": {
+      "stake": 200,
+      "pnl": -200,
+      "roi": "-100%"
+    }
+  },
+  "lines": {
+    "bolao": "Canada 1x0",
+    "disc": "-",
+    "louco": "Under 2,5"
+  },
+  "next": {
+    "jogo": "Bosnia-Herzegovina x Canada",
+    "hora": "16:00 (Brasilia)"
+  },
   "analise": "BOSNIA-HERZEGOVINA x CANADA (Grupo B, sabado 16:00 Brasilia, Toronto) - leitura PRELIMINAR (modelo completo e escalacoes saem na janela pre-jogo). Canada joga em casa como co-anfitria e entra favorita: ranking FIFA ~30 contra a Bosnia em 64o, e o mercado aponta o 1x0 para o Canada como placar mais provavel. Trunfos do Canada: mando de campo em Toronto e Jonathan David (39 gols pela selecao, batedor de penalti) como referencia ofensiva. A Bosnia chega na 2a Copa da sua historia apos eliminar a Italia nos penaltis na repescagem e tem em Edin Dzeko (6 gols nas eliminatorias) o perigo principal. Palpite preliminar do bolao: Canada 1x0. No PRODUTO, a decisao Disciplinado/Louco fica para o pre-jogo, com xG, forma e escalacoes confirmadas para medir o Edge sobre o mercado."
 }
