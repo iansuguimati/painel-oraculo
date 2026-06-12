@@ -65,6 +65,11 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 <div class="news"><div class="news-head"><span class="news-title">Acompanhamento ao vivo</span><span class="news-upd" id="newsUpd">atualiza sozinho</span></div>
 <div id="newsList"><div class="ni"><span class="h">--:--</span><span class="tag t-previsao">Previsao</span><span>Carregando...</span></div></div></div>
 
+<h2>Agenda - proximos jogos</h2>
+<div class="h2note">A transmissao ao vivo de cada jogo comeca sozinha 10 min antes do apito inicial (com as escalacoes) e so encerra apos o fim oficial - cobre prorrogacao e penaltis.</div>
+<div class="news"><div class="news-head"><span class="news-title">Calendario Copa 2026</span><span class="news-upd">horario de Brasilia</span></div>
+<div id="agendaList"><div class="ni"><span>Carregando agenda...</span></div></div></div>
+
 <h2>1. O Produto (Disciplinado)</h2>
 <div class="h2note">A vitrine de venda: o track record auditavel dos tips publicados.</div>
 <div class="block prod">
@@ -118,6 +123,11 @@ function loadNews(){fetch("noticias.json?t="+Date.now()).then(function(r){return
   var h=d.map(function(n){var b=bd(n.tipo);return '<div class="ni"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}).join("");
   var el=$("newsList");if(el&&h)el.innerHTML=h;var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
 }).catch(function(){});}
-loadStats();loadNews();setInterval(loadStats,30000);setInterval(loadNews,30000);
+function loadAgenda(){fetch("agenda.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
+  var h=d.map(function(g){var tg=(g.palpite&&g.palpite!=="-")?'<span class="tag t-previsao">'+g.palpite+'</span>':'<span class="tag t-lance">agendado</span>';
+  return '<div class="ni"><span class="h">'+g.data+' '+g.hora+'</span>'+tg+'<span>'+g.jogo+(g.grupo&&g.grupo!=="-"?' (Grupo '+g.grupo+')':'')+'</span></div>';}).join("");
+  var el=$("agendaList");if(el&&h)el.innerHTML=h;
+}).catch(function(){});}
+loadStats();loadNews();loadAgenda();setInterval(loadStats,30000);setInterval(loadNews,30000);setInterval(loadAgenda,300000);
 }catch(e){}
 </script></body></html>
