@@ -128,10 +128,11 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 </div>
 <script>
 function $(i){return document.getElementById(i);}
+function getJSON(f){var t=Date.now();return fetch("https://raw.githubusercontent.com/iansuguimati/painel-oraculo/main/"+f+"?t="+t,{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json();}).catch(function(){return fetch(f+"?t="+t,{cache:"no-store"}).then(function(r){return r.json();});});}
 try{
 function tk(){var e=$("clk");if(e)e.textContent=new Date().toLocaleTimeString("pt-BR");} tk();setInterval(tk,1000);
 function money(v){return (v>0?"+":"")+"R$ "+v;}
-function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r.json();}).then(function(s){
+function loadStats(){getJSON("stats.json").then(function(s){
   $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;$("mRoi").textContent=s.roi;
   $("nextJogo").textContent=s.next.jogo;$("nextHora").textContent=s.next.hora;
   if(s.analises&&s.analises.length){$("palpitesDia").innerHTML=s.analises.map(function(a){var dc=(!a.disc||a.disc==="-")?"sem tip (sem edge)":a.disc;return '<div style="margin-bottom:16px"><div style="font-size:13px;font-weight:700;color:var(--gold);margin:0 0 8px 2px">'+(a.hora?a.hora+" - ":"")+a.jogo+'</div><div style="font-size:12px;color:var(--mut);margin:0 0 8px 2px">Forca de elenco (talento individual): <b style="color:var(--gold)">'+(a.elenco||"-")+'</b></div><div class="picks"><div class="pick main"><div class="pl">Bolao</div><div class="pv" style="font-size:16px">'+a.bolao+'</div></div><div class="pick"><div class="pl">Disciplinado</div><div class="pv" style="font-size:14px">'+dc+'</div></div><div class="pick"><div class="pl">Jogo Louco</div><div class="pv" style="font-size:14px">'+a.louco+'</div></div><div class="pick"><div class="pl">Favorito Modelo</div><div class="pv" style="font-size:15px;color:var(--green)">'+(a.fav||"-")+'</div><div style="font-size:10px;color:var(--mut);margin-top:2px">@ '+(a.fav_odd||"-")+'</div></div><div class="pick"><div class="pl">Favorito Mercado</div><div class="pv" style="font-size:15px;color:#7fb0e6">'+(a.fav_mkt||"-")+'</div><div style="font-size:10px;color:var(--mut);margin-top:2px">@ '+(a.fav_mkt_odd||"-")+'</div></div></div></div>';}).join("");}
@@ -147,16 +148,16 @@ function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r
   if(s.odds_fech&&s.odds_fech.jogo){var of=s.odds_fech,ofb=$("oddsFechBox");if(ofb){ofb.style.display="block";ofb.innerHTML='<div class="oddsfech"><span class="oddsfech-t">Odds de fechamento (no apito):</span> <b>'+of.jogo+'</b> &nbsp; 1 <b>'+(of.o1||"-")+'</b> | X <b>'+(of.ox||"-")+'</b> | 2 <b>'+(of.o2||"-")+'</b>'+(of.under?' | U2,5 <b>'+of.under+'</b>':'')+' <span class="oddsfech-n">(base do CLV)</span></div>';}}else{var ofb0=$("oddsFechBox");if(ofb0)ofb0.style.display="none";}
 }).catch(function(){});}
 function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"],alerta:["t-alerta","ALERTA"],odds:["t-odds","Odds"]};return m[t]||["t-lance","Ao vivo"];}
-function loadNews(){fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
+function loadNews(){getJSON("noticias.json").then(function(d){
   var h=d.map(function(n){var b=bd(n.tipo);return '<div class="ni"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}).join("");
   var el=$("newsList");if(el&&h)el.innerHTML=h;var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
 }).catch(function(){});}
-function loadAgenda(){fetch("agenda.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
+function loadAgenda(){getJSON("agenda.json").then(function(d){
   var h=d.map(function(g){var tg=(g.palpite&&g.palpite!=="-")?'<span class="tag t-previsao">'+g.palpite+'</span>':'<span class="tag t-lance">agendado</span>';
   return '<div class="ni"><span class="h">'+g.data+' '+g.hora+'</span>'+tg+'<span>'+g.jogo+(g.grupo&&g.grupo!=="-"?' (Grupo '+g.grupo+')':'')+'</span></div>';}).join("");
   var el=$("agendaList");if(el&&h)el.innerHTML=h;
 }).catch(function(){});}
-function loadCharts(){if(!window.Chart)return;fetch("historico.json?t="+Date.now()).then(function(r){return r.json();}).then(function(H){
+function loadCharts(){if(!window.Chart)return;getJSON("historico.json").then(function(H){
   var labels=H.map(function(g){return g.jogo;});
   function cum(k){var t=0;return H.map(function(g){t+=g[k];return t;});}
   var gc="rgba(255,255,255,.07)",tc="#9fb3c8";
