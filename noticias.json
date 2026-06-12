@@ -1,52 +1,7 @@
 [
-  {
-    "tipo": "analise",
-    "hora": "14:19",
-    "texto": "FORMA - Bosnia x Canada (16:00, BMO Field, Toronto): numeros recentes dos dois lados. CANADA (mandante, FIFA ~30a): invicta ha 8 jogos e com 6 jogos sem sofrer gol nos ultimos 8 - defesa em alta. Ataque comandado por Jonathan David (39 gols pela selecao, batedor de penalti). Entra embalada e jogando em casa como co-anfitria. BOSNIA (FIFA 64a, apenas a 2a Copa da sua historia): chegou via repescagem eliminando a Italia nos penaltis (sinal de competitividade), mas o ataque preocupa - Edin Dzeko, a referencia, esta com 40 anos e marcou so 1 gol nos 2 ultimos amistosos. Leitura: defesa canadense em alta + ataque bosnio em baixa reforcam o cenario de poucos gols (lambda Canada ~1,45 / Bosnia ~0,75, total esperado ~2,2 gols). Palpites seguem: Bolao = Canada 1x0; Disciplinado = FORA; Lab = Under 2,5."
-  },
-  {
-    "tipo": "analise",
-    "hora": "14:05",
-    "texto": "ESQUENTA - Bosnia x Canada (16:00, BMO Field, Toronto): comeca em ~2h a estreia do Grupo B. Canada joga em casa como co-anfitria e entra favorita (FIFA ~30 vs Bosnia 64a); a Bosnia disputa apenas a 2a Copa da sua historia. NOSSOS 3 PALPITES: Bolao = Canada 1x0. Disciplinado = FORA (sem tip: o edge no Canada passa, +4pp, mas no preco o EV fica abaixo do corte de +3%). Jogo Louco (lab) = Under 2,5. TESE em 2 linhas: defesa canadense solida (6 jogos sem sofrer gol nos ultimos 8) somada a um ataque fraco da Bosnia (Dzeko, 40 anos, 1 gol em 2 amistosos) num jogo travado de estreia aponta para poucos gols; o maior valor da rodada esta no Under 2,5 (modelo ~62% vs mercado ~56%, +6pp). ODDS AGORA (DraftKings): Canada -120, Empate +250, Bosnia +380; total 2,5 gols. De-vig: Canada 53% | Empate 25,8% | Bosnia 21,2%."
-  },
-  {
-    "tipo": "analise",
-    "hora": "13:55",
-    "texto": "RESUMO DA ANALISE FUNDAMENTADA - Paraguai x EUA (22:00): jogo de moeda. EUA em casa mas em ma fase (3 derrotas em 4); Paraguai invicto ha 8 (bateu Brasil, Argentina e Uruguai) e solido atras, mas SEM Enciso. De-vig: EUA 48,5% | X 27,5% | PAR 24%. Modelo ve o EUA superavaliado e o Paraguai subavaliado (+4pp, EV +10,6% a +295). Bolao: EUA 1x0 (mais provavel). Disciplinado: Paraguai a observar (candidato a 1a tip). Lab: Paraguai."
-  },
-  {
-    "tipo": "analise",
-    "hora": "13:14",
-    "texto": "RESUMO DA ANALISE FUNDAMENTADA - Bosnia x Canada (16:00, Toronto): Canada favorita em casa, invicta ha 8 jogos (6 sem sofrer gol), com Jonathan David (39 gols) na frente. Bosnia na 2a Copa da historia e com ataque fraco (Dzeko, 40 anos; 1 gol em 2 amistosos). Mercado: Canada -125 e Under 2,5 favorito. Aplicando o fator cautela de estreia (1a rodada e mais travada) + defesa canadense solida, palpite do bolao: CANADA 1x0 (alternativa de maior EP: 2x0). Disciplinado fica de fora - edge ~+2pp, abaixo do corte de +4pp."
-  },
-  {
-    "tipo": "lance",
-    "hora": "00:52",
-    "texto": "FIM: Coreia do Sul 2 x 1 Rep. Tcheca. Krejci abriu para a Tcheca (59'), Hwang In-beom empatou (67') e o reserva Oh Hyeon-gyu virou (80'). Coreia vence de virada."
-  },
-  {
-    "tipo": "analise",
-    "hora": "00:52",
-    "texto": "FECHAMENTO Coreia 2x1 Tcheca: o palpite Coreia 1x0 acertou o VENCEDOR, mas nao o placar (a Tcheca marcou) - pela regra Prodefy vale 3 PONTOS (so o vencedor). O modelo tratava o jogo como moeda e cravou o lado certo no desempate por qualidade. Bolao acumulado: 7 pts (4 Mexico + 3 Coreia), aproveitamento 2/2 nos vencedores. LABORATORIO (Jogo Louco) apostou na Tcheca e perdeu: -R$100 (acumulado -R$200, ROI -100%). DISCIPLINADO ficou fora (Edge +2pp < corte +4pp) - decisao correta, sem exposicao num jogo de moeda."
-  },
-  {
-    "tipo": "previsao",
-    "hora": "00:55",
-    "texto": "PROXIMO: Bosnia-Herzegovina x Canada, sabado 12/06 as 16:00 (Brasilia), em Toronto. Leitura preliminar: Canada favorita em casa (FIFA ~30 vs Bosnia 64); mercado aponta 1x0 Canada como placar mais provavel. Palpite preliminar do bolao: Canada 1x0. Modelo completo e escalacoes na janela pre-jogo."
-  },
-  {
-    "tipo": "lance",
-    "hora": "22:45",
-    "texto": "PRE-JOGO Coreia x Tcheca: escalacoes confirmadas. COREIA (Hong Myung-bo): Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk; Seol Young-woo, Hwang In-beom, Paik Seung-ho, Lee Tae-seok; Lee Kang-in, Lee Jae-sung; Son Heung-min (c). TCHECA (Koubek): Kovar; Chaloupek, Hranac, Krejci; Coufal, Soucek (c), Sojka, Zeleny; Sulc, Provod; Schick."
-  },
-  {
-    "tipo": "analise",
-    "hora": "20:04",
-    "texto": "FIM DE JOGO: Mexico 2x0! O palpite 1x0 nao cravou o placar exato, mas pela regra completa do Prodefy vale 4 PONTOS (vencedor certo + Africa do Sul no zero). E o Under 2,5 BATEU (2 gols). Defesa elite do Mexico confirmada: 0 gol sofrido, exatamente como o modelo projetou."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:04",
-    "texto": "FIM: Mexico 2 x 0 Africa do Sul. Gols de Quinones e Raul Jimenez. 3 cartoes vermelhos no jogo."
-  }
+  {"tipo":"resultado","hora":"01:55","texto":"FIM: Coreia do Sul 2x1 Rep. Tcheca. A Tcheca abriu com Krejci (cabeca), mas Hwang In-beom empatou e Oh Hyeon-gyu virou a 11 min do fim. Palpite do bolao Coreia 1x0 = 3 PONTOS no Prodefy (vencedor certo). Over 2,5 bateu (3 gols). Jogo Louco (Tcheca) perdeu -R$100."},
+  {"tipo":"resumo","hora":"02:00","texto":"BALANCO RODADA 1: Mexico 2x0 RSA (4 pts) + Coreia 2x1 Tcheca (3 pts) = 7 pontos Prodefy. Resultado 1/X/2 em 100% (2/2). Disciplinado seguiu sem tip nos dois (Edge abaixo de +4pp). Brier do modelo 0,414 vs 0,388 do mercado (amostra n=2)."},
+  {"tipo":"previsao","hora":"07:30","texto":"Proximo jogo: Bosnia-Herzegovina x Canada as 16:00 - palpite Canada 1x0"},
+  {"tipo":"analise","hora":"07:30","texto":"Dois jogos hoje (12/06): Canada x Bosnia (16:00, BMO Field) e EUA x Paraguai (22:00, SoFi). Nos dois o mando real e do time da Concacaf e o modelo crava 1x0 (defesas solidas, ataques travados). Produto sem tip - mercado ja precificado; nenhuma divergencia chega a +4pp."},
+  {"tipo":"agenda","hora":"07:30","texto":"Motor ao vivo agendado para hoje das 15:45 ate ~01:00 (cobre os dois jogos, prorrogacao e fechamento). Comeca pelas escalacoes 15 min antes de cada apito."}
 ]
