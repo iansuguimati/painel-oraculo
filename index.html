@@ -96,6 +96,14 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
   <div class="def"><b>O que e:</b> mede a forca da nossa leitura de vencedor. Aposta 100 reais no resultado de maior probabilidade do modelo (1, X ou 2) em cada jogo, na odd do mercado. Diferente do Disciplinado (so com edge comprovado) e do Jogo Louco (maior edge), aqui o unico criterio e a nossa convicao no vencedor.</div>
 </div>
 
+<h2>4. Favorito do Mercado</h2>
+<div class="h2note">Simulacao: aposta 100 reais sempre no favorito do mercado (o time de MENOR odd), em todo jogo.</div>
+<div class="block">
+  <div class="blockTitle gold">Sempre no favorito das casas</div><div class="blockSub">benchmark: seguir o mercado ou o nosso modelo?</div>
+  <div class="pnl"><span class="big" id="simFavMkt">R$ 0</span><span class="sm" id="simFavMktSm">apostado: R$ 0 - ROI: -</span></div>
+  <div class="def"><b>O que e:</b> aposta 100 reais no resultado de menor odd (favorito do mercado) em cada jogo. Comparado ao Favorito do Modelo, mostra se a nossa leitura agrega valor sobre simplesmente seguir as casas. Em jogo de moeda os dois divergem.</div>
+</div>
+
 <h2>Graficos de desempenho</h2>
 <div class="h2note">Os numeros crescem a cada jogo - com a Copa avancando a amostra fica robusta.</div>
 <div class="chartcard"><div class="charttitle">Lucro acumulado das 3 simulacoes (100 reais por jogo)</div><canvas id="cLucro" height="170"></canvas></div>
@@ -124,7 +132,7 @@ function money(v){return (v>0?"+":"")+"R$ "+v;}
 function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r.json();}).then(function(s){
   $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;$("mRoi").textContent=s.roi;
   $("nextJogo").textContent=s.next.jogo;$("nextHora").textContent=s.next.hora;
-  if(s.analises&&s.analises.length){$("palpitesDia").innerHTML=s.analises.map(function(a){var dc=(!a.disc||a.disc==="-")?"sem tip (sem edge)":a.disc;return '<div style="margin-bottom:14px"><div style="font-size:13px;font-weight:700;color:var(--gold);margin:0 0 6px 2px">'+(a.hora?a.hora+" - ":"")+a.jogo+'</div><div style="font-size:12px;color:var(--mut);margin:0 0 8px 2px">Vencedor previsto: <b style="color:var(--green)">'+(a.fav||"-")+'</b> @ odd <b style="color:var(--gold)">'+(a.fav_odd||"-")+'</b> (aposta do Favorito do Modelo)</div><div class="picks"><div class="pick main"><div class="pl">Bolao</div><div class="pv">'+a.bolao+'</div></div><div class="pick"><div class="pl">Disciplinado</div><div class="pv" style="font-size:15px">'+dc+'</div></div><div class="pick"><div class="pl">Jogo Louco</div><div class="pv" style="font-size:15px">'+a.louco+'</div></div></div></div>';}).join("");}
+  if(s.analises&&s.analises.length){$("palpitesDia").innerHTML=s.analises.map(function(a){var dc=(!a.disc||a.disc==="-")?"sem tip (sem edge)":a.disc;return '<div style="margin-bottom:14px"><div style="font-size:13px;font-weight:700;color:var(--gold);margin:0 0 6px 2px">'+(a.hora?a.hora+" - ":"")+a.jogo+'</div><div style="font-size:12px;color:var(--mut);margin:0 0 8px 2px">Vencedor previsto: <b style="color:var(--green)">'+(a.fav||"-")+'</b> @ odd <b style="color:var(--gold)">'+(a.fav_odd||"-")+'</b> (Favorito do Modelo)</div><div style="font-size:12px;color:var(--mut);margin:0 0 8px 2px">Favorito do mercado (menor odd): <b style="color:#7fb0e6">'+(a.fav_mkt||"-")+'</b> @ odd <b style="color:var(--gold)">'+(a.fav_mkt_odd||"-")+'</b></div><div class="picks"><div class="pick main"><div class="pl">Bolao</div><div class="pv">'+a.bolao+'</div></div><div class="pick"><div class="pl">Disciplinado</div><div class="pv" style="font-size:15px">'+dc+'</div></div><div class="pick"><div class="pl">Jogo Louco</div><div class="pv" style="font-size:15px">'+a.louco+'</div></div></div></div>';}).join("");}
   if(s.analises&&s.analises.length){$("analiseBox").innerHTML=s.analises.map(function(a){return '<div class="acard"><h4>'+a.jogo+'</h4><div class="meta">Bolao: '+a.bolao+'  |  Produto: '+a.disc+'  |  Lab: '+a.louco+'</div><div class="body">'+a.texto+'</div></div>';}).join("");}
   else if(s.analise)$("analiseBox").textContent=s.analise;
   if(s.telegram)$("ctaBtn").href=s.telegram;
@@ -132,6 +140,7 @@ function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r
   $("simDisc").textContent=money(d.pnl);$("simDisc").className="big "+(d.pnl>=0?"pos":"neg");$("simDiscSm").textContent="apostado: R$ "+d.stake+" | de volta: R$ "+(d.stake+d.pnl)+" | lucro: R$ "+d.pnl+" | ROI: "+d.roi;
   $("simLouco").textContent=money(l.pnl);$("simLouco").className="big "+(l.pnl>=0?"pos":"neg");$("simLoucoSm").textContent="apostado: R$ "+l.stake+" | de volta: R$ "+(l.stake+l.pnl)+" | lucro: R$ "+l.pnl+" | ROI: "+l.roi;
   if(s.sim100.fav){var fv=s.sim100.fav;$("simFav").textContent=money(fv.pnl);$("simFav").className="big "+(fv.pnl>=0?"pos":"neg");$("simFavSm").textContent="apostado: R$ "+fv.stake+" | de volta: R$ "+(fv.stake+fv.pnl)+" | lucro: R$ "+fv.pnl+" | ROI: "+fv.roi;}
+  if(s.sim100.favmkt){var fm=s.sim100.favmkt;$("simFavMkt").textContent=money(fm.pnl);$("simFavMkt").className="big "+(fm.pnl>=0?"pos":"neg");$("simFavMktSm").textContent="apostado: R$ "+fm.stake+" | de volta: R$ "+(fm.stake+fm.pnl)+" | lucro: R$ "+fm.pnl+" | ROI: "+fm.roi;}
 }).catch(function(){});}
 function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"]};return m[t]||["t-lance","Ao vivo"];}
 function loadNews(){fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
@@ -151,7 +160,7 @@ function loadCharts(){if(!window.Chart)return;fetch("historico.json?t="+Date.now
   new Chart(document.getElementById("cLucro"),{type:"line",data:{labels:labels,datasets:[
     {label:"Favorito do Modelo",data:cum("fav"),borderColor:"#3fb98a",backgroundColor:"#3fb98a",tension:.2},
     {label:"Disciplinado",data:cum("disc"),borderColor:"#C8A24B",backgroundColor:"#C8A24B",tension:.2},
-    {label:"Jogo Louco",data:cum("louco"),borderColor:"#e06464",backgroundColor:"#e06464",tension:.2}]},options:base});
+    {label:"Jogo Louco",data:cum("louco"),borderColor:"#e06464",backgroundColor:"#e06464",tension:.2},{label:"Favorito do Mercado",data:cum("favmkt"),borderColor:"#7fb0e6",backgroundColor:"#7fb0e6",tension:.2}]},options:base});
   var vp=[],pp=[],sv=0,sp=0;H.forEach(function(g,i){sv+=g.venc;sp+=g.placar;vp.push(Math.round(sv/(i+1)*100));pp.push(Math.round(sp/(i+1)*100));});
   var o2=JSON.parse(JSON.stringify(base));o2.scales.y.min=0;o2.scales.y.max=100;
   new Chart(document.getElementById("cAcerto"),{type:"line",data:{labels:labels,datasets:[

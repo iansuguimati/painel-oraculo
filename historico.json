@@ -9,7 +9,8 @@
     "brier_k": 0.161,
     "fav": 40,
     "disc": 0,
-    "louco": -100
+    "louco": -100,
+    "favmkt": 40
   },
   {
     "data": "11/06",
@@ -21,6 +22,7 @@
     "brier_k": 0.613,
     "fav": 165,
     "disc": 0,
-    "louco": -100
+    "louco": -100,
+    "favmkt": 165
   }
 ]
