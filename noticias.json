@@ -1,7 +1,27 @@
 [
-  {"tipo":"resultado","hora":"01:55","texto":"FIM: Coreia do Sul 2x1 Rep. Tcheca. A Tcheca abriu com Krejci (cabeca), mas Hwang In-beom empatou e Oh Hyeon-gyu virou a 11 min do fim. Palpite do bolao Coreia 1x0 = 3 PONTOS no Prodefy (vencedor certo). Over 2,5 bateu (3 gols). Jogo Louco (Tcheca) perdeu -R$100."},
-  {"tipo":"resumo","hora":"02:00","texto":"BALANCO RODADA 1: Mexico 2x0 RSA (4 pts) + Coreia 2x1 Tcheca (3 pts) = 7 pontos Prodefy. Resultado 1/X/2 em 100% (2/2). Disciplinado seguiu sem tip nos dois (Edge abaixo de +4pp). Brier do modelo 0,414 vs 0,388 do mercado (amostra n=2)."},
-  {"tipo":"previsao","hora":"07:30","texto":"Proximo jogo: Bosnia-Herzegovina x Canada as 16:00 - palpite Canada 1x0"},
-  {"tipo":"analise","hora":"07:30","texto":"Dois jogos hoje (12/06): Canada x Bosnia (16:00, BMO Field) e EUA x Paraguai (22:00, SoFi). Nos dois o mando real e do time da Concacaf e o modelo crava 1x0 (defesas solidas, ataques travados). Produto sem tip - mercado ja precificado; nenhuma divergencia chega a +4pp."},
-  {"tipo":"agenda","hora":"07:30","texto":"Motor ao vivo agendado para hoje das 15:45 ate ~01:00 (cobre os dois jogos, prorrogacao e fechamento). Comeca pelas escalacoes 15 min antes de cada apito."}
+  {
+    "tipo": "analise",
+    "hora": "14:46",
+    "texto": "RESUMO DA ANALISE - Paraguai x EUA (22:00, SoFi): jogo de moeda. De-vig: EUA 48,5% | Empate 27,5% | Paraguai 24%. O modelo ve o EUA SUPERavaliado (ma fase: 3 derrotas em 4) e o Paraguai SUBavaliado (invicto ha 8, bateu Brasil, Argentina e Uruguai), mas sem Enciso. Bolao: EUA 1x0 (mais provavel). Disciplinado: Paraguai A OBSERVAR (+4pp, EV +10,6% a +295) - candidato a nossa 1a tip, confirma no pre-jogo. Lab: Paraguai."
+  },
+  {
+    "tipo": "analise",
+    "hora": "14:46",
+    "texto": "RESUMO DA ANALISE - Bosnia x Canada (16:00, Toronto): Canada favorita em casa, invicta ha 8 (6 sem sofrer gol); Bosnia com ataque fraco (Dzeko, 40). De-vig: Canada 53% | Empate 25,8% | Bosnia 21,2%; Under 2,5 ~56%. Bolao: Canada 1x0 (alt 2x0). Disciplinado: SEM TIP - o edge no Canada e +4pp, mas o EV a -125 da so +2,6% (a disciplina pesa o preco). Lab: Under 2,5 (+6pp)."
+  },
+  {
+    "tipo": "agenda",
+    "hora": "14:46",
+    "texto": "Motor ao vivo hoje: o esquenta comeca 2h antes de cada jogo (1 noticia a cada 30 min), escalacoes confirmadas 15 min antes, cobertura ao vivo e fechamento pelo apito oficial (cobre prorrogacao/penaltis)."
+  },
+  {
+    "tipo": "resumo",
+    "hora": "02:00",
+    "texto": "BALANCO RODADA 1: Mexico 2x0 RSA (4 pts) + Coreia 2x1 Tcheca (3 pts) = 7 pontos Prodefy, 100% nos vencedores (2/2). Disciplinado ficou sem tip nos dois. Brier do modelo 0,414 vs 0,388 do mercado (n=2). Favorito do Modelo acumula +R$205 (ROI +102,5%)."
+  },
+  {
+    "tipo": "resultado",
+    "hora": "01:55",
+    "texto": "FIM: Coreia do Sul 2x1 Rep. Tcheca - 3 pontos no Prodefy (vencedor certo). Jogo Louco (Tcheca) perdeu -R$100; Favorito do Modelo (Coreia +165) lucrou +R$165."
+  }
 ]
