@@ -20,7 +20,7 @@ h2{font-size:17px;margin:28px 0 6px;border-left:4px solid var(--gold);padding-le
 .ni{padding:9px 0;border-top:1px solid var(--line);font-size:13px;display:flex;gap:12px;align-items:flex-start} .ni:first-child{border-top:none}
 .ni .h{color:var(--green);font-weight:700;min-width:42px}
 .tag{font-size:9px;font-weight:700;padding:2px 7px;border-radius:20px;flex-shrink:0;text-transform:uppercase;margin-top:1px}
-.t-analise{background:#332810;color:var(--gold)} .t-lance{background:#0e2a1f;color:var(--green)} .t-previsao{background:#12243f;color:#7fb0e6}
+.t-analise{background:#332810;color:var(--gold)} .t-lance{background:#0e2a1f;color:var(--green)} .t-previsao{background:#12243f;color:#7fb0e6} .t-alerta{background:#3a1414;color:#ff8a8a} .alertaBanner{background:linear-gradient(120deg,#3a1414,#2a0e0e);border:1px solid var(--red);border-left:5px solid var(--red);border-radius:12px;padding:13px 16px;color:#ffd9d9;font-size:14px;line-height:1.5} .alertaTag{display:inline-block;background:var(--red);color:#fff;font-weight:700;font-size:11px;padding:2px 9px;border-radius:20px;margin-right:8px;text-transform:uppercase;letter-spacing:.5px}
 .block{border:1px solid var(--line);border-radius:16px;padding:18px;margin-top:10px}
 .blockTitle{font-size:15px;font-weight:700;margin-bottom:2px} .blockSub{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--mut);margin-bottom:14px}
 .prod{background:linear-gradient(180deg,#10233f,#0c1b30);border-color:#234a6e}
@@ -51,6 +51,7 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 <div class="upd">Piloto Copa do Mundo 2026 - <span id="clk">--:--:--</span> - Modelo independente em modo sombra</div>
 
 <div class="next" id="nextBox"><span class="t">Proximo jogo</span><b id="nextJogo">-</b> &nbsp;as&nbsp; <b id="nextHora">-</b></div>
+<div id="alertaBox" style="display:none;margin-bottom:18px"></div>
 
 
 <h2>Nossos palpites (jogos de hoje)</h2>
@@ -141,8 +142,9 @@ function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r
   $("simLouco").textContent=money(l.pnl);$("simLouco").className="big "+(l.pnl>=0?"pos":"neg");$("simLoucoSm").textContent="apostado: R$ "+l.stake+" | de volta: R$ "+(l.stake+l.pnl)+" | lucro: R$ "+l.pnl+" | ROI: "+l.roi;
   if(s.sim100.fav){var fv=s.sim100.fav;$("simFav").textContent=money(fv.pnl);$("simFav").className="big "+(fv.pnl>=0?"pos":"neg");$("simFavSm").textContent="apostado: R$ "+fv.stake+" | de volta: R$ "+(fv.stake+fv.pnl)+" | lucro: R$ "+fv.pnl+" | ROI: "+fv.roi;}
   if(s.sim100.favmkt){var fm=s.sim100.favmkt;$("simFavMkt").textContent=money(fm.pnl);$("simFavMkt").className="big "+(fm.pnl>=0?"pos":"neg");$("simFavMktSm").textContent="apostado: R$ "+fm.stake+" | de volta: R$ "+(fm.stake+fm.pnl)+" | lucro: R$ "+fm.pnl+" | ROI: "+fm.roi;}
+  if(s.alerta&&s.alerta.ativo){var ab=$("alertaBox");if(ab){ab.style.display="block";ab.innerHTML='<div class="alertaBanner"><span class="alertaTag">Alerta</span>'+s.alerta.texto+(s.alerta.hora?' <span style="opacity:.7">('+s.alerta.hora+')</span>':'')+'</div>';}}else{var ab0=$("alertaBox");if(ab0)ab0.style.display="none";}
 }).catch(function(){});}
-function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"]};return m[t]||["t-lance","Ao vivo"];}
+function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"],alerta:["t-alerta","ALERTA"]};return m[t]||["t-lance","Ao vivo"];}
 function loadNews(){fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
   var h=d.map(function(n){var b=bd(n.tipo);return '<div class="ni"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}).join("");
   var el=$("newsList");if(el&&h)el.innerHTML=h;var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
