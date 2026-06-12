@@ -1,57 +1,11 @@
 [
-  {
-    "tipo": "lance",
-    "hora": "00:32",
-    "texto": "FIM DE JOGO: COREIA DO SUL 1 x 1 REP. TCHECA. A Tcheca abriu aos 59' com Krejci (cabeca apos arremesso lateral longo de Coufal) e a Coreia empatou aos 67' com Hwang In-beom, que recebeu lancamento de Lee Kang-in, parou o marcador e o goleiro e tocou no canto. O 2o tempo abriu o jogo, mas o placar parou no 1-1 ate o apito final."
-  },
-  {
-    "tipo": "analise",
-    "hora": "00:32",
-    "texto": "FECHAMENTO PRODEFY. O palpite do Bolao era COREIA 1x0 e o jogo terminou 1-1 (EMPATE): erramos vencedor e placar, 0 PONTOS neste jogo. Acumulado do Bolao segue em 4 pts (so a pontuacao do Mexico 2x0) e o HIT cai para 50% (1/2). SIMULACAO R$100: o Disciplinado nao publicou tip (Edge ~+2pp, abaixo do corte de +4pp), ficou de fora e segue intacto (P&L 0). O Jogo Louco apostou na vitoria da Tcheca e o empate ANULOU a aposta: -R$100; acumulado do Louco em stake R$200, P&L -R$200, ROI -100% (0 de 2). LICAO: o modelo leu o jogo como moeda (Coreia 34,7 / Empate 29,6 / Tcheca 35,7) e o resultado caiu na faixa do empate, justamente a opcao subponderada nos dois palpites - em jogos tao equilibrados, o empate (+215 no mercado) carregava um valor que nenhuma das estrategias capturou. Brier alto neste jogo (~0,74), puxando a media para ~0,465. PROXIMO: Bosnia-Herzegovina x Canada, 12/06 16:00 (Brasilia) - palpite Canada 1x0 (mando real do Canada no BMO Field, Toronto)."
-  },
-  {
-    "tipo": "lance",
-    "hora": "00:26",
-    "texto": "AO VIVO - reta final (~85'): GOL DA TCHECA! Ladislav Krejci subiu mais alto que a defesa e cabeceou para o fundo do gol apos arremesso lateral longo de Coufal, aos 58'. COREIA 0 x 1 TCHECA. CORRECAO do placar - o gol saiu no 2o tempo e o painel anterior ainda marcava 0-0. Antes, Kovar havia defendido nova chance de Son (56'). A Coreia pressiona muito (11 a 2 em finalizacoes) mas segue sem furar o bloco tcheco."
-  },
-  {
-    "tipo": "analise",
-    "hora": "00:26",
-    "texto": "O jogo VIROU contra o nosso palpite oficial. O Bolao apostou Coreia 1x0 (vencedor + Tcheca no zero), mas quem abriu o placar foi a Tcheca, em bola parada - arremesso lateral longo para a cabeca de Krejci (1,91m), a arma classica dele. Se o 1x0 da Tcheca se confirmar, o palpite do Bolao ZERA (errou vencedor e placar). Quem lucra e o LABORATORIO: o Jogo Louco estava na Tcheca (maior edge vs mercado, +2,2pp), leitura contraria que por ora se confirma. A Coreia ainda ataca com xG a favor e tem os minutos finais para buscar o empate; se igualar, o Louco perde o lucro. Pontuacao Prodefy e fechamento so apos o apito final."
-  },
-  {
-    "tipo": "analise",
-    "hora": "00:18",
-    "texto": "Reta final (~78'): segue COREIA 0 x 0 TCHECA, sem gols nem cartoes novos desde os ~60'. O jogo morno e o total baixo (~2,4) que o modelo projetou se confirmam, mas o tempo virou inimigo do nosso palpite: a Coreia precisa furar o bloco tcheco nos ~12 min finais para validar o Coreia 1x0 (vencedor + Tcheca no zero = 4 pts pelo Prodefy). Se o 0-0 persistir, o resultado pende para o lado do Laboratorio (Jogo Louco na Tcheca, que lucra no empate). A Coreia segue com xG e posse a favor, mas Son ja desperdicou chances claras (5 finalizacoes, nenhuma no alvo no 1o tempo)."
-  },
-  {
-    "tipo": "lance",
-    "hora": "00:14",
-    "texto": "AO VIVO - 2o tempo em andamento (~60'), COREIA 0 x 0 TCHECA. No 1o tempo a Coreia foi melhor: xG 0,52 a 0,29 e 55% de posse. Lances: Son Heung-min finalizou rente a trave; Kovar fez dupla defesa salvando o chute de Hwang In-beom e o rebote de Lee Jae-sung; no inicio do 2o tempo Kovar parou Lee Jae-sung de novo. Tcheca bem fechada na defesa."
-  },
-  {
-    "tipo": "analise",
-    "hora": "00:14",
-    "texto": "Leitura mantida: jogo morno, de poucos espacos - exatamente o cenario de total baixo (~2,4) que o modelo projetou. A Coreia cria mais e tem o xG a favor, o que sustenta o palpite Coreia 1x0, mas o placar segue 0-0 e o gol ainda nao saiu - precisamos que a pressao coreana vire gol. Pela regra Prodefy, Coreia vencer com a Tcheca no zero vale 4 pts. Laboratorio (Jogo Louco na Tcheca) torce por contra-ataque ou pelo 0-0 que leva ao empate."
-  },
-  {
-    "tipo": "lance",
-    "hora": "22:45",
-    "texto": "PRE-JOGO (faltam 15 min): escalacoes confirmadas. COREIA DO SUL (Hong Myung-bo): Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk; Seol Young-woo, Hwang In-beom, Paik Seung-ho, Lee Tae-seok; Lee Kang-in, Lee Jae-sung; Son Heung-min (c). REP. TCHECA (Koubek): Kovar; Chaloupek, Hranac, Krejci; Coufal, Soucek (c), Sojka, Zeleny; Sulc, Provod; Schick."
-  },
-  {
-    "tipo": "analise",
-    "hora": "22:45",
-    "texto": "Escalacoes CONFIRMAM a leitura - palpite mantido: Coreia 1x0. Os tres pilares do desempate estao todos em campo desde o apito: Son Heung-min (capitao), Kim Min-jae e Lee Kang-in titulares pela Coreia; Schick e Soucek titulares pela Tcheca, exatamente como o modelo esperava. Sem desfalque ou surpresa de banco que altere o cenario de moeda com leve vantagem coreana e total de gols baixo (~2,4). Laboratorio (Jogo Louco) segue na Tcheca."
-  },
-  {
-    "tipo": "analise",
-    "hora": "20:04",
-    "texto": "FIM DE JOGO: Mexico 2x0! O palpite 1x0 nao cravou o placar exato, mas pela regra completa do Prodefy vale 4 PONTOS (vencedor certo + Africa do Sul no zero). E o Under 2,5 BATEU (2 gols). Defesa elite do Mexico confirmada: 0 gol sofrido, exatamente como o modelo projetou."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:04",
-    "texto": "FIM: Mexico 2 x 0 Africa do Sul. Gols de Quinones e Raul Jimenez. 3 cartoes vermelhos no jogo."
-  }
+  {"tipo":"lance","hora":"00:38","texto":"AO VIVO - 2o tempo: REP. TCHECA 1 x 1 COREIA DO SUL. A Tcheca abriu o placar aos 58 min: Krejci subiu mais que a defesa e cabeceou apos cobranca de lateral longo de Coufal (1x0). A Coreia reagiu rapido e empatou aos 67 min com Hwang In-beom, em passe preciso de Lee Kang-in (1x1). Son Heung-min teve novas chances claras (parado por Kovar aos 56), mas segue sem marcar. Jogo aberto na reta final."},
+  {"tipo":"analise","hora":"00:38","texto":"O 1x1 e exatamente o cenario de moeda que o modelo projetou (Coreia 34,7% | Empate 29,6% | Tcheca 35,7%). PALPITE EM RISCO: com a Tcheca tendo marcado, nosso Coreia 1x0 ja perdeu o bonus de adversario zerado - so pontuaria se a Coreia ainda virar (vencedor certo, sem os 4 pts da regra Prodefy); empate final = 0 pt. A leitura central se confirma: Son criou o xG (0,52 a 0,29 no 1o tempo) mas nao converteu, e sem o gol coreano decisivo o jogo escorrega para o empate. No Laboratorio (Jogo Louco), a Tcheca tambem precisa vencer - 1x1 nao resolve. Acerto de disciplina: o produto Disciplinado NAO publicou tip aqui (Edge so +2pp), e ficar de fora deste caos de moeda foi a escolha certa."},
+  {"tipo":"lance","hora":"23:22","texto":"AO VIVO - 1o tempo: COREIA DO SUL 0 x 0 REP. TCHECA. A Tcheca comecou com a bola e dominou a posse nos minutos iniciais, mas sem criar perigo real. A Coreia cresceu na sequencia e ja teve algumas chegadas (finalizacoes desviadas pela defesa tcheca). Logo no primeiro minuto a Tcheca ja pegou pesado em cima de Son Heung-min. Sem gols e sem cartoes ate agora."},
+  {"tipo":"analise","hora":"23:22","texto":"Leitura segue dentro do esperado: jogo truncado e de poucos gols, exatamente o cenario do modelo (total projetado ~2,4). O 0x0 ainda NAO pontua nosso palpite - pela regra Prodefy, Coreia 1x0 vale 4 pts (vencedor certo + Tcheca no zero), entao precisamos do gol coreano mantendo a defesa zerada, com Kim Min-jae decisivo atras. Palpite mantido: Coreia 1x0. No Laboratorio (Jogo Louco), a aposta na Tcheca segue viva enquanto o placar nao abre."},
+  {"tipo":"lance","hora":"22:45","texto":"PRE-JOGO (faltam 15 min): escalacoes confirmadas. COREIA DO SUL (Hong Myung-bo): Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk; Seol Young-woo, Hwang In-beom, Paik Seung-ho, Lee Tae-seok; Lee Kang-in, Lee Jae-sung; Son Heung-min (c). REP. TCHECA (Koubek): Kovar; Chaloupek, Hranac, Krejci; Coufal, Soucek (c), Sojka, Zeleny; Sulc, Provod; Schick."},
+  {"tipo":"analise","hora":"22:45","texto":"Escalacoes CONFIRMAM a leitura - palpite mantido: Coreia 1x0. Os tres pilares do desempate estao todos em campo desde o apito: Son Heung-min (capitao), Kim Min-jae e Lee Kang-in titulares pela Coreia; Schick e Soucek titulares pela Tcheca, exatamente como o modelo esperava. Sem desfalque ou surpresa de banco que altere o cenario de moeda com leve vantagem coreana e total de gols baixo (~2,4). Laboratorio (Jogo Louco) segue na Tcheca."},
+  {"tipo":"analise","hora":"20:04","texto":"FIM DE JOGO: Mexico 2x0! O palpite 1x0 nao cravou o placar exato, mas pela regra completa do Prodefy vale 4 PONTOS (vencedor certo + Africa do Sul no zero). E o Under 2,5 BATEU (2 gols). Defesa elite do Mexico confirmada: 0 gol sofrido, exatamente como o modelo projetou."},
+  {"tipo":"lance","hora":"20:04","texto":"FIM: Mexico 2 x 0 Africa do Sul. Gols de Quinones e Raul Jimenez. 3 cartoes vermelhos no jogo."},
+  {"tipo":"previsao","hora":"22:45","texto":"AO VIVO agora: Coreia do Sul x Rep. Tcheca, apito as 23:00 (Brasilia). Palpite do bolao: Coreia 1x0. Modelo: jogo de moeda, desempate aponta a Coreia."}
 ]
