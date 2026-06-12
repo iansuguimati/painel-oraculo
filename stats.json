@@ -17,6 +17,11 @@
       "pnl": -200,
       "roi": "-100%"
     },
+    "fav": {
+      "stake": 200,
+      "pnl": 205,
+      "roi": "+102,5%"
+    },
     "favmkt": {
       "stake": 200,
       "pnl": 205,
@@ -35,29 +40,28 @@
   "analise": "BOSNIA-HERZEGOVINA x CANADA (16:00, mando real do Canada no BMO Field, Toronto - a API lista a Bosnia como mandante por sorteio, mas quem joga em casa e o Canada). O palpite do bolao e Canada 1x0 (EP 2,52). FORMA: o Canada perdeu so 1 jogo desde set/2025 (bateu Pais de Gales, Venezuela e Uzbequistao), mas vive seca de gol - Jonathan David fez 1 gol de bola rolando em 10 jogos e Cyle Larin esta zerado em 14; ultimo amistoso foi 1x1 com a Irlanda. Defesa solida, ataque travado. A Bosnia esta SUBAVALIADA (ranking FIFA 64): marcou 19 gols em 10 jogos das eliminatorias, eliminou a Italia no playoff e nao perde facil; Dzeko (40 anos, capitao) segue decisivo. CONTEXTO COPA: sem altitude, junho ameno em Toronto; o unico atrito e a viagem e o fuso da Bosnia vindo da Europa. LEITURA: jogo de margem estreita, decidido pela organizacao - dai o 1x0. Lambda do modelo: Canada 1,47 x Bosnia 0,82. PRODUTO (Disciplinado): sem tip - o modelo ancorado bate o mercado ponto a ponto (53,0/25,8/21,2; Under 2,5 ja a -150), nenhuma divergencia chega a +4pp. LABORATORIO (Jogo Louco): leve valor aparente no empate (+270, ~+3pp), so como experimento.",
   "analises": [
     {
-      "jogo": "Bosnia-Herzegovina x Canada (16:00, HOJE - Grupo B)",
+      "jogo": "Bosnia-Herzegovina x Canada",
       "bolao": "Canada 1x0 (EP 2,52)",
       "disc": "sem tip (Edge < +4pp)",
       "louco": "Empate (+270)",
       "texto": "Mando real do Canada (BMO Field, Toronto) - a API lista a Bosnia como mandante, mas quem joga em casa e o Canada. FORMA: o Canada perdeu so 1 jogo desde set/2025 (bateu Pais de Gales, Venezuela e Uzbequistao), porem vive seca de gol - Jonathan David fez 1 gol de bola rolando em 10 jogos e Cyle Larin esta zerado em 14; o ultimo amistoso foi 1x1 com a Irlanda, com gol contra. Defesa solida, ataque travado. A Bosnia tem ranking FIFA 64 mas esta SUBAVALIADA: marcou 19 gols em 10 jogos nas eliminatorias, eliminou a Italia no playoff e empatou 1x1 com Italia, Pais de Gales e Austria - nao perde facil. Dzeko (40 anos, capitao, 73 gols pela selecao) fez 6 nas eliminatorias e segue decisivo. CONTEXTO COPA: sem altitude, junho ameno em Toronto; o unico atrito e a viagem e o fuso da Bosnia vindo da Europa. LEITURA: jogo de margem estreita, decidido pela organizacao e nao por goleada - dai o 1x0. Lambda do modelo: Canada 1,47 x Bosnia 0,82. PRODUTO: sem tip - modelo ancorado bate o mercado ponto a ponto (53,0/25,8/21,2; Under ja a -150), nenhuma divergencia chega a +4pp. LAB: o modelo sombra ve leve valor no empate (+270, ~+3pp).",
       "fav_mkt": "Canada",
-      "fav_mkt_odd": "-125 (1,80)"
+      "fav_mkt_odd": "-125 (1,80)",
+      "hora": "16:00",
+      "fav": "Canada",
+      "fav_odd": "-125 (1,80)"
     },
     {
-      "jogo": "Paraguai x EUA (22:00, HOJE - Grupo D)",
+      "jogo": "Paraguai x EUA",
       "bolao": "EUA 1x0 (EP 2,39)",
       "disc": "sem tip (Under ja caro)",
-      "louco": "X2 Paraguai (+245)",
+      "louco": "Empate (+245)",
       "texto": "Mando real dos EUA (SoFi Stadium, Inglewood) - a API lista o Paraguai como mandante. FORMA: os EUA estao invictos em boa sequencia, criam chances e as vezes pecam na pontaria; o H2H e amplo a favor (5V-2E-2D em 9 jogos, venceram o ultimo 2x1 em amistoso no fim de 2025). O Paraguai e uma MURALHA sob Gustavo Alfaro: fez so 14 gols e sofreu 10 em 18 jogos nas eliminatorias da Conmebol (0,78 gol marcado por jogo, o menor ataque da competicao), comecou mal e cresceu no fim (6 vitorias nos ultimos 11). CONTEXTO COPA: SoFi com teto translucido, Los Angeles ameno e fuso curto para o Paraguai. LEITURA: jogo de bloco baixo - os EUA tem a bola, o Paraguai segura; o gol do anfitriao tende a sair de bola parada ou lance individual. Dai o 1x0 (EP 2,39), que captura a faixa de 4 pontos do Prodefy. Lambda do modelo: EUA 1,35 x Paraguai 0,85. PRODUTO: sem tip - modelo em linha com o mercado (48,6/27,5/24,0) e o Under ja esta caro a -165. LAB: maior valor aparente no X2/empate do Paraguai (+245), so como experimento.",
       "fav_mkt": "EUA",
-      "fav_mkt_odd": "-105 (1,95)"
-    },
-    {
-      "jogo": "RESOLVIDOS R1: Mexico 2x0 RSA (4 pts) | Coreia 2x1 Tcheca (3 pts)",
-      "bolao": "7 pts Prodefy acumulados",
-      "disc": "0 tips publicados (disciplina correta)",
-      "louco": "-R$200 no laboratorio (2 perdas)",
-      "texto": "BALANCO DA RODADA 1. MEXICO 2x0 AFRICA DO SUL: palpite 1x0 valeu 4 PONTOS (vencedor + azarao no zero), Under 2,5 bateu, defesa elite do Mexico confirmada (0 gol sofrido). COREIA 2x1 REP. TCHECA: palpite Coreia 1x0 valeu 3 PONTOS (vencedor certo numa virada coreana de Hwang In-beom e Oh Hyeon-gyu); Over 2,5 bateu (3 gols) - subestimamos o ritmo num jogo que o modelo via como moeda. PLACAR ACUMULADO: 1/X/2 em 100% (2/2), placar exato 0/2, 7 pts Prodefy. CALIBRACAO: Brier do modelo 0,414 vs 0,388 do mercado (n=2, sem conclusao ainda). PRODUTO: zero tips publicados nos dois jogos - Edge sempre abaixo do corte de +4pp, exatamente a disciplina que protege o track record. LABORATORIO (Jogo Louco): -R$200 (Empate no Mexico e Tcheca na Coreia, ambos perderam) - perdas esperadas no diagnostico do faro de valor. LICAO INCORPORADA (v4.2): em jogo-moeda entre selecoes de meio de tabela com bons atacantes, nao cravar 1x0 automatico - elevar o lambda total e considerar 2x1."
+      "fav_mkt_odd": "-105 (1,95)",
+      "hora": "22:00",
+      "fav": "EUA",
+      "fav_odd": "-105 (1,95)"
     }
   ]
 }
