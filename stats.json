@@ -67,17 +67,17 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Bosnia-Herzegovina x Canada",
-    "o1": "4,90 (+390)",
-    "ox": "3,50 (+250)",
-    "o2": "1,80 (-125)",
-    "under": "1,67 (-150)",
-    "hora": "16:01"
+    "jogo": "Bosnia x Canada",
+    "o1": "+380",
+    "ox": "+250",
+    "o2": "-125",
+    "under": "-145",
+    "hora": "16:00"
   },
   "alerta": {
     "ativo": true,
-    "hora": "16:26",
-    "jogo": "Bosnia-Herzegovina x Canada",
-    "texto": "A BOSNIA (azarao) abriu o placar - contra a nossa previsao de Canada 1x0. Reavaliacao: o Canada segue favorito a reagir (mando real + elenco superior), mas o cenario mudou - P(Canada vencer) CAI, e empate/vitoria da Bosnia SOBEM. O nosso palpite de placar (Canada 1x0) ja nao se confirma; agora e torcer pela virada. O Jogo Louco (Empate +270) se valoriza."
+    "hora": "16:31",
+    "jogo": "Bosnia x Canada",
+    "texto": "GOL Bosnia (Lukic, escanteio) 1x0 no 1o tempo. Palpite Canada 1x0 ameacado. ANTES P(Canada) ~57% -> AGORA ~33% (Canada 33% | Empate 34% | Bosnia 33%)."
   }
 }

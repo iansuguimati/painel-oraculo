@@ -1,5 +1,25 @@
 [
   {
+    "tipo": "alerta",
+    "hora": "16:31",
+    "texto": "ALERTA - Bosnia x Canada: GOL da Bosnia (Lukic, escanteio), 1x0 contra o Canada no 1o tempo. AMEACA nosso palpite (Bolao Canada 1x0). ANTES: Canada ~57% | Empate ~24% | Bosnia ~19%. AGORA, com a Bosnia na frente: NOVO ~ Canada 33% | Empate 34% | Bosnia 33% (o Canada precisa virar 2 gols e o cenario de poucos gols agora joga CONTRA o 1x0 canadense; ainda ha ~55min e o mando). Under 2,5 (lab) segue vivo: 1 gol ate aqui."
+  },
+  {
+    "tipo": "lance",
+    "hora": "16:30",
+    "texto": "GOL DA BOSNIA! Bosnia 1 x 0 Canada. Jovo Lukic marca de cabeca apos escanteio (cruzamento de Memic, desvio de Kolasinac no primeiro pau), seu 1o gol pela selecao. A azarona abre o placar contra a co-anfitria no 1o tempo (minuto exato ainda nao confirmado pelas fontes)."
+  },
+  {
+    "tipo": "odds",
+    "hora": "16:01",
+    "texto": "ODDS NO APITO - Bosnia x Canada: Bosnia +380 | Empate +250 | Canada -125 | Under 2,5 -145 (linha de fechamento de consenso FanDuel/DraftKings, base do CLV)."
+  },
+  {
+    "tipo": "lance",
+    "hora": "16:00",
+    "texto": "BOLA ROLANDO - comeca Bosnia-Herzegovina x Canada (16:00, BMO Field, Toronto), estreia do Grupo B e o 1o jogo de Copa do Mundo masculina disputado em solo canadense."
+  },
+  {
     "tipo": "ao_vivo",
     "hora": "16:28",
     "texto": "AO VIVO - Bosnia x Canada (26 min): Bosnia 1x0. GOL DA BOSNIA - Jovo Lukic subiu mais que a marcacao e cabeceou para o fundo do gol apos escanteio cobrado na area, silenciando o BMO Field. O azarao furou o bloco e bateu a nossa leitura de Canada 1x0 ainda no primeiro tempo. O Canada mantem mando real e elenco superior para reagir, mas agora corre atras do prejuizo - P(Canada vencer) caiu e empate/Bosnia subiram. O Jogo Louco (Empate +270) se valoriza; o Disciplinado seguiu sem tip, entao sem exposicao no jogo."
