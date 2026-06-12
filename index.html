@@ -8,7 +8,7 @@ body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:radia
 .wrap{max-width:1000px;margin:0 auto}
 header{text-align:center;position:relative}
 .live{position:absolute;right:0;top:4px;font-size:11px;color:var(--green);border:1px solid #1f5c3f;border-radius:20px;padding:3px 10px;background:#0e2a1f}
-.dot{display:inline-block;width:7px;height:7px;background:var(--green);border-radius:50%;margin-right:5px}
+.dot{display:inline-block;width:7px;height:7px;background:var(--green);border-radius:50%;margin-right:5px;animation:pulse 1.6s infinite} @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(63,185,138,.55)}70%{box-shadow:0 0 0 7px rgba(63,185,138,0)}100%{box-shadow:0 0 0 0 rgba(63,185,138,0)}} @keyframes fadein{from{opacity:0;transform:translateY(-7px)}to{opacity:1;transform:none}} .ni.new{animation:fadein .5s ease} .oldbtn{background:#13315C;color:var(--gold);border:1px solid var(--line);border-radius:20px;padding:6px 16px;font-size:12px;cursor:pointer} .oldbtn:hover{background:#1a3d6e}
 h1{font-size:30px} h1 .o{color:var(--gold)} .sub{color:var(--mut);font-size:14px;margin-top:4px}
 .upd{color:var(--mut);font-size:12px;text-align:center;margin:8px 0 16px} #clk{color:var(--green)}
 .next{background:linear-gradient(120deg,#13315C,#0B2545);border:1px solid var(--gold);border-radius:12px;padding:14px 16px;text-align:center;margin-bottom:20px;font-size:15px} .next .t{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--mut);display:block;margin-bottom:3px} .next b{color:var(--gold)}
@@ -148,10 +148,16 @@ function loadStats(){getJSON("stats.json").then(function(s){
   if(s.odds_fech&&s.odds_fech.jogo){var of=s.odds_fech,ofb=$("oddsFechBox");if(ofb){ofb.style.display="block";ofb.innerHTML='<div class="oddsfech"><span class="oddsfech-t">Odds de fechamento (no apito):</span> <b>'+of.jogo+'</b> &nbsp; 1 <b>'+(of.o1||"-")+'</b> | X <b>'+(of.ox||"-")+'</b> | 2 <b>'+(of.o2||"-")+'</b>'+(of.under?' | U2,5 <b>'+of.under+'</b>':'')+' <span class="oddsfech-n">(base do CLV)</span></div>';}}else{var ofb0=$("oddsFechBox");if(ofb0)ofb0.style.display="none";}
 }).catch(function(){});}
 function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"],alerta:["t-alerta","ALERTA"],odds:["t-odds","Odds"]};return m[t]||["t-lance","Ao vivo"];}
+var lastTop="";
 function loadNews(){getJSON("noticias.json").then(function(d){
-  var h=d.map(function(n){var b=bd(n.tipo);return '<div class="ni"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}).join("");
-  var el=$("newsList");if(el&&h)el.innerHTML=h;var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
+  function row(n,cls){var b=bd(n.tipo);return '<div class="ni'+(cls?" "+cls:"")+'"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}
+  var changed=d.length&&d[0].texto!==lastTop;if(d.length)lastTop=d[0].texto;
+  var vis=d.slice(0,10),old=d.slice(10);
+  var html=vis.map(function(n,k){return row(n,(k===0&&changed)?"new":"");}).join("");
+  if(old.length){html+='<div id="oldNews" style="display:none">'+old.map(function(n){return row(n,"");}).join("")+'</div><div style="text-align:center;margin-top:10px"><button id="oldBtn" class="oldbtn" onclick="toggleOld()">Ver anteriores ('+old.length+')</button></div>';}
+  var el=$("newsList");if(el&&html)el.innerHTML=html;var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
 }).catch(function(){});}
+window.toggleOld=function(){var o=$("oldNews"),b=$("oldBtn");if(!o||!b)return;if(o.style.display==="none"){o.style.display="block";b.textContent="Ver menos";}else{o.style.display="none";b.textContent="Ver anteriores ("+o.children.length+")";}};
 function loadAgenda(){getJSON("agenda.json").then(function(d){
   var h=d.map(function(g){var tg=(g.palpite&&g.palpite!=="-")?'<span class="tag t-previsao">'+g.palpite+'</span>':'<span class="tag t-lance">agendado</span>';
   return '<div class="ni"><span class="h">'+g.data+' '+g.hora+'</span>'+tg+'<span>'+g.jogo+(g.grupo&&g.grupo!=="-"?' (Grupo '+g.grupo+')':'')+'</span></div>';}).join("");
