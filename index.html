@@ -43,7 +43,7 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 .picks{display:grid;grid-template-columns:repeat(3,1fr);gap:11px;margin-bottom:6px} @media(max-width:560px){.picks{grid-template-columns:1fr}}
 .pick{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;text-align:center}
 .pick .pl{font-size:10px;text-transform:uppercase;letter-spacing:.4px;color:var(--mut)} .pick .pv{font-size:22px;font-weight:700;margin-top:4px} .pick.main{border-color:var(--gold)} .pick.main .pv{color:var(--gold)}
-</style></head><body><div class="wrap">
+.acard{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:14px;margin-bottom:12px}.acard h4{font-size:14px;color:var(--gold);margin-bottom:4px}.acard .meta{font-size:11px;color:var(--mut);margin-bottom:8px;line-height:1.5}.acard .body{font-size:13px;line-height:1.6;color:var(--txt)}</style></head><body><div class="wrap">
 
 <header><div class="live"><span class="dot"></span>AO VIVO</div>
 <h1><span class="o">&#9670;</span> ORACULO ESTATISTICO</h1>
@@ -98,7 +98,7 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 <div class="cta"><h3>Receba os tips com vantagem comprovada</h3><p>Analises 1/X/2 que precificam o que o mercado ignora.</p><a class="btn" href="#" id="ctaBtn">Quero os tips no Telegram</a></div>
 
 <h2>Agenda - proximos jogos</h2>
-<div class="h2note">A transmissao ao vivo de cada jogo comeca sozinha 10 min antes do apito inicial (com as escalacoes) e so encerra apos o fim oficial - cobre prorrogacao e penaltis.</div>
+<div class="h2note">A transmissao ao vivo de cada jogo comeca sozinha 15 min antes do apito inicial (com as escalacoes) e so encerra apos o fim oficial - cobre prorrogacao e penaltis.</div>
 <div class="news"><div class="news-head"><span class="news-title">Calendario Copa 2026</span><span class="news-upd">horario de Brasilia</span></div>
 <div id="agendaList"><div class="ni"><span>Carregando agenda...</span></div></div></div>
 
@@ -114,7 +114,8 @@ function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r
   $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;$("mRoi").textContent=s.roi;
   $("nextJogo").textContent=s.next.jogo;$("nextHora").textContent=s.next.hora;
   $("pBolao").textContent=s.lines.bolao;$("pDisc").textContent=(s.lines.disc==="-"?"sem tip (sem edge)":s.lines.disc);$("pLouco").textContent=s.lines.louco;
-  if(s.analise)$("analiseBox").textContent=s.analise;
+  if(s.analises&&s.analises.length){$("analiseBox").innerHTML=s.analises.map(function(a){return '<div class="acard"><h4>'+a.jogo+'</h4><div class="meta">Bolao: '+a.bolao+'  |  Produto: '+a.disc+'  |  Lab: '+a.louco+'</div><div class="body">'+a.texto+'</div></div>';}).join("");}
+  else if(s.analise)$("analiseBox").textContent=s.analise;
   if(s.telegram)$("ctaBtn").href=s.telegram;
   var d=s.sim100.disc,l=s.sim100.louco;
   $("simDisc").textContent=money(d.pnl);$("simDisc").className="big "+(d.pnl>=0?"pos":"neg");$("simDiscSm").textContent="apostado: R$ "+d.stake+" - ROI: "+d.roi;

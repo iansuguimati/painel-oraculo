@@ -1,9 +1,54 @@
 {
   "updated": "11/06/2026",
-  "tips": 0, "hit": "100% (1/1)", "roi": "-", "clv": "-", "brier": "0,187",
+  "tips": 0,
+  "hit": "100% (1/1)",
+  "roi": "-",
+  "clv": "-",
+  "brier": "0,187",
   "bolao": 4,
-  "sim100": { "disc": {"stake": 0, "pnl": 0, "roi": "-"}, "louco": {"stake": 100, "pnl": -100, "roi": "-100%"} },
-  "lines": {"bolao": "Coreia 1x0", "disc": "-", "louco": "Tcheca"},
-  "next": {"jogo": "Coreia do Sul x Rep. Tcheca", "hora": "23:00 (Brasilia)"},
-  "analise": "COREIA DO SUL x REP. TCHECA - por que o palpite e Coreia 1x0. O modelo trata este jogo como uma moeda quase perfeita: Coreia 34,7% | Empate 29,6% | Tcheca 35,7%, com os dois lados dentro de ~1 ponto percentual - estatisticamente empatado, dentro do ruido do proprio modelo. Quando os numeros nao separam os times, entra o criterio de desempate por qualidade, e os tres pilares apontam para a Coreia: (1) HISTORICO - a Coreia venceu o ultimo confronto direto (2016, 2x1 em Praga); (2) ELENCO - a Coreia leva vantagem em jogadores de elite, com Son Heung-min (56 gols pela selecao), Kim Min-jae (zagueiro do Bayern) e Lee Kang-in (PSG), contra Schick (Leverkusen) e Soucek (West Ham); (3) RANKING FIFA - Coreia em 25o contra a Tcheca em 39o. Some-se a isso uma leve desvantagem de fadiga da Tcheca e o mando psicologico coreano na Concacaf, e o fiel da balanca pende para a Coreia. Total de gols esperado ~2,4 (jogo morno, defesas organizadas), o que sustenta um placar baixo tipo 1x0. NO PRODUTO (Disciplinado): NAO publicamos tip neste jogo - a vantagem sobre o mercado (Edge) ficou em apenas ~+2pp, abaixo do nosso corte de +4pp, entao a disciplina manda ficar de fora. NO LABORATORIO (Jogo Louco): a maior vantagem aparente apareceu na Tcheca (+2,2pp sobre a implicita do mercado), entao e nela que o experimento aposta - puramente para medir se esse tipo de leitura contraria se confirma ao longo da Copa."
+  "sim100": {
+    "disc": {
+      "stake": 0,
+      "pnl": 0,
+      "roi": "-"
+    },
+    "louco": {
+      "stake": 100,
+      "pnl": -100,
+      "roi": "-100%"
+    }
+  },
+  "lines": {
+    "bolao": "Coreia 1x0",
+    "disc": "-",
+    "louco": "Tcheca"
+  },
+  "next": {
+    "jogo": "Coreia do Sul x Rep. Tcheca",
+    "hora": "23:00 (Brasilia)"
+  },
+  "analise": "COREIA DO SUL x REP. TCHECA - por que o palpite e Coreia 1x0. O modelo trata este jogo como uma moeda quase perfeita: Coreia 34,7% | Empate 29,6% | Tcheca 35,7%, com os dois lados dentro de ~1 ponto percentual - estatisticamente empatado, dentro do ruido do proprio modelo. Quando os numeros nao separam os times, entra o criterio de desempate por qualidade, e os tres pilares apontam para a Coreia: (1) HISTORICO - a Coreia venceu o ultimo confronto direto (2016, 2x1 em Praga); (2) ELENCO - a Coreia leva vantagem em jogadores de elite, com Son Heung-min (56 gols pela selecao), Kim Min-jae (zagueiro do Bayern) e Lee Kang-in (PSG), contra Schick (Leverkusen) e Soucek (West Ham); (3) RANKING FIFA - Coreia em 25o contra a Tcheca em 39o. Some-se a isso uma leve desvantagem de fadiga da Tcheca e o mando psicologico coreano na Concacaf, e o fiel da balanca pende para a Coreia. Total de gols esperado ~2,4 (jogo morno, defesas organizadas), o que sustenta um placar baixo tipo 1x0. NO PRODUTO (Disciplinado): NAO publicamos tip neste jogo - a vantagem sobre o mercado (Edge) ficou em apenas ~+2pp, abaixo do nosso corte de +4pp, entao a disciplina manda ficar de fora. NO LABORATORIO (Jogo Louco): a maior vantagem aparente apareceu na Tcheca (+2,2pp sobre a implicita do mercado), entao e nela que o experimento aposta - puramente para medir se esse tipo de leitura contraria se confirma ao longo da Copa.",
+  "analises": [
+    {
+      "jogo": "Coreia do Sul x Rep. Tcheca (23:00, HOJE - Grupo E)",
+      "bolao": "Coreia 1x0",
+      "disc": "sem tip (Edge ~+2pp)",
+      "louco": "Tcheca",
+      "texto": "COREIA DO SUL x REP. TCHECA - por que o palpite e Coreia 1x0. O modelo trata este jogo como uma moeda quase perfeita: Coreia 34,7% | Empate 29,6% | Tcheca 35,7%, com os dois lados dentro de ~1 ponto percentual - estatisticamente empatado, dentro do ruido do proprio modelo. Quando os numeros nao separam os times, entra o criterio de desempate por qualidade, e os tres pilares apontam para a Coreia: (1) HISTORICO - a Coreia venceu o ultimo confronto direto (2016, 2x1 em Praga); (2) ELENCO - a Coreia leva vantagem em jogadores de elite, com Son Heung-min (56 gols pela selecao), Kim Min-jae (zagueiro do Bayern) e Lee Kang-in (PSG), contra Schick (Leverkusen) e Soucek (West Ham); (3) RANKING FIFA - Coreia em 25o contra a Tcheca em 39o. Some-se a isso uma leve desvantagem de fadiga da Tcheca e o mando psicologico coreano na Concacaf, e o fiel da balanca pende para a Coreia. Total de gols esperado ~2,4 (jogo morno, defesas organizadas), o que sustenta um placar baixo tipo 1x0. NO PRODUTO (Disciplinado): NAO publicamos tip neste jogo - a vantagem sobre o mercado (Edge) ficou em apenas ~+2pp, abaixo do nosso corte de +4pp, entao a disciplina manda ficar de fora. NO LABORATORIO (Jogo Louco): a maior vantagem aparente apareceu na Tcheca (+2,2pp sobre a implicita do mercado), entao e nela que o experimento aposta - puramente para medir se esse tipo de leitura contraria se confirma ao longo da Copa."
+    },
+    {
+      "jogo": "Bosnia-Herzegovina x Canada (12/06, 16:00, Grupo B)",
+      "bolao": "Canada 1x0 (EP 2,52)",
+      "disc": "sem tip (Edge < +4pp)",
+      "louco": "Empate (+270)",
+      "texto": "Mando real do Canada (BMO Field, Toronto) - a API lista a Bosnia como mandante, mas quem joga em casa e o Canada. FORMA: o Canada perdeu so 1 jogo desde set/2025 (bateu Pais de Gales, Venezuela e Uzbequistao), porem vive seca de gol - Jonathan David fez 1 gol de bola rolando em 10 jogos e Cyle Larin esta zerado em 14; o ultimo amistoso foi 1x1 com a Irlanda, com gol contra. Defesa solida, ataque travado. A Bosnia tem ranking FIFA 64 mas esta SUBAVALIADA: marcou 19 gols em 10 jogos nas eliminatorias, eliminou a Italia no playoff e empatou 1x1 com Italia, Pais de Gales e Austria - nao perde facil. Dzeko (40 anos, capitao, 73 gols pela selecao) fez 6 nas eliminatorias e segue decisivo. CONTEXTO COPA: sem altitude, junho ameno em Toronto; o unico atrito e a viagem e o fuso da Bosnia vindo da Europa. LEITURA: jogo de margem estreita, decidido pela organizacao e nao por goleada - dai o 1x0. Lambda do modelo: Canada 1,47 x Bosnia 0,82. PRODUTO: sem tip - modelo ancorado bate o mercado ponto a ponto (53,0/25,8/21,2; Under ja a -150), nenhuma divergencia chega a +4pp. LAB: o modelo sombra ve leve valor no empate (+270, ~+3pp)."
+    },
+    {
+      "jogo": "Paraguai x EUA (12/06, 22:00, Grupo D)",
+      "bolao": "EUA 1x0 (EP 2,39)",
+      "disc": "sem tip (Under ja caro)",
+      "louco": "X2 Paraguai (+245)",
+      "texto": "Mando real dos EUA (SoFi Stadium, Inglewood) - a API lista o Paraguai como mandante. FORMA: os EUA estao invictos em boa sequencia, criam chances e as vezes pecam na pontaria; o H2H e amplo a favor (5V-2E-2D em 9 jogos, venceram o ultimo 2x1 em amistoso no fim de 2025). O Paraguai e uma MURALHA sob Gustavo Alfaro: fez so 14 gols e sofreu 10 em 18 jogos nas eliminatorias da Conmebol (0,78 gol marcado por jogo, o menor ataque da competicao), comecou mal e cresceu no fim (6 vitorias nos ultimos 11). CONTEXTO COPA: SoFi com teto translucido, Los Angeles ameno e fuso curto para o Paraguai. LEITURA: jogo de bloco baixo - os EUA tem a bola, o Paraguai segura; o gol do anfitriao tende a sair de bola parada ou lance individual. Dai o 1x0 (EP 2,39), que captura a faixa de 4 pontos do Prodefy. Lambda do modelo: EUA 1,35 x Paraguai 0,85. PRODUTO: sem tip - modelo em linha com o mercado (48,6/27,5/24,0) e o Under ja esta caro a -165. LAB: maior valor aparente no X2/empate do Paraguai (+245), so como experimento."
+    }
+  ]
 }
