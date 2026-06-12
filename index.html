@@ -43,7 +43,7 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 .picks{display:grid;grid-template-columns:repeat(3,1fr);gap:11px;margin-bottom:6px} @media(max-width:560px){.picks{grid-template-columns:1fr}}
 .pick{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;text-align:center}
 .pick .pl{font-size:10px;text-transform:uppercase;letter-spacing:.4px;color:var(--mut)} .pick .pv{font-size:22px;font-weight:700;margin-top:4px} .pick.main{border-color:var(--gold)} .pick.main .pv{color:var(--gold)}
-.acard{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:14px;margin-bottom:12px}.acard h4{font-size:14px;color:var(--gold);margin-bottom:4px}.acard .meta{font-size:11px;color:var(--mut);margin-bottom:8px;line-height:1.5}.acard .body{font-size:13px;line-height:1.6;color:var(--txt)}</style></head><body><div class="wrap">
+.acard{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:14px;margin-bottom:12px}.acard h4{font-size:14px;color:var(--gold);margin-bottom:4px}.acard .meta{font-size:11px;color:var(--mut);margin-bottom:8px;line-height:1.5}.acard .body{font-size:13px;line-height:1.6;color:var(--txt)}.chartcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:14px}.charttitle{font-size:13px;font-weight:700;color:var(--gold);margin-bottom:8px}</style><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script></head><body><div class="wrap">
 
 <header><div class="live"><span class="dot"></span>AO VIVO</div>
 <h1><span class="o">&#9670;</span> ORACULO ESTATISTICO</h1>
@@ -96,6 +96,12 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
   <div class="def"><b>O que e:</b> mede a forca da nossa leitura de vencedor. Aposta 100 reais no resultado de maior probabilidade do modelo (1, X ou 2) em cada jogo, na odd do mercado. Diferente do Disciplinado (so com edge comprovado) e do Jogo Louco (maior edge), aqui o unico criterio e a nossa convicao no vencedor.</div>
 </div>
 
+<h2>Graficos de desempenho</h2>
+<div class="h2note">Os numeros crescem a cada jogo - com a Copa avancando a amostra fica robusta.</div>
+<div class="chartcard"><div class="charttitle">Lucro acumulado das 3 simulacoes (100 reais por jogo)</div><canvas id="cLucro" height="170"></canvas></div>
+<div class="chartcard"><div class="charttitle">Taxa de acerto (vencedor e placar exato)</div><canvas id="cAcerto" height="170"></canvas></div>
+<div class="chartcard"><div class="charttitle">Calibracao - Brier medio acumulado (menor = melhor): modelo vs mercado</div><canvas id="cBrier" height="170"></canvas></div>
+
 <h2>Analise fundamentada (jogos de hoje)</h2>
 <div class="h2note">Por que o palpite e o que e, com base nos dados.</div>
 <div class="analise" id="analiseBox">Carregando analise...</div>
@@ -137,6 +143,25 @@ function loadAgenda(){fetch("agenda.json?t="+Date.now()).then(function(r){return
   return '<div class="ni"><span class="h">'+g.data+' '+g.hora+'</span>'+tg+'<span>'+g.jogo+(g.grupo&&g.grupo!=="-"?' (Grupo '+g.grupo+')':'')+'</span></div>';}).join("");
   var el=$("agendaList");if(el&&h)el.innerHTML=h;
 }).catch(function(){});}
-loadStats();loadNews();loadAgenda();setInterval(loadStats,30000);setInterval(loadNews,30000);setInterval(loadAgenda,300000);
+function loadCharts(){if(!window.Chart)return;fetch("historico.json?t="+Date.now()).then(function(r){return r.json();}).then(function(H){
+  var labels=H.map(function(g){return g.jogo;});
+  function cum(k){var t=0;return H.map(function(g){t+=g[k];return t;});}
+  var gc="rgba(255,255,255,.07)",tc="#9fb3c8";
+  var base={responsive:true,plugins:{legend:{labels:{color:tc,boxWidth:12,font:{size:11}}}},scales:{x:{ticks:{color:tc,font:{size:10}},grid:{color:gc}},y:{ticks:{color:tc,font:{size:10}},grid:{color:gc}}}};
+  new Chart(document.getElementById("cLucro"),{type:"line",data:{labels:labels,datasets:[
+    {label:"Favorito do Modelo",data:cum("fav"),borderColor:"#3fb98a",backgroundColor:"#3fb98a",tension:.2},
+    {label:"Disciplinado",data:cum("disc"),borderColor:"#C8A24B",backgroundColor:"#C8A24B",tension:.2},
+    {label:"Jogo Louco",data:cum("louco"),borderColor:"#e06464",backgroundColor:"#e06464",tension:.2}]},options:base});
+  var vp=[],pp=[],sv=0,sp=0;H.forEach(function(g,i){sv+=g.venc;sp+=g.placar;vp.push(Math.round(sv/(i+1)*100));pp.push(Math.round(sp/(i+1)*100));});
+  var o2=JSON.parse(JSON.stringify(base));o2.scales.y.min=0;o2.scales.y.max=100;
+  new Chart(document.getElementById("cAcerto"),{type:"line",data:{labels:labels,datasets:[
+    {label:"% vencedor",data:vp,borderColor:"#3fb98a",backgroundColor:"#3fb98a",tension:.2},
+    {label:"% placar exato",data:pp,borderColor:"#C8A24B",backgroundColor:"#C8A24B",tension:.2}]},options:o2});
+  var bm=[],bk=[],tm=0,tk=0;H.forEach(function(g,i){tm+=g.brier_m;tk+=g.brier_k;bm.push((tm/(i+1)).toFixed(3));bk.push((tk/(i+1)).toFixed(3));});
+  new Chart(document.getElementById("cBrier"),{type:"line",data:{labels:labels,datasets:[
+    {label:"Modelo",data:bm,borderColor:"#C8A24B",backgroundColor:"#C8A24B",tension:.2},
+    {label:"Mercado",data:bk,borderColor:"#7fb0e6",backgroundColor:"#7fb0e6",tension:.2}]},options:base});
+}).catch(function(){});}
+loadStats();loadNews();loadAgenda();loadCharts();setInterval(loadStats,30000);setInterval(loadNews,30000);setInterval(loadAgenda,300000);
 }catch(e){}
 </script></body></html>

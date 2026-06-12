@@ -1,0 +1,26 @@
+[
+  {
+    "data": "11/06",
+    "jogo": "MEX x RSA",
+    "bolao_pts": 4,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.187,
+    "brier_k": 0.161,
+    "fav": 40,
+    "disc": 0,
+    "louco": -100
+  },
+  {
+    "data": "11/06",
+    "jogo": "KOR x CZE",
+    "bolao_pts": 3,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.641,
+    "brier_k": 0.613,
+    "fav": 165,
+    "disc": 0,
+    "louco": -100
+  }
+]
