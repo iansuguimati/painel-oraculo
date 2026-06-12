@@ -88,6 +88,14 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 
 
 
+<h2>3. Favorito do Modelo</h2>
+<div class="h2note">Simulacao: aposta 100 reais sempre no resultado que o modelo aponta como mais provavel (o nosso vencedor previsto), em todo jogo.</div>
+<div class="block">
+  <div class="blockTitle gold">Sempre no nosso favorito</div><div class="blockSub">benchmark: o quanto rende seguir o vencedor que cravamos</div>
+  <div class="pnl"><span class="big" id="simFav">R$ 0</span><span class="sm" id="simFavSm">apostado: R$ 0 - ROI: -</span></div>
+  <div class="def"><b>O que e:</b> mede a forca da nossa leitura de vencedor. Aposta 100 reais no resultado de maior probabilidade do modelo (1, X ou 2) em cada jogo, na odd do mercado. Diferente do Disciplinado (so com edge comprovado) e do Jogo Louco (maior edge), aqui o unico criterio e a nossa convicao no vencedor.</div>
+</div>
+
 <h2>Analise fundamentada (jogos de hoje)</h2>
 <div class="h2note">Por que o palpite e o que e, com base nos dados.</div>
 <div class="analise" id="analiseBox">Carregando analise...</div>
@@ -117,6 +125,7 @@ function loadStats(){fetch("stats.json?t="+Date.now()).then(function(r){return r
   var d=s.sim100.disc,l=s.sim100.louco;
   $("simDisc").textContent=money(d.pnl);$("simDisc").className="big "+(d.pnl>=0?"pos":"neg");$("simDiscSm").textContent="apostado: R$ "+d.stake+" - ROI: "+d.roi;
   $("simLouco").textContent=money(l.pnl);$("simLouco").className="big "+(l.pnl>=0?"pos":"neg");$("simLoucoSm").textContent="apostado: R$ "+l.stake+" - ROI: "+l.roi;
+  if(s.sim100.fav){var fv=s.sim100.fav;$("simFav").textContent=money(fv.pnl);$("simFav").className="big "+(fv.pnl>=0?"pos":"neg");$("simFavSm").textContent="apostado: R$ "+fv.stake+" - ROI: "+fv.roi;}
 }).catch(function(){});}
 function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"]};return m[t]||["t-lance","Ao vivo"];}
 function loadNews(){fetch("noticias.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
