@@ -3,7 +3,7 @@
   "tips": 0, "hit": "100% (2/2)", "roi": "-", "clv": "-", "brier": "0,414",
   "bolao": 7,
   "sim100": { "disc": {"stake": 0, "pnl": 0, "roi": "-"}, "louco": {"stake": 200, "pnl": -200, "roi": "-100%"} },
-  "lines": {"bolao": "Canada 2x0", "disc": "-", "louco": "-"},
-  "next": {"jogo": "Canada x Bosnia", "hora": "16:00 (Brasilia)"},
-  "analise": "CANADA x BOSNIA (Grupo B) - leitura PRELIMINAR, a ser refinada na janela de pre-jogo. Canada joga como mandante em Toronto e chega como favorito: ranking FIFA superior e jogadores de impacto como Alphonso Davies (Bayern) e Jonathan David, alem do empurrao de sediar a Copa. A Bosnia depende muito de Edin Dzeko e de transicoes, mas e inferior em profundidade de elenco. Palpite preliminar do bolao: Canada 2x0, apoiado em mando de campo e diferenca de elenco; total de gols ainda em aberto. NAO geramos probabilidades finais nem tip do Disciplinado ainda - isso exige escalacoes confirmadas, desfalques e odds de fechamento, que so teremos perto do apito (16:00 Brasilia). Numeros definitivos virao no pre-jogo; aqui evitamos cravar percentuais sem dado verificado."
+  "lines": {"bolao": "Canada 1x0", "disc": "-", "louco": "-"},
+  "next": {"jogo": "Bosnia-Herzegovina x Canada", "hora": "16:00 (Brasilia)"},
+  "analise": "BOSNIA-HERZEGOVINA x CANADA (Grupo B, sabado 16:00 Brasilia, Toronto) - leitura PRELIMINAR (modelo completo e escalacoes saem na janela pre-jogo). Canada joga em casa como co-anfitria e entra favorita: ranking FIFA ~30 contra a Bosnia em 64o, e o mercado aponta o 1x0 para o Canada como placar mais provavel. Trunfos do Canada: mando de campo em Toronto e Jonathan David (39 gols pela selecao, batedor de penalti) como referencia ofensiva. A Bosnia chega na 2a Copa da sua historia apos eliminar a Italia nos penaltis na repescagem e tem em Edin Dzeko (6 gols nas eliminatorias) o perigo principal. Palpite preliminar do bolao: Canada 1x0. No PRODUTO, a decisao Disciplinado/Louco fica para o pre-jogo, com xG, forma e escalacoes confirmadas para medir o Edge sobre o mercado."
 }
