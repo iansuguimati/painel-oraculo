@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "alerta",
+    "hora": "16:26",
+    "texto": "ALERTA - Bosnia x Canada: a BOSNIA abriu o placar! Gol contra a nossa leitura (Canada 1x0). O Canada ainda e favorito a buscar pelo mando e elenco, mas P(Canada vencer) cai e empate/Bosnia sobem. Acompanhando a reacao canadense."
+  },
+  {
     "tipo": "ao_vivo",
     "hora": "16:24",
     "texto": "AO VIVO - Bosnia x Canada (24 min): 0x0. Sai a PRIMEIRA chance clara do jogo - Jonathan David apareceu livre dentro da area e foi parado a queima-roupa por Vasilj, o Canada perdeu o gol feito. Do outro lado, Amar Memic arriscou de dentro da area pela Bosnia e mandou por cima. O jogo abriu um pouco depois do inicio travado, mas segue de margem estreita e Under 2,5 de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
@@ -43,35 +48,5 @@
     "tipo": "ultima_hora",
     "hora": "15:13",
     "texto": "ULTIMA HORA - Bosnia x Canada (16:00, BMO Field): escalacoes provaveis divulgadas. CANADA (provavel): Crepeau; Johnston, de Fougerolles, Cornelius, Laryea; Buchanan, Eustaquio, Kone, Millar; David, Larin. Desfalques pesados: Alphonso Davies (lesao na coxa) fora, Moise Bombito - principal zagueiro - cortado do torneio e Marcelo Flores com ligamento cruzado rompido; o Canada chega desfalcado na defesa e na criacao. BOSNIA (provavel): Vasilj; Kolasinac, Muharemovic, Katic, Dedic; Memic, Tahirovic, Basic, Bajraktarevic; Demirovic, Lukic - so perdeu o goleiro reserva (Hadzikic), forca principal intacta e Dzeko (40) como trunfo no banco. ODDS: Canada segue favorito, linha firme em torno de -125/-130 (1,80), sem movimento relevante; Under 2,5 curto (~-150), mercado confirmando jogo de poucos gols. LEITURA: as ausencias do Canada reforcam o placar magro, mas o mando e o ataque fraco da Bosnia (Dzeko unica referencia) mantem o favoritismo. PALPITE MANTIDO: Canada 1x0. Disciplinado segue sem tip - edge insuficiente."
-  },
-  {
-    "tipo": "historico",
-    "hora": "15:05",
-    "texto": "HISTORICO - Bosnia x Canada (16:00): H2H praticamente inexistente entre as selecoes (UEFA x Concacaf quase nunca se cruzam), entao o peso recai sobre ranking e mando. Ranking FIFA: Bosnia 64, Canada bem acima e jogando em casa - o mando REAL e do Canada no BMO Field (Toronto), apesar de a API listar a Bosnia como mandante por sorteio. Fator estreia: jogo de abertura de Copa tende a ser truncado e cauteloso, o que reforca a leitura de placar magro (nosso 1x0, lambda Canada 1,47 x Bosnia 0,82) e o Under 2,5. Unico atrito para o Canada e a Bosnia chegar embalada da Europa (eliminou a Italia no playoff). Sem mudanca no palpite: Canada 1x0. Disciplinado segue sem tip - nenhuma divergencia chega a +4pp."
-  },
-  {
-    "tipo": "analise",
-    "hora": "14:46",
-    "texto": "RESUMO DA ANALISE - Paraguai x EUA (22:00, SoFi): jogo de moeda. De-vig: EUA 48,5% | Empate 27,5% | Paraguai 24%. O modelo ve o EUA SUPERavaliado (ma fase: 3 derrotas em 4) e o Paraguai SUBavaliado (invicto ha 8, bateu Brasil, Argentina e Uruguai), mas sem Enciso. Bolao: EUA 1x0 (mais provavel). Disciplinado: Paraguai A OBSERVAR (+4pp, EV +10,6% a +295) - candidato a nossa 1a tip, confirma no pre-jogo. Lab: Paraguai."
-  },
-  {
-    "tipo": "analise",
-    "hora": "14:46",
-    "texto": "RESUMO DA ANALISE - Bosnia x Canada (16:00, Toronto): Canada favorita em casa, invicta ha 8 (6 sem sofrer gol); Bosnia com ataque fraco (Dzeko, 40). De-vig: Canada 53% | Empate 25,8% | Bosnia 21,2%; Under 2,5 ~56%. Bolao: Canada 1x0 (alt 2x0). Disciplinado: SEM TIP - o edge no Canada e +4pp, mas o EV a -125 da so +2,6% (a disciplina pesa o preco). Lab: Under 2,5 (+6pp)."
-  },
-  {
-    "tipo": "agenda",
-    "hora": "14:46",
-    "texto": "Motor ao vivo hoje: o esquenta comeca 2h antes de cada jogo (1 noticia a cada 30 min), escalacoes confirmadas 15 min antes, cobertura ao vivo e fechamento pelo apito oficial (cobre prorrogacao/penaltis)."
-  },
-  {
-    "tipo": "resumo",
-    "hora": "02:00",
-    "texto": "BALANCO RODADA 1: Mexico 2x0 RSA (4 pts) + Coreia 2x1 Tcheca (3 pts) = 7 pontos Prodefy, 100% nos vencedores (2/2). Disciplinado ficou sem tip nos dois. Brier do modelo 0,414 vs 0,388 do mercado (n=2). Favorito do Modelo acumula +R$205 (ROI +102,5%)."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "01:55",
-    "texto": "FIM: Coreia do Sul 2x1 Rep. Tcheca - 3 pontos no Prodefy (vencedor certo). Jogo Louco (Tcheca) perdeu -R$100; Favorito do Modelo (Coreia +165) lucrou +R$165."
   }
 ]

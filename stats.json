@@ -73,5 +73,11 @@
     "o2": "1,80 (-125)",
     "under": "1,67 (-150)",
     "hora": "16:01"
+  },
+  "alerta": {
+    "ativo": true,
+    "hora": "16:26",
+    "jogo": "Bosnia-Herzegovina x Canada",
+    "texto": "A BOSNIA (azarao) abriu o placar - contra a nossa previsao de Canada 1x0. Reavaliacao: o Canada segue favorito a reagir (mando real + elenco superior), mas o cenario mudou - P(Canada vencer) CAI, e empate/vitoria da Bosnia SOBEM. O nosso palpite de placar (Canada 1x0) ja nao se confirma; agora e torcer pela virada. O Jogo Louco (Empate +270) se valoriza."
   }
 }
