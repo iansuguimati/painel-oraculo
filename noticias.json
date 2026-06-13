@@ -1,6 +1,11 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "16:34",
+    "texto": "AO VIVO - Suica 1x0 Catar aos ~37 do 1o tempo (Levis Stadium, Santa Clara), perto do intervalo. Segue 1x0 com o penalti de Embolo (17). NOVIDADE - CARTOES: o Catar ja tem dois amarelos, o goleiro Abunada (pela falta que deu o penalti) e Abdulsallam (falta tatica cortando contra-ataque suico); nenhum vermelho. A Suica controla a posse e o ritmo; o Catar segue no bloco baixo sem criar chance clara. Leitura Suica 2x0 mantida - favorito amplo no comando."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "16:27",
     "texto": "AO VIVO - Suica 1x0 Catar aos ~28 do 1o tempo (Levi's Stadium, Santa Clara). Segue 1x0 com o gol de penalti de Embolo (17'); sem novos gols, sem cartoes. A Suica administra a posse e controla o ritmo, com o Catar ainda preso no bloco baixo sem criar chance clara. Leitura Suica 2x0 mantida - favorito amplo no comando, faltando o segundo gol para encaminhar."
   },
@@ -190,10 +195,5 @@
     "tipo": "fim",
     "hora": "17:34",
     "texto": "FIM DE JOGO - Bosnia 1x1 Canada (BMO Field, Toronto). A Bosnia abriu com Lukic de cabeca aos 21 (escanteio), mas o Canada empatou com Cyle Larin aos 78 (assistencia de Promise David, chute com desvio) e cravou o PRIMEIRO PONTO da historia do pais em Copas - eram 6 derrotas em 6 jogos (1986 e 2022). Sem expulsoes; amarelos para Johnston (11) e os bosnios. Total de 2 gols: UNDER 2,5 BATEU. BOLAO: palpite era Canada 1x0 - deu empate, vencedor e placar errados, 0 ponto nesta rodada (bolao segue com 7). SIMULACOES DE 100 REAIS: DISCIPLINADO ficou fora (sem tip, Edge abaixo de 4pp), nada arriscado; JOGO LOUCO bateu o Empate a +270 e lucrou 270 reais (CLV +5,7 por cento sobre a linha de fechamento +250); FAVORITO DO MODELO (Canada) perdeu 100 reais; FAVORITO DO MERCADO (Canada -125) perdeu 100 reais. Brier do jogo: modelo 0,876 x mercado 0,849 - os dois apostaram alto no Canada e foram contra o empate. Saldo do dia ate aqui: JOGO LOUCO +270 vivo, FAV/FAVMKT no vermelho. Proximo: Paraguai x EUA as 22h (Brasilia)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:20",
-    "texto": "AO VIVO - Bosnia x Canada (2o tempo, em torno de 63 min): segue Bosnia 1x0. O Canada subiu as linhas e empilha posse no campo bosnio, mas a Bosnia se fecha bem e ja assustou em contra-ataque. O lance mais perigoso foi do Canada: jogada de primeira no ultimo terco, Laryea pegou limpo e CARIMBOU O TRAVESSAO - quase o empate. A Bosnia administra o placar e a vantagem aerea que ja deu o gol. Leitura mantida: jogo aberto no fim, Canada precisando furar o bloco; mando ainda pesa para a busca do empate, mas o tempo corre contra o palpite (Bolao Canada 1x0). Under 2,5 (lab) firme: 1 gol ate aqui. Sem novo alerta - placar inalterado desde o gol da Bosnia."
   }
 ]
