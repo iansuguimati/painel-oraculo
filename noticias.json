@@ -1,6 +1,15 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:00",
+    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium, Inglewood. Palpite EUA 1x0 (EP 2,39). EUA mandante real, Paraguai no bloco baixo de Alfaro buscando o contra-ataque. 0x0 no inicio."
+  },
+  {
+    "tipo": "odds",
+    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +285 | Empate +220 | EUA +105 | Under 2,5 -180 (linha de fechamento FanDuel/DraftKings, base do CLV)"
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "22:06",
     "texto": "BOLA ROLANDO - comeca Paraguai x EUA (SoFi Stadium, Inglewood) pelo Grupo D. Placar 0x0. Escalacoes CONFIRMADAS. PARAGUAI (Alfaro): Gill; Caceres, G. Gomez, Alderete, Alonso; Cubas, Bobadilla; Almiron, Mauricio, D. Gomez; Sanabria - SEM Julio Enciso, fora por lesao na coxa, exatamente o cenario que o modelo ja previa (Mauricio, do Palmeiras, entra no lugar). EUA (Pochettino): Freese; Dest, Richards, Ream, Robinson; Tyler Adams, McKennie, Tillman; Pulisic, Balogun e companhia. Leitura mantida: EUA com a bola e o Paraguai em bloco baixo - palpite do bolao segue EUA 1x0 (lambda EUA 1,35 x Paraguai 0,85). Ausencia de Enciso confirma a vantagem dos anfitrioes; sem alerta."
   },
