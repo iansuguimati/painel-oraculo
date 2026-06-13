@@ -1,6 +1,11 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "20:00",
+    "texto": "AO VIVO - Marrocos x Brasil (2o tempo em andamento, por volta dos 55-60 min): segue 1 a 1 no MetLife. O Brasil voltou do intervalo buscando controlar a posse e empurrar o Marrocos, que se fechou bem e aposta nos contra-ataques de Brahim Diaz e Saibari. Ate aqui, sem novos gols ou cartoes decisivos no 2o tempo. Leitura segue de jogo aberto e equilibrado - o empate parcial reflete um Marrocos solido na marcacao e perigoso na transicao, exatamente o cenario de partida truncada que projetamos. Under 2,5 (laboratorio) ainda vivo com 2 gols no total. Bolao sem palpite fechado para este jogo. Proximo do dia: Escocia x Haiti as 22h (Brasilia)."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "19:52",
     "texto": "AO VIVO - Marrocos x Brasil (intervalo / inicio do 2o tempo): 1 a 1. Estreia do Brasil no Grupo C no MetLife, Nova Jersey. O Marrocos surpreendeu e abriu com Ismael Saibari no 1o tempo; Vini Jr empatou aos 32, jogada pela esquerda passando por Hakimi e finalizacao cruzada apos tabela com Bruno Guimaraes. Ancelotti escalou Alisson; Ibanez, Marquinhos (capitao), Gabriel Magalhaes e Douglas Santos; Casemiro e Bruno Guimaraes; Paqueta, Vini Jr, Raphinha e Igor Thiago (surpresa como referencia no ataque). Marrocos confirma ser o adversario duro que Ancelotti avisou. Leitura: jogo equilibrado, Brasil precisa furar um bloco bem armado; o 2o tempo decide."
   },
@@ -188,10 +193,5 @@
     "tipo": "esquenta",
     "hora": "17:00",
     "texto": "ESQUENTA - Marrocos x Brasil (19:00 de Brasilia, MetLife Stadium, Nova Jersey), estreia do Grupo C e o jogo grande do dia. Carlo Ancelotti faz sua primeira Copa no comando da Selecao com base definida: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Vini Jr e Matheus Cunha. DESFALQUE - lateral direita: Wesley foi cortado por lesao, com Danilo e Ibanez como opcoes. Do outro lado, um Marrocos perigoso, semifinalista de 2022, com Hakimi, Bounou, Mazraoui e Brahim Diaz, mas desfalcado de Aguerd e Ezzalzouli (lesao). Leitura: Brasil franco favorito mas contra a melhor selecao africana da geracao - palpite do bolao Brasil 2x1. Aquece a cobertura: FORMA, HISTORICO e ULTIMA HORA a seguir."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:54",
-    "texto": "AO VIVO - Suica x Catar (2o tempo, em torno de 50 min): Suica 1x0. O favoritismo helvetico se confirma no placar - Breel Embolo abriu aos 17 de penalti (falta do goleiro Abunada em Freuler, que levou amarelo), o PRIMEIRO gol de penalti da Suica em uma Copa. A Suica, 19a do ranking FIFA e invicta nas Eliminatorias europeias, controla a posse contra um Catar fechado no bloco. Sem alerta: placar segue a leitura de amplo favoritismo (mercado abriu Suica a -400, cerca de 80 por cento). Lances novos a seguir."
   }
 ]
