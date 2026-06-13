@@ -1,11 +1,11 @@
 {
   "updated": "12/06/2026",
   "tips": 0,
-  "hit": "67% (2/3)",
+  "hit": "75% (3/4)",
   "roi": "-",
   "clv": "-",
-  "brier": "0,568 (mercado 0,541)",
-  "bolao": 7,
+  "brier": "0,525 (mercado 0,506)",
+  "bolao": 10,
   "sim100": {
     "disc": {
       "stake": 0,
@@ -13,19 +13,19 @@
       "roi": "-"
     },
     "louco": {
-      "stake": 300,
-      "pnl": 70,
-      "roi": "+23,3%"
+      "stake": 400,
+      "pnl": -30,
+      "roi": "-7,5%"
     },
     "fav": {
-      "stake": 300,
-      "pnl": 105,
-      "roi": "+35,0%"
+      "stake": 400,
+      "pnl": 200,
+      "roi": "+50,0%"
     },
     "favmkt": {
-      "stake": 300,
-      "pnl": 105,
-      "roi": "+35,0%"
+      "stake": 400,
+      "pnl": 200,
+      "roi": "+50,0%"
     }
   },
   "lines": {
