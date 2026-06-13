@@ -1,6 +1,16 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "17:24",
+    "texto": "AO VIVO - Suica x Catar (2o tempo, em torno dos 65 min): Suica 1x0. O motor entrou no jogo ja em andamento (apito 16:00, Levi's Stadium, Santa Clara). GOL: Breel Embolo de penalti aos 17 do 1o tempo - falta do goleiro Abunada sobre Remo Freuler, penalti confirmado pelo VAR apos checagem de impedimento muito apertada a favor da Suica. A Suica de Murat Yakin administra a vantagem na estreia do Grupo B; o Catar de Lopetegui, apoiado em Akram Afif e no artilheiro Almoez Ali, busca o empate. Este jogo esta fora do nosso book do dia - sem palpite do bolao nem tip. Odds de fechamento no apito nao capturadas (engine entrou tarde). Acompanhando os proximos lances."
+  },
+  {
+    "tipo": "esquenta",
+    "hora": "17:24",
+    "texto": "ESQUENTA - Marrocos x Brasil (apito 19:00, MetLife Stadium, East Rutherford-NJ), estreia do Grupo C. PROVAVEIS - BRASIL (Ancelotti, 4-2-3-1): Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr; Matheus Cunha. MARROCOS (Regragui, 4-3-3): Bounou; Hakimi, Aguerd, Chadi Riad (ou Issa Diop), Mazraoui; Amrabat, Ounahi, Brahim Diaz (ou El Khannouss); Ez Abde, El Kaabi, Rahimi. FORMA: Brasil com 4 vitorias nos ultimos 6 e ataque quente (os 4 ultimos jogos passaram de 2,5 gols); Marrocos invicto ha mais de 10 meses e vencedor de 3 dos ultimos 4. MERCADO: Brasil favorito claro - vitoria entre 1,53 e 1,66 (implicito cerca de 62 a 65 por cento), Empate em torno de 3,75, Marrocos por volta de 5,00. CONTEXTO: 4o lugar em 2022, o Marrocos e o azarao mais perigoso da primeira fase e venceu o ultimo encontro direto (amistoso de 2023, 2x1 em Tanger). Sem palpite oficial do bolao registrado para este jogo ainda. Revisao com escalacoes confirmadas no PRE-JOGO."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "17:16",
     "texto": "AO VIVO - Suica 1x0 Catar, perto dos 75 min no Levis Stadium (Santa Clara). Placar inalterado desde o penalti de Embolo (17 do 1o tempo). A Suica administra a posse e o ritmo, controla o territorio e tenta o segundo gol que liquidaria; o Catar segue no bloco baixo, sem chegada clara para o empate. Sem novos gols, cartoes ou expulsoes. Under 2,5 segue na frente (linha de fechamento -110). Leitura de amplo favoritismo helvetico mantida."
   },
@@ -185,15 +195,5 @@
     "tipo": "bola_rolando",
     "hora": "22:00",
     "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium (Inglewood). Anfitriao EUA com forca total sob Pochettino; Paraguai de Alfaro montado no bloco baixo. Palpite: EUA 1x0."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:00",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +290 | Empate +220 | EUA +110 | Under 2,5 -180 (linha de fechamento, base do CLV)"
-  },
-  {
-    "tipo": "lance",
-    "hora": "22:40",
-    "texto": "GOL DOS EUA CONFIRMADO - Paraguai 0x2 EUA: Folarin Balogun marcou aos 31 min, em assistencia de Christian Pulisic (FIFA, ESPN, FOX Sports e CBS confirmam). Pulisic, que ja havia armado o gol contra de Bobadilla aos 7, virou o cerebro do ataque americano. Era o segundo gol que estava pendente de confirmacao - agora cravado. Placar 1x0 do palpite do bolao superado: EUA vencem com folga, mas o placar EXATO se afasta."
   }
 ]
