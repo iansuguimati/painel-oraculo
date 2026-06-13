@@ -19,13 +19,13 @@
     },
     "fav": {
       "stake": 400,
-      "pnl": 200,
-      "roi": "+50,0%"
+      "pnl": 196,
+      "roi": "+49,0%"
     },
     "favmkt": {
       "stake": 400,
-      "pnl": 200,
-      "roi": "+50,0%"
+      "pnl": 196,
+      "roi": "+49,0%"
     }
   },
   "lines": {
@@ -69,10 +69,10 @@
   "odds_fech": {
     "jogo": "Paraguai x EUA",
     "o1": "+320",
-    "ox": "+245",
-    "o2": "-105",
-    "under": "-165",
-    "hora": "22:00"
+    "ox": "+240",
+    "o2": "-110",
+    "under": "n/d",
+    "hora": "22:00 (retroativo)"
   },
   "alerta": {
     "ativo": false
