@@ -1,5 +1,17 @@
 [
   {
+    "tipo": "ao_vivo",
+    "texto": "AO VIVO - Paraguai x EUA (1o tempo, em torno de 25 min): EUA 1x0. Os EUA abriram cedo: aos 7 min Pulisic passou entre dois marcadores e cruzou, a bola desviou em McKennie e bateu em Damian Bobadilla para o gol contra. Cartao amarelo para Cesar Caceres (Paraguai) por falta. Placar fiel a nossa leitura - EUA 1x0 era o palpite do bolao -, com o anfitriao mandando e o Paraguai recuando. Sem mudanca na previsao."
+  },
+  {
+    "tipo": "ao_vivo",
+    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium, Los Angeles. Estreia dos EUA na Copa jogando em casa, com Pochettino no comando. O Paraguai de Gustavo Alfaro volta a uma Copa do Mundo apos 16 anos de ausencia."
+  },
+  {
+    "tipo": "odds",
+    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +285 | Empate +225 | EUA +110 | Under 2,5 -180 (linha de fechamento, base do CLV)."
+  },
+  {
     "tipo": "gol",
     "hora": "22:16",
     "texto": "GOL DOS EUA - Paraguai 0 x 1 EUA aos 7 minutos: Pulisic passou entre dois marcadores e cruzou rasteiro; Damian Bobadilla, tentando cortar, marcou CONTRA. O anfitriao abre cedo no SoFi Stadium. LEITURA: o placar bate EXATAMENTE com o nosso palpite (EUA 1x0). Gol cedo forca o Paraguai de Alfaro a abrir o bloco baixo; se o 1x0 segurar, cravamos placar e vencedor (faixa de 4 pontos do Prodefy). Favorito do Modelo e do Mercado (EUA) na frente."
@@ -179,20 +191,5 @@
     "tipo": "ao_vivo",
     "hora": "16:20",
     "texto": "AO VIVO - Bosnia x Canada (20 min): 0x0. Cartao amarelo para Alistair Johnston (Canada) aos 11 min por falta dura - primeiro nome no caderno. Jogo truncado, com paradas para atendimento (Amar Memic, da Bosnia, sentiu aos 12). Canada tenta circular a bola e a Bosnia segura no bloco baixo, sem chance clara de gol ate aqui - exatamente o roteiro de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo nao muda a previsao."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:18",
-    "texto": "AO VIVO - Bosnia x Canada (18 min): 0x0. Jogo truncado como previsto. Cartao AMARELO para Alistair Johnston (Canada) por entrada dura e parada para atendimento de Amar Memic (Bosnia) esfriaram o ritmo. Canada com a bola e o mando, Bosnia fechada no bloco baixo - nenhuma chance clara ainda. Leitura de placar magro e Under 2,5 segue de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo em zagueiro nao muda a previsao."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:11",
-    "texto": "AO VIVO - Bosnia x Canada (10 min): 0x0, sem gols nem cartoes. Inicio truncado e estudado, como a leitura previa - Canada tentando impor o mando com a bola e a Bosnia fechada no bloco baixo, esperando o erro. Nenhuma chance clara ainda; ritmo de jogo de margem estreita confirma o cenario de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
-  },
-  {
-    "tipo": "odds",
-    "hora": "16:01",
-    "texto": "ODDS NO APITO - Bosnia x Canada: Bosnia 4,90 (+390) | Empate 3,50 (+250) | Canada 1,80 (-125) | Under 2,5 1,67 (-150) (linha de fechamento, base do CLV)"
   }
 ]
