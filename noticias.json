@@ -1,116 +1,23 @@
 [
   {
     "tipo": "ao_vivo",
-    "hora": "22:08",
-    "texto": "GOL DOS EUA - Paraguai 0x1 EUA aos 7 minutos. Pulisic passou por dois marcadores e cruzou rasteiro; a bola desviou em McKennie e morreu nas redes em gol contra do volante Damian Bobadilla. Um dos gols mais rapidos de um anfitriao na historia da Copa. Placar bate na risca o palpite do bolao EUA 1x0 (lambda EUA 1,35 x Paraguai 0,85): anfitriao abre cedo e o Paraguai e obrigado a deixar o bloco baixo e se expor. Gol A FAVOR da leitura - sem alerta."
+    "hora": "22:28",
+    "texto": "AO VIVO - Paraguai x EUA (~28 min): EUA 1x0. Os EUA controlam apos o gol contra precoce de Damian Bobadilla (7 min, jogada de Pulisic e McKennie). O Paraguai parece abalado, comete varias faltas - Juan Caceres ja levou amarelo - e ainda nao respondeu. Cenario exatamente como a leitura previa: bloco baixo do Paraguai furado em lance individual/cruzamento, com os EUA dominando a bola. Palpite do bolao (EUA 1x0) batendo ate aqui. Under 2,5 (lab) firme: 1 gol. Sem alerta - gol a FAVOR da nossa previsao."
   },
   {
-    "tipo": "ao_vivo",
-    "texto": "AO VIVO - Paraguai x EUA (1o tempo, em torno de 25 min): EUA 1x0. Os EUA abriram cedo: aos 7 min Pulisic passou entre dois marcadores e cruzou, a bola desviou em McKennie e bateu em Damian Bobadilla para o gol contra. Cartao amarelo para Cesar Caceres (Paraguai) por falta. Placar fiel a nossa leitura - EUA 1x0 era o palpite do bolao -, com o anfitriao mandando e o Paraguai recuando. Sem mudanca na previsao."
-  },
-  {
-    "tipo": "ao_vivo",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium, Los Angeles. Estreia dos EUA na Copa jogando em casa, com Pochettino no comando. O Paraguai de Gustavo Alfaro volta a uma Copa do Mundo apos 16 anos de ausencia."
-  },
-  {
-    "tipo": "odds",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +285 | Empate +225 | EUA +110 | Under 2,5 -180 (linha de fechamento, base do CLV)."
-  },
-  {
-    "tipo": "gol",
-    "hora": "22:16",
-    "texto": "GOL DOS EUA - Paraguai 0 x 1 EUA aos 7 minutos: Pulisic passou entre dois marcadores e cruzou rasteiro; Damian Bobadilla, tentando cortar, marcou CONTRA. O anfitriao abre cedo no SoFi Stadium. LEITURA: o placar bate EXATAMENTE com o nosso palpite (EUA 1x0). Gol cedo forca o Paraguai de Alfaro a abrir o bloco baixo; se o 1x0 segurar, cravamos placar e vencedor (faixa de 4 pontos do Prodefy). Favorito do Modelo e do Mercado (EUA) na frente."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "22:00",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium, Los Angeles, pela 1a rodada do Grupo D. EUA jogam em casa como favoritos; Paraguai volta a uma Copa apos duas ausencias. Nosso palpite: EUA 1x0."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:00",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +320 (4,20) | Empate +240 (3,40) | EUA -110 (1,91) | Under 2,5 cerca de -175 (linha de fechamento, base do CLV). No fim o dinheiro mexeu um pouco para empate/Paraguai, mas os EUA fecham favoritos. Disciplinado SEM tip (edge dos EUA abaixo de +4pp)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:14",
-    "texto": "CONFIRMADO o gol - Paraguai 0x1 EUA, GOL CONTRA de Damian Bobadilla aos 7 minutos. Pulisic passou entre dois marcadores e cruzou; a bola desviou em Bobadilla e morreu nas redes (McKennie na origem da jogada). Placar 1x0 EUA no SoFi Stadium, exatamente o palpite do bolao (EUA 1x0, EP 2,39). O anfitriao abriu cedo e empurra o Paraguai para o bloco baixo - leitura do modelo mantida (lambda EUA 1,35 x Paraguai 0,85), agora com espaco para o segundo. Sem alerta: gol a favor da previsao."
-  },
-  {
-    "tipo": "ao_vivo",
+    "tipo": "lance",
     "hora": "22:07",
-    "texto": "GOL DOS EUA - Paraguai 0x1 EUA, gol logo aos 7 minutos no SoFi/Los Angeles Stadium. O anfitriao abre o placar cedo, exatamente a leitura do modelo (gol do mandante saindo de lance/bola parada). Autor ainda sendo confirmado pelas fontes (NBC e CBS ja dao EUA 1x0). Palpite do bolao EUA 1x0 (EP 2,39) reforcado - lambda EUA 1,35 x Paraguai 0,85. Agora o Paraguai de Alfaro precisa sair do bloco baixo, o que ABRE espaco para o segundo gol dos EUA. Sem alerta: gol a favor da previsao."
+    "texto": "GOL DOS EUA! Paraguai 0 x 1 EUA. Gol CONTRA de Damian Bobadilla aos 7 min: Christian Pulisic passou por dois marcadores e cruzou, Weston McKennie desviou e a bola bateu em Bobadilla para dentro. Terceiro gol mais rapido dos EUA em Copas do Mundo. Mais de 70 mil torcedores no SoFi Stadium festejaram o primeiro gol do anfitriao no seu Mundial. Palpite do bolao (EUA 1x0) no rumo certo."
   },
   {
     "tipo": "ao_vivo",
     "hora": "22:00",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium, Inglewood. Palpite EUA 1x0 (EP 2,39). EUA mandante real, Paraguai no bloco baixo de Alfaro buscando o contra-ataque. 0x0 no inicio."
+    "texto": "BOLA ROLANDO - comeca Paraguai x EUA (22:00, SoFi Stadium, Inglewood). Mando real dos EUA - a agenda lista o Paraguai como mandante. Placar 0x0."
   },
   {
     "tipo": "odds",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +285 | Empate +220 | EUA +105 | Under 2,5 -180 (linha de fechamento FanDuel/DraftKings, base do CLV)"
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:06",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA (SoFi Stadium, Inglewood) pelo Grupo D. Placar 0x0. Escalacoes CONFIRMADAS. PARAGUAI (Alfaro): Gill; Caceres, G. Gomez, Alderete, Alonso; Cubas, Bobadilla; Almiron, Mauricio, D. Gomez; Sanabria - SEM Julio Enciso, fora por lesao na coxa, exatamente o cenario que o modelo ja previa (Mauricio, do Palmeiras, entra no lugar). EUA (Pochettino): Freese; Dest, Richards, Ream, Robinson; Tyler Adams, McKennie, Tillman; Pulisic, Balogun e companhia. Leitura mantida: EUA com a bola e o Paraguai em bloco baixo - palpite do bolao segue EUA 1x0 (lambda EUA 1,35 x Paraguai 0,85). Ausencia de Enciso confirma a vantagem dos anfitrioes; sem alerta."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:05",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +285 | Empate +225 | EUA +110 | Under 2,5 -180 (linha de fechamento DraftKings/mercado, base do CLV). Mercado implicito aprox: EUA 47,6 / Empate 30,8 / Paraguai 26,0 - alinhado ao modelo (EUA 48,6 / 27,5 / 24,0). Under ainda caro."
-  },
-  {
-    "tipo": "ao_vivo",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium (Los Angeles). EUA com forca total no ataque - Pulisic, Tillman e Balogun - buscando posse e o gol cedo; Paraguai de Alfaro, com Julio Enciso confirmado na criacao, armado em bloco baixo para segurar e sair no contragolpe. Nosso palpite: EUA 1x0, leitura de jogo curto e de margem estreita."
-  },
-  {
-    "tipo": "odds",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +285 | Empate +225 | EUA +110 | Under 2,5 -175 (linha de fechamento, base do CLV). Movimento ate o apito: os EUA recuaram de algo perto de -105 para +110 (publico e steam tirando peso do anfitriao) enquanto o Under engordou de -130 para perto de -185 - mercado lendo jogo travado e de poucos gols, em linha com nosso EUA 1x0."
-  },
-  {
-    "tipo": "clima",
-    "hora": "21:55",
-    "texto": "CLIMA - Paraguai x EUA (apito 22:00, SoFi/Los Angeles Stadium): a casa esta pronta. O SoFi, rebatizado Los Angeles Stadium para a Copa, recebe a estreia dos EUA como pais-sede pela 1a vez em 32 anos, sobre o gramado natural instalado a pedido da FIFA. Demanda altissima: o ingresso mais barato saiu na faixa de um Jogo 5 de finais da NBA - casa lotada e maioria pro-EUA pronta para empurrar Pulisic e Balogun. A cerimonia de abertura rolou as 16:30 locais e o estadio ja ferve para o apito das 18:00 em Los Angeles, com presenca tambem da torcida albirroja do Paraguai. Tudo pronto para a bola rolar."
-  },
-  {
-    "tipo": "pre_jogo",
-    "texto": "PRE-JOGO - Paraguai x EUA (apito 22:00, SoFi Stadium, Los Angeles): escalacoes saindo. EUA (Pochettino): Freese; Alex Freeman, Chris Richards (volta de lesao no tornozelo), Tim Ream (c), Antonee Robinson; Tyler Adams, McKennie, Tillman; Pulisic, Dest e Balogun - nucleo titular confirmado em campo. PARAGUAI (Alfaro, bloco baixo): Gill/Gatito no gol, Gustavo Gomez (c), Alderete e Junior Alonso na zaga, Cubas e Diego Gomez no meio, Almiron e Sanabria na frente. ATENCAO: ao contrario do que os previews antecipavam (que davam o atacante como desfalque), Julio Enciso aparece RELACIONADO como titular em fontes de escalacao confirmada apos um susto de lesao - as fontes ainda divergem. Se confirmado, reforca o ataque paraguaio, mas NAO muda o palpite. Leitura mantida: posse dos EUA contra o bloco baixo do Paraguai, palpite segue EUA 1x0 (EP 2,39). Sem tip - modelo em linha com o mercado, Under ja caro."
-  },
-  {
-    "tipo": "alerta",
-    "hora": "21:46",
-    "texto": "ALERTA - Paraguai x EUA: Julio Enciso CONFIRMADO entre os titulares (nossa analise tinha registrado SEM Enciso). Enciso, do Strasbourg, e o melhor criador e finalizador do Paraguai e estava em duvida apos susto fisico no aquecimento contra a Nicaragua - agora comeca. Upgrade real na criacao paraguaia, que vinha sendo o ponto mais fraco do time (0,78 gol por jogo nas Eliminatorias). PALPITE MANTIDO EUA 1x0 (segue jogo de bloco baixo, EUA favoritos), mas P(1/X/2) ajustada de 48,6/27,5/24,0 -> cerca de 46/28/26 (Paraguai sobe um pouco). Goleiro tambem mudou: Orlando Gill no lugar de Roberto Fernandez."
-  },
-  {
-    "tipo": "pre_jogo",
-    "hora": "21:46",
-    "texto": "PRE-JOGO - Paraguai x EUA (apito 22:00, SoFi Stadium, Los Angeles): escalacoes CONFIRMADAS. EUA (Pochettino, forca total) 4-2-3-1: Freese; Dest, Chris Richards, Tim Ream (C), Antonee Robinson, Alex Freeman; Tyler Adams, McKennie; Pulisic, Malik Tillman; Balogun - Richards recuperado confirmado na zaga, sem desfalques relevantes. PARAGUAI (Alfaro) 4-2-3-1: Orlando Gill; Caceres, Gustavo Gomez (C), Alderete, Junior Alonso; Bobadilla, Cubas; Diego Gomez, ENCISO, Almiron; Sanabria. SURPRESA: Julio Enciso, dado como desfalque ate ontem, COMECA - ver ALERTA. Mudou tambem o goleiro: Orlando Gill no lugar de Roberto/Gatito Fernandez. ODDS PRE-APITO: EUA +105/+110, Empate +210/+225, Paraguai +285/+300; Under 2,5 caro a -185/-188 (mercado le jogo travado, dinheiro publico nos EUA). PALPITE MANTIDO: EUA 1x0 (EP 2,39); com Enciso em campo P(1/X/2) ajustada de 48,6/27,5/24,0 para cerca de 46/28/26. DISCIPLINADO segue FORA - edge dos EUA nao chega a +4pp e Under ja caro. Lab de olho no empate (+210/+225)."
-  },
-  {
-    "tipo": "ultima_hora",
-    "hora": "21:43",
-    "texto": "ULTIMA HORA - Paraguai x EUA (22:00, SoFi Stadium, Inglewood): provaveis escalacoes e linha de mercado. EUA com Freese no gol, defesa em tres com Chris Richards (recuperado do tornozelo) e o capitao Tim Ream, Pulisic na frente e a dupla Tyler Adams e McKennie no meio. Paraguai de Gustavo Alfaro no bloco baixo: Gustavo Gomez comandando a defesa, Almiron na criacao e Sanabria no ataque; Julio Enciso e duvida apos sair de maca em amistoso, mas Alfaro deixou a porta aberta. ODDS atuais: EUA -105 (1,95) | Empate +240 (3,40) | Paraguai +310 (4,10); Under 2,5 entre -166 e -184 (Paraguai teve 9 de 12 jogos das eliminatorias com menos de 2,5). Mercado em linha com o modelo (EUA 48,6 / Empate 27,5 / Paraguai 24,0) - nenhuma divergencia de +4pp, DISCIPLINADO segue sem tip. Palpite do bolao: EUA 1x0. Apito em cerca de 18 minutos."
-  },
-  {
-    "tipo": "fechamento",
-    "hora": "21:42",
-    "texto": "FIM DE JOGO - Bosnia x Canada terminou 1 a 1 (BMO Field, Toronto). Lukic abriu para a Bosnia aos 21 de cabeca em escanteio; Cyle Larin empatou aos 78, dois minutos apos entrar, completando passe de Promise David. O Canada conquistou o primeiro ponto da sua historia em Copas, em casa. xG: Canada 1,25 x 0,98 Bosnia - jogo equilibrado, anfitriao com mais posse e o azarao segurando bem ate o fim (Muharemovic ainda travou o quase 2x1 de Larin nos acrescimos). FECHAMENTO: palpite do bolao (Canada 1x0) ERROU vencedor e placar - 0 pontos Prodefy (6 placar exato / 3 vencedor). Simulacoes de 100 reais: DISCIPLINADO sem tip (0); JOGO LOUCO acertou o EMPATE a +270 e fez +270 reais (CLV +5,7 por cento sobre o fechamento de +250); FAVORITO DO MODELO (Canada) -100 reais; FAVORITO DO MERCADO (Canada -125) -100 reais. Under 2,5 (laboratorio) bateu: 2 gols no total. Brier do jogo: modelo 0,876 x mercado 0,849 - o empate pegou os dois de surpresa. Acumulado: bolao 7 pontos; acerto de vencedor 2 de 3."
-  },
-  {
-    "tipo": "ultima_hora",
-    "hora": "21:28",
-    "texto": "ULTIMA HORA - Paraguai x EUA (22:00, SoFi Stadium): escalacoes provaveis e movimento de odds. EUA (provavel 4-2-3-1): Freese; Freeman, Chris Richards, Tim Ream, Antonee Robinson; McKennie, Tyler Adams; Dest, Malik Tillman, Pulisic; Balogun. NOVIDADE BOA: Chris Richards, recuperado de lesao no tornozelo (perdeu os amistosos com Senegal e Alemanha), voltou a treinar e deve ser titular ao lado do capitao Ream; Pochettino sem desfalques relevantes. PARAGUAI (provavel 4-2-3-1): Roberto Fernandez; Juan Caceres, Gustavo Gomez, Omar Alderete, Junior Alonso; Damian Bobadilla, Andres Cubas; Diego Gomez, Enciso, Almiron; Sanabria. ATENCAO: Julio Enciso, que saiu de maca no aquecimento contra a Nicaragua, evoluiu bem e Gustavo Alfaro deixou a porta ABERTA para ele comecar - se jogar, e um upgrade na criacao paraguaia (a nossa analise tinha registrado SEM Enciso). ODDS - MOVIMENTO: o mercado abriu os EUA por volta de -105 e agora pagam +110/+105 (DraftKings/FanDuel), com Empate +220/+225 e Paraguai +285/+290; a linha dos EUA alongou um pouco (entrou dinheiro no empate/Paraguai), mas o anfitriao segue favorito a vitoria (implicito de consenso cerca de 46 por cento EUA, 29 Empate, 25 Paraguai). Under 2,5 curto (-180). LEITURA: o XI dos EUA reforca o favoritismo; com ou sem Enciso, o Paraguai aposta no bloco baixo de Alfaro e tenta o contra-ataque. PALPITE MANTIDO: EUA 1x0. Disciplinado segue SEM tip - o edge dos EUA (cerca de +3pp sobre o mercado) nao chega a +4pp. Lab de olho no empate (+245)."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "21:26",
-    "texto": "FIM: Canada 1x1 Bosnia. Lukic abriu aos 19' para a Bosnia; Cyle Larin (que tinha saido do time titular) empatou aos 78' e deu ao Canada o 1o ponto da historia em Copas. NOSSO BALANCO: o palpite Canada 1x0 NAO se confirmou (deu empate) - pela regra Prodefy vale 1 ponto (acertamos o gol do Canada, erramos o vencedor). Favorito do Modelo e do Mercado (Canada) PERDERAM (-100 cada). MAS o JOGO LOUCO cravou: apostou no EMPATE (+270) e GANHOU +270, saindo do vermelho! Bolao acumulado: 8 pts. Aproveitamento de vencedor: 2/3."
-  },
-  {
-    "tipo": "ultima_hora",
-    "hora": "21:23",
-    "texto": "ULTIMA HORA - Paraguai x EUA (apito 22:00, SoFi Stadium, Los Angeles): provaveis escalacoes batem com a leitura do palpite (EUA 1x0), sem surpresa que mude a previsao. EUA de Pochettino com forca total - Freese; Freeman, Richards, Ream, Robinson; Adams, McKennie; Pulisic, Tillman, Dest; Balogun. Paraguai de Alfaro no bloco baixo 4-3-3 - Roberto Fernandez; Caceres, G. Gomez, Alderete, Alonso; Cubas, D. Gomez, Ojeda; Almiron, Sanabria, Mauricio - SEM Julio Enciso (desfalque ja previsto). MOVIMENTO DE ODDS: mercado estavel e colado no modelo - EUA entre -110 e -105, Empate +225/+245, Paraguai +285; total em 2,5 gols com leitura de Under. Sem steam contra nos, sem desfalque-surpresa. Palpite mantido EUA 1x0 (EP 2,39), P(1/X/2) 48,6/27,5/24,0, lambda EUA 1,35 x Paraguai 0,85. DISCIPLINADO segue fora (modelo em linha com o mercado, Under ja caro a -165). SEM ALERTA."
+    "hora": "22:00",
+    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +320 | Empate +240 | EUA -105 | Under 2,5 -165 (linha de fechamento, base do CLV)"
   },
   {
     "tipo": "fim",
@@ -168,6 +75,11 @@
     "texto": "AO VIVO - Bosnia x Canada (37 min): Bosnia 1x0. O Canada acordou apos o gol e empilha pressao no campo bosnio, mas desperdicou a chance do empate - Jonathan David recebeu de bandeja apos falha na saida de bola adversaria e bateu sem forca nem direcao, para a furia do banco canadense. A Bosnia segue mandando nas bolas aereas (ja venceu a disputa dentro da area do Canada mais de uma vez) e foi exatamente dali que saiu o gol de Lukic. Leitura mantida da revisao das 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando ainda pesando para o Canada buscar a virada. Under 2,5 (lab) de pe: 1 gol ate aqui. Sem alerta - placar e leitura inalterados."
   },
   {
+    "tipo": "alerta",
+    "hora": "16:31",
+    "texto": "ALERTA - Bosnia x Canada: GOL da Bosnia (Lukic, escanteio), 1x0 contra o Canada no 1o tempo. AMEACA nosso palpite (Bolao Canada 1x0). ANTES: Canada ~57% | Empate ~24% | Bosnia ~19%. AGORA, com a Bosnia na frente: NOVO ~ Canada 33% | Empate 34% | Bosnia 33% (o Canada precisa virar 2 gols e o cenario de poucos gols agora joga CONTRA o 1x0 canadense; ainda ha ~55min e o mando). Under 2,5 (lab) segue vivo: 1 gol ate aqui."
+  },
+  {
     "tipo": "lance",
     "hora": "16:30",
     "texto": "GOL DA BOSNIA! Bosnia 1 x 0 Canada. Jovo Lukic marca de cabeca apos escanteio (cruzamento de Memic, desvio de Kolasinac no primeiro pau), seu 1o gol pela selecao. A azarona abre o placar contra a co-anfitria no 1o tempo (minuto exato ainda nao confirmado pelas fontes)."
@@ -188,8 +100,53 @@
     "texto": "AO VIVO - Bosnia x Canada (26 min): Bosnia 1x0. GOL DA BOSNIA - Jovo Lukic subiu mais que a marcacao e cabeceou para o fundo do gol apos escanteio cobrado na area, silenciando o BMO Field. O azarao furou o bloco e bateu a nossa leitura de Canada 1x0 ainda no primeiro tempo. O Canada mantem mando real e elenco superior para reagir, mas agora corre atras do prejuizo - P(Canada vencer) caiu e empate/Bosnia subiram. O Jogo Louco (Empate +270) se valoriza; o Disciplinado seguiu sem tip, entao sem exposicao no jogo."
   },
   {
+    "tipo": "alerta",
+    "hora": "16:26",
+    "texto": "ALERTA - Bosnia x Canada: a BOSNIA abriu o placar! Gol contra a nossa leitura (Canada 1x0). O Canada ainda e favorito a buscar pelo mando e elenco, mas P(Canada vencer) cai e empate/Bosnia sobem. Acompanhando a reacao canadense."
+  },
+  {
     "tipo": "ao_vivo",
     "hora": "16:24",
     "texto": "AO VIVO - Bosnia x Canada (24 min): 0x0. Sai a PRIMEIRA chance clara do jogo - Jonathan David apareceu livre dentro da area e foi parado a queima-roupa por Vasilj, o Canada perdeu o gol feito. Do outro lado, Amar Memic arriscou de dentro da area pela Bosnia e mandou por cima. O jogo abriu um pouco depois do inicio travado, mas segue de margem estreita e Under 2,5 de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "16:20",
+    "texto": "AO VIVO - Bosnia x Canada (20 min): 0x0. Cartao amarelo para Alistair Johnston (Canada) aos 11 min por falta dura - primeiro nome no caderno. Jogo truncado, com paradas para atendimento (Amar Memic, da Bosnia, sentiu aos 12). Canada tenta circular a bola e a Bosnia segura no bloco baixo, sem chance clara de gol ate aqui - exatamente o roteiro de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo nao muda a previsao."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "16:18",
+    "texto": "AO VIVO - Bosnia x Canada (18 min): 0x0. Jogo truncado como previsto. Cartao AMARELO para Alistair Johnston (Canada) por entrada dura e parada para atendimento de Amar Memic (Bosnia) esfriaram o ritmo. Canada com a bola e o mando, Bosnia fechada no bloco baixo - nenhuma chance clara ainda. Leitura de placar magro e Under 2,5 segue de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo em zagueiro nao muda a previsao."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "16:11",
+    "texto": "AO VIVO - Bosnia x Canada (10 min): 0x0, sem gols nem cartoes. Inicio truncado e estudado, como a leitura previa - Canada tentando impor o mando com a bola e a Bosnia fechada no bloco baixo, esperando o erro. Nenhuma chance clara ainda; ritmo de jogo de margem estreita confirma o cenario de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
+  },
+  {
+    "tipo": "odds",
+    "hora": "16:01",
+    "texto": "ODDS NO APITO - Bosnia x Canada: Bosnia 4,90 (+390) | Empate 3,50 (+250) | Canada 1,80 (-125) | Under 2,5 1,67 (-150) (linha de fechamento, base do CLV)"
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "16:02",
+    "texto": "BOLA ROLANDO - comeca Bosnia x Canada (16:00, BMO Field, Toronto). Placar 0x0. Canada com mando real e favorito; nossa leitura segue Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82), Under 2,5 como cenario base. Bosnia aposta no bloco baixo com Dzeko (40) guardado no banco. Disciplinado sem tip - edge no Canada nao atinge +4pp com EV positivo. Acompanhando os primeiros lances."
+  },
+  {
+    "tipo": "clima",
+    "hora": "15:58",
+    "texto": "CLIMA - Bosnia x Canada (16:00, BMO Field): tudo pronto para o apito. BMO Field lotado em Toronto (casa praticamente esgotada, ~96% dos ingressos vendidos), clima de festa na estreia do Canada como pais-sede da Copa. Equipes no tunel, hinos nacionais a caminho e arbitragem de Facundo Tello (Argentina). Ambiente de jogo grande, mas a leitura nao muda: estreia de Mundial costuma ser truncada e cautelosa. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Disciplinado segue sem tip."
+  },
+  {
+    "tipo": "pre_jogo",
+    "hora": "15:34",
+    "texto": "PRE-JOGO - Bosnia x Canada (16:00, BMO Field): escalacoes CONFIRMADAS. CANADA (4-4-2): Crepeau; Laryea, Cornelius, de Fougerolles, Johnston; Millar, Kone, Eustaquio (capitao), Buchanan; Oluwaseyi, David. NOVIDADE: Tani Oluwaseyi ganha a vaga de Cyle Larin no ataque - aposta na mobilidade ao lado de Jonathan David; Alphonso Davies confirmado fora (lesao na coxa). BOSNIA (4-4-2): Vasilj; Kolasinac, Muharemovic, Katic, Dedic; Memic, Tahirovic, Basic, Bajraktarevic; Demirovic, Lukic - Edin Dzeko (40) comeca no BANCO, como esperado, guardado para a reta final. LEITURA: a troca Larin->Oluwaseyi nao muda a tese de placar magro; o Canada segue com mando real, defesa solida e ataque em construcao, enquanto a Bosnia aposta no bloco baixo e em Demirovic. PALPITE MANTIDO: Canada 1x0 (EP 2,52), modelo lambda Canada 1,47 x Bosnia 0,82. Disciplinado: SEM TIP - o edge no Canada nao chega a +4pp com EV positivo a -125 (1,80). Lab segue de olho no empate (+270)."
+  },
+  {
+    "tipo": "ultima_hora",
+    "hora": "15:13",
+    "texto": "ULTIMA HORA - Bosnia x Canada (16:00, BMO Field): escalacoes provaveis divulgadas. CANADA (provavel): Crepeau; Johnston, de Fougerolles, Cornelius, Laryea; Buchanan, Eustaquio, Kone, Millar; David, Larin. Desfalques pesados: Alphonso Davies (lesao na coxa) fora, Moise Bombito - principal zagueiro - cortado do torneio e Marcelo Flores com ligamento cruzado rompido; o Canada chega desfalcado na defesa e na criacao. BOSNIA (provavel): Vasilj; Kolasinac, Muharemovic, Katic, Dedic; Memic, Tahirovic, Basic, Bajraktarevic; Demirovic, Lukic - so perdeu o goleiro reserva (Hadzikic), forca principal intacta e Dzeko (40) como trunfo no banco. ODDS: Canada segue favorito, linha firme em torno de -125/-130 (1,80), sem movimento relevante; Under 2,5 curto (~-150), mercado confirmando jogo de poucos gols. LEITURA: as ausencias do Canada reforcam o placar magro, mas o mando e o ataque fraco da Bosnia (Dzeko unica referencia) mantem o favoritismo. PALPITE MANTIDO: Canada 1x0. Disciplinado segue sem tip - edge insuficiente."
   }
 ]
