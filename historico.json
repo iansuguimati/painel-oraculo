@@ -50,18 +50,5 @@
     "disc": 0,
     "louco": -100,
     "favmkt": 95
-  },
-  {
-    "data": "12/06",
-    "jogo": "PAR x USA",
-    "bolao_pts": 3,
-    "venc": 1,
-    "placar": 0,
-    "brier_m": 0.399,
-    "brier_k": 0.397,
-    "fav": 95,
-    "disc": 0,
-    "louco": -100,
-    "favmkt": 95
   }
 ]
