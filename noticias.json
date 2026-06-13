@@ -5,6 +5,11 @@
     "texto": "AO VIVO - Paraguai x EUA (cerca de 35 min, SoFi Stadium, Inglewood): EUA 1x0. Os Estados Unidos comecaram arrasadores e abriram cedo - aos 7 min Pulisic rasgou a marcacao e cruzou, McKennie participou da jogada e a bola desviou em Damian Bobadilla: GOL CONTRA, 1x0 anfitriao (um dos gols mais rapidos dos EUA em Copas). Balogun ainda balancou a rede logo depois, mas o gol foi anulado por impedimento. O Paraguai de Alfaro se fechou no bloco baixo, exatamente como previsto, e quase nao passou do meio-campo. Palpite do bolao (EUA 1x0) batendo em cheio ate aqui - placar exato vivo. Algumas fontes ja relatam um possivel segundo gol de Balogun; aguardando confirmacao cruzada antes de cravar."
   },
   {
+    "tipo": "ao_vivo",
+    "hora": "22:28",
+    "texto": "AO VIVO - Paraguai x EUA (~28 min): EUA 1x0. Os EUA controlam apos o gol contra precoce de Damian Bobadilla (7 min, jogada de Pulisic e McKennie). O Paraguai parece abalado, comete varias faltas - Juan Caceres ja levou amarelo - e ainda nao respondeu. Cenario exatamente como a leitura previa: bloco baixo do Paraguai furado em lance individual/cruzamento, com os EUA dominando a bola. Palpite do bolao (EUA 1x0) batendo ate aqui. Under 2,5 (lab) firme: 1 gol. Sem alerta - gol a FAVOR da nossa previsao."
+  },
+  {
     "tipo": "lance",
     "hora": "22:07",
     "texto": "GOL DOS EUA - Paraguai 0x1 EUA aos 7 min: GOL CONTRA de Damian Bobadilla. Pulisic passou pela defesa e cruzou rasteiro, McKennie participou e a bola entrou apos desvio do volante paraguaio. Anfitriao na frente cedo - o cenario 1x0 do nosso palpite ja no placar."
@@ -21,33 +26,18 @@
   },
   {
     "tipo": "ao_vivo",
-    "hora": "22:28",
-    "texto": "AO VIVO - Paraguai x EUA (~28 min): EUA 1x0. Os EUA controlam apos o gol contra precoce de Damian Bobadilla (7 min, jogada de Pulisic e McKennie). O Paraguai parece abalado, comete varias faltas - Juan Caceres ja levou amarelo - e ainda nao respondeu. Cenario exatamente como a leitura previa: bloco baixo do Paraguai furado em lance individual/cruzamento, com os EUA dominando a bola. Palpite do bolao (EUA 1x0) batendo ate aqui. Under 2,5 (lab) firme: 1 gol. Sem alerta - gol a FAVOR da nossa previsao."
-  },
-  {
-    "tipo": "lance",
-    "hora": "22:07",
-    "texto": "GOL DOS EUA! Paraguai 0 x 1 EUA. Gol CONTRA de Damian Bobadilla aos 7 min: Christian Pulisic passou por dois marcadores e cruzou, Weston McKennie desviou e a bola bateu em Bobadilla para dentro. Terceiro gol mais rapido dos EUA em Copas do Mundo. Mais de 70 mil torcedores no SoFi Stadium festejaram o primeiro gol do anfitriao no seu Mundial. Palpite do bolao (EUA 1x0) no rumo certo."
-  },
-  {
-    "tipo": "ao_vivo",
     "hora": "22:00",
     "texto": "BOLA ROLANDO - comeca Paraguai x EUA (22:00, SoFi Stadium, Inglewood). Mando real dos EUA - a agenda lista o Paraguai como mandante. Placar 0x0."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:00",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +320 | Empate +240 | EUA -105 | Under 2,5 -165 (linha de fechamento, base do CLV)"
-  },
-  {
-    "tipo": "fim",
-    "hora": "17:34",
-    "texto": "FIM DE JOGO - Bosnia 1x1 Canada (BMO Field, Toronto). A Bosnia abriu com Lukic de cabeca aos 21 (escanteio), mas o Canada empatou com Cyle Larin aos 78 (assistencia de Promise David, chute com desvio) e cravou o PRIMEIRO PONTO da historia do pais em Copas - eram 6 derrotas em 6 jogos (1986 e 2022). Sem expulsoes; amarelos para Johnston (11) e os bosnios. Total de 2 gols: UNDER 2,5 BATEU. BOLAO: palpite era Canada 1x0 - deu empate, vencedor e placar errados, 0 ponto nesta rodada (bolao segue com 7). SIMULACOES DE 100 REAIS: DISCIPLINADO ficou fora (sem tip, Edge abaixo de 4pp), nada arriscado; JOGO LOUCO bateu o Empate a +270 e lucrou 270 reais (CLV +5,7 por cento sobre a linha de fechamento +250); FAVORITO DO MODELO (Canada) perdeu 100 reais; FAVORITO DO MERCADO (Canada -125) perdeu 100 reais. Brier do jogo: modelo 0,876 x mercado 0,849 - os dois apostaram alto no Canada e foram contra o empate. Saldo do dia ate aqui: JOGO LOUCO +270 vivo, FAV/FAVMKT no vermelho. Proximo: Paraguai x EUA as 22h (Brasilia)."
   },
   {
     "tipo": "ao_vivo",
     "hora": "20:23",
     "texto": "AO VIVO - Bosnia x Canada (reta final, por volta dos 85+ min): segue Bosnia 1x0. Pelo relogio real (apito as 16:00 de Brasilia) o jogo ja entrou nos minutos finais e acrescimos - bem alem do que o painel vinha marcando. O Canada teve cerca de 68 por cento de posse e 9 escanteios, mas esbarrou o jogo todo no bloco baixo bosnio; Jonathan David desperdicou a melhor chance parando no goleiro Vasilj. Gol unico: Lukic de cabeca aos 21 (escanteio de Basic, ajeitada de Kolasinac). Palpite do bolao (Canada 1x0) praticamente perdido - so um milagre nos acrescimos salva o placar exato; cenario aponta vitoria da Bosnia. Under 2,5 (laboratorio) a um passo de bater: 1 gol ate aqui. O fechamento com pontos e simulacoes sai assim que o apito final for confirmado pelas fontes."
+  },
+  {
+    "tipo": "fim",
+    "hora": "17:34",
+    "texto": "FIM DE JOGO - Bosnia 1x1 Canada (BMO Field, Toronto). A Bosnia abriu com Lukic de cabeca aos 21 (escanteio), mas o Canada empatou com Cyle Larin aos 78 (assistencia de Promise David, chute com desvio) e cravou o PRIMEIRO PONTO da historia do pais em Copas - eram 6 derrotas em 6 jogos (1986 e 2022). Sem expulsoes; amarelos para Johnston (11) e os bosnios. Total de 2 gols: UNDER 2,5 BATEU. BOLAO: palpite era Canada 1x0 - deu empate, vencedor e placar errados, 0 ponto nesta rodada (bolao segue com 7). SIMULACOES DE 100 REAIS: DISCIPLINADO ficou fora (sem tip, Edge abaixo de 4pp), nada arriscado; JOGO LOUCO bateu o Empate a +270 e lucrou 270 reais (CLV +5,7 por cento sobre a linha de fechamento +250); FAVORITO DO MODELO (Canada) perdeu 100 reais; FAVORITO DO MERCADO (Canada -125) perdeu 100 reais. Brier do jogo: modelo 0,876 x mercado 0,849 - os dois apostaram alto no Canada e foram contra o empate. Saldo do dia ate aqui: JOGO LOUCO +270 vivo, FAV/FAVMKT no vermelho. Proximo: Paraguai x EUA as 22h (Brasilia)."
   },
   {
     "tipo": "ao_vivo",
@@ -105,16 +95,6 @@
     "texto": "GOL DA BOSNIA! Bosnia 1 x 0 Canada. Jovo Lukic marca de cabeca apos escanteio (cruzamento de Memic, desvio de Kolasinac no primeiro pau), seu 1o gol pela selecao. A azarona abre o placar contra a co-anfitria no 1o tempo (minuto exato ainda nao confirmado pelas fontes)."
   },
   {
-    "tipo": "odds",
-    "hora": "16:01",
-    "texto": "ODDS NO APITO - Bosnia x Canada: Bosnia +380 | Empate +250 | Canada -125 | Under 2,5 -145 (linha de fechamento de consenso FanDuel/DraftKings, base do CLV)."
-  },
-  {
-    "tipo": "lance",
-    "hora": "16:00",
-    "texto": "BOLA ROLANDO - comeca Bosnia-Herzegovina x Canada (16:00, BMO Field, Toronto), estreia do Grupo B e o 1o jogo de Copa do Mundo masculina disputado em solo canadense."
-  },
-  {
     "tipo": "ao_vivo",
     "hora": "16:28",
     "texto": "AO VIVO - Bosnia x Canada (26 min): Bosnia 1x0. GOL DA BOSNIA - Jovo Lukic subiu mais que a marcacao e cabeceou para o fundo do gol apos escanteio cobrado na area, silenciando o BMO Field. O azarao furou o bloco e bateu a nossa leitura de Canada 1x0 ainda no primeiro tempo. O Canada mantem mando real e elenco superior para reagir, mas agora corre atras do prejuizo - P(Canada vencer) caiu e empate/Bosnia subiram. O Jogo Louco (Empate +270) se valoriza; o Disciplinado seguiu sem tip, entao sem exposicao no jogo."
@@ -145,14 +125,19 @@
     "texto": "AO VIVO - Bosnia x Canada (10 min): 0x0, sem gols nem cartoes. Inicio truncado e estudado, como a leitura previa - Canada tentando impor o mando com a bola e a Bosnia fechada no bloco baixo, esperando o erro. Nenhuma chance clara ainda; ritmo de jogo de margem estreita confirma o cenario de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
   },
   {
-    "tipo": "odds",
-    "hora": "16:01",
-    "texto": "ODDS NO APITO - Bosnia x Canada: Bosnia 4,90 (+390) | Empate 3,50 (+250) | Canada 1,80 (-125) | Under 2,5 1,67 (-150) (linha de fechamento, base do CLV)"
-  },
-  {
     "tipo": "ao_vivo",
     "hora": "16:02",
     "texto": "BOLA ROLANDO - comeca Bosnia x Canada (16:00, BMO Field, Toronto). Placar 0x0. Canada com mando real e favorito; nossa leitura segue Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82), Under 2,5 como cenario base. Bosnia aposta no bloco baixo com Dzeko (40) guardado no banco. Disciplinado sem tip - edge no Canada nao atinge +4pp com EV positivo. Acompanhando os primeiros lances."
+  },
+  {
+    "tipo": "odds",
+    "hora": "16:01",
+    "texto": "ODDS NO APITO - Bosnia x Canada: Bosnia +380 | Empate +250 | Canada -125 | Under 2,5 -145 (linha de fechamento de consenso FanDuel/DraftKings, base do CLV)."
+  },
+  {
+    "tipo": "lance",
+    "hora": "16:00",
+    "texto": "BOLA ROLANDO - comeca Bosnia-Herzegovina x Canada (16:00, BMO Field, Toronto), estreia do Grupo B e o 1o jogo de Copa do Mundo masculina disputado em solo canadense."
   },
   {
     "tipo": "clima",
