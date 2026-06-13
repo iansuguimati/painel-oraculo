@@ -1,6 +1,31 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "19:44",
+    "texto": "AO VIVO - Marrocos 1x1 Brasil (fim do 1o tempo, MetLife). Jogo aberto e o Marrocos foi melhor: 12 finalizacoes nos primeiros 30 min, mais do que o Brasil tinha sofrido em qualquer um dos seus 6 jogos anteriores em Copas. O Brasil sofreu com a intensidade dos Leoes do Atlas, mas a individualidade de Vini Jr deixou tudo igual. Leitura: jogo de gols (Over ganhando forca), Brasil precisa ajustar a marcacao no meio para o 2o tempo."
+  },
+  {
+    "tipo": "lance",
+    "hora": "19:35",
+    "texto": "GOL DO BRASIL - Vinicius Jr empata: 1x1. Vini recebeu lancamento de Bruno Guimaraes pela esquerda, cortou para a direita e bateu cruzado, sem chance para Bounou. Empate no MetLife."
+  },
+  {
+    "tipo": "lance",
+    "hora": "19:23",
+    "texto": "GOL DO MARROCOS - Ismael Saibari abre o placar aos 21 min: por cobertura sobre Alisson. Marrocos 1x0 Brasil, premiando a pressao inicial dos africanos."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "19:02",
+    "texto": "BOLA ROLANDO - comeca Marrocos x Brasil (Grupo C, MetLife Stadium, Nova Jersey). Estreia de Ancelotti em Copa pelo Brasil. Sem palpite registrado do modelo para este jogo (tarefa diaria nao gerou analise)."
+  },
+  {
+    "tipo": "resultado",
+    "hora": "18:05",
+    "texto": "FIM: Suica 1x1 Catar (Levi's Stadium). Breel Embolo abriu de penalti no 1o tempo para a Suica; o capitao Boualem Khoukhi cabeceou no fim e garantiu ao Catar o 1o ponto da historia em Copas do Mundo. Empate no apagar das luzes."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "19:33",
     "texto": "AO VIVO 32' - GOL DO BRASIL! VINICIUS JR empata: tabela com a defesa marroquina, corte para a direita e finalizacao no angulo direito de Bono. MARROCOS 1x1 BRASIL no MetLife. Reacao rapida do Brasil tres minutos depois de levar; nosso palpite Brasil 2x1 volta a ficar vivo, mas o jogo segue aberto e ja com 2 gols (Over respira)."
   },
@@ -168,30 +193,5 @@
     "tipo": "ao_vivo",
     "hora": "16:51",
     "texto": "AO VIVO - Suica 1x0 Catar aos ~10 do 2o tempo (Levis Stadium, Santa Clara), cerca de 55 min de jogo. Segue 1x0 com o penalti de Embolo (17 do 1o tempo). A Suica mantem a posse e o controle territorial, empurrando o Catar para o campo de defesa em busca do segundo gol que encaminha o jogo; o Catar segue no bloco baixo, sem chance clara de empate. Sem novos gols, sem expulsao. Leitura Suica 2x0 mantida - favorito amplo no comando, falta liquidar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:42",
-    "texto": "AO VIVO - comeca o 2o tempo: Suica 1x0 Catar no Levis Stadium (Santa Clara). Sem mudancas no intervalo no placar; a Suica volta com a posse e o controle, buscando o segundo gol para encaminhar. Catar segue no bloco baixo tentando o contra-ataque. Leitura Suica 2x0 mantida."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:38",
-    "texto": "INTERVALO - Suica 1x0 Catar no Levis Stadium (Santa Clara). A Suica fecha o 1o tempo na frente com o penalti de Embolo (17), depois de assustar cedo com Ndoye (defesa de Abunada). O Catar ficou preso no bloco baixo, sem chegada clara, e levou dois amarelos (o goleiro Abunada e Abdulsallam). Favorito amplo no controle; leitura Suica 2x0 mantida - falta o segundo gol para encaminhar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:34",
-    "texto": "AO VIVO - Suica 1x0 Catar aos ~37 do 1o tempo (Levis Stadium, Santa Clara), perto do intervalo. Segue 1x0 com o penalti de Embolo (17). NOVIDADE - CARTOES: o Catar ja tem dois amarelos, o goleiro Abunada (pela falta que deu o penalti) e Abdulsallam (falta tatica cortando contra-ataque suico); nenhum vermelho. A Suica controla a posse e o ritmo; o Catar segue no bloco baixo sem criar chance clara. Leitura Suica 2x0 mantida - favorito amplo no comando."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:27",
-    "texto": "AO VIVO - Suica 1x0 Catar aos ~28 do 1o tempo (Levi's Stadium, Santa Clara). Segue 1x0 com o gol de penalti de Embolo (17'); sem novos gols, sem cartoes. A Suica administra a posse e controla o ritmo, com o Catar ainda preso no bloco baixo sem criar chance clara. Leitura Suica 2x0 mantida - favorito amplo no comando, faltando o segundo gol para encaminhar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:24",
-    "texto": "AO VIVO - Suica 1x0 Catar aos ~24 do 1o tempo (Levi's Stadium, Santa Clara). GOL DA SUICA - Breel Embolo converteu PENALTI aos 17 minutos e abriu o placar. O favorito amplo saiu na frente como mandava a leitura; agora o Catar de Lopetegui precisa deixar o bloco baixo e se expor, o que tende a abrir espaco. Sem expulsoes ate aqui. Leitura Suica 2x0 mantida - placar no trilho previsto."
   }
 ]
