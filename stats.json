@@ -68,11 +68,11 @@
   ],
   "odds_fech": {
     "jogo": "Suica x Catar",
-    "o1": "-360 (1,28) Suica",
-    "ox": "+500 (6,00)",
-    "o2": "+950 (10,50) Catar",
-    "under": "+115 (2,15)",
-    "hora": "16:02 (no apito)"
+    "o1": "-400",
+    "ox": "+475",
+    "o2": "+1000",
+    "under": "-110",
+    "hora": "16:00"
   },
   "alerta": {
     "ativo": false

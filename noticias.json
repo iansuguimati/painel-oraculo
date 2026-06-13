@@ -1,6 +1,21 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "16:54",
+    "texto": "AO VIVO - Suica x Catar (2o tempo, em torno de 50 min): Suica 1x0. O favoritismo helvetico se confirma no placar - Breel Embolo abriu aos 17 de penalti (falta do goleiro Abunada em Freuler, que levou amarelo), o PRIMEIRO gol de penalti da Suica em uma Copa. A Suica, 19a do ranking FIFA e invicta nas Eliminatorias europeias, controla a posse contra um Catar fechado no bloco. Sem alerta: placar segue a leitura de amplo favoritismo (mercado abriu Suica a -400, cerca de 80 por cento). Lances novos a seguir."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "16:53",
+    "texto": "BOLA ROLANDO - comeca Suica x Catar (Grupo B, Levi's Stadium, Santa Clara). Suica franca favorita; Catar disputa sua 2a Copa do Mundo. Cobertura ao vivo retomada."
+  },
+  {
+    "tipo": "odds",
+    "hora": "16:53",
+    "texto": "ODDS NO APITO - Suica x Catar: Suica -400 | Empate +475 | Catar +1000 | Under 2,5 -110 (linha de fechamento, base do CLV)"
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "16:51",
     "texto": "AO VIVO - Suica 1x0 Catar aos ~10 do 2o tempo (Levis Stadium, Santa Clara), cerca de 55 min de jogo. Segue 1x0 com o penalti de Embolo (17 do 1o tempo). A Suica mantem a posse e o controle territorial, empurrando o Catar para o campo de defesa em busca do segundo gol que encaminha o jogo; o Catar segue no bloco baixo, sem chance clara de empate. Sem novos gols, sem expulsao. Leitura Suica 2x0 mantida - favorito amplo no comando, falta liquidar."
   },
@@ -180,35 +195,5 @@
     "tipo": "ao_vivo",
     "hora": "22:28",
     "texto": "AO VIVO - Paraguai x EUA (~28 min): EUA 1x0. Os EUA controlam apos o gol contra precoce de Damian Bobadilla (7 min, jogada de Pulisic e McKennie). O Paraguai parece abalado, comete varias faltas - Juan Caceres ja levou amarelo - e ainda nao respondeu. Cenario exatamente como a leitura previa: bloco baixo do Paraguai furado em lance individual/cruzamento, com os EUA dominando a bola. Palpite do bolao (EUA 1x0) batendo ate aqui. Under 2,5 (lab) firme: 1 gol. Sem alerta - gol a FAVOR da nossa previsao."
-  },
-  {
-    "tipo": "lance",
-    "hora": "22:07",
-    "texto": "GOL DOS EUA - Paraguai 0x1 EUA aos 7 min: GOL CONTRA de Damian Bobadilla. Pulisic passou pela defesa e cruzou rasteiro, McKennie participou e a bola entrou apos desvio do volante paraguaio. Anfitriao na frente cedo - o cenario 1x0 do nosso palpite ja no placar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:01",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA (mando real dos EUA, SoFi Stadium). Pochettino mandou a campo um 5-3-2: Freese; Dest, Freeman, Richards, Ream, Robinson; Tillman, Adams, McKennie; Pulisic e Balogun. ATENCAO: o Paraguai entrou COM Julio Enciso entre os titulares, ao contrario da expectativa pre-jogo de desfalque - reforca o setor ofensivo paraguaio, mas nao muda nossa leitura (EUA com a bola, Paraguai no bloco baixo)."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:00",
-    "texto": "ODDS NO APITO - Paraguai x EUA: EUA -105 | Empate +240 | Paraguai +320 | Under 2,5 -185 (linha de fechamento FanDuel, base do CLV). Dinheiro pesado nos EUA: cerca de 84 por cento dos bilhetes e 92 por cento do volume apostado; o Under saltou de -130 para -185 ao longo do dia."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:00",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA (22:00, SoFi Stadium, Inglewood). Mando real dos EUA - a agenda lista o Paraguai como mandante. Placar 0x0."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "20:23",
-    "texto": "AO VIVO - Bosnia x Canada (reta final, por volta dos 85+ min): segue Bosnia 1x0. Pelo relogio real (apito as 16:00 de Brasilia) o jogo ja entrou nos minutos finais e acrescimos - bem alem do que o painel vinha marcando. O Canada teve cerca de 68 por cento de posse e 9 escanteios, mas esbarrou o jogo todo no bloco baixo bosnio; Jonathan David desperdicou a melhor chance parando no goleiro Vasilj. Gol unico: Lukic de cabeca aos 21 (escanteio de Basic, ajeitada de Kolasinac). Palpite do bolao (Canada 1x0) praticamente perdido - so um milagre nos acrescimos salva o placar exato; cenario aponta vitoria da Bosnia. Under 2,5 (laboratorio) a um passo de bater: 1 gol ate aqui. O fechamento com pontos e simulacoes sai assim que o apito final for confirmado pelas fontes."
-  },
-  {
-    "tipo": "fim",
-    "hora": "17:34",
-    "texto": "FIM DE JOGO - Bosnia 1x1 Canada (BMO Field, Toronto). A Bosnia abriu com Lukic de cabeca aos 21 (escanteio), mas o Canada empatou com Cyle Larin aos 78 (assistencia de Promise David, chute com desvio) e cravou o PRIMEIRO PONTO da historia do pais em Copas - eram 6 derrotas em 6 jogos (1986 e 2022). Sem expulsoes; amarelos para Johnston (11) e os bosnios. Total de 2 gols: UNDER 2,5 BATEU. BOLAO: palpite era Canada 1x0 - deu empate, vencedor e placar errados, 0 ponto nesta rodada (bolao segue com 7). SIMULACOES DE 100 REAIS: DISCIPLINADO ficou fora (sem tip, Edge abaixo de 4pp), nada arriscado; JOGO LOUCO bateu o Empate a +270 e lucrou 270 reais (CLV +5,7 por cento sobre a linha de fechamento +250); FAVORITO DO MODELO (Canada) perdeu 100 reais; FAVORITO DO MERCADO (Canada -125) perdeu 100 reais. Brier do jogo: modelo 0,876 x mercado 0,849 - os dois apostaram alto no Canada e foram contra o empate. Saldo do dia ate aqui: JOGO LOUCO +270 vivo, FAV/FAVMKT no vermelho. Proximo: Paraguai x EUA as 22h (Brasilia)."
   }
 ]
