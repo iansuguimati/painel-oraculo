@@ -134,7 +134,7 @@ function tk(){var e=$("clk");if(e)e.textContent=new Date().toLocaleTimeString("p
 function money(v){return (v>0?"+":"")+"R$ "+v;}
 function loadStats(){getJSON("stats.json").then(function(s){
   $("mTips").textContent=s.tips;$("mHit").textContent=s.hit;$("mClv").textContent=s.clv;$("mBolao").textContent=s.bolao;$("mRoi").textContent=s.roi;
-  $("nextJogo").textContent=s.next.jogo;$("nextHora").textContent=s.next.hora;
+  /*proximo jogo vem da agenda.json*/
   if(s.analises&&s.analises.length){$("palpitesDia").innerHTML=s.analises.map(function(a){var dc=(!a.disc||a.disc==="-")?"sem tip (sem edge)":a.disc;return '<div style="margin-bottom:16px"><div style="font-size:13px;font-weight:700;color:var(--gold);margin:0 0 8px 2px">'+(a.hora?a.hora+" - ":"")+a.jogo+'</div><div style="font-size:12px;color:var(--mut);margin:0 0 8px 2px">Forca de elenco (talento individual): <b style="color:var(--gold)">'+(a.elenco||"-")+'</b></div><div class="picks"><div class="pick main"><div class="pl">Bolao</div><div class="pv" style="font-size:16px">'+a.bolao+'</div></div><div class="pick"><div class="pl">Disciplinado</div><div class="pv" style="font-size:14px">'+dc+'</div></div><div class="pick"><div class="pl">Jogo Louco</div><div class="pv" style="font-size:14px">'+a.louco+'</div></div><div class="pick"><div class="pl">Favorito Modelo</div><div class="pv" style="font-size:15px;color:var(--green)">'+(a.fav||"-")+'</div><div style="font-size:10px;color:var(--mut);margin-top:2px">@ '+(a.fav_odd||"-")+'</div></div><div class="pick"><div class="pl">Favorito Mercado</div><div class="pv" style="font-size:15px;color:#7fb0e6">'+(a.fav_mkt||"-")+'</div><div style="font-size:10px;color:var(--mut);margin-top:2px">@ '+(a.fav_mkt_odd||"-")+'</div></div></div></div>';}).join("");}
   if(s.analises&&s.analises.length){$("analiseBox").innerHTML=s.analises.map(function(a){return '<div class="acard"><h4>'+a.jogo+'</h4><div class="meta">Bolao: '+a.bolao+'  |  Produto: '+a.disc+'  |  Lab: '+a.louco+'</div><div class="body">'+a.texto+'</div></div>';}).join("");}
   else if(s.analise)$("analiseBox").textContent=s.analise;
@@ -161,6 +161,7 @@ window.toggleOld=function(){var o=$("oldNews"),b=$("oldBtn");if(!o||!b)return;if
 function loadAgenda(){getJSON("agenda.json").then(function(d){
   var h=d.map(function(g){var tg=(g.palpite&&g.palpite!=="-")?'<span class="tag t-previsao">'+g.palpite+'</span>':'<span class="tag t-lance">agendado</span>';
   return '<div class="ni"><span class="h">'+g.data+' '+g.hora+'</span>'+tg+'<span>'+g.jogo+(g.grupo&&g.grupo!=="-"?' (Grupo '+g.grupo+')':'')+'</span></div>';}).join("");
+  try{var now=new Date(),yr=now.getFullYear(),prox=null;for(var z=0;z<d.length;z++){var pp=d[z].data.split("/"),hm=(d[z].hora||"00:00").split(":"),dt=new Date(yr,parseInt(pp[1],10)-1,parseInt(pp[0],10),parseInt(hm[0],10),parseInt(hm[1],10));if(dt.getTime()>now.getTime()){prox=d[z];break;}}if(prox){var nj=$("nextJogo"),nh=$("nextHora");if(nj)nj.textContent=prox.jogo;if(nh)nh.textContent=prox.hora+" (Brasilia)";}}catch(e){}
   var el=$("agendaList");if(el&&h)el.innerHTML=h;
 }).catch(function(){});}
 function loadCharts(){if(!window.Chart)return;getJSON("historico.json").then(function(H){
