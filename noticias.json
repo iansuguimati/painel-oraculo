@@ -1,6 +1,20 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "19:07",
+    "texto": "BOLA ROLANDO - comeca Brasil x Marrocos (MetLife Stadium, East Rutherford). Estreia do Grupo C, bola rolou as 19:06 de Brasilia, placar 0x0 no inicio. Brasil entra como amplo favorito; o Marrocos, semifinalista em 2022, e o adversario mais temido do grupo segundo Ancelotti. Lances a seguir."
+  },
+  {
+    "tipo": "odds",
+    "texto": "ODDS NO APITO - Brasil x Marrocos: Brasil 1,60 | Empate 3,75 | Marrocos 5,00 | Under 2,5 1,85 (linha de fechamento, consenso Betano/Betfair/Lance, base do CLV). Brasil cerca de 62 por cento implicito; mercado ve jogo de poucos gols, Under levemente favorito sobre o Over 2,5."
+  },
+  {
+    "tipo": "fim",
+    "hora": "18:10",
+    "texto": "FIM DE JOGO - Catar 1x1 Suica (Levi's Stadium, Santa Clara). Embolo abriu para a Suica de penalti e Boualem empatou para o Catar na reta final. Total de 2 gols: Under 2,5 bateu. Esta partida nao tinha analise gerada na carteira do modelo, entao fica so o registro factual - sem pontos de bolao nem simulacoes (dados reais ou nada). Grupo B segue embolado apos o empate."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "19:04",
     "texto": "BOLA ROLANDO - comeca Marrocos x Brasil (MetLife Stadium, Nova Jersey). Apito as 19:00 de Brasilia. Brasil amplo favorito no mercado (cerca de 59 por cento de vitoria, 25 empate, 18 Marrocos). Leitura de jogo aberto: mercado de gols com Over 2,5 levemente favorito (over +104 / under -128) e BTTS Sim por volta de 1,93. Sem lances confirmados pelas fontes nos primeiros minutos - acompanhando."
   },
@@ -177,29 +191,5 @@
     "tipo": "ao_vivo",
     "hora": "16:34",
     "texto": "AO VIVO - Suica 1x0 Catar aos ~37 do 1o tempo (Levis Stadium, Santa Clara), perto do intervalo. Segue 1x0 com o penalti de Embolo (17). NOVIDADE - CARTOES: o Catar ja tem dois amarelos, o goleiro Abunada (pela falta que deu o penalti) e Abdulsallam (falta tatica cortando contra-ataque suico); nenhum vermelho. A Suica controla a posse e o ritmo; o Catar segue no bloco baixo sem criar chance clara. Leitura Suica 2x0 mantida - favorito amplo no comando."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:27",
-    "texto": "AO VIVO - Suica 1x0 Catar aos ~28 do 1o tempo (Levi's Stadium, Santa Clara). Segue 1x0 com o gol de penalti de Embolo (17'); sem novos gols, sem cartoes. A Suica administra a posse e controla o ritmo, com o Catar ainda preso no bloco baixo sem criar chance clara. Leitura Suica 2x0 mantida - favorito amplo no comando, faltando o segundo gol para encaminhar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:24",
-    "texto": "AO VIVO - Suica 1x0 Catar aos ~24 do 1o tempo (Levi's Stadium, Santa Clara). GOL DA SUICA - Breel Embolo converteu PENALTI aos 17 minutos e abriu o placar. O favorito amplo saiu na frente como mandava a leitura; agora o Catar de Lopetegui precisa deixar o bloco baixo e se expor, o que tende a abrir espaco. Sem expulsoes ate aqui. Leitura Suica 2x0 mantida - placar no trilho previsto."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:18",
-    "texto": "AO VIVO - Suica 0x0 Catar aos ~18 do 1o tempo (Levi's Stadium, Santa Clara). Segue sem gols e sem cartoes. A Suica mantem a posse e empurra o Catar para o campo de defesa, mas ainda esbarra no bloco baixo bem postado de Lopetegui; o Catar nao conseguiu chegar com perigo. Leitura Suica 2x0 mantida - favorito amplo no controle, falta a bola que destrava."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:14",
-    "texto": "AO VIVO - Suica 0x0 Catar aos ~15 do 1o tempo (Levi's Stadium, Santa Clara). A Suica controla com a posse e ja levou perigo com Ndoye, mas a defesa do Catar afastou; o Catar segue no bloco baixo, sem chegar ao ataque. Sem cartoes. Leitura Suica 2x0 mantida - favorito amplo manda no jogo, falta o gol que destrava."
-  },
-  {
-    "tipo": "ao_vivo",
-    "texto": "AO VIVO - Suica 0x0 Catar aos ~10 do 1o tempo (Levis Stadium, Santa Clara). Sem gols e sem cartoes. Suica com a posse, mas ainda sem furar o bloco baixo do Catar - leitura Suica 2x0 mantida, comeco controlado de favorito amplo."
   }
 ]
