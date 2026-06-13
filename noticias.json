@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "forma",
+    "hora": "17:28",
+    "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium): o contraste esta na defesa. O BRASIL chega com ataque pegando fogo - 13 gols nos ultimos 5 jogos (media 2,6 por jogo) - mas com alerta atras: foi vazado em TODOS os 5 ultimos, 7 gols sofridos no periodo. O MARROCOS faz o oposto: venceu 3 dos ultimos 5, marcou 6 e sofreu so 1 - defesa solida e o time mais bem ranqueado da historia do pais (7o da FIFA, melhor posicao de sempre, contra um Brasil no top-5). O retrospecto direto (3 jogos, 2 vitorias do Brasil) ja teve a virada africana no ultimo encontro (2x1 em Tanger, 2023). Cruzando os dados: ataque quente do Brasil + defesa recente furada dos dois lados apontam jogo ABERTO, com chance real de passar de 1 gol e ambos marcarem - a mesma tendencia de placares altos que vem se repetindo nesta Copa. Leitura mantida do palpite Brasil 2x1. Escalacoes confirmadas no PRE-JOGO. Fontes: Goal.com, SBT Sports, CBF, O Povo (12-13/06)."
+  },
+  {
     "tipo": "ao_vivo",
     "hora": "17:24",
     "texto": "AO VIVO - Suica x Catar (2o tempo, em torno dos 65 min): Suica 1x0. O motor entrou no jogo ja em andamento (apito 16:00, Levi's Stadium, Santa Clara). GOL: Breel Embolo de penalti aos 17 do 1o tempo - falta do goleiro Abunada sobre Remo Freuler, penalti confirmado pelo VAR apos checagem de impedimento muito apertada a favor da Suica. A Suica de Murat Yakin administra a vantagem na estreia do Grupo B; o Catar de Lopetegui, apoiado em Akram Afif e no artilheiro Almoez Ali, busca o empate. Este jogo esta fora do nosso book do dia - sem palpite do bolao nem tip. Odds de fechamento no apito nao capturadas (engine entrou tarde). Acompanhando os proximos lances."
@@ -190,10 +195,5 @@
     "tipo": "ao_vivo",
     "hora": "22:43",
     "texto": "AO VIVO - Paraguai 0x2 EUA (intervalo). Os EUA atropelaram no 1o tempo: aos 7' Pulisic puxou o contra-ataque e o cruzamento de McKennie morreu contra a propria meta, gol contra de Bobadilla (0x1); aos 31' Balogun recebeu de Pulisic e bateu no canto inferior (0x2). Amarelos para Caceres e Gustavo Gomez (Paraguai), pressionados pela marcacao alta dos EUA. LEITURA: o roteiro saiu como previsto - EUA vencendo e Paraguai sufocado no bloco baixo - so que mais folgado; nosso palpite era EUA 1x0 e o anfitriao ja fez 2. Favorito do Modelo e do Mercado (EUA) dominando; Paraguai precisa de reacao improvavel no 2o tempo. Sem alerta: o placar segue na direcao da nossa previsao."
-  },
-  {
-    "tipo": "bola_rolando",
-    "hora": "22:00",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium (Inglewood). Anfitriao EUA com forca total sob Pochettino; Paraguai de Alfaro montado no bloco baixo. Palpite: EUA 1x0."
   }
 ]
