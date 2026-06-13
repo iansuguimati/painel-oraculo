@@ -1,5 +1,15 @@
 [
   {
+    "tipo": "lance",
+    "hora": "22:40",
+    "texto": "GOL DOS EUA CONFIRMADO - Paraguai 0x2 EUA: Folarin Balogun marcou aos 31 min, em assistencia de Christian Pulisic (FIFA, ESPN, FOX Sports e CBS confirmam). Pulisic, que ja havia armado o gol contra de Bobadilla aos 7, virou o cerebro do ataque americano. Era o segundo gol que estava pendente de confirmacao - agora cravado. Placar 1x0 do palpite do bolao superado: EUA vencem com folga, mas o placar EXATO se afasta."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "22:41",
+    "texto": "AO VIVO - Paraguai x EUA (fim do 1o tempo, ~41 min + acrescimos, SoFi Stadium): EUA 2x0. Os Estados Unidos fecham a primeira etapa com dominio total - gol contra de Bobadilla (7 min, jogada de Pulisic) e Balogun (31 min, assistencia de Pulisic). O Paraguai de Alfaro nao saiu do bloco baixo e quase nao ameacou. Previsao de vitoria dos EUA (favorito do modelo E do mercado) batendo em cheio; placar exato do bolao (1x0) ja superado. Under 2,5 (lab) no limite: 2 gols, mais um e estoura. Sem alerta - gols a FAVOR da nossa leitura."
+  },
+  {
     "tipo": "ao_vivo",
     "hora": "22:35",
     "texto": "AO VIVO - Paraguai x EUA (cerca de 35 min, SoFi Stadium, Inglewood): EUA 1x0. Os Estados Unidos comecaram arrasadores e abriram cedo - aos 7 min Pulisic rasgou a marcacao e cruzou, McKennie participou da jogada e a bola desviou em Damian Bobadilla: GOL CONTRA, 1x0 anfitriao (um dos gols mais rapidos dos EUA em Copas). Balogun ainda balancou a rede logo depois, mas o gol foi anulado por impedimento. O Paraguai de Alfaro se fechou no bloco baixo, exatamente como previsto, e quase nao passou do meio-campo. Palpite do bolao (EUA 1x0) batendo em cheio ate aqui - placar exato vivo. Algumas fontes ja relatam um possivel segundo gol de Balogun; aguardando confirmacao cruzada antes de cravar."
