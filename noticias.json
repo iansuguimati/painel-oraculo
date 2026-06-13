@@ -1,201 +1,200 @@
 [
-  {
-    "tipo": "aovivo",
-    "hora": "23:16",
-    "texto": "AO VIVO (2o tempo em andamento) - Paraguai 0 x 3 EUA, SoFi Stadium. Os EUA dominaram o 1o tempo e foram ao intervalo com 3 a 0. No recomeco, Pochettino poupou Pulisic (entrou Sebastian Berhalter) e Alfaro tirou Bobadilla, autor do gol contra, para a entrada de Mauricio. NOSSA LEITURA: o palpite EUA 1x0 cravou o vencedor (faltou so dimensionar a goleada) - o gol contra logo aos 7 derrubou o bloco baixo do Paraguai, que nunca se reorganizou. Favorito do Modelo e do Mercado (EUA) confirmando com folga."
-  },
-  {
-    "tipo": "gol",
-    "hora": "22:46",
-    "texto": "GOL - Paraguai 0 x 3 EUA: Folarin Balogun, perto do fim do 1o tempo, recebe em profundidade, passa por Omar Alderete dentro da area e bate de canhota no angulo - seu 2o no jogo. EUA atropelando antes do intervalo."
-  },
-  {
-    "tipo": "gol",
-    "hora": "22:31",
-    "texto": "GOL - Paraguai 0 x 2 EUA: Balogun aos 31. Antonee Robinson lancou na profundidade, Pulisic deu o ultimo passe na medida e Balogun finalizou. Anfitriao amplia."
-  },
-  {
-    "tipo": "gol",
-    "hora": "22:07",
-    "texto": "GOL - Paraguai 0 x 1 EUA: gol contra de Damian Bobadilla aos 7, apos jogada de Weston McKennie com Pulisic. EUA abrem cedo e quebram o plano de bloco baixo do Paraguai - exatamente o cenario que dava o 1x0 ao anfitriao."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "22:01",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium, Los Angeles. Estreia dos EUA na Copa, jogando em casa. Palpite: EUA 1x0 (P 1/X/2 = 48,6/27,5/24,0; lambda EUA 1,35 x Paraguai 0,85). Favorito do Modelo e do Mercado: EUA."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:00",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +285 | Empate +235 | EUA -110 | Under 2,5 -180 (linha de fechamento de consenso, base do CLV)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "texto": "AO VIVO - Paraguai 0x3 EUA (cerca de 23 min do 2o tempo, ~68 do jogo, SoFi Stadium). Os EUA administram a goleada com posse e bloco medio; Pochettino comeca a tirar o pe e a rodar o banco. O Paraguai de Alfaro tenta subir as linhas mas nao cria nada claro - segue sem reacao na etapa final. Sem gols no 2o tempo ate aqui. Cruzamento FIFA Match Centre, NBC Los Angeles, FOX Sports, VAVEL e Opta Analyst."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "23:07",
-    "texto": "AO VIVO - comeca o 2o tempo de Paraguai x EUA, EUA 3x0 (gol contra de Bobadilla aos 7, Balogun aos 31 e aos 45+4). Cruzamento de fontes (World Soccer Talk, FOX Sports, Yahoo, CBS) confirma 3x0 sem alteracao no recomeco - 11 contra 11, sem cartao vermelho. LEITURA: previsao bateu na direcao (EUA, favorito do Modelo e do Mercado, vencendo com sobra); o placar exato 1x0 do bolao ja ficou pra tras e o Over 2,5 esta batido. A observar: rotacao/poupanca dos EUA com o jogo resolvido e se o Paraguai consegue o gol de honra. Sem alerta - nada muda a previsao de vitoria americana."
-  },
-  {
-    "tipo": "alerta",
-    "hora": "22:56",
-    "texto": "CORRECAO - Paraguai x EUA: NAO houve expulsao no jogo. Revisao cruzada (Bolavip minuto a minuto, World Soccer Talk, NBC) mostra que Omar Alderete sofreu apenas um CHOQUE DE CABECA com Chris Richards aos 17 min, passou por avaliacao medica e VOLTOU - nao foi cartao vermelho (a informacao anterior cruzou com o amistoso de novembro de 2025, quando Alderete foi expulso numa confusao). Paraguai segue com 11 em campo. PLACAR REAL NO INTERVALO: EUA 3x0 - Folarin Balogun fez DOIS (aos 31, assistencia de Pulisic, e aos 45+4, apos lancamento de Tillman, corte para dentro e chute no angulo), alem do gol contra de Damian Bobadilla aos 7. Amarelos: Caceres (11) e Gustavo Gomez (15). LEITURA: EUA (favorito do modelo E do mercado) atropelando; o placar exato 1x0 do bolao ficou pra tras; Under 2,5 (lab) MORREU - ja sao 3 gols, Over 2,5 batido. Vitoria dos EUA encaminhada."
-  },
-  {
-    "tipo": "alerta",
-    "hora": "22:50",
-    "texto": "ALERTA - Paraguai x EUA: CARTAO VERMELHO em Omar Alderete (Paraguai) aos 45 - a Albirroja vai jogar o 2o tempo com 10 homens e perdendo 0x2. Leitura ANTERIOR: EUA vencem por margem curta (palpite EUA 1x0). NOVA: EUA vencem com sobra e o Over 2,5 fica cada vez mais provavel - Paraguai com um a menos e dois atras tera de se expor. Vantagem dos EUA agora folgada."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:43",
-    "texto": "AO VIVO - Paraguai 0x2 EUA (intervalo). Os EUA atropelaram no 1o tempo: aos 7' Pulisic puxou o contra-ataque e o cruzamento de McKennie morreu contra a propria meta, gol contra de Bobadilla (0x1); aos 31' Balogun recebeu de Pulisic e bateu no canto inferior (0x2). Amarelos para Caceres e Gustavo Gomez (Paraguai), pressionados pela marcacao alta dos EUA. LEITURA: o roteiro saiu como previsto - EUA vencendo e Paraguai sufocado no bloco baixo - so que mais folgado; nosso palpite era EUA 1x0 e o anfitriao ja fez 2. Favorito do Modelo e do Mercado (EUA) dominando; Paraguai precisa de reacao improvavel no 2o tempo. Sem alerta: o placar segue na direcao da nossa previsao."
-  },
-  {
-    "tipo": "bola_rolando",
-    "hora": "22:00",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium (Inglewood). Anfitriao EUA com forca total sob Pochettino; Paraguai de Alfaro montado no bloco baixo. Palpite: EUA 1x0."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:00",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +290 | Empate +220 | EUA +110 | Under 2,5 -180 (linha de fechamento, base do CLV)"
-  },
-  {
-    "tipo": "lance",
-    "hora": "22:40",
-    "texto": "GOL DOS EUA CONFIRMADO - Paraguai 0x2 EUA: Folarin Balogun marcou aos 31 min, em assistencia de Christian Pulisic (FIFA, ESPN, FOX Sports e CBS confirmam). Pulisic, que ja havia armado o gol contra de Bobadilla aos 7, virou o cerebro do ataque americano. Era o segundo gol que estava pendente de confirmacao - agora cravado. Placar 1x0 do palpite do bolao superado: EUA vencem com folga, mas o placar EXATO se afasta."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:41",
-    "texto": "AO VIVO - Paraguai x EUA (fim do 1o tempo, ~41 min + acrescimos, SoFi Stadium): EUA 2x0. Os Estados Unidos fecham a primeira etapa com dominio total - gol contra de Bobadilla (7 min, jogada de Pulisic) e Balogun (31 min, assistencia de Pulisic). O Paraguai de Alfaro nao saiu do bloco baixo e quase nao ameacou. Previsao de vitoria dos EUA (favorito do modelo E do mercado) batendo em cheio; placar exato do bolao (1x0) ja superado. Under 2,5 (lab) no limite: 2 gols, mais um e estoura. Sem alerta - gols a FAVOR da nossa leitura."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:35",
-    "texto": "AO VIVO - Paraguai x EUA (cerca de 35 min, SoFi Stadium, Inglewood): EUA 1x0. Os Estados Unidos comecaram arrasadores e abriram cedo - aos 7 min Pulisic rasgou a marcacao e cruzou, McKennie participou da jogada e a bola desviou em Damian Bobadilla: GOL CONTRA, 1x0 anfitriao (um dos gols mais rapidos dos EUA em Copas). Balogun ainda balancou a rede logo depois, mas o gol foi anulado por impedimento. O Paraguai de Alfaro se fechou no bloco baixo, exatamente como previsto, e quase nao passou do meio-campo. Palpite do bolao (EUA 1x0) batendo em cheio ate aqui - placar exato vivo. Algumas fontes ja relatam um possivel segundo gol de Balogun; aguardando confirmacao cruzada antes de cravar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:28",
-    "texto": "AO VIVO - Paraguai x EUA (~28 min): EUA 1x0. Os EUA controlam apos o gol contra precoce de Damian Bobadilla (7 min, jogada de Pulisic e McKennie). O Paraguai parece abalado, comete varias faltas - Juan Caceres ja levou amarelo - e ainda nao respondeu. Cenario exatamente como a leitura previa: bloco baixo do Paraguai furado em lance individual/cruzamento, com os EUA dominando a bola. Palpite do bolao (EUA 1x0) batendo ate aqui. Under 2,5 (lab) firme: 1 gol. Sem alerta - gol a FAVOR da nossa previsao."
-  },
-  {
-    "tipo": "lance",
-    "hora": "22:07",
-    "texto": "GOL DOS EUA - Paraguai 0x1 EUA aos 7 min: GOL CONTRA de Damian Bobadilla. Pulisic passou pela defesa e cruzou rasteiro, McKennie participou e a bola entrou apos desvio do volante paraguaio. Anfitriao na frente cedo - o cenario 1x0 do nosso palpite ja no placar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:01",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA (mando real dos EUA, SoFi Stadium). Pochettino mandou a campo um 5-3-2: Freese; Dest, Freeman, Richards, Ream, Robinson; Tillman, Adams, McKennie; Pulisic e Balogun. ATENCAO: o Paraguai entrou COM Julio Enciso entre os titulares, ao contrario da expectativa pre-jogo de desfalque - reforca o setor ofensivo paraguaio, mas nao muda nossa leitura (EUA com a bola, Paraguai no bloco baixo)."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:00",
-    "texto": "ODDS NO APITO - Paraguai x EUA: EUA -105 | Empate +240 | Paraguai +320 | Under 2,5 -185 (linha de fechamento FanDuel, base do CLV). Dinheiro pesado nos EUA: cerca de 84 por cento dos bilhetes e 92 por cento do volume apostado; o Under saltou de -130 para -185 ao longo do dia."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:00",
-    "texto": "BOLA ROLANDO - comeca Paraguai x EUA (22:00, SoFi Stadium, Inglewood). Mando real dos EUA - a agenda lista o Paraguai como mandante. Placar 0x0."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "20:23",
-    "texto": "AO VIVO - Bosnia x Canada (reta final, por volta dos 85+ min): segue Bosnia 1x0. Pelo relogio real (apito as 16:00 de Brasilia) o jogo ja entrou nos minutos finais e acrescimos - bem alem do que o painel vinha marcando. O Canada teve cerca de 68 por cento de posse e 9 escanteios, mas esbarrou o jogo todo no bloco baixo bosnio; Jonathan David desperdicou a melhor chance parando no goleiro Vasilj. Gol unico: Lukic de cabeca aos 21 (escanteio de Basic, ajeitada de Kolasinac). Palpite do bolao (Canada 1x0) praticamente perdido - so um milagre nos acrescimos salva o placar exato; cenario aponta vitoria da Bosnia. Under 2,5 (laboratorio) a um passo de bater: 1 gol ate aqui. O fechamento com pontos e simulacoes sai assim que o apito final for confirmado pelas fontes."
-  },
-  {
-    "tipo": "fim",
-    "hora": "17:34",
-    "texto": "FIM DE JOGO - Bosnia 1x1 Canada (BMO Field, Toronto). A Bosnia abriu com Lukic de cabeca aos 21 (escanteio), mas o Canada empatou com Cyle Larin aos 78 (assistencia de Promise David, chute com desvio) e cravou o PRIMEIRO PONTO da historia do pais em Copas - eram 6 derrotas em 6 jogos (1986 e 2022). Sem expulsoes; amarelos para Johnston (11) e os bosnios. Total de 2 gols: UNDER 2,5 BATEU. BOLAO: palpite era Canada 1x0 - deu empate, vencedor e placar errados, 0 ponto nesta rodada (bolao segue com 7). SIMULACOES DE 100 REAIS: DISCIPLINADO ficou fora (sem tip, Edge abaixo de 4pp), nada arriscado; JOGO LOUCO bateu o Empate a +270 e lucrou 270 reais (CLV +5,7 por cento sobre a linha de fechamento +250); FAVORITO DO MODELO (Canada) perdeu 100 reais; FAVORITO DO MERCADO (Canada -125) perdeu 100 reais. Brier do jogo: modelo 0,876 x mercado 0,849 - os dois apostaram alto no Canada e foram contra o empate. Saldo do dia ate aqui: JOGO LOUCO +270 vivo, FAV/FAVMKT no vermelho. Proximo: Paraguai x EUA as 22h (Brasilia)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:20",
-    "texto": "AO VIVO - Bosnia x Canada (2o tempo, em torno de 63 min): segue Bosnia 1x0. O Canada subiu as linhas e empilha posse no campo bosnio, mas a Bosnia se fecha bem e ja assustou em contra-ataque. O lance mais perigoso foi do Canada: jogada de primeira no ultimo terco, Laryea pegou limpo e CARIMBOU O TRAVESSAO - quase o empate. A Bosnia administra o placar e a vantagem aerea que ja deu o gol. Leitura mantida: jogo aberto no fim, Canada precisando furar o bloco; mando ainda pesa para a busca do empate, mas o tempo corre contra o palpite (Bolao Canada 1x0). Under 2,5 (lab) firme: 1 gol ate aqui. Sem novo alerta - placar inalterado desde o gol da Bosnia."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:17",
-    "texto": "AO VIVO - Bosnia x Canada (2o tempo, reta dos ~70 min): segue Bosnia 1x0. Nenhum lance novo confirmado pelas fontes (ge, SporTV, ESPN Brasil, World Soccer Talk, NBC) desde o gol de Lukic - o Canada mantem a posse e empilha escanteios, mas continua esbarrando no bloco baixo bosnio, forte no jogo aereo, sem criar a chance clara do empate. Amarelos no jogo: Johnston (Canada), Demirovic e Lukic (Bosnia). Com o relogio entrando nos minutos finais, o palpite do bolao (Canada 1x0) fica praticamente descartado. Leitura ajustada pelo tempo corrido: Bosnia cerca de 45 por cento, Empate 33, Canada 22. Under 2,5 (lab) firme: 1 gol ate aqui. Sem alerta novo - placar inalterado, sem lance novo confirmado."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:11",
-    "texto": "AO VIVO - Bosnia x Canada (2o tempo): segue Bosnia 1x0. O Canada voltou do intervalo precisando da virada e ainda nao furou o bloco bosnio - nenhum gol novo confirmado pelas fontes na etapa final (ge, SporTV, ESPN Brasil e Globe and Mail registram apenas que o anfitriao segue atras; cobertura ao vivo das fontes ainda com atraso no 2o tempo). Com o relogio correndo contra, o palpite do bolao (Canada 1x0) fica cada vez mais improvavel e o cenario empate/Bosnia ganha forca. Leitura mantida da revisao das 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33. Under 2,5 (lab) firme: 1 gol ate agora. Sem novo alerta - placar inalterado, sem lance novo confirmado."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:01",
-    "texto": "AO VIVO - Bosnia x Canada (intervalo / inicio do 2o tempo): Bosnia 1x0. No 1o tempo o Canada dominou a posse (66 por cento) mas a Bosnia levou a melhor no xG (0,77 a 0,66) - dominio esteril canadense, sem transformar pressao em chance clara alem da bola perdida por Jonathan David. Lukic (autor do gol aos 21) e Demirovic levaram amarelo por entradas duras. Comeca a etapa final com o Canada obrigado a virar 2 gols para confirmar o nosso Canada 1x0. Leitura mantida: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando empurrando o anfitriao ao ataque. Under 2,5 (lab) segue vivo: 1 gol ate aqui. Sem novo alerta - placar e leitura inalterados."
-  },
-  {
-    "tipo": "lance",
-    "hora": "16:59",
-    "texto": "AO VIVO - Bosnia x Canada (2o tempo, ~60 min): Bosnia 1x0. O Canada segue inteiro no campo de ataque atras do empate e empurra a Bosnia para tras, mas esbarra no bloco baixo bosnio, bem postado e forte no jogo aereo, sem converter chance clara nova. A Bosnia gasta faltas para cortar o ritmo e ja levou amarelos no 2o tempo com Demirovic e o proprio Lukic (autor do gol). Leitura mantida: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando dando gas a co-anfitria na busca pela virada. Under 2,5 (lab) firme: 1 gol ate aqui. Sem alerta - placar e previsao inalterados."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:55",
-    "texto": "AO VIVO - Bosnia x Canada (2o tempo, ~50 min): Bosnia 1x0. Recomeco com o Canada inteiro no campo de ataque atras do empate, mas a Bosnia volta de bloco baixo e firme protegendo a vantagem do gol de Lukic. Sem gol novo ate aqui - a co-anfitria ja tinha criado no 1o tempo (Jonathan David, Oluwaseyi e Cornelius perderam chances) e segue pressionando, porem sem Alphonso Davies (fora por lesao na coxa) perde potencia e profundidade pela esquerda. Leitura mantida desde o intervalo: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando dando gas a busca canadense pela virada. Under 2,5 (lab) firme: 1 gol em ~50 min. Sem alerta - placar e previsao inalterados."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:46",
-    "texto": "AO VIVO - Bosnia x Canada (INTERVALO): Bosnia 1x0. Fim do 1o tempo com a azarona na frente - gol de Jovo Lukic aos 19 min (cabeca, apos escanteio cobrado, sobra apos desvio de Kolasinac), seu 1o pela selecao. O Canada teve mais posse e a chance mais clara com Jonathan David, parado por Vasilj, mas foi para o vestiario sem furar o bloco baixo bosnio, forte no jogo aereo. Leitura estabilizada desde o gol: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando dando gas a co-anfitria para buscar a virada no 2o tempo. Under 2,5 (lab) firme: 1 gol em 45 min. Alerta do gol ja absorvido - sem novidade na previsao."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:43",
-    "texto": "AO VIVO - Bosnia x Canada (reta final do 1o tempo): Bosnia 1x0. Placar segue o gol de cabeca de Lukic no escanteio e o Canada vai para o intervalo atras, mesmo tendo sido melhor antes do gol - Jonathan David ja perdeu a chance mais clara da co-anfitria. Bosnia compacta no bloco baixo e forte no jogo aereo, administrando a vantagem rumo ao descanso. Leitura mantida desde as 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando ainda dando gas ao Canada para buscar a virada no 2o tempo. Under 2,5 (lab) firme: so 1 gol ate aqui. Sem alerta - placar e previsao inalterados."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:37",
-    "texto": "AO VIVO - Bosnia x Canada (37 min): Bosnia 1x0. O Canada acordou apos o gol e empilha pressao no campo bosnio, mas desperdicou a chance do empate - Jonathan David recebeu de bandeja apos falha na saida de bola adversaria e bateu sem forca nem direcao, para a furia do banco canadense. A Bosnia segue mandando nas bolas aereas (ja venceu a disputa dentro da area do Canada mais de uma vez) e foi exatamente dali que saiu o gol de Lukic. Leitura mantida da revisao das 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando ainda pesando para o Canada buscar a virada. Under 2,5 (lab) de pe: 1 gol ate aqui. Sem alerta - placar e leitura inalterados."
-  },
-  {
-    "tipo": "alerta",
-    "hora": "16:31",
-    "texto": "ALERTA - Bosnia x Canada: GOL da Bosnia (Lukic, escanteio), 1x0 contra o Canada no 1o tempo. AMEACA nosso palpite (Bolao Canada 1x0). ANTES: Canada ~57% | Empate ~24% | Bosnia ~19%. AGORA, com a Bosnia na frente: NOVO ~ Canada 33% | Empate 34% | Bosnia 33% (o Canada precisa virar 2 gols e o cenario de poucos gols agora joga CONTRA o 1x0 canadense; ainda ha ~55min e o mando). Under 2,5 (lab) segue vivo: 1 gol ate aqui."
-  },
-  {
-    "tipo": "lance",
-    "hora": "16:30",
-    "texto": "GOL DA BOSNIA! Bosnia 1 x 0 Canada. Jovo Lukic marca de cabeca apos escanteio (cruzamento de Memic, desvio de Kolasinac no primeiro pau), seu 1o gol pela selecao. A azarona abre o placar contra a co-anfitria no 1o tempo (minuto exato ainda nao confirmado pelas fontes)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:28",
-    "texto": "AO VIVO - Bosnia x Canada (26 min): Bosnia 1x0. GOL DA BOSNIA - Jovo Lukic subiu mais que a marcacao e cabeceou para o fundo do gol apos escanteio cobrado na area, silenciando o BMO Field. O azarao furou o bloco e bateu a nossa leitura de Canada 1x0 ainda no primeiro tempo. O Canada mantem mando real e elenco superior para reagir, mas agora corre atras do prejuizo - P(Canada vencer) caiu e empate/Bosnia subiram. O Jogo Louco (Empate +270) se valoriza; o Disciplinado seguiu sem tip, entao sem exposicao no jogo."
-  },
-  {
-    "tipo": "alerta",
-    "hora": "16:26",
-    "texto": "ALERTA - Bosnia x Canada: a BOSNIA abriu o placar! Gol contra a nossa leitura (Canada 1x0). O Canada ainda e favorito a buscar pelo mando e elenco, mas P(Canada vencer) cai e empate/Bosnia sobem. Acompanhando a reacao canadense."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:24",
-    "texto": "AO VIVO - Bosnia x Canada (24 min): 0x0. Sai a PRIMEIRA chance clara do jogo - Jonathan David apareceu livre dentro da area e foi parado a queima-roupa por Vasilj, o Canada perdeu o gol feito. Do outro lado, Amar Memic arriscou de dentro da area pela Bosnia e mandou por cima. O jogo abriu um pouco depois do inicio travado, mas segue de margem estreita e Under 2,5 de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:20",
-    "texto": "AO VIVO - Bosnia x Canada (20 min): 0x0. Cartao amarelo para Alistair Johnston (Canada) aos 11 min por falta dura - primeiro nome no caderno. Jogo truncado, com paradas para atendimento (Amar Memic, da Bosnia, sentiu aos 12). Canada tenta circular a bola e a Bosnia segura no bloco baixo, sem chance clara de gol ate aqui - exatamente o roteiro de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo nao muda a previsao."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:18",
-    "texto": "AO VIVO - Bosnia x Canada (18 min): 0x0. Jogo truncado como previsto. Cartao AMARELO para Alistair Johnston (Canada) por entrada dura e parada para atendimento de Amar Memic (Bosnia) esfriaram o ritmo. Canada com a bola e o mando, Bosnia fechada no bloco baixo - nenhuma chance clara ainda. Leitura de placar magro e Under 2,5 segue de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo em zagueiro nao muda a previsao."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:11",
-    "texto": "AO VIVO - Bosnia x Canada (10 min): 0x0, sem gols nem cartoes. Inicio truncado e estudado, como a leitura previa - Canada tentando impor o mando com a bola e a Bosnia fechada no bloco baixo, esperando o erro. Nenhuma chance clara ainda; ritmo de jogo de margem estreita confirma o cenario de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
-  }
+{
+"tipo": "ao_vivo",
+"texto": "AO VIVO - Paraguai 0x3 EUA (reta final, cerca de 75 do jogo, SoFi Stadium). Placar inalterado no 2o tempo: os EUA seguram a posse, rodam o banco e administram a vantagem rumo ao apito. Lance polemico aos 51 - o VAR reviu o amarelo de Tim Ream e a arbitragem inverteu, punindo Miguel Almiron por simulacao. O Paraguai, com Mauricio no lugar de Bobadilla, nao cria nada claro e caminha para a estreia com derrota. O palpite EUA 1x0 ja cravou o vencedor; Favorito do Modelo e do Mercado confirmando. Cruzamento FIFA Match Centre, World Soccer Talk, NBC Los Angeles, FOX Sports e Yahoo Sports."
+},
+{
+"tipo": "aovivo",
+"hora": "23:16",
+"texto": "AO VIVO (2o tempo em andamento) - Paraguai 0 x 3 EUA, SoFi Stadium. Os EUA dominaram o 1o tempo e foram ao intervalo com 3 a 0. No recomeco, Pochettino poupou Pulisic (entrou Sebastian Berhalter) e Alfaro tirou Bobadilla, autor do gol contra, para a entrada de Mauricio. NOSSA LEITURA: o palpite EUA 1x0 cravou o vencedor (faltou so dimensionar a goleada) - o gol contra logo aos 7 derrubou o bloco baixo do Paraguai, que nunca se reorganizou. Favorito do Modelo e do Mercado (EUA) confirmando com folga."
+},
+{
+"tipo": "gol",
+"hora": "22:46",
+"texto": "GOL - Paraguai 0 x 3 EUA: Folarin Balogun, perto do fim do 1o tempo, recebe em profundidade, passa por Omar Alderete dentro da area e bate de canhota no angulo - seu 2o no jogo. EUA atropelando antes do intervalo."
+},
+{
+"tipo": "gol",
+"hora": "22:31",
+"texto": "GOL - Paraguai 0 x 2 EUA: Balogun aos 31. Antonee Robinson lancou na profundidade, Pulisic deu o ultimo passe na medida e Balogun finalizou. Anfitriao amplia."
+},
+{
+"tipo": "gol",
+"hora": "22:07",
+"texto": "GOL - Paraguai 0 x 1 EUA: gol contra de Damian Bobadilla aos 7, apos jogada de Weston McKennie com Pulisic. EUA abrem cedo e quebram o plano de bloco baixo do Paraguai - exatamente o cenario que dava o 1x0 ao anfitriao."
+},
+{
+"tipo": "aovivo",
+"hora": "22:01",
+"texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium, Los Angeles. Estreia dos EUA na Copa, jogando em casa. Palpite: EUA 1x0 (P 1/X/2 = 48,6/27,5/24,0; lambda EUA 1,35 x Paraguai 0,85). Favorito do Modelo e do Mercado: EUA."
+},
+{
+"tipo": "odds",
+"hora": "22:00",
+"texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +285 | Empate +235 | EUA -110 | Under 2,5 -180 (linha de fechamento de consenso, base do CLV)."
+},
+{
+"tipo": "ao_vivo",
+"texto": "AO VIVO - Paraguai 0x3 EUA (cerca de 23 min do 2o tempo, ~68 do jogo, SoFi Stadium). Os EUA administram a goleada com posse e bloco medio; Pochettino comeca a tirar o pe e a rodar o banco. O Paraguai de Alfaro tenta subir as linhas mas nao cria nada claro - segue sem reacao na etapa final. Sem gols no 2o tempo ate aqui. Cruzamento FIFA Match Centre, NBC Los Angeles, FOX Sports, VAVEL e Opta Analyst."
+},
+{
+"tipo": "ao_vivo",
+"hora": "23:07",
+"texto": "AO VIVO - comeca o 2o tempo de Paraguai x EUA, EUA 3x0 (gol contra de Bobadilla aos 7, Balogun aos 31 e aos 45+4). Cruzamento de fontes (World Soccer Talk, FOX Sports, Yahoo, CBS) confirma 3x0 sem alteracao no recomeco - 11 contra 11, sem cartao vermelho. LEITURA: previsao bateu na direcao (EUA, favorito do Modelo e do Mercado, vencendo com sobra); o placar exato 1x0 do bolao ja ficou pra tras e o Over 2,5 esta batido. A observar: rotacao/poupanca dos EUA com o jogo resolvido e se o Paraguai consegue o gol de honra. Sem alerta - nada muda a previsao de vitoria americana."
+},
+{
+"tipo": "alerta",
+"hora": "22:56",
+"texto": "CORRECAO - Paraguai x EUA: NAO houve expulsao no jogo. Revisao cruzada (Bolavip minuto a minuto, World Soccer Talk, NBC) mostra que Omar Alderete sofreu apenas um CHOQUE DE CABECA com Chris Richards aos 17 min, passou por avaliacao medica e VOLTOU - nao foi cartao vermelho (a informacao anterior cruzou com o amistoso de novembro de 2025, quando Alderete foi expulso numa confusao). Paraguai segue com 11 em campo. PLACAR REAL NO INTERVALO: EUA 3x0 - Folarin Balogun fez DOIS (aos 31, assistencia de Pulisic, e aos 45+4, apos lancamento de Tillman, corte para dentro e chute no angulo), alem do gol contra de Damian Bobadilla aos 7. Amarelos: Caceres (11) e Gustavo Gomez (15). LEITURA: EUA (favorito do modelo E do mercado) atropelando; o placar exato 1x0 do bolao ficou pra tras; Under 2,5 (lab) MORREU - ja sao 3 gols, Over 2,5 batido. Vitoria dos EUA encaminhada."
+},
+{
+"tipo": "alerta",
+"hora": "22:50",
+"texto": "ALERTA - Paraguai x EUA: CARTAO VERMELHO em Omar Alderete (Paraguai) aos 45 - a Albirroja vai jogar o 2o tempo com 10 homens e perdendo 0x2. Leitura ANTERIOR: EUA vencem por margem curta (palpite EUA 1x0). NOVA: EUA vencem com sobra e o Over 2,5 fica cada vez mais provavel - Paraguai com um a menos e dois atras tera de se expor. Vantagem dos EUA agora folgada."
+},
+{
+"tipo": "ao_vivo",
+"hora": "22:43",
+"texto": "AO VIVO - Paraguai 0x2 EUA (intervalo). Os EUA atropelaram no 1o tempo: aos 7' Pulisic puxou o contra-ataque e o cruzamento de McKennie morreu contra a propria meta, gol contra de Bobadilla (0x1); aos 31' Balogun recebeu de Pulisic e bateu no canto inferior (0x2). Amarelos para Caceres e Gustavo Gomez (Paraguai), pressionados pela marcacao alta dos EUA. LEITURA: o roteiro saiu como previsto - EUA vencendo e Paraguai sufocado no bloco baixo - so que mais folgado; nosso palpite era EUA 1x0 e o anfitriao ja fez 2. Favorito do Modelo e do Mercado (EUA) dominando; Paraguai precisa de reacao improvavel no 2o tempo. Sem alerta: o placar segue na direcao da nossa previsao."
+},
+{
+"tipo": "bola_rolando",
+"hora": "22:00",
+"texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium (Inglewood). Anfitriao EUA com forca total sob Pochettino; Paraguai de Alfaro montado no bloco baixo. Palpite: EUA 1x0."
+},
+{
+"tipo": "odds",
+"hora": "22:00",
+"texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +290 | Empate +220 | EUA +110 | Under 2,5 -180 (linha de fechamento, base do CLV)"
+},
+{
+"tipo": "lance",
+"hora": "22:40",
+"texto": "GOL DOS EUA CONFIRMADO - Paraguai 0x2 EUA: Folarin Balogun marcou aos 31 min, em assistencia de Christian Pulisic (FIFA, ESPN, FOX Sports e CBS confirmam). Pulisic, que ja havia armado o gol contra de Bobadilla aos 7, virou o cerebro do ataque americano. Era o segundo gol que estava pendente de confirmacao - agora cravado. Placar 1x0 do palpite do bolao superado: EUA vencem com folga, mas o placar EXATO se afasta."
+},
+{
+"tipo": "ao_vivo",
+"hora": "22:41",
+"texto": "AO VIVO - Paraguai x EUA (fim do 1o tempo, ~41 min + acrescimos, SoFi Stadium): EUA 2x0. Os Estados Unidos fecham a primeira etapa com dominio total - gol contra de Bobadilla (7 min, jogada de Pulisic) e Balogun (31 min, assistencia de Pulisic). O Paraguai de Alfaro nao saiu do bloco baixo e quase nao ameacou. Previsao de vitoria dos EUA (favorito do modelo E do mercado) batendo em cheio; placar exato do bolao (1x0) ja superado. Under 2,5 (lab) no limite: 2 gols, mais um e estoura. Sem alerta - gols a FAVOR da nossa leitura."
+},
+{
+"tipo": "ao_vivo",
+"hora": "22:35",
+"texto": "AO VIVO - Paraguai x EUA (cerca de 35 min, SoFi Stadium, Inglewood): EUA 1x0. Os Estados Unidos comecaram arrasadores e abriram cedo - aos 7 min Pulisic rasgou a marcacao e cruzou, McKennie participou da jogada e a bola desviou em Damian Bobadilla: GOL CONTRA, 1x0 anfitriao (um dos gols mais rapidos dos EUA em Copas). Balogun ainda balancou a rede logo depois, mas o gol foi anulado por impedimento. O Paraguai de Alfaro se fechou no bloco baixo, exatamente como previsto, e quase nao passou do meio-campo. Palpite do bolao (EUA 1x0) batendo em cheio ate aqui - placar exato vivo. Algumas fontes ja relatam um possivel segundo gol de Balogun; aguardando confirmacao cruzada antes de cravar."
+},
+{
+"tipo": "ao_vivo",
+"hora": "22:28",
+"texto": "AO VIVO - Paraguai x EUA (~28 min): EUA 1x0. Os EUA controlam apos o gol contra precoce de Damian Bobadilla (7 min, jogada de Pulisic e McKennie). O Paraguai parece abalado, comete varias faltas - Juan Caceres ja levou amarelo - e ainda nao respondeu. Cenario exatamente como a leitura previa: bloco baixo do Paraguai furado em lance individual/cruzamento, com os EUA dominando a bola. Palpite do bolao (EUA 1x0) batendo ate aqui. Under 2,5 (lab) firme: 1 gol. Sem alerta - gol a FAVOR da nossa previsao."
+},
+{
+"tipo": "lance",
+"hora": "22:07",
+"texto": "GOL DOS EUA - Paraguai 0x1 EUA aos 7 min: GOL CONTRA de Damian Bobadilla. Pulisic passou pela defesa e cruzou rasteiro, McKennie participou e a bola entrou apos desvio do volante paraguaio. Anfitriao na frente cedo - o cenario 1x0 do nosso palpite ja no placar."
+},
+{
+"tipo": "ao_vivo",
+"hora": "22:01",
+"texto": "BOLA ROLANDO - comeca Paraguai x EUA (mando real dos EUA, SoFi Stadium). Pochettino mandou a campo um 5-3-2: Freese; Dest, Freeman, Richards, Ream, Robinson; Tillman, Adams, McKennie; Pulisic e Balogun. ATENCAO: o Paraguai entrou COM Julio Enciso entre os titulares, ao contrario da expectativa pre-jogo de desfalque - reforca o setor ofensivo paraguaio, mas nao muda nossa leitura (EUA com a bola, Paraguai no bloco baixo)."
+},
+{
+"tipo": "odds",
+"hora": "22:00",
+"texto": "ODDS NO APITO - Paraguai x EUA: EUA -105 | Empate +240 | Paraguai +320 | Under 2,5 -185 (linha de fechamento FanDuel, base do CLV). Dinheiro pesado nos EUA: cerca de 84 por cento dos bilhetes e 92 por cento do volume apostado; o Under saltou de -130 para -185 ao longo do dia."
+},
+{
+"tipo": "ao_vivo",
+"hora": "22:00",
+"texto": "BOLA ROLANDO - comeca Paraguai x EUA (22:00, SoFi Stadium, Inglewood). Mando real dos EUA - a agenda lista o Paraguai como mandante. Placar 0x0."
+},
+{
+"tipo": "ao_vivo",
+"hora": "20:23",
+"texto": "AO VIVO - Bosnia x Canada (reta final, por volta dos 85+ min): segue Bosnia 1x0. Pelo relogio real (apito as 16:00 de Brasilia) o jogo ja entrou nos minutos finais e acrescimos - bem alem do que o painel vinha marcando. O Canada teve cerca de 68 por cento de posse e 9 escanteios, mas esbarrou o jogo todo no bloco baixo bosnio; Jonathan David desperdicou a melhor chance parando no goleiro Vasilj. Gol unico: Lukic de cabeca aos 21 (escanteio de Basic, ajeitada de Kolasinac). Palpite do bolao (Canada 1x0) praticamente perdido - so um milagre nos acrescimos salva o placar exato; cenario aponta vitoria da Bosnia. Under 2,5 (laboratorio) a um passo de bater: 1 gol ate aqui. O fechamento com pontos e simulacoes sai assim que o apito final for confirmado pelas fontes."
+},
+{
+"tipo": "fim",
+"hora": "17:34",
+"texto": "FIM DE JOGO - Bosnia 1x1 Canada (BMO Field, Toronto). A Bosnia abriu com Lukic de cabeca aos 21 (escanteio), mas o Canada empatou com Cyle Larin aos 78 (assistencia de Promise David, chute com desvio) e cravou o PRIMEIRO PONTO da historia do pais em Copas - eram 6 derrotas em 6 jogos (1986 e 2022). Sem expulsoes; amarelos para Johnston (11) e os bosnios. Total de 2 gols: UNDER 2,5 BATEU. BOLAO: palpite era Canada 1x0 - deu empate, vencedor e placar errados, 0 ponto nesta rodada (bolao segue com 7). SIMULACOES DE 100 REAIS: DISCIPLINADO ficou fora (sem tip, Edge abaixo de 4pp), nada arriscado; JOGO LOUCO bateu o Empate a +270 e lucrou 270 reais (CLV +5,7 por cento sobre a linha de fechamento +250); FAVORITO DO MODELO (Canada) perdeu 100 reais; FAVORITO DO MERCADO (Canada -125) perdeu 100 reais. Brier do jogo: modelo 0,876 x mercado 0,849 - os dois apostaram alto no Canada e foram contra o empate. Saldo do dia ate aqui: JOGO LOUCO +270 vivo, FAV/FAVMKT no vermelho. Proximo: Paraguai x EUA as 22h (Brasilia)."
+},
+{
+"tipo": "ao_vivo",
+"hora": "17:20",
+"texto": "AO VIVO - Bosnia x Canada (2o tempo, em torno de 63 min): segue Bosnia 1x0. O Canada subiu as linhas e empilha posse no campo bosnio, mas a Bosnia se fecha bem e ja assustou em contra-ataque. O lance mais perigoso foi do Canada: jogada de primeira no ultimo terco, Laryea pegou limpo e CARIMBOU O TRAVESSAO - quase o empate. A Bosnia administra o placar e a vantagem aerea que ja deu o gol. Leitura mantida: jogo aberto no fim, Canada precisando furar o bloco; mando ainda pesa para a busca do empate, mas o tempo corre contra o palpite (Bolao Canada 1x0). Under 2,5 (lab) firme: 1 gol ate aqui. Sem novo alerta - placar inalterado desde o gol da Bosnia."
+},
+{
+"tipo": "ao_vivo",
+"hora": "17:17",
+"texto": "AO VIVO - Bosnia x Canada (2o tempo, reta dos ~70 min): segue Bosnia 1x0. Nenhum lance novo confirmado pelas fontes (ge, SporTV, ESPN Brasil, World Soccer Talk, NBC) desde o gol de Lukic - o Canada mantem a posse e empilha escanteios, mas continua esbarrando no bloco baixo bosnio, forte no jogo aereo, sem criar a chance clara do empate. Amarelos no jogo: Johnston (Canada), Demirovic e Lukic (Bosnia). Com o relogio entrando nos minutos finais, o palpite do bolao (Canada 1x0) fica praticamente descartado. Leitura ajustada pelo tempo corrido: Bosnia cerca de 45 por cento, Empate 33, Canada 22. Under 2,5 (lab) firme: 1 gol ate aqui. Sem alerta novo - placar inalterado, sem lance novo confirmado."
+},
+{
+"tipo": "ao_vivo",
+"hora": "17:11",
+"texto": "AO VIVO - Bosnia x Canada (2o tempo): segue Bosnia 1x0. O Canada voltou do intervalo precisando da virada e ainda nao furou o bloco bosnio - nenhum gol novo confirmado pelas fontes na etapa final (ge, SporTV, ESPN Brasil e Globe and Mail registram apenas que o anfitriao segue atras; cobertura ao vivo das fontes ainda com atraso no 2o tempo). Com o relogio correndo contra, o palpite do bolao (Canada 1x0) fica cada vez mais improvavel e o cenario empate/Bosnia ganha forca. Leitura mantida da revisao das 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33. Under 2,5 (lab) firme: 1 gol ate agora. Sem novo alerta - placar inalterado, sem lance novo confirmado."
+},
+{
+"tipo": "ao_vivo",
+"hora": "17:01",
+"texto": "AO VIVO - Bosnia x Canada (intervalo / inicio do 2o tempo): Bosnia 1x0. No 1o tempo o Canada dominou a posse (66 por cento) mas a Bosnia levou a melhor no xG (0,77 a 0,66) - dominio esteril canadense, sem transformar pressao em chance clara alem da bola perdida por Jonathan David. Lukic (autor do gol aos 21) e Demirovic levaram amarelo por entradas duras. Comeca a etapa final com o Canada obrigado a virar 2 gols para confirmar o nosso Canada 1x0. Leitura mantida: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando empurrando o anfitriao ao ataque. Under 2,5 (lab) segue vivo: 1 gol ate aqui. Sem novo alerta - placar e leitura inalterados."
+},
+{
+"tipo": "lance",
+"hora": "16:59",
+"texto": "AO VIVO - Bosnia x Canada (2o tempo, ~60 min): Bosnia 1x0. O Canada segue inteiro no campo de ataque atras do empate e empurra a Bosnia para tras, mas esbarra no bloco baixo bosnio, bem postado e forte no jogo aereo, sem converter chance clara nova. A Bosnia gasta faltas para cortar o ritmo e ja levou amarelos no 2o tempo com Demirovic e o proprio Lukic (autor do gol). Leitura mantida: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando dando gas a co-anfitria na busca pela virada. Under 2,5 (lab) firme: 1 gol ate aqui. Sem alerta - placar e previsao inalterados."
+},
+{
+"tipo": "ao_vivo",
+"hora": "16:55",
+"texto": "AO VIVO - Bosnia x Canada (2o tempo, ~50 min): Bosnia 1x0. Recomeco com o Canada inteiro no campo de ataque atras do empate, mas a Bosnia volta de bloco baixo e firme protegendo a vantagem do gol de Lukic. Sem gol novo ate aqui - a co-anfitria ja tinha criado no 1o tempo (Jonathan David, Oluwaseyi e Cornelius perderam chances) e segue pressionando, porem sem Alphonso Davies (fora por lesao na coxa) perde potencia e profundidade pela esquerda. Leitura mantida desde o intervalo: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando dando gas a busca canadense pela virada. Under 2,5 (lab) firme: 1 gol em ~50 min. Sem alerta - placar e previsao inalterados."
+},
+{
+"tipo": "ao_vivo",
+"hora": "16:46",
+"texto": "AO VIVO - Bosnia x Canada (INTERVALO): Bosnia 1x0. Fim do 1o tempo com a azarona na frente - gol de Jovo Lukic aos 19 min (cabeca, apos escanteio cobrado, sobra apos desvio de Kolasinac), seu 1o pela selecao. O Canada teve mais posse e a chance mais clara com Jonathan David, parado por Vasilj, mas foi para o vestiario sem furar o bloco baixo bosnio, forte no jogo aereo. Leitura estabilizada desde o gol: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando dando gas a co-anfitria para buscar a virada no 2o tempo. Under 2,5 (lab) firme: 1 gol em 45 min. Alerta do gol ja absorvido - sem novidade na previsao."
+},
+{
+"tipo": "ao_vivo",
+"hora": "16:43",
+"texto": "AO VIVO - Bosnia x Canada (reta final do 1o tempo): Bosnia 1x0. Placar segue o gol de cabeca de Lukic no escanteio e o Canada vai para o intervalo atras, mesmo tendo sido melhor antes do gol - Jonathan David ja perdeu a chance mais clara da co-anfitria. Bosnia compacta no bloco baixo e forte no jogo aereo, administrando a vantagem rumo ao descanso. Leitura mantida desde as 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando ainda dando gas ao Canada para buscar a virada no 2o tempo. Under 2,5 (lab) firme: so 1 gol ate aqui. Sem alerta - placar e previsao inalterados."
+},
+{
+"tipo": "ao_vivo",
+"hora": "16:37",
+"texto": "AO VIVO - Bosnia x Canada (37 min): Bosnia 1x0. O Canada acordou apos o gol e empilha pressao no campo bosnio, mas desperdicou a chance do empate - Jonathan David recebeu de bandeja apos falha na saida de bola adversaria e bateu sem forca nem direcao, para a furia do banco canadense. A Bosnia segue mandando nas bolas aereas (ja venceu a disputa dentro da area do Canada mais de uma vez) e foi exatamente dali que saiu o gol de Lukic. Leitura mantida da revisao das 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando ainda pesando para o Canada buscar a virada. Under 2,5 (lab) de pe: 1 gol ate aqui. Sem alerta - placar e leitura inalterados."
+},
+{
+"tipo": "alerta",
+"hora": "16:31",
+"texto": "ALERTA - Bosnia x Canada: GOL da Bosnia (Lukic, escanteio), 1x0 contra o Canada no 1o tempo. AMEACA nosso palpite (Bolao Canada 1x0). ANTES: Canada ~57% | Empate ~24% | Bosnia ~19%. AGORA, com a Bosnia na frente: NOVO ~ Canada 33% | Empate 34% | Bosnia 33% (o Canada precisa virar 2 gols e o cenario de poucos gols agora joga CONTRA o 1x0 canadense; ainda ha ~55min e o mando). Under 2,5 (lab) segue vivo: 1 gol ate aqui."
+},
+{
+"tipo": "lance",
+"hora": "16:30",
+"texto": "GOL DA BOSNIA! Bosnia 1 x 0 Canada. Jovo Lukic marca de cabeca apos escanteio (cruzamento de Memic, desvio de Kolasinac no primeiro pau), seu 1o gol pela selecao. A azarona abre o placar contra a co-anfitria no 1o tempo (minuto exato ainda nao confirmado pelas fontes)."
+},
+{
+"tipo": "ao_vivo",
+"hora": "16:28",
+"texto": "AO VIVO - Bosnia x Canada (26 min): Bosnia 1x0. GOL DA BOSNIA - Jovo Lukic subiu mais que a marcacao e cabeceou para o fundo do gol apos escanteio cobrado na area, silenciando o BMO Field. O azarao furou o bloco e bateu a nossa leitura de Canada 1x0 ainda no primeiro tempo. O Canada mantem mando real e elenco superior para reagir, mas agora corre atras do prejuizo - P(Canada vencer) caiu e empate/Bosnia subiram. O Jogo Louco (Empate +270) se valoriza; o Disciplinado seguiu sem tip, entao sem exposicao no jogo."
+},
+{
+"tipo": "alerta",
+"hora": "16:26",
+"texto": "ALERTA - Bosnia x Canada: a BOSNIA abriu o placar! Gol contra a nossa leitura (Canada 1x0). O Canada ainda e favorito a buscar pelo mando e elenco, mas P(Canada vencer) cai e empate/Bosnia sobem. Acompanhando a reacao canadense."
+},
+{
+"tipo": "ao_vivo",
+"hora": "16:24",
+"texto": "AO VIVO - Bosnia x Canada (24 min): 0x0. Sai a PRIMEIRA chance clara do jogo - Jonathan David apareceu livre dentro da area e foi parado a queima-roupa por Vasilj, o Canada perdeu o gol feito. Do outro lado, Amar Memic arriscou de dentro da area pela Bosnia e mandou por cima. O jogo abriu um pouco depois do inicio travado, mas segue de margem estreita e Under 2,5 de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
+},
+{
+"tipo": "ao_vivo",
+"hora": "16:20",
+"texto": "AO VIVO - Bosnia x Canada (20 min): 0x0. Cartao amarelo para Alistair Johnston (Canada) aos 11 min por falta dura - primeiro nome no caderno. Jogo truncado, com paradas para atendimento (Amar Memic, da Bosnia, sentiu aos 12). Canada tenta circular a bola e a Bosnia segura no bloco baixo, sem chance clara de gol ate aqui - exatamente o roteiro de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo nao muda a previsao."
+},
+{
+"tipo": "ao_vivo",
+"hora": "16:18",
+"texto": "AO VIVO - Bosnia x Canada (18 min): 0x0. Jogo truncado como previsto. Cartao AMARELO para Alistair Johnston (Canada) por entrada dura e parada para atendimento de Amar Memic (Bosnia) esfriaram o ritmo. Canada com a bola e o mando, Bosnia fechada no bloco baixo - nenhuma chance clara ainda. Leitura de placar magro e Under 2,5 segue de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo em zagueiro nao muda a previsao."
+}
 ]
