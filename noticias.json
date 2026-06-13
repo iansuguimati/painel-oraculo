@@ -1,5 +1,15 @@
 [
   {
+    "tipo": "historico",
+    "hora": "18:03",
+    "texto": "HISTORICO - Brasil x Marrocos (19:00, MetLife Stadium, Nova York/Nova Jersey): retrospecto e contexto. Sao 3 confrontos na historia: o Brasil venceu 2 (2x0 em 1997, amistoso em Belem, dois de Denilson; 3x0 na Copa de 1998 na Franca, com Ronaldo, Rivaldo e Bebeto) e Marrocos venceu 1 - justamente o MAIS RECENTE: 2x1 em marco de 2023, amistoso em Tanger, com Casemiro descontando. Saldo do retrospecto: Brasil 6 gols feitos, 2 sofridos. CONTEXTO IMPORTANTE: os marroquinos chegam no melhor momento da historia (semifinalistas em 2022) e nao perdem desde agosto do ano passado. ODDS: mercado crava o Brasil favorito - vitoria a cerca de 1,53 a 1,65 (implicito de 62 a 65 por cento), empate cerca de 3,75 e Marrocos cerca de 5,00; leitura de favoritismo claro do Brasil. Provaveis - BRASIL: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Paqueta, Matheus Cunha, Raphinha, Vinicius Jr. MARROCOS: Bounou; Hakimi, Diop, Halhal, Salah-Eddine; El Aynaoui, El Khannouss, Saibari; Brahim Diaz, Ezzalzouli, Rahimi. Leitura preliminar: Brasil tem o elenco e o favoritismo, mas Marrocos e perigoso no contra-ataque com Hakimi e Brahim Diaz - jogo para respeitar."
+  },
+  {
+    "tipo": "fim",
+    "hora": "17:57",
+    "texto": "FIM DE JOGO - Suica 1x0 Catar (Levi's Stadium, Santa Clara), abertura do Grupo B. Breel Embolo converteu o PRIMEIRO PENALTI da Copa 2026 - penalti aos 13 minutos, falta do goleiro Abunada sobre Freuler, confirmado no VAR apos checagem de impedimento muito apertada - e garantiu a vitoria suica na estreia. O Catar nao conseguiu reagir. Total de 1 gol: UNDER 2,5 BATEU. OBS: jogo SEM palpite no nosso bolao (estava fora da nossa lista de analises do dia), entao sem pontuacao Prodefy e sem simulacao de 100 reais - fica o registro factual do resultado."
+  },
+  {
     "hora": "17:48",
     "tipo": "analise",
     "texto": "FIM DE JOGO - Suica 1x0 Catar (Levi's Stadium, Santa Clara, Grupo B). Unico gol: Embolo de penalti aos 16'. Palpite do bolao Suica 2x0: acertamos o VENCEDOR e o zero do Catar, mas a Suica fez 1 e nao 2, entao sem placar exato = 4 pontos PRODEFY. Favorito do modelo e do mercado (Suica a 1,21): GANHOU, +21 reais cada um. Jogo Louco (empate a +550): perdeu, -100 reais. Disciplinado: sem tip - a 1,21 a Suica nao tinha valor, nenhum edge de +4pp. Obs: a analise diaria deste jogo nao entrou no painel, entao o Brier do nosso modelo e reconstruido (aprox 0,062 contra 0,072 do mercado; favorito confirmado)."
@@ -183,15 +193,5 @@
   {
     "tipo": "ao_vivo",
     "texto": "AO VIVO - Paraguai 0x3 EUA (reta final, cerca de 75 do jogo, SoFi Stadium). Placar inalterado no 2o tempo: os EUA seguram a posse, rodam o banco e administram a vantagem rumo ao apito. Lance polemico aos 51 - o VAR reviu o amarelo de Tim Ream e a arbitragem inverteu, punindo Miguel Almiron por simulacao. O Paraguai, com Mauricio no lugar de Bobadilla, nao cria nada claro e caminha para a estreia com derrota. O palpite EUA 1x0 ja cravou o vencedor; Favorito do Modelo e do Mercado confirmando. Cruzamento FIFA Match Centre, World Soccer Talk, NBC Los Angeles, FOX Sports e Yahoo Sports."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "23:16",
-    "texto": "AO VIVO (2o tempo em andamento) - Paraguai 0 x 3 EUA, SoFi Stadium. Os EUA dominaram o 1o tempo e foram ao intervalo com 3 a 0. No recomeco, Pochettino poupou Pulisic (entrou Sebastian Berhalter) e Alfaro tirou Bobadilla, autor do gol contra, para a entrada de Mauricio. NOSSA LEITURA: o palpite EUA 1x0 cravou o vencedor (faltou so dimensionar a goleada) - o gol contra logo aos 7 derrubou o bloco baixo do Paraguai, que nunca se reorganizou. Favorito do Modelo e do Mercado (EUA) confirmando com folga."
-  },
-  {
-    "tipo": "gol",
-    "hora": "22:46",
-    "texto": "GOL - Paraguai 0 x 3 EUA: Folarin Balogun, perto do fim do 1o tempo, recebe em profundidade, passa por Omar Alderete dentro da area e bate de canhota no angulo - seu 2o no jogo. EUA atropelando antes do intervalo."
   }
 ]
