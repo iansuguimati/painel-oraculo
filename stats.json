@@ -54,17 +54,14 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Bosnia x Canada",
-    "o1": "+380",
-    "ox": "+250",
-    "o2": "-125",
-    "under": "-145",
-    "hora": "16:00"
+    "jogo": "Paraguai x EUA",
+    "o1": "+285",
+    "ox": "+225",
+    "o2": "+110",
+    "under": "-175",
+    "hora": "22:00"
   },
   "alerta": {
-    "ativo": true,
-    "hora": "21:46",
-    "jogo": "Paraguai x EUA",
-    "texto": "Julio Enciso CONFIRMADO titular (analise registrou SEM Enciso) - upgrade na criacao paraguaia. Palpite mantido EUA 1x0; P(1/X/2) 48,6/27,5/24,0 -> ~46/28/26. Goleiro: Orlando Gill no lugar de Roberto Fernandez."
+    "ativo": false
   }
 }
