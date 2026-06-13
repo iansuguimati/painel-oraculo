@@ -24,5 +24,18 @@
     "disc": 0,
     "louco": -100,
     "favmkt": 165
+  },
+  {
+    "data": "12/06",
+    "jogo": "BIH x CAN",
+    "bolao_pts": 0,
+    "venc": 0,
+    "placar": 0,
+    "brier_m": 0.876,
+    "brier_k": 0.849,
+    "fav": -100,
+    "disc": 0,
+    "louco": 270,
+    "favmkt": -100
   }
 ]
