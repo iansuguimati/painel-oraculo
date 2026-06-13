@@ -75,9 +75,6 @@
     "hora": "22:00"
   },
   "alerta": {
-    "ativo": true,
-    "hora": "22:56",
-    "jogo": "Paraguai x EUA",
-    "texto": "CORRECAO: NAO houve cartao vermelho - Alderete sofreu apenas choque de cabeca com Richards (17') e voltou; Paraguai segue com 11 em campo. Placar real no intervalo: EUA 3x0 (Bobadilla contra aos 7, Balogun aos 31 e aos 45+4). ANTERIOR: EUA 0x2 com Paraguai com 10 homens -> NOVO: EUA 3x0, 11 contra 11, Over 2,5 ja batido e vitoria dos EUA praticamente selada (placar exato 1x0 do bolao ficou pra tras)."
+    "ativo": false
   }
 }
