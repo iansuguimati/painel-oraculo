@@ -67,12 +67,12 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Brasil x Marrocos",
-    "o1": "1,60",
-    "ox": "3,75",
-    "o2": "5,00",
-    "under": "1,85",
-    "hora": "19:06"
+    "jogo": "Marrocos x Brasil",
+    "o1": "+456",
+    "ox": "+300",
+    "o2": "-144",
+    "under": "-125",
+    "hora": "19:00"
   },
   "alerta": {
     "ativo": false

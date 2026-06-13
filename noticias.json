@@ -1,6 +1,26 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "19:15",
+    "texto": "AO VIVO 1T - MARROCOS 0x0 BRASIL (MetLife Stadium, Nova Jersey), cerca de 15 minutos. Clima vibrante na estreia do Grupo C. BRASIL de Ancelotti com surpresas: Alisson; Ibanez, Marquinhos (capitao) e Gabriel Magalhaes; Casemiro e Bruno Guimaraes; Lucas Paqueta, Vini Jr, Raphinha e Igor Thiago de centroavante - Neymar fora por lesao. Marrocos vem invicto ha 29 jogos, mas com desfalques (Ezzalzouli e Aguerd lesionados) e tecnico novo, Mohamed Ouahbi. Jogo equilibrado no inicio, sem gols. Cruzamento VAVEL, Terra, CNN Esportes, Lance e ge.globo."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "19:01",
+    "texto": "BOLA ROLANDO - comeca Marrocos x Brasil no MetLife Stadium. Estreia do Brasil na Copa 2026, primeiro jogo do Grupo C, antes de Escocia x Haiti as 22h."
+  },
+  {
+    "tipo": "odds",
+    "hora": "19:00",
+    "texto": "ODDS NO APITO - Marrocos x Brasil: Marrocos +456 | Empate +300 | Brasil -144 | Under 2,5 cerca de -125 (linha de fechamento de consenso DraftKings, base do CLV). Brasil favorito amplo; mercado precifica jogo aberto (Over 2,5 a +105)."
+  },
+  {
+    "tipo": "encerrado",
+    "hora": "17:52",
+    "texto": "ENCERRADO - Suica 1x1 Catar (Levi's Stadium, Santa Clara), abertura do Grupo B. Embolo abriu de penalti para a Suica; Boualem empatou para o Catar no fim, segurando ponto historico do anfitriao convidado. Tropeco da favorita europeia na estreia."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "19:07",
     "texto": "BOLA ROLANDO - comeca Brasil x Marrocos (MetLife Stadium, East Rutherford). Estreia do Grupo C, bola rolou as 19:06 de Brasilia, placar 0x0 no inicio. Brasil entra como amplo favorito; o Marrocos, semifinalista em 2022, e o adversario mais temido do grupo segundo Ancelotti. Lances a seguir."
   },
@@ -171,25 +191,5 @@
     "tipo": "odds",
     "hora": "16:53",
     "texto": "ODDS NO APITO - Suica x Catar: Suica -400 | Empate +475 | Catar +1000 | Under 2,5 -110 (linha de fechamento, base do CLV)"
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:51",
-    "texto": "AO VIVO - Suica 1x0 Catar aos ~10 do 2o tempo (Levis Stadium, Santa Clara), cerca de 55 min de jogo. Segue 1x0 com o penalti de Embolo (17 do 1o tempo). A Suica mantem a posse e o controle territorial, empurrando o Catar para o campo de defesa em busca do segundo gol que encaminha o jogo; o Catar segue no bloco baixo, sem chance clara de empate. Sem novos gols, sem expulsao. Leitura Suica 2x0 mantida - favorito amplo no comando, falta liquidar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:42",
-    "texto": "AO VIVO - comeca o 2o tempo: Suica 1x0 Catar no Levis Stadium (Santa Clara). Sem mudancas no intervalo no placar; a Suica volta com a posse e o controle, buscando o segundo gol para encaminhar. Catar segue no bloco baixo tentando o contra-ataque. Leitura Suica 2x0 mantida."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:38",
-    "texto": "INTERVALO - Suica 1x0 Catar no Levis Stadium (Santa Clara). A Suica fecha o 1o tempo na frente com o penalti de Embolo (17), depois de assustar cedo com Ndoye (defesa de Abunada). O Catar ficou preso no bloco baixo, sem chegada clara, e levou dois amarelos (o goleiro Abunada e Abdulsallam). Favorito amplo no controle; leitura Suica 2x0 mantida - falta o segundo gol para encaminhar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:34",
-    "texto": "AO VIVO - Suica 1x0 Catar aos ~37 do 1o tempo (Levis Stadium, Santa Clara), perto do intervalo. Segue 1x0 com o penalti de Embolo (17). NOVIDADE - CARTOES: o Catar ja tem dois amarelos, o goleiro Abunada (pela falta que deu o penalti) e Abdulsallam (falta tatica cortando contra-ataque suico); nenhum vermelho. A Suica controla a posse e o ritmo; o Catar segue no bloco baixo sem criar chance clara. Leitura Suica 2x0 mantida - favorito amplo no comando."
   }
 ]
