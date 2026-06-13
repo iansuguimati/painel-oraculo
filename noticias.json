@@ -1,6 +1,11 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "17:16",
+    "texto": "AO VIVO - Suica 1x0 Catar, perto dos 75 min no Levis Stadium (Santa Clara). Placar inalterado desde o penalti de Embolo (17 do 1o tempo). A Suica administra a posse e o ritmo, controla o territorio e tenta o segundo gol que liquidaria; o Catar segue no bloco baixo, sem chegada clara para o empate. Sem novos gols, cartoes ou expulsoes. Under 2,5 segue na frente (linha de fechamento -110). Leitura de amplo favoritismo helvetico mantida."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "17:02",
     "texto": "AO VIVO - Suica 1x0 Catar, passando dos 62 min no Levis Stadium (Santa Clara). Placar segue 1x0 desde o penalti de Embolo aos 17 min (falta de Abunada sobre Freuler). O Catar se defende bem e evita o segundo, mas cria pouco no ataque; a Suica administra a vantagem com posse de bola e ritmo controlado. Sem novos gols, cartoes ou expulsoes desde o intervalo. Under 2,5 segue na frente (linha de fechamento -110)."
   },
@@ -190,10 +195,5 @@
     "tipo": "lance",
     "hora": "22:40",
     "texto": "GOL DOS EUA CONFIRMADO - Paraguai 0x2 EUA: Folarin Balogun marcou aos 31 min, em assistencia de Christian Pulisic (FIFA, ESPN, FOX Sports e CBS confirmam). Pulisic, que ja havia armado o gol contra de Bobadilla aos 7, virou o cerebro do ataque americano. Era o segundo gol que estava pendente de confirmacao - agora cravado. Placar 1x0 do palpite do bolao superado: EUA vencem com folga, mas o placar EXATO se afasta."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "22:41",
-    "texto": "AO VIVO - Paraguai x EUA (fim do 1o tempo, ~41 min + acrescimos, SoFi Stadium): EUA 2x0. Os Estados Unidos fecham a primeira etapa com dominio total - gol contra de Bobadilla (7 min, jogada de Pulisic) e Balogun (31 min, assistencia de Pulisic). O Paraguai de Alfaro nao saiu do bloco baixo e quase nao ameacou. Previsao de vitoria dos EUA (favorito do modelo E do mercado) batendo em cheio; placar exato do bolao (1x0) ja superado. Under 2,5 (lab) no limite: 2 gols, mais um e estoura. Sem alerta - gols a FAVOR da nossa leitura."
   }
 ]
