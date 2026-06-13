@@ -1,6 +1,11 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:14",
+    "texto": "CONFIRMADO o gol - Paraguai 0x1 EUA, GOL CONTRA de Damian Bobadilla aos 7 minutos. Pulisic passou entre dois marcadores e cruzou; a bola desviou em Bobadilla e morreu nas redes (McKennie na origem da jogada). Placar 1x0 EUA no SoFi Stadium, exatamente o palpite do bolao (EUA 1x0, EP 2,39). O anfitriao abriu cedo e empurra o Paraguai para o bloco baixo - leitura do modelo mantida (lambda EUA 1,35 x Paraguai 0,85), agora com espaco para o segundo. Sem alerta: gol a favor da previsao."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "22:07",
     "texto": "GOL DOS EUA - Paraguai 0x1 EUA, gol logo aos 7 minutos no SoFi/Los Angeles Stadium. O anfitriao abre o placar cedo, exatamente a leitura do modelo (gol do mandante saindo de lance/bola parada). Autor ainda sendo confirmado pelas fontes (NBC e CBS ja dao EUA 1x0). Palpite do bolao EUA 1x0 (EP 2,39) reforcado - lambda EUA 1,35 x Paraguai 0,85. Agora o Paraguai de Alfaro precisa sair do bloco baixo, o que ABRE espaco para o segundo gol dos EUA. Sem alerta: gol a favor da previsao."
   },
