@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "pre_jogo",
+    "hora": "15:59",
+    "texto": "PRE-JOGO - Catar x Suica (16:00, Levi's Stadium, Santa Clara), estreia do Grupo B. Escalacoes divulgadas. SUICA (4-2-3-1): Kobel; Widmer, Akanji, Elvedi, Rodriguez; Xhaka, Aebischer; Ndoye, Rieder, Vargas; Embolo - Murat Yakin manda a base do quarto de final da Euro 2024 (Akanji/Man City, Xhaka/Leverkusen, Kobel/Dortmund, Ndoye, Embolo). CATAR (4-3-3): Barsham; Al-Oui, Pedro Miguel, Khoukhi, Homam; Jaber, Fathi, Boudiaf; Edmilson Junior, Almoez Ali, Afif - Julen Lopetegui aposta no entrosamento de Afif e no faro de Almoez Ali. FORMA: Suica vem de 4x1 na Jordania e 1x1 com a Australia nos amistosos; o Catar, bicampeao asiatico (2019 e 2023), busca o inedito mata-mata, mas tem elenco bem inferior (poucos de ligas de elite) e caiu na fase de grupos como anfitriao em 2022. RANKING FIFA: Suica perto do top 20 x Catar fora do top 50. ODDS (consenso de mercado): Suica curtissima entre -450 e -475 (cerca de 1,21) | Empate +550 | Catar +1300; Over 2,5 cerca de 2,04 x Under 2,5 cerca de 1,79. LEITURA DO MOTOR: favoritismo pesado da Suica - lambda do modelo Suica perto de 2,0 x Catar perto de 0,6, cenario base 2x0/2x1 com a Suica controlando pelo meio (Xhaka-Aebischer) contra a largura do Catar. PRODUTO: Disciplinado SEM TIP - Suica curta demais, sem edge de +4pp com EV positivo; lab de olho no Over 2,5. OBS: a analise diaria oficial deste jogo ainda nao saiu (stats.json em modo aguardando); a leitura acima e do motor ao vivo. As odds de fechamento serao capturadas no apito."
+  },
+  {
     "tipo": "fim",
     "hora": "23:52",
     "texto": "FIM DE JOGO - Paraguai 1 x 4 EUA, SoFi Stadium (Los Angeles). Gols: gol contra de Bobadilla (7), Balogun (31 e 45+), Reyna no fim; Paraguai descontou no 2o tempo. PALPITE: EUA 1x0 acertou o vencedor (EUA), saldo maior que o previsto - 3 pontos no bolao (total 10). MODELO: favorito EUA confirmado (P modelo 48,6 vs mercado 48,4); Brier 0,397 do modelo contra 0,400 do mercado. SIMULACOES 100 reais: Favorito do Modelo +95 reais (EUA 1,95), Favorito do Mercado +95, Disciplinado sem aposta (sem tip - Under caro), Jogo Louco -100 (empate nao saiu)."
@@ -191,10 +196,5 @@
     "tipo": "ao_vivo",
     "hora": "16:43",
     "texto": "AO VIVO - Bosnia x Canada (reta final do 1o tempo): Bosnia 1x0. Placar segue o gol de cabeca de Lukic no escanteio e o Canada vai para o intervalo atras, mesmo tendo sido melhor antes do gol - Jonathan David ja perdeu a chance mais clara da co-anfitria. Bosnia compacta no bloco baixo e forte no jogo aereo, administrando a vantagem rumo ao descanso. Leitura mantida desde as 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando ainda dando gas ao Canada para buscar a virada no 2o tempo. Under 2,5 (lab) firme: so 1 gol ate aqui. Sem alerta - placar e previsao inalterados."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:37",
-    "texto": "AO VIVO - Bosnia x Canada (37 min): Bosnia 1x0. O Canada acordou apos o gol e empilha pressao no campo bosnio, mas desperdicou a chance do empate - Jonathan David recebeu de bandeja apos falha na saida de bola adversaria e bateu sem forca nem direcao, para a furia do banco canadense. A Bosnia segue mandando nas bolas aereas (ja venceu a disputa dentro da area do Canada mais de uma vez) e foi exatamente dali que saiu o gol de Lukic. Leitura mantida da revisao das 16:31: Canada cerca de 33 por cento, Empate 34, Bosnia 33, com o mando ainda pesando para o Canada buscar a virada. Under 2,5 (lab) de pe: 1 gol ate aqui. Sem alerta - placar e leitura inalterados."
   }
 ]
