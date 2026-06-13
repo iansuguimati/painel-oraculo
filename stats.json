@@ -4,7 +4,7 @@
   "hit": "75% (3/4)",
   "roi": "-",
   "clv": "-",
-  "brier": "0,525 (mercado 0,515)",
+  "brier": "0,525 (mercado 0,496)",
   "bolao": 10,
   "sim100": {
     "disc": {
@@ -37,7 +37,7 @@
     "jogo": "Suica x Catar",
     "hora": "16:00 (Brasilia)"
   },
-  "analise": "Rodada de 12/06 encerrada: Canada 1x1 Bosnia e Paraguai 1x3 EUA. Bolao em 10 pontos, aproveitamento de vencedor 3/4 (75%). Simulacoes de 100 reais no acumulado (4 jogos): FAVORITO DO MODELO e FAVORITO DO MERCADO +200 cada (ROI +50%), JOGO LOUCO -30 (-7,5%), DISCIPLINADO sem exposicao (0 tip publicado, modelo em linha com o mercado). A previa estatistica completa do sabado (Suica x Catar 16h, Marrocos x Brasil 19h, Escocia x Haiti 22h) sai na analise diaria pela manha. OBS: o motor ao vivo nao rodou durante Paraguai x EUA; o jogo foi fechado pos-apito via WebSearch.",
+  "analise": "Aguardando a analise diaria de Suica x Catar (16:00, Brasilia). Fechamento tardio do EUA 4x1 Paraguai aplicado: o motor nao rodou na janela do jogo, entao odds de fechamento no apito nao foram capturadas (CLV indisponivel) e o Brier de mercado e aproximado.",
   "analises": [
     {
       "jogo": "Bosnia-Herzegovina x Canada",

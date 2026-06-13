@@ -1,6 +1,11 @@
 [
   {
     "tipo": "fim",
+    "hora": "00:55",
+    "texto": "FIM DE JOGO (fechamento tardio) - EUA 4x1 Paraguai (SoFi Stadium, Inglewood). Gol contra de Bobadilla aos 7 (jogada de McKennie e Pulisic), Balogun aos 31 e mais um nos acrescimos do 1o tempo (3x0), Mauricio descontou para o Paraguai aos 73 (assistencia de Enciso) e Reyna fechou o 4x1 no fim. Pulisic deu 2 assistencias. BOLAO: palpite era EUA 1x0 - vencedor CERTO, placar errado: 3 pontos (bolao vai a 10). SIMULACOES DE 100 REAIS: DISCIPLINADO ficou fora (sem tip); FAVORITO DO MODELO (EUA -105 / 1,95) ganhou 95 reais; FAVORITO DO MERCADO (EUA -105) ganhou 95 reais; JOGO LOUCO (Empate +245) perdeu 100 reais. Brier do jogo: modelo 0,397 x mercado 0,361 - os dois acertaram o favorito, mercado um pouco mais confiante no EUA. OBS: o motor nao rodou na janela deste jogo, entao as odds de fechamento no apito nao foram capturadas - CLV indisponivel e o Brier de mercado e aproximado. Saldo acumulado das simulacoes: FAV +200 (ROI +50%), FAVMKT +200 (+50%), LOUCO -30 (-7,5%), DISC zerado. Proximo: Suica x Catar as 16:00 (Brasilia)."
+  },
+  {
+    "tipo": "fim",
     "hora": "00:50",
     "texto": "FIM - Estados Unidos 4x1 Paraguai (SoFi Stadium, Los Angeles, 12/06). Gols: Bobadilla (contra), Balogun (2) e Reyna pelos EUA; Mauricio descontou para o Paraguai. NOSSO PALPITE DO BOLAO: EUA 1x0 - acertamos o vencedor (errado o placar exato), 3 pontos. SIMULACOES de 100 reais: Favorito do Modelo (EUA) e Favorito do Mercado (EUA) GANHARAM, +95 cada (odd 1,95); Jogo Louco (Empate +245) PERDEU, -100; Disciplinado ficou de fora (sem tip, sem edge). BRIER do jogo: modelo 0,397 x mercado 0,438 - o modelo bateu o mercado. A linha dos EUA derivou de -105 para cerca de +106 no apito (CLV negativo na simulacao do favorito). Obs: fechamento recuperado pelo motor apos a janela ao vivo nao ter rodado durante a partida."
   },
