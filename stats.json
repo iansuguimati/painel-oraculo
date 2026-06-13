@@ -75,6 +75,9 @@
     "hora": "22:00"
   },
   "alerta": {
-    "ativo": false
+    "ativo": true,
+    "hora": "22:50",
+    "jogo": "Paraguai x EUA",
+    "texto": "VERMELHO em Omar Alderete (Paraguai) aos 45; Paraguai com 10 e perdendo 0x2. EUA vence por pouco -> EUA vence com sobra, Over 2,5 mais provavel."
   }
 }
