@@ -1,6 +1,11 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:08",
+    "texto": "GOL DOS EUA - Paraguai 0x1 EUA aos 7 minutos. Pulisic passou por dois marcadores e cruzou rasteiro; a bola desviou em McKennie e morreu nas redes em gol contra do volante Damian Bobadilla. Um dos gols mais rapidos de um anfitriao na historia da Copa. Placar bate na risca o palpite do bolao EUA 1x0 (lambda EUA 1,35 x Paraguai 0,85): anfitriao abre cedo e o Paraguai e obrigado a deixar o bloco baixo e se expor. Gol A FAVOR da leitura - sem alerta."
+  },
+  {
+    "tipo": "ao_vivo",
     "texto": "AO VIVO - Paraguai x EUA (1o tempo, em torno de 25 min): EUA 1x0. Os EUA abriram cedo: aos 7 min Pulisic passou entre dois marcadores e cruzou, a bola desviou em McKennie e bateu em Damian Bobadilla para o gol contra. Cartao amarelo para Cesar Caceres (Paraguai) por falta. Placar fiel a nossa leitura - EUA 1x0 era o palpite do bolao -, com o anfitriao mandando e o Paraguai recuando. Sem mudanca na previsao."
   },
   {
@@ -186,10 +191,5 @@
     "tipo": "ao_vivo",
     "hora": "16:24",
     "texto": "AO VIVO - Bosnia x Canada (24 min): 0x0. Sai a PRIMEIRA chance clara do jogo - Jonathan David apareceu livre dentro da area e foi parado a queima-roupa por Vasilj, o Canada perdeu o gol feito. Do outro lado, Amar Memic arriscou de dentro da area pela Bosnia e mandou por cima. O jogo abriu um pouco depois do inicio travado, mas segue de margem estreita e Under 2,5 de pe. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - nada muda a previsao."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:20",
-    "texto": "AO VIVO - Bosnia x Canada (20 min): 0x0. Cartao amarelo para Alistair Johnston (Canada) aos 11 min por falta dura - primeiro nome no caderno. Jogo truncado, com paradas para atendimento (Amar Memic, da Bosnia, sentiu aos 12). Canada tenta circular a bola e a Bosnia segura no bloco baixo, sem chance clara de gol ate aqui - exatamente o roteiro de placar magro e Under 2,5. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Sem alerta - amarelo nao muda a previsao."
   }
 ]
