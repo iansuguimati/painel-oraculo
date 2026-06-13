@@ -1,195 +1,192 @@
 [
-  {
-    "tipo": "ao_vivo",
-    "hora": "19:15",
-    "texto": "AO VIVO 1T - MARROCOS 0x0 BRASIL (MetLife Stadium, Nova Jersey), cerca de 15 minutos. Clima vibrante na estreia do Grupo C. BRASIL de Ancelotti com surpresas: Alisson; Ibanez, Marquinhos (capitao) e Gabriel Magalhaes; Casemiro e Bruno Guimaraes; Lucas Paqueta, Vini Jr, Raphinha e Igor Thiago de centroavante - Neymar fora por lesao. Marrocos vem invicto ha 29 jogos, mas com desfalques (Ezzalzouli e Aguerd lesionados) e tecnico novo, Mohamed Ouahbi. Jogo equilibrado no inicio, sem gols. Cruzamento VAVEL, Terra, CNN Esportes, Lance e ge.globo."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "19:01",
-    "texto": "BOLA ROLANDO - comeca Marrocos x Brasil no MetLife Stadium. Estreia do Brasil na Copa 2026, primeiro jogo do Grupo C, antes de Escocia x Haiti as 22h."
-  },
-  {
-    "tipo": "odds",
-    "hora": "19:00",
-    "texto": "ODDS NO APITO - Marrocos x Brasil: Marrocos +456 | Empate +300 | Brasil -144 | Under 2,5 cerca de -125 (linha de fechamento de consenso DraftKings, base do CLV). Brasil favorito amplo; mercado precifica jogo aberto (Over 2,5 a +105)."
-  },
-  {
-    "tipo": "encerrado",
-    "hora": "17:52",
-    "texto": "ENCERRADO - Suica 1x1 Catar (Levi's Stadium, Santa Clara), abertura do Grupo B. Embolo abriu de penalti para a Suica; Boualem empatou para o Catar no fim, segurando ponto historico do anfitriao convidado. Tropeco da favorita europeia na estreia."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "19:07",
-    "texto": "BOLA ROLANDO - comeca Brasil x Marrocos (MetLife Stadium, East Rutherford). Estreia do Grupo C, bola rolou as 19:06 de Brasilia, placar 0x0 no inicio. Brasil entra como amplo favorito; o Marrocos, semifinalista em 2022, e o adversario mais temido do grupo segundo Ancelotti. Lances a seguir."
-  },
-  {
-    "tipo": "odds",
-    "texto": "ODDS NO APITO - Brasil x Marrocos: Brasil 1,60 | Empate 3,75 | Marrocos 5,00 | Under 2,5 1,85 (linha de fechamento, consenso Betano/Betfair/Lance, base do CLV). Brasil cerca de 62 por cento implicito; mercado ve jogo de poucos gols, Under levemente favorito sobre o Over 2,5."
-  },
-  {
-    "tipo": "fim",
-    "hora": "18:10",
-    "texto": "FIM DE JOGO - Catar 1x1 Suica (Levi's Stadium, Santa Clara). Embolo abriu para a Suica de penalti e Boualem empatou para o Catar na reta final. Total de 2 gols: Under 2,5 bateu. Esta partida nao tinha analise gerada na carteira do modelo, entao fica so o registro factual - sem pontos de bolao nem simulacoes (dados reais ou nada). Grupo B segue embolado apos o empate."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "19:04",
-    "texto": "BOLA ROLANDO - comeca Marrocos x Brasil (MetLife Stadium, Nova Jersey). Apito as 19:00 de Brasilia. Brasil amplo favorito no mercado (cerca de 59 por cento de vitoria, 25 empate, 18 Marrocos). Leitura de jogo aberto: mercado de gols com Over 2,5 levemente favorito (over +104 / under -128) e BTTS Sim por volta de 1,93. Sem lances confirmados pelas fontes nos primeiros minutos - acompanhando."
-  },
-  {
-    "tipo": "odds",
-    "hora": "19:04",
-    "texto": "ODDS NO APITO - Marrocos x Brasil: Marrocos +425 | Empate +300 | Brasil -175 | Under 2,5 -128 (over +104) - linha de fechamento bet365, base do CLV."
-  },
-  {
-    "tipo": "odds",
-    "texto": "ODDS NO APITO - Marrocos x Brasil: Marrocos 5,00 (+400) | Empate 3,75 (+275) | Brasil 1,63 (-159) | Under 2,5 cerca de 1,87 (-115, Over 2,5 a 1,95). Linha de fechamento, base do CLV. Casas precificam jogo aberto, com o Brasil favorito amplo."
-  },
-  {
-    "tipo": "pre_jogo",
-    "hora": "18:46",
-    "texto": "PRE-JOGO - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey, Grupo C). ESCALACOES CONFIRMADAS. Brasil (Ancelotti): Alisson; Danilo, Gabriel Magalhaes, Marquinhos (capitao) e Alex Sandro; Casemiro e Bruno Guimaraes; Lucas Paqueta, Raphinha, Vini Jr e Matheus Cunha. Marrocos: Bono; Hakimi, Diop, Riad e Mazraoui; Bouaddi e El Aynaoui; Brahim Diaz, Ounahi e Khannouss; Saibari. MERCADO: Brasil amplo favorito a 1,63 na vitoria, empate 3,75, Marrocos 5,00; Over 2,5 a 1,95 e ambas marcam sim a 2,04 - casas precificam jogo aberto. OBS: a linha do modelo do dia ainda nao foi publicada (tarefa diaria pendente), entao a leitura segue o mercado: favoritismo forte do Brasil, com Marrocos perigoso na transicao por Hakimi, Brahim Diaz e Ounahi."
-  },
-  {
-    "tipo": "clima",
-    "hora": "18:45",
-    "texto": "CLIMA - Marrocos x Brasil: MetLife deve receber mais de 80 mil, arquibancada tomada de verde e amarelo - a FIFA fala em carnaval em Nova York. Tempo de ceu aberto, sol forte e calor perto dos 35 graus em Nova Jersey, sem chuva. Clima de quase-mando para o Brasil pela enorme presenca de torcedores brasileiros na regiao."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "18:44",
-    "texto": "RESULTADO - Catar 1x1 Suica (Levi's Stadium, Santa Clara), Grupo B. Embolo abriu para a Suica de penalti e Boualem empatou para o Catar na reta final. Total de 2 gols: Under 2,5 BATEU. Sem linha do modelo do dia publicada para este jogo (tarefa diaria pendente), entao registro apenas factual do placar, sem pontuacao das simulacoes."
-  },
-  {
-    "tipo": "ultima_hora",
-    "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, East Rutherford-NJ): estreia do Grupo C. PROVAVEL BRASIL (Ancelotti): meio com Paqueta a frente de Casemiro e Bruno Guimaraes; ataque Vinicius Jr, Raphinha e Matheus Cunha; Marquinhos capitao. PROVAVEL MARROCOS (Regragui): Bono; Hakimi, Diop, Riad, Mazraoui; Bouaddi e El Aynaoui; Brahim Diaz, Ounahi e El Khannouss; Saibari. MERCADO: Brasil favoritissimo (1,53 na Betano a 1,65 na Betfair, cerca de 64 a 65 por cento implicito); empate 3,70 a 4,30; Marrocos 5,00 a 7,00. CONTEXTO DE RISCO: o Marrocos esta invicto ha 29 jogos e venceu o ultimo confronto direto, em 2023. Poder ofensivo dos dois lados puxa a linha de gols para Over."
-  },
-  {
-    "tipo": "resultado",
-    "texto": "FIM - Catar 1x1 Suica (Levis Stadium, Santa Clara-CA), abertura do Grupo B. A Suica abriu com Embolo de penalti e o Catar empatou com Boualem. Estreia equilibrada e de poucos gols, dentro da leitura de Under. Sem palpite do modelo registrado para esta partida."
-  },
-  {
-    "tipo": "ultima_hora",
-    "hora": "18:29",
-    "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e movimento de odds na estreia do Grupo C. BRASIL de Ancelotti em 4-3-3, XI ainda NAO confirmado oficialmente (sai no pre-jogo). NOVIDADE QUE PESA: Neymar esta FORA - lesao grau 2 na panturrilha direita (17/05); treinou so na academia a semana toda, sem trabalho de campo, e a esperanca da CBF e te-lo de volta apenas contra o Haiti (19/06). Provavel Brasil: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Matheus Cunha, Vinicius Jr. MARROCOS: Nayef Aguerd (pubalgia), seu melhor zagueiro, deve ficar de FORA do XI; Mazraoui (ombro) em duvida na lateral. CONTEXTO: Marrocos chega INVICTO ha 29 jogos e venceu 7 dos ultimos 10; o Brasil vem de 3 vitorias seguidas. ODDS - MERCADO: Brasil favorito a -167/-145, Empate +290, Marrocos +400 (implicito aprox. 60 por cento Brasil, 24 Empate, 17 Marrocos). LEITURA: o Brasil tem mais elenco e cria mais, mas pega um Marrocos solido e sem medo (mesma espinha do 4o lugar em 2022); sem Neymar, o peso criativo recai sobre Paqueta, Raphinha e Vini. Palpite do bolao ainda PENDENTE (a analise diaria do dia nao foi publicada). Disciplinado aguarda a linha de fechamento."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "18:02",
-    "texto": "FIM: Suica 1x1 Catar (estadio da Baia de Sao Francisco). Breel Embolo abriu o placar para a Suica de penalti; Boualem Khoukhi empatou de cabeca nos minutos finais e deu ao Catar um ponto na estreia. OBS: nao havia palpite registrado para este jogo (a analise diaria do dia nao saiu), entao sem pontuacao Prodefy nem simulacao de 100 reais."
-  },
-  {
-    "tipo": "ultima_hora",
-    "hora": "18:18",
-    "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e mercado para a estreia do Brasil no Grupo C. BRASIL (provavel): meio-campo com Casemiro e Bruno Guimaraes na base, Lucas Paqueta mais avancado, e o trio ofensivo Vinicius Jr, Raphinha e Matheus Cunha (linha defensiva ainda nao 100 por cento fechada pelas fontes). MARROCOS (provavel 4-2-3-1): Bono; Hakimi, Diop, Riad, Mazraoui; Bouaddi, El Aynaoui; Brahim Diaz, Ounahi, Sbai (ou Talbi); Saibari. MERCADO: Brasil amplo favorito - vitoria do Brasil perto de 1,65, empate perto de 3,75, vitoria do Marrocos perto de 5,00 (Betfair), implicito aproximado de 61 por cento Brasil, 27 empate, 20 Marrocos (antes da margem). LEITURA: Marrocos, semifinalista em 2022, e o adversario mais forte do grupo, joga em bloco e ataca nas transicoes via Hakimi; o Brasil tem mais talento individual, mas estreia de Copa pede cautela. Acompanhe o PRE-JOGO com as escalacoes confirmadas. Fonte: WebSearch (NSC Total, Terra, Betfair via Goal/Lance), 13/06."
-  },
-  {
-    "tipo": "fim",
-    "hora": "17:56",
-    "texto": "FIM DE JOGO - Catar 1x1 Suica (Grupo B). A Suica dominou a posse e abriu cedo: Breel Embolo converteu penalti aos 17 (falta do goleiro Abunada sobre Remo Freuler, o primeiro penalti desta Copa), mas o Catar arrancou um empate historico nos acrescimos com Boualem Khoukhi de cabeca aos 90+5. Favorita no mercado e dona do jogo, a Suica saiu sem a vitoria; o Catar somou um ponto valioso. Total de 2 gols: UNDER 2,5 bateu. OBS: jogo fora da grade de tips do dia (sem palpite do bolao), entao sem simulacao de 100 reais. Fonte: WebSearch (Lance, Flashscore, Goal), 13/06."
-  },
-  {
-    "tipo": "alerta",
-    "hora": "18:08",
-    "texto": "ALERTA / CORRECAO - Suica x Catar terminou 1x1, e NAO 1x0. Boualem Khoukhi subiu mais que a defesa e empatou de cabeca aos 90+4 (cruzamento de Homam Al-Amin pela esquerda), depois de Breel Embolo abrir de penalti aos 16' - o primeiro penalti da Copa 2026. O fechamento anterior (17:57) saiu cedo demais com 1x0 e nao pegou o gol nos acrescimos (6 min dados). Correcao do registro: o jogo estava FORA do nosso book do dia (palpite '-' na agenda), entao SEM ponto de bolao e SEM simulacao de 100 reais - fica so o fato. Placares e acumulados voltam ao estado pos Paraguai x EUA: bolao 10 pontos; FAVORITO DO MODELO e FAVORITO DO MERCADO +200 reais (ROI +50%), JOGO LOUCO -30, DISCIPLINADO neutro. Total de 2 gols: UNDER 2,5 bateu. Fontes: FIFA, Al Jazeera, Gazeta Esportiva (13/06)."
-  },
-  {
-    "tipo": "historico",
-    "hora": "18:03",
-    "texto": "HISTORICO - Brasil x Marrocos (19:00, MetLife Stadium, Nova York/Nova Jersey): retrospecto e contexto. Sao 3 confrontos na historia: o Brasil venceu 2 (2x0 em 1997, amistoso em Belem, dois de Denilson; 3x0 na Copa de 1998 na Franca, com Ronaldo, Rivaldo e Bebeto) e Marrocos venceu 1 - justamente o MAIS RECENTE: 2x1 em marco de 2023, amistoso em Tanger, com Casemiro descontando. Saldo do retrospecto: Brasil 6 gols feitos, 2 sofridos. CONTEXTO IMPORTANTE: os marroquinos chegam no melhor momento da historia (semifinalistas em 2022) e nao perdem desde agosto do ano passado. ODDS: mercado crava o Brasil favorito - vitoria a cerca de 1,53 a 1,65 (implicito de 62 a 65 por cento), empate cerca de 3,75 e Marrocos cerca de 5,00; leitura de favoritismo claro do Brasil. Provaveis - BRASIL: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Paqueta, Matheus Cunha, Raphinha, Vinicius Jr. MARROCOS: Bounou; Hakimi, Diop, Halhal, Salah-Eddine; El Aynaoui, El Khannouss, Saibari; Brahim Diaz, Ezzalzouli, Rahimi. Leitura preliminar: Brasil tem o elenco e o favoritismo, mas Marrocos e perigoso no contra-ataque com Hakimi e Brahim Diaz - jogo para respeitar."
-  },
-  {
-    "tipo": "fim",
-    "hora": "17:57",
-    "texto": "FIM DE JOGO - Suica 1x0 Catar (Levi's Stadium, Santa Clara), abertura do Grupo B. Breel Embolo converteu o PRIMEIRO PENALTI da Copa 2026 - penalti aos 13 minutos, falta do goleiro Abunada sobre Freuler, confirmado no VAR apos checagem de impedimento muito apertada - e garantiu a vitoria suica na estreia. O Catar nao conseguiu reagir. Total de 1 gol: UNDER 2,5 BATEU. OBS: jogo SEM palpite no nosso bolao (estava fora da nossa lista de analises do dia), entao sem pontuacao Prodefy e sem simulacao de 100 reais - fica o registro factual do resultado."
-  },
-  {
-    "hora": "17:48",
-    "tipo": "analise",
-    "texto": "FIM DE JOGO - Suica 1x0 Catar (Levi's Stadium, Santa Clara, Grupo B). Unico gol: Embolo de penalti aos 16'. Palpite do bolao Suica 2x0: acertamos o VENCEDOR e o zero do Catar, mas a Suica fez 1 e nao 2, entao sem placar exato = 4 pontos PRODEFY. Favorito do modelo e do mercado (Suica a 1,21): GANHOU, +21 reais cada um. Jogo Louco (empate a +550): perdeu, -100 reais. Disciplinado: sem tip - a 1,21 a Suica nao tinha valor, nenhum edge de +4pp. Obs: a analise diaria deste jogo nao entrou no painel, entao o Brier do nosso modelo e reconstruido (aprox 0,062 contra 0,072 do mercado; favorito confirmado)."
-  },
-  {
-    "hora": "17:48",
-    "tipo": "esquenta",
-    "texto": "HISTORICO - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): sao 3 jogos na historia, 2 vitorias do Brasil e 1 do Marrocos, 6 a 2 nos gols. Em Copa do Mundo, so o encontro de 1998 (fase de grupos): Brasil 3x0, gols de Ronaldo, Rivaldo e Bebeto. Nos amistosos: Brasil 2x0 em 1997 (Denilson) e a unica derrota, Marrocos 2x1 em Tanger (2023, Boufal e Sabiri; Casemiro descontou). Mercado de hoje: Brasil 1,65 favorito, empate 3,75, Marrocos 5,00. Palpite do bolao: Brasil 2x1."
-  },
-  {
-    "tipo": "ao_vivo",
-    "texto": "AO VIVO - Catar x Suica (Grupo B, Levi's Stadium, Santa Clara, 2o tempo/reta final): Suica na frente por 1x0. Breel Embolo converteu penalti ainda no 1o tempo, apos o goleiro Mahmoud Abunada derrubar Remo Freuler; intervalo foi 0x1. Placar final a confirmar pelas fontes (ge, ESPN Brasil, Sofascore)."
-  },
-  {
-    "tipo": "esquenta",
-    "hora": "17:38",
-    "texto": "ESQUENTA - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): estreia da Selecao no Grupo C. Brasil amplo favorito - odds de vitoria entre 1,40 e 1,70 (consenso cerca de 1,65), empate 3,70-4,30, Marrocos 5,30-7,00. PROVAVEIS - Brasil (4-3-3): Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Matheus Cunha, Vinicius Jr. NEYMAR FORA (lesao na panturrilha esquerda, segue em tratamento). Marrocos: Bounou; Hakimi, Chadi Riad, Saadane, Mazraoui; El Aynaoui, Ounahi, El Khannouss, Brahim Diaz; Saibari, Sbai. DESFALQUES do Marrocos: Nayef Aguerd e Abde Ezzalzouli cortados por lesao. Marrocos foi semifinalista em 2022, time fisico e organizado - nao e adversario facil. Palpite e tips saem no PRE-JOGO, apos escalacoes confirmadas. Fontes: CNN Brasil, Olympics, Jornal da Paraiba."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "17:35",
-    "texto": "AO VIVO 2o tempo - Catar 0x1 Suica (Levi's Stadium): GOL de Breel Embolo aos 17' de penalti, marcado apos checagem do VAR por falta de Abunada em Freuler. Amarelos: Jassem Jaber (23', Catar) e Denis Zakaria (42', Suica). Favorita no controle e perto de confirmar o resultado esperado; Under 2,5 segue vivo. Sem alerta - leitura mantida. Fontes: VAVEL, Yahoo Sports, FOX Sports."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "16:00",
-    "texto": "BOLA ROLANDO - comeca Catar x Suica no Levi's Stadium, Santa Clara, pelo Grupo B. Estreia das duas selecoes. Suica forca total: Kobel; Widmer, Elvedi, Akanji, R.Rodriguez; Aebischer, Xhaka, Ndoye, Vargas, Rieder; Embolo. Catar no bloco baixo com Barsham; Afif e Almoez Ali na frente."
-  },
-  {
-    "tipo": "odds",
-    "hora": "15:58",
-    "texto": "ODDS NO APITO - Catar x Suica: Suica 1,21 (-475) | Empate 6,50 (+550) | Catar 14,0 (+1300) | Under 2,5 +115 (2,15) (linha de fechamento, base do CLV). Suica favoritissima, implicito de cerca de 83 por cento na vitoria. Fonte: oddschecker/ESPN, 13/06."
-  },
-  {
-    "tipo": "ao_vivo",
-    "texto": "AO VIVO - Suica x Catar (2o tempo, por volta dos 78 min): Suica 1x0. PRIMEIRO PENALTI DA COPA 2026 - Remo Freuler foi derrubado na area por Mahmoud Abunada (amarelo) e Breel Embolo, contra o pais onde nasceu, bateu firme de pe direito: 1x0. O VAR conferiu um possivel impedimento de Freuler no lance e validou o gol. Sommer seguro, a Suica administra a vantagem no Levi's Stadium, Santa Clara. Favorita confirmando o favoritismo."
-  },
-  {
-    "tipo": "esquenta",
-    "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): estreia do Grupo C e do Brasil na Copa. Provavel Brasil de Ancelotti: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr e Matheus Cunha. Brasil perdeu Wesley por corte (entrou Ederson). Marrocos, semifinalista em 2022 e apontado pelo proprio Ancelotti como principal adversario do grupo, vem sem o zagueiro Aguerd e sem o atacante Abde Ezzalzouli (Saadane e Amine Sbai nos lugares). Estreia tende a ser estudada e de poucos gols ate o Brasil encaixar."
-  },
-  {
-    "tipo": "forma",
-    "hora": "17:28",
-    "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium): o contraste esta na defesa. O BRASIL chega com ataque pegando fogo - 13 gols nos ultimos 5 jogos (media 2,6 por jogo) - mas com alerta atras: foi vazado em TODOS os 5 ultimos, 7 gols sofridos no periodo. O MARROCOS faz o oposto: venceu 3 dos ultimos 5, marcou 6 e sofreu so 1 - defesa solida e o time mais bem ranqueado da historia do pais (7o da FIFA, melhor posicao de sempre, contra um Brasil no top-5). O retrospecto direto (3 jogos, 2 vitorias do Brasil) ja teve a virada africana no ultimo encontro (2x1 em Tanger, 2023). Cruzando os dados: ataque quente do Brasil + defesa recente furada dos dois lados apontam jogo ABERTO, com chance real de passar de 1 gol e ambos marcarem - a mesma tendencia de placares altos que vem se repetindo nesta Copa. Leitura mantida do palpite Brasil 2x1. Escalacoes confirmadas no PRE-JOGO. Fontes: Goal.com, SBT Sports, CBF, O Povo (12-13/06)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:24",
-    "texto": "AO VIVO - Suica x Catar (2o tempo, em torno dos 65 min): Suica 1x0. O motor entrou no jogo ja em andamento (apito 16:00, Levi's Stadium, Santa Clara). GOL: Breel Embolo de penalti aos 17 do 1o tempo - falta do goleiro Abunada sobre Remo Freuler, penalti confirmado pelo VAR apos checagem de impedimento muito apertada a favor da Suica. A Suica de Murat Yakin administra a vantagem na estreia do Grupo B; o Catar de Lopetegui, apoiado em Akram Afif e no artilheiro Almoez Ali, busca o empate. Este jogo esta fora do nosso book do dia - sem palpite do bolao nem tip. Odds de fechamento no apito nao capturadas (engine entrou tarde). Acompanhando os proximos lances."
-  },
-  {
-    "tipo": "esquenta",
-    "hora": "17:24",
-    "texto": "ESQUENTA - Marrocos x Brasil (apito 19:00, MetLife Stadium, East Rutherford-NJ), estreia do Grupo C. PROVAVEIS - BRASIL (Ancelotti, 4-2-3-1): Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr; Matheus Cunha. MARROCOS (Regragui, 4-3-3): Bounou; Hakimi, Aguerd, Chadi Riad (ou Issa Diop), Mazraoui; Amrabat, Ounahi, Brahim Diaz (ou El Khannouss); Ez Abde, El Kaabi, Rahimi. FORMA: Brasil com 4 vitorias nos ultimos 6 e ataque quente (os 4 ultimos jogos passaram de 2,5 gols); Marrocos invicto ha mais de 10 meses e vencedor de 3 dos ultimos 4. MERCADO: Brasil favorito claro - vitoria entre 1,53 e 1,66 (implicito cerca de 62 a 65 por cento), Empate em torno de 3,75, Marrocos por volta de 5,00. CONTEXTO: 4o lugar em 2022, o Marrocos e o azarao mais perigoso da primeira fase e venceu o ultimo encontro direto (amistoso de 2023, 2x1 em Tanger). Sem palpite oficial do bolao registrado para este jogo ainda. Revisao com escalacoes confirmadas no PRE-JOGO."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:16",
-    "texto": "AO VIVO - Suica 1x0 Catar, perto dos 75 min no Levis Stadium (Santa Clara). Placar inalterado desde o penalti de Embolo (17 do 1o tempo). A Suica administra a posse e o ritmo, controla o territorio e tenta o segundo gol que liquidaria; o Catar segue no bloco baixo, sem chegada clara para o empate. Sem novos gols, cartoes ou expulsoes. Under 2,5 segue na frente (linha de fechamento -110). Leitura de amplo favoritismo helvetico mantida."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:02",
-    "texto": "AO VIVO - Suica 1x0 Catar, passando dos 62 min no Levis Stadium (Santa Clara). Placar segue 1x0 desde o penalti de Embolo aos 17 min (falta de Abunada sobre Freuler). O Catar se defende bem e evita o segundo, mas cria pouco no ataque; a Suica administra a vantagem com posse de bola e ritmo controlado. Sem novos gols, cartoes ou expulsoes desde o intervalo. Under 2,5 segue na frente (linha de fechamento -110)."
-  },
-  {
-    "tipo": "esquenta",
-    "hora": "17:00",
-    "texto": "ESQUENTA - Marrocos x Brasil (19:00 de Brasilia, MetLife Stadium, Nova Jersey), estreia do Grupo C e o jogo grande do dia. Carlo Ancelotti faz sua primeira Copa no comando da Selecao com base definida: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Vini Jr e Matheus Cunha. DESFALQUE - lateral direita: Wesley foi cortado por lesao, com Danilo e Ibanez como opcoes. Do outro lado, um Marrocos perigoso, semifinalista de 2022, com Hakimi, Bounou, Mazraoui e Brahim Diaz, mas desfalcado de Aguerd e Ezzalzouli (lesao). Leitura: Brasil franco favorito mas contra a melhor selecao africana da geracao - palpite do bolao Brasil 2x1. Aquece a cobertura: FORMA, HISTORICO e ULTIMA HORA a seguir."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:54",
-    "texto": "AO VIVO - Suica x Catar (2o tempo, em torno de 50 min): Suica 1x0. O favoritismo helvetico se confirma no placar - Breel Embolo abriu aos 17 de penalti (falta do goleiro Abunada em Freuler, que levou amarelo), o PRIMEIRO gol de penalti da Suica em uma Copa. A Suica, 19a do ranking FIFA e invicta nas Eliminatorias europeias, controla a posse contra um Catar fechado no bloco. Sem alerta: placar segue a leitura de amplo favoritismo (mercado abriu Suica a -400, cerca de 80 por cento). Lances novos a seguir."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:53",
-    "texto": "BOLA ROLANDO - comeca Suica x Catar (Grupo B, Levi's Stadium, Santa Clara). Suica franca favorita; Catar disputa sua 2a Copa do Mundo. Cobertura ao vivo retomada."
-  },
-  {
-    "tipo": "odds",
-    "hora": "16:53",
-    "texto": "ODDS NO APITO - Suica x Catar: Suica -400 | Empate +475 | Catar +1000 | Under 2,5 -110 (linha de fechamento, base do CLV)"
-  }
+ {
+  "tipo": "ao_vivo",
+  "texto": "AO VIVO - Marrocos x Brasil (em torno de 20 min): 0x0. Inicio intenso no MetLife Stadium. O Brasil tem a bola e Vinicius Jr e Raphinha buscam profundidade pelos lados; o Marrocos se fecha no 4-2-3-1 de Bounou e aposta na velocidade dos contra-ataques. Sem gols nem cartoes confirmados ate aqui."
+ },
+ {
+  "tipo": "odds",
+  "texto": "ODDS NO APITO - Marrocos x Brasil: Brasil 1,67 (-150) | Empate 3,70 (+270) | Marrocos 5,70 (+470) | Under 2,5 1,83 (-120) (linha de fechamento FanDuel, base do CLV)"
+ },
+ {
+  "tipo": "lance",
+  "texto": "BOLA ROLANDO - comeca Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey), estreia do Grupo C. Placar 0x0. Brasil de Ancelotti escala 4-2-3-1: Alisson; Ibanez, Marquinhos, Gabriel Magalhaes, Douglas Santos; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr; Igor Thiago. Sem Neymar (lesao na panturrilha). Favorito a -150 diante de um Marrocos invicto ha 29 jogos e semifinalista em 2022."
+ },
+ {
+  "tipo": "ao_vivo",
+  "hora": "19:15",
+  "texto": "AO VIVO 1T - MARROCOS 0x0 BRASIL (MetLife Stadium, Nova Jersey), cerca de 15 minutos. Clima vibrante na estreia do Grupo C. BRASIL de Ancelotti com surpresas: Alisson; Ibanez, Marquinhos (capitao) e Gabriel Magalhaes; Casemiro e Bruno Guimaraes; Lucas Paqueta, Vini Jr, Raphinha e Igor Thiago de centroavante - Neymar fora por lesao. Marrocos vem invicto ha 29 jogos, mas com desfalques (Ezzalzouli e Aguerd lesionados) e tecnico novo, Mohamed Ouahbi. Jogo equilibrado no inicio, sem gols. Cruzamento VAVEL, Terra, CNN Esportes, Lance e ge.globo."
+ },
+ {
+  "tipo": "ao_vivo",
+  "hora": "19:01",
+  "texto": "BOLA ROLANDO - comeca Marrocos x Brasil no MetLife Stadium. Estreia do Brasil na Copa 2026, primeiro jogo do Grupo C, antes de Escocia x Haiti as 22h."
+ },
+ {
+  "tipo": "odds",
+  "hora": "19:00",
+  "texto": "ODDS NO APITO - Marrocos x Brasil: Marrocos +456 | Empate +300 | Brasil -144 | Under 2,5 cerca de -125 (linha de fechamento de consenso DraftKings, base do CLV). Brasil favorito amplo; mercado precifica jogo aberto (Over 2,5 a +105)."
+ },
+ {
+  "tipo": "encerrado",
+  "hora": "17:52",
+  "texto": "ENCERRADO - Suica 1x1 Catar (Levi's Stadium, Santa Clara), abertura do Grupo B. Embolo abriu de penalti para a Suica; Boualem empatou para o Catar no fim, segurando ponto historico do anfitriao convidado. Tropeco da favorita europeia na estreia."
+ },
+ {
+  "tipo": "ao_vivo",
+  "hora": "19:07",
+  "texto": "BOLA ROLANDO - comeca Brasil x Marrocos (MetLife Stadium, East Rutherford). Estreia do Grupo C, bola rolou as 19:06 de Brasilia, placar 0x0 no inicio. Brasil entra como amplo favorito; o Marrocos, semifinalista em 2022, e o adversario mais temido do grupo segundo Ancelotti. Lances a seguir."
+ },
+ {
+  "tipo": "odds",
+  "texto": "ODDS NO APITO - Brasil x Marrocos: Brasil 1,60 | Empate 3,75 | Marrocos 5,00 | Under 2,5 1,85 (linha de fechamento, consenso Betano/Betfair/Lance, base do CLV). Brasil cerca de 62 por cento implicito; mercado ve jogo de poucos gols, Under levemente favorito sobre o Over 2,5."
+ },
+ {
+  "tipo": "fim",
+  "hora": "18:10",
+  "texto": "FIM DE JOGO - Catar 1x1 Suica (Levi's Stadium, Santa Clara). Embolo abriu para a Suica de penalti e Boualem empatou para o Catar na reta final. Total de 2 gols: Under 2,5 bateu. Esta partida nao tinha analise gerada na carteira do modelo, entao fica so o registro factual - sem pontos de bolao nem simulacoes (dados reais ou nada). Grupo B segue embolado apos o empate."
+ },
+ {
+  "tipo": "ao_vivo",
+  "hora": "19:04",
+  "texto": "BOLA ROLANDO - comeca Marrocos x Brasil (MetLife Stadium, Nova Jersey). Apito as 19:00 de Brasilia. Brasil amplo favorito no mercado (cerca de 59 por cento de vitoria, 25 empate, 18 Marrocos). Leitura de jogo aberto: mercado de gols com Over 2,5 levemente favorito (over +104 / under -128) e BTTS Sim por volta de 1,93. Sem lances confirmados pelas fontes nos primeiros minutos - acompanhando."
+ },
+ {
+  "tipo": "odds",
+  "hora": "19:04",
+  "texto": "ODDS NO APITO - Marrocos x Brasil: Marrocos +425 | Empate +300 | Brasil -175 | Under 2,5 -128 (over +104) - linha de fechamento bet365, base do CLV."
+ },
+ {
+  "tipo": "odds",
+  "texto": "ODDS NO APITO - Marrocos x Brasil: Marrocos 5,00 (+400) | Empate 3,75 (+275) | Brasil 1,63 (-159) | Under 2,5 cerca de 1,87 (-115, Over 2,5 a 1,95). Linha de fechamento, base do CLV. Casas precificam jogo aberto, com o Brasil favorito amplo."
+ },
+ {
+  "tipo": "pre_jogo",
+  "hora": "18:46",
+  "texto": "PRE-JOGO - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey, Grupo C). ESCALACOES CONFIRMADAS. Brasil (Ancelotti): Alisson; Danilo, Gabriel Magalhaes, Marquinhos (capitao) e Alex Sandro; Casemiro e Bruno Guimaraes; Lucas Paqueta, Raphinha, Vini Jr e Matheus Cunha. Marrocos: Bono; Hakimi, Diop, Riad e Mazraoui; Bouaddi e El Aynaoui; Brahim Diaz, Ounahi e Khannouss; Saibari. MERCADO: Brasil amplo favorito a 1,63 na vitoria, empate 3,75, Marrocos 5,00; Over 2,5 a 1,95 e ambas marcam sim a 2,04 - casas precificam jogo aberto. OBS: a linha do modelo do dia ainda nao foi publicada (tarefa diaria pendente), entao a leitura segue o mercado: favoritismo forte do Brasil, com Marrocos perigoso na transicao por Hakimi, Brahim Diaz e Ounahi."
+ },
+ {
+  "tipo": "clima",
+  "hora": "18:45",
+  "texto": "CLIMA - Marrocos x Brasil: MetLife deve receber mais de 80 mil, arquibancada tomada de verde e amarelo - a FIFA fala em carnaval em Nova York. Tempo de ceu aberto, sol forte e calor perto dos 35 graus em Nova Jersey, sem chuva. Clima de quase-mando para o Brasil pela enorme presenca de torcedores brasileiros na regiao."
+ },
+ {
+  "tipo": "resultado",
+  "hora": "18:44",
+  "texto": "RESULTADO - Catar 1x1 Suica (Levi's Stadium, Santa Clara), Grupo B. Embolo abriu para a Suica de penalti e Boualem empatou para o Catar na reta final. Total de 2 gols: Under 2,5 BATEU. Sem linha do modelo do dia publicada para este jogo (tarefa diaria pendente), entao registro apenas factual do placar, sem pontuacao das simulacoes."
+ },
+ {
+  "tipo": "ultima_hora",
+  "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, East Rutherford-NJ): estreia do Grupo C. PROVAVEL BRASIL (Ancelotti): meio com Paqueta a frente de Casemiro e Bruno Guimaraes; ataque Vinicius Jr, Raphinha e Matheus Cunha; Marquinhos capitao. PROVAVEL MARROCOS (Regragui): Bono; Hakimi, Diop, Riad, Mazraoui; Bouaddi e El Aynaoui; Brahim Diaz, Ounahi e El Khannouss; Saibari. MERCADO: Brasil favoritissimo (1,53 na Betano a 1,65 na Betfair, cerca de 64 a 65 por cento implicito); empate 3,70 a 4,30; Marrocos 5,00 a 7,00. CONTEXTO DE RISCO: o Marrocos esta invicto ha 29 jogos e venceu o ultimo confronto direto, em 2023. Poder ofensivo dos dois lados puxa a linha de gols para Over."
+ },
+ {
+  "tipo": "resultado",
+  "texto": "FIM - Catar 1x1 Suica (Levis Stadium, Santa Clara-CA), abertura do Grupo B. A Suica abriu com Embolo de penalti e o Catar empatou com Boualem. Estreia equilibrada e de poucos gols, dentro da leitura de Under. Sem palpite do modelo registrado para esta partida."
+ },
+ {
+  "tipo": "ultima_hora",
+  "hora": "18:29",
+  "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e movimento de odds na estreia do Grupo C. BRASIL de Ancelotti em 4-3-3, XI ainda NAO confirmado oficialmente (sai no pre-jogo). NOVIDADE QUE PESA: Neymar esta FORA - lesao grau 2 na panturrilha direita (17/05); treinou so na academia a semana toda, sem trabalho de campo, e a esperanca da CBF e te-lo de volta apenas contra o Haiti (19/06). Provavel Brasil: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Matheus Cunha, Vinicius Jr. MARROCOS: Nayef Aguerd (pubalgia), seu melhor zagueiro, deve ficar de FORA do XI; Mazraoui (ombro) em duvida na lateral. CONTEXTO: Marrocos chega INVICTO ha 29 jogos e venceu 7 dos ultimos 10; o Brasil vem de 3 vitorias seguidas. ODDS - MERCADO: Brasil favorito a -167/-145, Empate +290, Marrocos +400 (implicito aprox. 60 por cento Brasil, 24 Empate, 17 Marrocos). LEITURA: o Brasil tem mais elenco e cria mais, mas pega um Marrocos solido e sem medo (mesma espinha do 4o lugar em 2022); sem Neymar, o peso criativo recai sobre Paqueta, Raphinha e Vini. Palpite do bolao ainda PENDENTE (a analise diaria do dia nao foi publicada). Disciplinado aguarda a linha de fechamento."
+ },
+ {
+  "tipo": "resultado",
+  "hora": "18:02",
+  "texto": "FIM: Suica 1x1 Catar (estadio da Baia de Sao Francisco). Breel Embolo abriu o placar para a Suica de penalti; Boualem Khoukhi empatou de cabeca nos minutos finais e deu ao Catar um ponto na estreia. OBS: nao havia palpite registrado para este jogo (a analise diaria do dia nao saiu), entao sem pontuacao Prodefy nem simulacao de 100 reais."
+ },
+ {
+  "tipo": "ultima_hora",
+  "hora": "18:18",
+  "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e mercado para a estreia do Brasil no Grupo C. BRASIL (provavel): meio-campo com Casemiro e Bruno Guimaraes na base, Lucas Paqueta mais avancado, e o trio ofensivo Vinicius Jr, Raphinha e Matheus Cunha (linha defensiva ainda nao 100 por cento fechada pelas fontes). MARROCOS (provavel 4-2-3-1): Bono; Hakimi, Diop, Riad, Mazraoui; Bouaddi, El Aynaoui; Brahim Diaz, Ounahi, Sbai (ou Talbi); Saibari. MERCADO: Brasil amplo favorito - vitoria do Brasil perto de 1,65, empate perto de 3,75, vitoria do Marrocos perto de 5,00 (Betfair), implicito aproximado de 61 por cento Brasil, 27 empate, 20 Marrocos (antes da margem). LEITURA: Marrocos, semifinalista em 2022, e o adversario mais forte do grupo, joga em bloco e ataca nas transicoes via Hakimi; o Brasil tem mais talento individual, mas estreia de Copa pede cautela. Acompanhe o PRE-JOGO com as escalacoes confirmadas. Fonte: WebSearch (NSC Total, Terra, Betfair via Goal/Lance), 13/06."
+ },
+ {
+  "tipo": "fim",
+  "hora": "17:56",
+  "texto": "FIM DE JOGO - Catar 1x1 Suica (Grupo B). A Suica dominou a posse e abriu cedo: Breel Embolo converteu penalti aos 17 (falta do goleiro Abunada sobre Remo Freuler, o primeiro penalti desta Copa), mas o Catar arrancou um empate historico nos acrescimos com Boualem Khoukhi de cabeca aos 90+5. Favorita no mercado e dona do jogo, a Suica saiu sem a vitoria; o Catar somou um ponto valioso. Total de 2 gols: UNDER 2,5 bateu. OBS: jogo fora da grade de tips do dia (sem palpite do bolao), entao sem simulacao de 100 reais. Fonte: WebSearch (Lance, Flashscore, Goal), 13/06."
+ },
+ {
+  "tipo": "alerta",
+  "hora": "18:08",
+  "texto": "ALERTA / CORRECAO - Suica x Catar terminou 1x1, e NAO 1x0. Boualem Khoukhi subiu mais que a defesa e empatou de cabeca aos 90+4 (cruzamento de Homam Al-Amin pela esquerda), depois de Breel Embolo abrir de penalti aos 16' - o primeiro penalti da Copa 2026. O fechamento anterior (17:57) saiu cedo demais com 1x0 e nao pegou o gol nos acrescimos (6 min dados). Correcao do registro: o jogo estava FORA do nosso book do dia (palpite '-' na agenda), entao SEM ponto de bolao e SEM simulacao de 100 reais - fica so o fato. Placares e acumulados voltam ao estado pos Paraguai x EUA: bolao 10 pontos; FAVORITO DO MODELO e FAVORITO DO MERCADO +200 reais (ROI +50%), JOGO LOUCO -30, DISCIPLINADO neutro. Total de 2 gols: UNDER 2,5 bateu. Fontes: FIFA, Al Jazeera, Gazeta Esportiva (13/06)."
+ },
+ {
+  "tipo": "historico",
+  "hora": "18:03",
+  "texto": "HISTORICO - Brasil x Marrocos (19:00, MetLife Stadium, Nova York/Nova Jersey): retrospecto e contexto. Sao 3 confrontos na historia: o Brasil venceu 2 (2x0 em 1997, amistoso em Belem, dois de Denilson; 3x0 na Copa de 1998 na Franca, com Ronaldo, Rivaldo e Bebeto) e Marrocos venceu 1 - justamente o MAIS RECENTE: 2x1 em marco de 2023, amistoso em Tanger, com Casemiro descontando. Saldo do retrospecto: Brasil 6 gols feitos, 2 sofridos. CONTEXTO IMPORTANTE: os marroquinos chegam no melhor momento da historia (semifinalistas em 2022) e nao perdem desde agosto do ano passado. ODDS: mercado crava o Brasil favorito - vitoria a cerca de 1,53 a 1,65 (implicito de 62 a 65 por cento), empate cerca de 3,75 e Marrocos cerca de 5,00; leitura de favoritismo claro do Brasil. Provaveis - BRASIL: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Paqueta, Matheus Cunha, Raphinha, Vinicius Jr. MARROCOS: Bounou; Hakimi, Diop, Halhal, Salah-Eddine; El Aynaoui, El Khannouss, Saibari; Brahim Diaz, Ezzalzouli, Rahimi. Leitura preliminar: Brasil tem o elenco e o favoritismo, mas Marrocos e perigoso no contra-ataque com Hakimi e Brahim Diaz - jogo para respeitar."
+ },
+ {
+  "tipo": "fim",
+  "hora": "17:57",
+  "texto": "FIM DE JOGO - Suica 1x0 Catar (Levi's Stadium, Santa Clara), abertura do Grupo B. Breel Embolo converteu o PRIMEIRO PENALTI da Copa 2026 - penalti aos 13 minutos, falta do goleiro Abunada sobre Freuler, confirmado no VAR apos checagem de impedimento muito apertada - e garantiu a vitoria suica na estreia. O Catar nao conseguiu reagir. Total de 1 gol: UNDER 2,5 BATEU. OBS: jogo SEM palpite no nosso bolao (estava fora da nossa lista de analises do dia), entao sem pontuacao Prodefy e sem simulacao de 100 reais - fica o registro factual do resultado."
+ },
+ {
+  "hora": "17:48",
+  "tipo": "analise",
+  "texto": "FIM DE JOGO - Suica 1x0 Catar (Levi's Stadium, Santa Clara, Grupo B). Unico gol: Embolo de penalti aos 16'. Palpite do bolao Suica 2x0: acertamos o VENCEDOR e o zero do Catar, mas a Suica fez 1 e nao 2, entao sem placar exato = 4 pontos PRODEFY. Favorito do modelo e do mercado (Suica a 1,21): GANHOU, +21 reais cada um. Jogo Louco (empate a +550): perdeu, -100 reais. Disciplinado: sem tip - a 1,21 a Suica nao tinha valor, nenhum edge de +4pp. Obs: a analise diaria deste jogo nao entrou no painel, entao o Brier do nosso modelo e reconstruido (aprox 0,062 contra 0,072 do mercado; favorito confirmado)."
+ },
+ {
+  "hora": "17:48",
+  "tipo": "esquenta",
+  "texto": "HISTORICO - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): sao 3 jogos na historia, 2 vitorias do Brasil e 1 do Marrocos, 6 a 2 nos gols. Em Copa do Mundo, so o encontro de 1998 (fase de grupos): Brasil 3x0, gols de Ronaldo, Rivaldo e Bebeto. Nos amistosos: Brasil 2x0 em 1997 (Denilson) e a unica derrota, Marrocos 2x1 em Tanger (2023, Boufal e Sabiri; Casemiro descontou). Mercado de hoje: Brasil 1,65 favorito, empate 3,75, Marrocos 5,00. Palpite do bolao: Brasil 2x1."
+ },
+ {
+  "tipo": "ao_vivo",
+  "texto": "AO VIVO - Catar x Suica (Grupo B, Levi's Stadium, Santa Clara, 2o tempo/reta final): Suica na frente por 1x0. Breel Embolo converteu penalti ainda no 1o tempo, apos o goleiro Mahmoud Abunada derrubar Remo Freuler; intervalo foi 0x1. Placar final a confirmar pelas fontes (ge, ESPN Brasil, Sofascore)."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "17:38",
+  "texto": "ESQUENTA - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): estreia da Selecao no Grupo C. Brasil amplo favorito - odds de vitoria entre 1,40 e 1,70 (consenso cerca de 1,65), empate 3,70-4,30, Marrocos 5,30-7,00. PROVAVEIS - Brasil (4-3-3): Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Matheus Cunha, Vinicius Jr. NEYMAR FORA (lesao na panturrilha esquerda, segue em tratamento). Marrocos: Bounou; Hakimi, Chadi Riad, Saadane, Mazraoui; El Aynaoui, Ounahi, El Khannouss, Brahim Diaz; Saibari, Sbai. DESFALQUES do Marrocos: Nayef Aguerd e Abde Ezzalzouli cortados por lesao. Marrocos foi semifinalista em 2022, time fisico e organizado - nao e adversario facil. Palpite e tips saem no PRE-JOGO, apos escalacoes confirmadas. Fontes: CNN Brasil, Olympics, Jornal da Paraiba."
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "17:35",
+  "texto": "AO VIVO 2o tempo - Catar 0x1 Suica (Levi's Stadium): GOL de Breel Embolo aos 17' de penalti, marcado apos checagem do VAR por falta de Abunada em Freuler. Amarelos: Jassem Jaber (23', Catar) e Denis Zakaria (42', Suica). Favorita no controle e perto de confirmar o resultado esperado; Under 2,5 segue vivo. Sem alerta - leitura mantida. Fontes: VAVEL, Yahoo Sports, FOX Sports."
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "16:00",
+  "texto": "BOLA ROLANDO - comeca Catar x Suica no Levi's Stadium, Santa Clara, pelo Grupo B. Estreia das duas selecoes. Suica forca total: Kobel; Widmer, Elvedi, Akanji, R.Rodriguez; Aebischer, Xhaka, Ndoye, Vargas, Rieder; Embolo. Catar no bloco baixo com Barsham; Afif e Almoez Ali na frente."
+ },
+ {
+  "tipo": "odds",
+  "hora": "15:58",
+  "texto": "ODDS NO APITO - Catar x Suica: Suica 1,21 (-475) | Empate 6,50 (+550) | Catar 14,0 (+1300) | Under 2,5 +115 (2,15) (linha de fechamento, base do CLV). Suica favoritissima, implicito de cerca de 83 por cento na vitoria. Fonte: oddschecker/ESPN, 13/06."
+ },
+ {
+  "tipo": "ao_vivo",
+  "texto": "AO VIVO - Suica x Catar (2o tempo, por volta dos 78 min): Suica 1x0. PRIMEIRO PENALTI DA COPA 2026 - Remo Freuler foi derrubado na area por Mahmoud Abunada (amarelo) e Breel Embolo, contra o pais onde nasceu, bateu firme de pe direito: 1x0. O VAR conferiu um possivel impedimento de Freuler no lance e validou o gol. Sommer seguro, a Suica administra a vantagem no Levi's Stadium, Santa Clara. Favorita confirmando o favoritismo."
+ },
+ {
+  "tipo": "esquenta",
+  "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): estreia do Grupo C e do Brasil na Copa. Provavel Brasil de Ancelotti: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr e Matheus Cunha. Brasil perdeu Wesley por corte (entrou Ederson). Marrocos, semifinalista em 2022 e apontado pelo proprio Ancelotti como principal adversario do grupo, vem sem o zagueiro Aguerd e sem o atacante Abde Ezzalzouli (Saadane e Amine Sbai nos lugares). Estreia tende a ser estudada e de poucos gols ate o Brasil encaixar."
+ },
+ {
+  "tipo": "forma",
+  "hora": "17:28",
+  "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium): o contraste esta na defesa. O BRASIL chega com ataque pegando fogo - 13 gols nos ultimos 5 jogos (media 2,6 por jogo) - mas com alerta atras: foi vazado em TODOS os 5 ultimos, 7 gols sofridos no periodo. O MARROCOS faz o oposto: venceu 3 dos ultimos 5, marcou 6 e sofreu so 1 - defesa solida e o time mais bem ranqueado da historia do pais (7o da FIFA, melhor posicao de sempre, contra um Brasil no top-5). O retrospecto direto (3 jogos, 2 vitorias do Brasil) ja teve a virada africana no ultimo encontro (2x1 em Tanger, 2023). Cruzando os dados: ataque quente do Brasil + defesa recente furada dos dois lados apontam jogo ABERTO, com chance real de passar de 1 gol e ambos marcarem - a mesma tendencia de placares altos que vem se repetindo nesta Copa. Leitura mantida do palpite Brasil 2x1. Escalacoes confirmadas no PRE-JOGO. Fontes: Goal.com, SBT Sports, CBF, O Povo (12-13/06)."
+ },
+ {
+  "tipo": "ao_vivo",
+  "hora": "17:24",
+  "texto": "AO VIVO - Suica x Catar (2o tempo, em torno dos 65 min): Suica 1x0. O motor entrou no jogo ja em andamento (apito 16:00, Levi's Stadium, Santa Clara). GOL: Breel Embolo de penalti aos 17 do 1o tempo - falta do goleiro Abunada sobre Remo Freuler, penalti confirmado pelo VAR apos checagem de impedimento muito apertada a favor da Suica. A Suica de Murat Yakin administra a vantagem na estreia do Grupo B; o Catar de Lopetegui, apoiado em Akram Afif e no artilheiro Almoez Ali, busca o empate. Este jogo esta fora do nosso book do dia - sem palpite do bolao nem tip. Odds de fechamento no apito nao capturadas (engine entrou tarde). Acompanhando os proximos lances."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "17:24",
+  "texto": "ESQUENTA - Marrocos x Brasil (apito 19:00, MetLife Stadium, East Rutherford-NJ), estreia do Grupo C. PROVAVEIS - BRASIL (Ancelotti, 4-2-3-1): Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr; Matheus Cunha. MARROCOS (Regragui, 4-3-3): Bounou; Hakimi, Aguerd, Chadi Riad (ou Issa Diop), Mazraoui; Amrabat, Ounahi, Brahim Diaz (ou El Khannouss); Ez Abde, El Kaabi, Rahimi. FORMA: Brasil com 4 vitorias nos ultimos 6 e ataque quente (os 4 ultimos jogos passaram de 2,5 gols); Marrocos invicto ha mais de 10 meses e vencedor de 3 dos ultimos 4. MERCADO: Brasil favorito claro - vitoria entre 1,53 e 1,66 (implicito cerca de 62 a 65 por cento), Empate em torno de 3,75, Marrocos por volta de 5,00. CONTEXTO: 4o lugar em 2022, o Marrocos e o azarao mais perigoso da primeira fase e venceu o ultimo encontro direto (amistoso de 2023, 2x1 em Tanger). Sem palpite oficial do bolao registrado para este jogo ainda. Revisao com escalacoes confirmadas no PRE-JOGO."
+ },
+ {
+  "tipo": "ao_vivo",
+  "hora": "17:16",
+  "texto": "AO VIVO - Suica 1x0 Catar, perto dos 75 min no Levis Stadium (Santa Clara). Placar inalterado desde o penalti de Embolo (17 do 1o tempo). A Suica administra a posse e o ritmo, controla o territorio e tenta o segundo gol que liquidaria; o Catar segue no bloco baixo, sem chegada clara para o empate. Sem novos gols, cartoes ou expulsoes. Under 2,5 segue na frente (linha de fechamento -110). Leitura de amplo favoritismo helvetico mantida."
+ },
+ {
+  "tipo": "ao_vivo",
+  "hora": "17:02",
+  "texto": "AO VIVO - Suica 1x0 Catar, passando dos 62 min no Levis Stadium (Santa Clara). Placar segue 1x0 desde o penalti de Embolo aos 17 min (falta de Abunada sobre Freuler). O Catar se defende bem e evita o segundo, mas cria pouco no ataque; a Suica administra a vantagem com posse de bola e ritmo controlado. Sem novos gols, cartoes ou expulsoes desde o intervalo. Under 2,5 segue na frente (linha de fechamento -110)."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "17:00",
+  "texto": "ESQUENTA - Marrocos x Brasil (19:00 de Brasilia, MetLife Stadium, Nova Jersey), estreia do Grupo C e o jogo grande do dia. Carlo Ancelotti faz sua primeira Copa no comando da Selecao com base definida: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Vini Jr e Matheus Cunha. DESFALQUE - lateral direita: Wesley foi cortado por lesao, com Danilo e Ibanez como opcoes. Do outro lado, um Marrocos perigoso, semifinalista de 2022, com Hakimi, Bounou, Mazraoui e Brahim Diaz, mas desfalcado de Aguerd e Ezzalzouli (lesao). Leitura: Brasil franco favorito mas contra a melhor selecao africana da geracao - palpite do bolao Brasil 2x1. Aquece a cobertura: FORMA, HISTORICO e ULTIMA HORA a seguir."
+ }
 ]
