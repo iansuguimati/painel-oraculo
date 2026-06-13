@@ -75,9 +75,6 @@
     "hora": "19:00"
   },
   "alerta": {
-    "ativo": true,
-    "hora": "19:35",
-    "jogo": "Marrocos x Brasil",
-    "texto": "Saibari (19') faz 1x0 para o Marrocos. Brasil favorito a 1,67 (-150, ~60 por cento). ANTERIOR: Brasil amplo favorito -> NOVO: cenario aberto, Empate e Marrocos com forca; Brasil precisa reagir no 2o tempo."
+    "ativo": false
   }
 }

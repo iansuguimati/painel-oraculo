@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "ao_vivo",
+    "hora": "19:37",
+    "texto": "AO VIVO - Marrocos 1x1 Brasil (1o tempo, reta final, por volta dos 38 min), MetLife Stadium. GOL DO BRASIL: Vinicius Junior empatou para a Selecao, finalizacao do lado esquerdo da area apos o Brasil crescer na pressao. O favorito do mercado respondeu rapido ao gol de Saibari (19') e devolveu o duelo ao roteiro esperado. LEITURA: alerta absorvido - com o 1x1, a vantagem tecnica e o elenco do Brasil voltam a pesar; o Marrocos, invicto ha 29 jogos, segue perigoso no contra-ataque de Brahim Diaz e El Aynaoui. Jogo aberto e ja com 2 gols (Over 2,5 ganha forca). Brasil pressiona para virar antes do intervalo."
+  },
+  {
     "tipo": "alerta",
     "hora": "19:35",
     "texto": "ALERTA - Marrocos x Brasil: Saibari fez 1x0 para o Marrocos aos 19, e o placar se mantem (cerca de 35 min). O Brasil entrou favorito amplo (1,67 / -150, cerca de 60 por cento). ANTERIOR: Brasil amplo favorito -> NOVO: cenario aberto, Empate e Marrocos ganham forca; o Brasil precisa reagir no 2o tempo para reverter a leitura."
@@ -182,10 +187,5 @@
   {
     "tipo": "esquenta",
     "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): estreia do Grupo C e do Brasil na Copa. Provavel Brasil de Ancelotti: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr e Matheus Cunha. Brasil perdeu Wesley por corte (entrou Ederson). Marrocos, semifinalista em 2022 e apontado pelo proprio Ancelotti como principal adversario do grupo, vem sem o zagueiro Aguerd e sem o atacante Abde Ezzalzouli (Saadane e Amine Sbai nos lugares). Estreia tende a ser estudada e de poucos gols ate o Brasil encaixar."
-  },
-  {
-    "tipo": "forma",
-    "hora": "17:28",
-    "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium): o contraste esta na defesa. O BRASIL chega com ataque pegando fogo - 13 gols nos ultimos 5 jogos (media 2,6 por jogo) - mas com alerta atras: foi vazado em TODOS os 5 ultimos, 7 gols sofridos no periodo. O MARROCOS faz o oposto: venceu 3 dos ultimos 5, marcou 6 e sofreu so 1 - defesa solida e o time mais bem ranqueado da historia do pais (7o da FIFA, melhor posicao de sempre, contra um Brasil no top-5). O retrospecto direto (3 jogos, 2 vitorias do Brasil) ja teve a virada africana no ultimo encontro (2x1 em Tanger, 2023). Cruzando os dados: ataque quente do Brasil + defesa recente furada dos dois lados apontam jogo ABERTO, com chance real de passar de 1 gol e ambos marcarem - a mesma tendencia de placares altos que vem se repetindo nesta Copa. Leitura mantida do palpite Brasil 2x1. Escalacoes confirmadas no PRE-JOGO. Fontes: Goal.com, SBT Sports, CBF, O Povo (12-13/06)."
   }
 ]
