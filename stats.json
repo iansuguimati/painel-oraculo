@@ -37,7 +37,7 @@
     "jogo": "Marrocos x Brasil",
     "hora": "19:00 (Brasilia)"
   },
-  "analise": "Suica x Catar ENCERRADO: Suica 1x0 (penalti de Embolo aos 16'). Palpite Suica 2x0 acertou vencedor e o zero do Catar, errou o placar exato = 4 pts. A analise diaria deste jogo nao chegou ao painel, entao as probabilidades do nosso modelo foram reconstruidas (Brier aprox 0,062 contra 0,072 do mercado). Aguardando a analise diaria de Marrocos x Brasil (19:00, MetLife Stadium).",
+  "analise": "Suica x Catar ENCERRADO: 1x1 (Embolo de penalti aos 16 para a Suica; Boualem empatou para o Catar na reta final). Palpite Suica 2x0 errou: jogo terminou empatado e o Catar marcou, 0 pts no bolao. Este jogo nao teve linha do modelo do dia publicada, entao fica fora do placar de Brier e das sim100. Under 2,5 bateu (2 gols). Foco agora em Marrocos x Brasil (19:00, MetLife Stadium).",
   "analises": [
     {
       "jogo": "Bosnia-Herzegovina x Canada",
