@@ -1,6 +1,11 @@
 [
   {
     "tipo": "fim",
+    "hora": "23:52",
+    "texto": "FIM DE JOGO - Paraguai 1 x 4 EUA, SoFi Stadium (Los Angeles). Gols: gol contra de Bobadilla (7), Balogun (31 e 45+), Reyna no fim; Paraguai descontou no 2o tempo. PALPITE: EUA 1x0 acertou o vencedor (EUA), saldo maior que o previsto - 3 pontos no bolao (total 10). MODELO: favorito EUA confirmado (P modelo 48,6 vs mercado 48,4); Brier 0,397 do modelo contra 0,400 do mercado. SIMULACOES 100 reais: Favorito do Modelo +95 reais (EUA 1,95), Favorito do Mercado +95, Disciplinado sem aposta (sem tip - Under caro), Jogo Louco -100 (empate nao saiu)."
+  },
+  {
+    "tipo": "fim",
     "hora": "00:50",
     "texto": "FIM - Estados Unidos 4x1 Paraguai (SoFi Stadium, Los Angeles, 12/06). Gols: Bobadilla (contra), Balogun (2) e Reyna pelos EUA; Mauricio descontou para o Paraguai. NOSSO PALPITE DO BOLAO: EUA 1x0 - acertamos o vencedor (errado o placar exato), 3 pontos. SIMULACOES de 100 reais: Favorito do Modelo (EUA) e Favorito do Mercado (EUA) GANHARAM, +95 cada (odd 1,95); Jogo Louco (Empate +245) PERDEU, -100; Disciplinado ficou de fora (sem tip, sem edge). BRIER do jogo: modelo 0,397 x mercado 0,438 - o modelo bateu o mercado. A linha dos EUA derivou de -105 para cerca de +106 no apito (CLV negativo na simulacao do favorito). Obs: fechamento recuperado pelo motor apos a janela ao vivo nao ter rodado durante a partida."
   },

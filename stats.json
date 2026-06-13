@@ -4,7 +4,7 @@
   "hit": "75% (3/4)",
   "roi": "-",
   "clv": "-",
-  "brier": "0,525 (mercado 0,515)",
+  "brier": "0,525 (mercado 0,506)",
   "bolao": 10,
   "sim100": {
     "disc": {
