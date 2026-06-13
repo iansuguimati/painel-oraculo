@@ -1,31 +1,31 @@
 {
   "updated": "13/06/2026",
   "tips": 0,
-  "hit": "75% (3/4)",
+  "hit": "80% (4/5)",
   "roi": "-",
   "clv": "-",
-  "brier": "0,525 (mercado 0,515)",
-  "bolao": 10,
+  "brier": "0,433 (mercado 0,427)",
+  "bolao": 14,
   "sim100": {
     "disc": {
-      "stake": 400,
+      "stake": 500,
       "pnl": 0.0,
       "roi": 0.0
     },
     "louco": {
-      "stake": 400,
-      "pnl": -30,
-      "roi": "-7,5%"
+      "stake": 500,
+      "pnl": -130,
+      "roi": "-26,0%"
     },
     "fav": {
-      "stake": 400,
-      "pnl": 200,
-      "roi": "+50,0%"
+      "stake": 500,
+      "pnl": 221,
+      "roi": "+44,2%"
     },
     "favmkt": {
-      "stake": 400,
-      "pnl": 200,
-      "roi": "+50,0%"
+      "stake": 500,
+      "pnl": 221,
+      "roi": "+44,2%"
     }
   },
   "lines": {
@@ -34,10 +34,10 @@
     "louco": "-"
   },
   "next": {
-    "jogo": "Suica x Catar",
-    "hora": "16:00 (Brasilia)"
+    "jogo": "Marrocos x Brasil",
+    "hora": "19:00 (Brasilia)"
   },
-  "analise": "Aguardando a analise diaria de Suica x Catar (16:00, Brasilia). Fechamento tardio do EUA 4x1 Paraguai aplicado: o motor nao rodou na janela do jogo, entao odds de fechamento no apito nao foram capturadas (CLV indisponivel) e o Brier de mercado e aproximado.",
+  "analise": "Suica x Catar ENCERRADO: Suica 1x0 (penalti de Embolo aos 16'). Palpite Suica 2x0 acertou vencedor e o zero do Catar, errou o placar exato = 4 pts. A analise diaria deste jogo nao chegou ao painel, entao as probabilidades do nosso modelo foram reconstruidas (Brier aprox 0,062 contra 0,072 do mercado). Aguardando a analise diaria de Marrocos x Brasil (19:00, MetLife Stadium).",
   "analises": [
     {
       "jogo": "Bosnia-Herzegovina x Canada",
