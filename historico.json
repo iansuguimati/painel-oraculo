@@ -50,18 +50,5 @@
     "disc": 0,
     "louco": -100,
     "favmkt": 95
-  },
-  {
-    "data": "13/06",
-    "jogo": "SUI x QAT",
-    "bolao_pts": 4,
-    "venc": 1,
-    "placar": 0,
-    "brier_m": 0.062,
-    "brier_k": 0.072,
-    "fav": 21,
-    "disc": 0,
-    "louco": -100,
-    "favmkt": 21
   }
 ]
