@@ -4,7 +4,7 @@
   "hit": "75% (3/4)",
   "roi": "-",
   "clv": "-",
-  "brier": "0,525 (mercado 0,503)",
+  "brier": "0,525 (mercado 0,515)",
   "bolao": 10,
   "sim100": {
     "disc": {
@@ -19,13 +19,13 @@
     },
     "fav": {
       "stake": 400,
-      "pnl": 196,
-      "roi": "+49,0%"
+      "pnl": 200,
+      "roi": "+50,0%"
     },
     "favmkt": {
       "stake": 400,
-      "pnl": 196,
-      "roi": "+49,0%"
+      "pnl": 200,
+      "roi": "+50,0%"
     }
   },
   "lines": {
@@ -68,11 +68,11 @@
   ],
   "odds_fech": {
     "jogo": "Paraguai x EUA",
-    "o1": "+320",
-    "ox": "+240",
-    "o2": "-110",
-    "under": "n/d",
-    "hora": "22:00 (retroativo)"
+    "o1": "+288",
+    "ox": "+222",
+    "o2": "+106 (EUA)",
+    "under": "-180",
+    "hora": "21:28 (estimado, pre-apito)"
   },
   "alerta": {
     "ativo": false
