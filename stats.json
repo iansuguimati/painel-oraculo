@@ -1,10 +1,10 @@
 {
-  "updated": "12/06/2026",
+  "updated": "13/06/2026",
   "tips": 0,
   "hit": "75% (3/4)",
   "roi": "-",
   "clv": "-",
-  "brier": "0,525 (mercado 0,506)",
+  "brier": "0,526 (mercado 0,505)",
   "bolao": 10,
   "sim100": {
     "disc": {
@@ -29,15 +29,15 @@
     }
   },
   "lines": {
-    "bolao": "EUA 1x0",
+    "bolao": "-",
     "disc": "-",
-    "louco": "Empate (+245)"
+    "louco": "-"
   },
   "next": {
-    "jogo": "Paraguai x EUA",
-    "hora": "22:00 (Brasilia)"
+    "jogo": "Suica x Catar",
+    "hora": "16:00 (Brasilia), sabado 13/06"
   },
-  "analise": "Mando real dos EUA (SoFi Stadium, Inglewood) - a API lista o Paraguai como mandante. FORMA: os EUA estao invictos em boa sequencia, criam chances e as vezes pecam na pontaria; o H2H e amplo a favor (5V-2E-2D em 9 jogos, venceram o ultimo 2x1 em amistoso no fim de 2025). O Paraguai e uma MURALHA sob Gustavo Alfaro: fez so 14 gols e sofreu 10 em 18 jogos nas eliminatorias da Conmebol (0,78 gol marcado por jogo, o menor ataque da competicao), comecou mal e cresceu no fim (6 vitorias nos ultimos 11). CONTEXTO COPA: SoFi com teto translucido, Los Angeles ameno e fuso curto para o Paraguai. LEITURA: jogo de bloco baixo - os EUA tem a bola, o Paraguai segura; o gol do anfitriao tende a sair de bola parada ou lance individual. Dai o 1x0 (EP 2,39), que captura a faixa de 4 pontos do Prodefy. Lambda do modelo: EUA 1,35 x Paraguai 0,85. PRODUTO: sem tip - modelo em linha com o mercado (48,6/27,5/24,0) e o Under ja esta caro a -165. LAB: maior valor aparente no X2/empate do Paraguai (+245), so como experimento.",
+  "analise": "Rodada de 12/06 encerrada: Canada 1x1 Bosnia e Paraguai 1x3 EUA. Bolao em 10 pontos, aproveitamento de vencedor 3/4 (75%). Simulacoes de 100 reais no acumulado (4 jogos): FAVORITO DO MODELO e FAVORITO DO MERCADO +200 cada (ROI +50%), JOGO LOUCO -30 (-7,5%), DISCIPLINADO sem exposicao (0 tip publicado, modelo em linha com o mercado). A previa estatistica completa do sabado (Suica x Catar 16h, Marrocos x Brasil 19h, Escocia x Haiti 22h) sai na analise diaria pela manha. OBS: o motor ao vivo nao rodou durante Paraguai x EUA; o jogo foi fechado pos-apito via WebSearch.",
   "analises": [
     {
       "jogo": "Bosnia-Herzegovina x Canada",
@@ -68,10 +68,10 @@
   ],
   "odds_fech": {
     "jogo": "Paraguai x EUA",
-    "o1": "+290",
-    "ox": "+225",
-    "o2": "+105",
-    "under": "-180",
+    "o1": "+320",
+    "ox": "+245",
+    "o2": "-105",
+    "under": "-165",
     "hora": "22:00"
   },
   "alerta": {
