@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "alerta",
+    "hora": "19:35",
+    "texto": "ALERTA - Marrocos x Brasil: Saibari fez 1x0 para o Marrocos aos 19, e o placar se mantem (cerca de 35 min). O Brasil entrou favorito amplo (1,67 / -150, cerca de 60 por cento). ANTERIOR: Brasil amplo favorito -> NOVO: cenario aberto, Empate e Marrocos ganham forca; o Brasil precisa reagir no 2o tempo para reverter a leitura."
+  },
+  {
     "tipo": "ao_vivo",
     "hora": "19:26",
     "texto": "AO VIVO - Marrocos 1x0 Brasil (1o tempo, por volta dos 30 min), MetLife Stadium (Nova Jersey) - ESTREIA DO BRASIL NA COPA. BOLA ROLANDO desde as 19:00. GOL DO MARROCOS: Ismael Saibari abriu o placar por volta dos 21 min, finalizacao de fora da area apos boa trama com Brahim Diaz, sem chance para Alisson. O Marrocos - invicto ha 29 jogos e apontado pelo proprio Ancelotti como o principal adversario do grupo - comecou muito ligado e ja havia assustado com El Aynaoui e Brahim Diaz. O Brasil de Ancelotti (Alisson; Gabriel Magalhaes, Ibanez e Marquinhos; Douglas Santos; Casemiro e Bruno Guimaraes; Paqueta, Raphinha, Vinicius Junior e Igor Thiago) respondeu com uma cabecada de Raphinha para fora apos cruzamento de Douglas Santos, mas ainda nao equilibrou. LEITURA: o favorito do mercado (Brasil) saiu atras logo cedo - cenario de jogo aberto, com o Brasil obrigado a furar um bloco marroquino bem postado. Se o Marrocos segurar, e zebra de peso na estreia. Acompanhando os proximos lances."
@@ -182,10 +187,5 @@
     "tipo": "forma",
     "hora": "17:28",
     "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium): o contraste esta na defesa. O BRASIL chega com ataque pegando fogo - 13 gols nos ultimos 5 jogos (media 2,6 por jogo) - mas com alerta atras: foi vazado em TODOS os 5 ultimos, 7 gols sofridos no periodo. O MARROCOS faz o oposto: venceu 3 dos ultimos 5, marcou 6 e sofreu so 1 - defesa solida e o time mais bem ranqueado da historia do pais (7o da FIFA, melhor posicao de sempre, contra um Brasil no top-5). O retrospecto direto (3 jogos, 2 vitorias do Brasil) ja teve a virada africana no ultimo encontro (2x1 em Tanger, 2023). Cruzando os dados: ataque quente do Brasil + defesa recente furada dos dois lados apontam jogo ABERTO, com chance real de passar de 1 gol e ambos marcarem - a mesma tendencia de placares altos que vem se repetindo nesta Copa. Leitura mantida do palpite Brasil 2x1. Escalacoes confirmadas no PRE-JOGO. Fontes: Goal.com, SBT Sports, CBF, O Povo (12-13/06)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:24",
-    "texto": "AO VIVO - Suica x Catar (2o tempo, em torno dos 65 min): Suica 1x0. O motor entrou no jogo ja em andamento (apito 16:00, Levi's Stadium, Santa Clara). GOL: Breel Embolo de penalti aos 17 do 1o tempo - falta do goleiro Abunada sobre Remo Freuler, penalti confirmado pelo VAR apos checagem de impedimento muito apertada a favor da Suica. A Suica de Murat Yakin administra a vantagem na estreia do Grupo B; o Catar de Lopetegui, apoiado em Akram Afif e no artilheiro Almoez Ali, busca o empate. Este jogo esta fora do nosso book do dia - sem palpite do bolao nem tip. Odds de fechamento no apito nao capturadas (engine entrou tarde). Acompanhando os proximos lances."
   }
 ]
