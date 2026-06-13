@@ -8,9 +8,9 @@
   "bolao": 7,
   "sim100": {
     "disc": {
-      "stake": 0,
+      "stake": 300,
       "pnl": 0,
-      "roi": "-"
+      "roi": "+0,0%"
     },
     "louco": {
       "stake": 300,
