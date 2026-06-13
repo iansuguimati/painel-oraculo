@@ -4,13 +4,13 @@
   "hit": "67% (2/3)",
   "roi": "-",
   "clv": "-",
-  "brier": "0,568 (mercado 0,541)",
+  "brier": "0,550 (mercado 0,559)",
   "bolao": 7,
   "sim100": {
     "disc": {
-      "stake": 300,
+      "stake": 0,
       "pnl": 0,
-      "roi": "+0,0%"
+      "roi": "-"
     },
     "louco": {
       "stake": 300,
