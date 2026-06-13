@@ -67,12 +67,12 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Catar x Suica",
-    "o1": "+1300",
-    "ox": "+550",
-    "o2": "-475",
-    "under": "+115",
-    "hora": "16:00"
+    "jogo": "Marrocos x Brasil",
+    "o1": "+400",
+    "ox": "+275",
+    "o2": "-159",
+    "under": "-115",
+    "hora": "19:00"
   },
   "alerta": {
     "ativo": false
