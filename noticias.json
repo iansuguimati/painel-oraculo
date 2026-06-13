@@ -1,6 +1,21 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "19:52",
+    "texto": "AO VIVO - Marrocos x Brasil (intervalo / inicio do 2o tempo): 1 a 1. Estreia do Brasil no Grupo C no MetLife, Nova Jersey. O Marrocos surpreendeu e abriu com Ismael Saibari no 1o tempo; Vini Jr empatou aos 32, jogada pela esquerda passando por Hakimi e finalizacao cruzada apos tabela com Bruno Guimaraes. Ancelotti escalou Alisson; Ibanez, Marquinhos (capitao), Gabriel Magalhaes e Douglas Santos; Casemiro e Bruno Guimaraes; Paqueta, Vini Jr, Raphinha e Igor Thiago (surpresa como referencia no ataque). Marrocos confirma ser o adversario duro que Ancelotti avisou. Leitura: jogo equilibrado, Brasil precisa furar um bloco bem armado; o 2o tempo decide."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "19:00",
+    "texto": "BOLA ROLANDO - comeca Marrocos x Brasil no MetLife (Nova Jersey), estreia da Selecao no Grupo C. Sem palpite fechado do bolao para este jogo. Expectativa de Brasil pressionando com posse contra um Marrocos organizado e perigoso no contra-ataque, com Hakimi e companhia."
+  },
+  {
+    "tipo": "resultado",
+    "hora": "18:00",
+    "texto": "FIM - Catar 1 x 1 Suica (Levi's Stadium, Santa Clara). Embolo abriu para a Suica de penalti; o Catar buscou o empate no fim (gol atribuido a Boualem/Abunada pelas fontes). Jogo travado, apontado como o mais fraco da Copa ate aqui. A Suica tropecou na estreia e deixou pontos pelo caminho diante de um Catar bem postado."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "19:44",
     "texto": "AO VIVO - Marrocos 1x1 Brasil (fim do 1o tempo, MetLife). Jogo aberto e o Marrocos foi melhor: 12 finalizacoes nos primeiros 30 min, mais do que o Brasil tinha sofrido em qualquer um dos seus 6 jogos anteriores em Copas. O Brasil sofreu com a intensidade dos Leoes do Atlas, mas a individualidade de Vini Jr deixou tudo igual. Leitura: jogo de gols (Over ganhando forca), Brasil precisa ajustar a marcacao no meio para o 2o tempo."
   },
@@ -178,20 +193,5 @@
     "tipo": "ao_vivo",
     "hora": "16:54",
     "texto": "AO VIVO - Suica x Catar (2o tempo, em torno de 50 min): Suica 1x0. O favoritismo helvetico se confirma no placar - Breel Embolo abriu aos 17 de penalti (falta do goleiro Abunada em Freuler, que levou amarelo), o PRIMEIRO gol de penalti da Suica em uma Copa. A Suica, 19a do ranking FIFA e invicta nas Eliminatorias europeias, controla a posse contra um Catar fechado no bloco. Sem alerta: placar segue a leitura de amplo favoritismo (mercado abriu Suica a -400, cerca de 80 por cento). Lances novos a seguir."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:53",
-    "texto": "BOLA ROLANDO - comeca Suica x Catar (Grupo B, Levi's Stadium, Santa Clara). Suica franca favorita; Catar disputa sua 2a Copa do Mundo. Cobertura ao vivo retomada."
-  },
-  {
-    "tipo": "odds",
-    "hora": "16:53",
-    "texto": "ODDS NO APITO - Suica x Catar: Suica -400 | Empate +475 | Catar +1000 | Under 2,5 -110 (linha de fechamento, base do CLV)"
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:51",
-    "texto": "AO VIVO - Suica 1x0 Catar aos ~10 do 2o tempo (Levis Stadium, Santa Clara), cerca de 55 min de jogo. Segue 1x0 com o penalti de Embolo (17 do 1o tempo). A Suica mantem a posse e o controle territorial, empurrando o Catar para o campo de defesa em busca do segundo gol que encaminha o jogo; o Catar segue no bloco baixo, sem chance clara de empate. Sem novos gols, sem expulsao. Leitura Suica 2x0 mantida - favorito amplo no comando, falta liquidar."
   }
 ]
