@@ -67,12 +67,12 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Paraguai x EUA",
-    "o1": "+288",
-    "ox": "+222",
-    "o2": "+106 (EUA)",
-    "under": "-180",
-    "hora": "21:28 (estimado, pre-apito)"
+    "jogo": "Suica x Catar",
+    "o1": "-360 (1,28) Suica",
+    "ox": "+500 (6,00)",
+    "o2": "+950 (10,50) Catar",
+    "under": "+115 (2,15)",
+    "hora": "16:02 (no apito)"
   },
   "alerta": {
     "ativo": false
