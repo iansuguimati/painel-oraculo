@@ -37,18 +37,5 @@
     "disc": 0,
     "louco": 270,
     "favmkt": -100
-  },
-  {
-    "data": "12/06",
-    "jogo": "BOS x CAN",
-    "bolao_pts": 0,
-    "venc": 0,
-    "placar": 0,
-    "brier_m": 0.849,
-    "brier_k": 0.876,
-    "fav": -100,
-    "disc": 0,
-    "louco": 270,
-    "favmkt": -100
   }
 ]
