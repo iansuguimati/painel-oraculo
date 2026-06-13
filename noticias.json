@@ -1,6 +1,11 @@
 [
   {
     "tipo": "alerta",
+    "hora": "22:56",
+    "texto": "CORRECAO - Paraguai x EUA: NAO houve expulsao no jogo. Revisao cruzada (Bolavip minuto a minuto, World Soccer Talk, NBC) mostra que Omar Alderete sofreu apenas um CHOQUE DE CABECA com Chris Richards aos 17 min, passou por avaliacao medica e VOLTOU - nao foi cartao vermelho (a informacao anterior cruzou com o amistoso de novembro de 2025, quando Alderete foi expulso numa confusao). Paraguai segue com 11 em campo. PLACAR REAL NO INTERVALO: EUA 3x0 - Folarin Balogun fez DOIS (aos 31, assistencia de Pulisic, e aos 45+4, apos lancamento de Tillman, corte para dentro e chute no angulo), alem do gol contra de Damian Bobadilla aos 7. Amarelos: Caceres (11) e Gustavo Gomez (15). LEITURA: EUA (favorito do modelo E do mercado) atropelando; o placar exato 1x0 do bolao ficou pra tras; Under 2,5 (lab) MORREU - ja sao 3 gols, Over 2,5 batido. Vitoria dos EUA encaminhada."
+  },
+  {
+    "tipo": "alerta",
     "hora": "22:50",
     "texto": "ALERTA - Paraguai x EUA: CARTAO VERMELHO em Omar Alderete (Paraguai) aos 45 - a Albirroja vai jogar o 2o tempo com 10 homens e perdendo 0x2. Leitura ANTERIOR: EUA vencem por margem curta (palpite EUA 1x0). NOVA: EUA vencem com sobra e o Over 2,5 fica cada vez mais provavel - Paraguai com um a menos e dois atras tera de se expor. Vantagem dos EUA agora folgada."
   },
