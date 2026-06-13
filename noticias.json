@@ -1,5 +1,15 @@
 [
   {
+    "tipo": "ultima_hora",
+    "hora": "18:18",
+    "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e mercado para a estreia do Brasil no Grupo C. BRASIL (provavel): meio-campo com Casemiro e Bruno Guimaraes na base, Lucas Paqueta mais avancado, e o trio ofensivo Vinicius Jr, Raphinha e Matheus Cunha (linha defensiva ainda nao 100 por cento fechada pelas fontes). MARROCOS (provavel 4-2-3-1): Bono; Hakimi, Diop, Riad, Mazraoui; Bouaddi, El Aynaoui; Brahim Diaz, Ounahi, Sbai (ou Talbi); Saibari. MERCADO: Brasil amplo favorito - vitoria do Brasil perto de 1,65, empate perto de 3,75, vitoria do Marrocos perto de 5,00 (Betfair), implicito aproximado de 61 por cento Brasil, 27 empate, 20 Marrocos (antes da margem). LEITURA: Marrocos, semifinalista em 2022, e o adversario mais forte do grupo, joga em bloco e ataca nas transicoes via Hakimi; o Brasil tem mais talento individual, mas estreia de Copa pede cautela. Acompanhe o PRE-JOGO com as escalacoes confirmadas. Fonte: WebSearch (NSC Total, Terra, Betfair via Goal/Lance), 13/06."
+  },
+  {
+    "tipo": "fim",
+    "hora": "17:56",
+    "texto": "FIM DE JOGO - Catar 1x1 Suica (Grupo B). A Suica dominou a posse e abriu cedo: Breel Embolo converteu penalti aos 17 (falta do goleiro Abunada sobre Remo Freuler, o primeiro penalti desta Copa), mas o Catar arrancou um empate historico nos acrescimos com Boualem Khoukhi de cabeca aos 90+5. Favorita no mercado e dona do jogo, a Suica saiu sem a vitoria; o Catar somou um ponto valioso. Total de 2 gols: UNDER 2,5 bateu. OBS: jogo fora da grade de tips do dia (sem palpite do bolao), entao sem simulacao de 100 reais. Fonte: WebSearch (Lance, Flashscore, Goal), 13/06."
+  },
+  {
     "tipo": "alerta",
     "hora": "18:08",
     "texto": "ALERTA / CORRECAO - Suica x Catar terminou 1x1, e NAO 1x0. Boualem Khoukhi subiu mais que a defesa e empatou de cabeca aos 90+4 (cruzamento de Homam Al-Amin pela esquerda), depois de Breel Embolo abrir de penalti aos 16' - o primeiro penalti da Copa 2026. O fechamento anterior (17:57) saiu cedo demais com 1x0 e nao pegou o gol nos acrescimos (6 min dados). Correcao do registro: o jogo estava FORA do nosso book do dia (palpite '-' na agenda), entao SEM ponto de bolao e SEM simulacao de 100 reais - fica so o fato. Placares e acumulados voltam ao estado pos Paraguai x EUA: bolao 10 pontos; FAVORITO DO MODELO e FAVORITO DO MERCADO +200 reais (ROI +50%), JOGO LOUCO -30, DISCIPLINADO neutro. Total de 2 gols: UNDER 2,5 bateu. Fontes: FIFA, Al Jazeera, Gazeta Esportiva (13/06)."
@@ -184,19 +194,5 @@
     "tipo": "ao_vivo",
     "hora": "23:35",
     "texto": "AO VIVO 2T - EUA 3x0 PARAGUAI (SoFi Stadium). EUA atropelam na estreia. GOLS: 7' Bobadilla (gol contra, do Sao Paulo, desviou cruzamento de McKennie apos jogada de Pulisic); 31' Balogun (toque de Pulisic apos triangulacao com Antonee Robinson); 45'+ Balogun de novo, finalizando no angulo antes do intervalo. Pulisic com 2 assistencias e show no primeiro tempo; Paraguai do bloco baixo de Alfaro nao resistiu e perdeu a organizacao apos o gol contra cedo. LEITURA: nosso FAVORITO (EUA, modelo e mercado) confirma com folga - o palpite EUA 1x0 acerta o vencedor, errou so no placar (foi goleada). Disciplinado seguiu SEM tip (edge nao chegava a +4pp), nao expoe nada. Jogo encaminhado, aguardando apito final."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "23:33",
-    "texto": "BOLA ROLANDO - Paraguai x EUA em andamento no SoFi Stadium, Los Angeles. EUA dominantes desde o inicio, abriram cedo com gol contra e ampliaram com Balogun (2). Anfitriao no controle total da partida."
-  },
-  {
-    "tipo": "odds",
-    "hora": "23:32",
-    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +290 | Empate +225 | EUA +105 | Under 2,5 -180 (linha de fechamento de consenso DraftKings/FanDuel, base do CLV). EUA seguiram favoritos a vitoria; o placar 3x0 estourou o Under com folga (Over foi o lado certo)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "texto": "AO VIVO - Paraguai 0x3 EUA (reta final, cerca de 75 do jogo, SoFi Stadium). Placar inalterado no 2o tempo: os EUA seguram a posse, rodam o banco e administram a vantagem rumo ao apito. Lance polemico aos 51 - o VAR reviu o amarelo de Tim Ream e a arbitragem inverteu, punindo Miguel Almiron por simulacao. O Paraguai, com Mauricio no lugar de Bobadilla, nao cria nada claro e caminha para a estreia com derrota. O palpite EUA 1x0 ja cravou o vencedor; Favorito do Modelo e do Mercado confirmando. Cruzamento FIFA Match Centre, World Soccer Talk, NBC Los Angeles, FOX Sports e Yahoo Sports."
   }
 ]
