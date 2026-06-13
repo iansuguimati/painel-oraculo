@@ -1,6 +1,26 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:35",
+    "texto": "AO VIVO - Paraguai x EUA (cerca de 35 min, SoFi Stadium, Inglewood): EUA 1x0. Os Estados Unidos comecaram arrasadores e abriram cedo - aos 7 min Pulisic rasgou a marcacao e cruzou, McKennie participou da jogada e a bola desviou em Damian Bobadilla: GOL CONTRA, 1x0 anfitriao (um dos gols mais rapidos dos EUA em Copas). Balogun ainda balancou a rede logo depois, mas o gol foi anulado por impedimento. O Paraguai de Alfaro se fechou no bloco baixo, exatamente como previsto, e quase nao passou do meio-campo. Palpite do bolao (EUA 1x0) batendo em cheio ate aqui - placar exato vivo. Algumas fontes ja relatam um possivel segundo gol de Balogun; aguardando confirmacao cruzada antes de cravar."
+  },
+  {
+    "tipo": "lance",
+    "hora": "22:07",
+    "texto": "GOL DOS EUA - Paraguai 0x1 EUA aos 7 min: GOL CONTRA de Damian Bobadilla. Pulisic passou pela defesa e cruzou rasteiro, McKennie participou e a bola entrou apos desvio do volante paraguaio. Anfitriao na frente cedo - o cenario 1x0 do nosso palpite ja no placar."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "22:01",
+    "texto": "BOLA ROLANDO - comeca Paraguai x EUA (mando real dos EUA, SoFi Stadium). Pochettino mandou a campo um 5-3-2: Freese; Dest, Freeman, Richards, Ream, Robinson; Tillman, Adams, McKennie; Pulisic e Balogun. ATENCAO: o Paraguai entrou COM Julio Enciso entre os titulares, ao contrario da expectativa pre-jogo de desfalque - reforca o setor ofensivo paraguaio, mas nao muda nossa leitura (EUA com a bola, Paraguai no bloco baixo)."
+  },
+  {
+    "tipo": "odds",
+    "hora": "22:00",
+    "texto": "ODDS NO APITO - Paraguai x EUA: EUA -105 | Empate +240 | Paraguai +320 | Under 2,5 -185 (linha de fechamento FanDuel, base do CLV). Dinheiro pesado nos EUA: cerca de 84 por cento dos bilhetes e 92 por cento do volume apostado; o Under saltou de -130 para -185 ao longo do dia."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "22:28",
     "texto": "AO VIVO - Paraguai x EUA (~28 min): EUA 1x0. Os EUA controlam apos o gol contra precoce de Damian Bobadilla (7 min, jogada de Pulisic e McKennie). O Paraguai parece abalado, comete varias faltas - Juan Caceres ja levou amarelo - e ainda nao respondeu. Cenario exatamente como a leitura previa: bloco baixo do Paraguai furado em lance individual/cruzamento, com os EUA dominando a bola. Palpite do bolao (EUA 1x0) batendo ate aqui. Under 2,5 (lab) firme: 1 gol. Sem alerta - gol a FAVOR da nossa previsao."
   },
