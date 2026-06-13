@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "gol",
+    "hora": "22:16",
+    "texto": "GOL DOS EUA - Paraguai 0 x 1 EUA aos 7 minutos: Pulisic passou entre dois marcadores e cruzou rasteiro; Damian Bobadilla, tentando cortar, marcou CONTRA. O anfitriao abre cedo no SoFi Stadium. LEITURA: o placar bate EXATAMENTE com o nosso palpite (EUA 1x0). Gol cedo forca o Paraguai de Alfaro a abrir o bloco baixo; se o 1x0 segurar, cravamos placar e vencedor (faixa de 4 pontos do Prodefy). Favorito do Modelo e do Mercado (EUA) na frente."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "22:00",
+    "texto": "BOLA ROLANDO - comeca Paraguai x EUA no SoFi Stadium, Los Angeles, pela 1a rodada do Grupo D. EUA jogam em casa como favoritos; Paraguai volta a uma Copa apos duas ausencias. Nosso palpite: EUA 1x0."
+  },
+  {
+    "tipo": "odds",
+    "hora": "22:00",
+    "texto": "ODDS NO APITO - Paraguai x EUA: Paraguai +320 (4,20) | Empate +240 (3,40) | EUA -110 (1,91) | Under 2,5 cerca de -175 (linha de fechamento, base do CLV). No fim o dinheiro mexeu um pouco para empate/Paraguai, mas os EUA fecham favoritos. Disciplinado SEM tip (edge dos EUA abaixo de +4pp)."
+  },
+  {
     "tipo": "ao_vivo",
     "hora": "22:14",
     "texto": "CONFIRMADO o gol - Paraguai 0x1 EUA, GOL CONTRA de Damian Bobadilla aos 7 minutos. Pulisic passou entre dois marcadores e cruzou; a bola desviou em Bobadilla e morreu nas redes (McKennie na origem da jogada). Placar 1x0 EUA no SoFi Stadium, exatamente o palpite do bolao (EUA 1x0, EP 2,39). O anfitriao abriu cedo e empurra o Paraguai para o bloco baixo - leitura do modelo mantida (lambda EUA 1,35 x Paraguai 0,85), agora com espaco para o segundo. Sem alerta: gol a favor da previsao."
@@ -179,25 +194,5 @@
     "tipo": "odds",
     "hora": "16:01",
     "texto": "ODDS NO APITO - Bosnia x Canada: Bosnia 4,90 (+390) | Empate 3,50 (+250) | Canada 1,80 (-125) | Under 2,5 1,67 (-150) (linha de fechamento, base do CLV)"
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "16:02",
-    "texto": "BOLA ROLANDO - comeca Bosnia x Canada (16:00, BMO Field, Toronto). Placar 0x0. Canada com mando real e favorito; nossa leitura segue Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82), Under 2,5 como cenario base. Bosnia aposta no bloco baixo com Dzeko (40) guardado no banco. Disciplinado sem tip - edge no Canada nao atinge +4pp com EV positivo. Acompanhando os primeiros lances."
-  },
-  {
-    "tipo": "clima",
-    "hora": "15:58",
-    "texto": "CLIMA - Bosnia x Canada (16:00, BMO Field): tudo pronto para o apito. BMO Field lotado em Toronto (casa praticamente esgotada, ~96% dos ingressos vendidos), clima de festa na estreia do Canada como pais-sede da Copa. Equipes no tunel, hinos nacionais a caminho e arbitragem de Facundo Tello (Argentina). Ambiente de jogo grande, mas a leitura nao muda: estreia de Mundial costuma ser truncada e cautelosa. Palpite mantido: Canada 1x0 (lambda Canada 1,47 x Bosnia 0,82). Disciplinado segue sem tip."
-  },
-  {
-    "tipo": "pre_jogo",
-    "hora": "15:34",
-    "texto": "PRE-JOGO - Bosnia x Canada (16:00, BMO Field): escalacoes CONFIRMADAS. CANADA (4-4-2): Crepeau; Laryea, Cornelius, de Fougerolles, Johnston; Millar, Kone, Eustaquio (capitao), Buchanan; Oluwaseyi, David. NOVIDADE: Tani Oluwaseyi ganha a vaga de Cyle Larin no ataque - aposta na mobilidade ao lado de Jonathan David; Alphonso Davies confirmado fora (lesao na coxa). BOSNIA (4-4-2): Vasilj; Kolasinac, Muharemovic, Katic, Dedic; Memic, Tahirovic, Basic, Bajraktarevic; Demirovic, Lukic - Edin Dzeko (40) comeca no BANCO, como esperado, guardado para a reta final. LEITURA: a troca Larin->Oluwaseyi nao muda a tese de placar magro; o Canada segue com mando real, defesa solida e ataque em construcao, enquanto a Bosnia aposta no bloco baixo e em Demirovic. PALPITE MANTIDO: Canada 1x0 (EP 2,52), modelo lambda Canada 1,47 x Bosnia 0,82. Disciplinado: SEM TIP - o edge no Canada nao chega a +4pp com EV positivo a -125 (1,80). Lab segue de olho no empate (+270)."
-  },
-  {
-    "tipo": "ultima_hora",
-    "hora": "15:13",
-    "texto": "ULTIMA HORA - Bosnia x Canada (16:00, BMO Field): escalacoes provaveis divulgadas. CANADA (provavel): Crepeau; Johnston, de Fougerolles, Cornelius, Laryea; Buchanan, Eustaquio, Kone, Millar; David, Larin. Desfalques pesados: Alphonso Davies (lesao na coxa) fora, Moise Bombito - principal zagueiro - cortado do torneio e Marcelo Flores com ligamento cruzado rompido; o Canada chega desfalcado na defesa e na criacao. BOSNIA (provavel): Vasilj; Kolasinac, Muharemovic, Katic, Dedic; Memic, Tahirovic, Basic, Bajraktarevic; Demirovic, Lukic - so perdeu o goleiro reserva (Hadzikic), forca principal intacta e Dzeko (40) como trunfo no banco. ODDS: Canada segue favorito, linha firme em torno de -125/-130 (1,80), sem movimento relevante; Under 2,5 curto (~-150), mercado confirmando jogo de poucos gols. LEITURA: as ausencias do Canada reforcam o placar magro, mas o mando e o ataque fraco da Bosnia (Dzeko unica referencia) mantem o favoritismo. PALPITE MANTIDO: Canada 1x0. Disciplinado segue sem tip - edge insuficiente."
   }
 ]
