@@ -8,24 +8,24 @@
   "bolao": 10,
   "sim100": {
     "disc": {
-      "stake": 0,
-      "pnl": 0,
-      "roi": "-"
+      "stake": 500,
+      "pnl": 0.0,
+      "roi": "0,0%"
     },
     "louco": {
-      "stake": 400,
-      "pnl": -30,
-      "roi": "-7,5%"
+      "stake": 500,
+      "pnl": -130.0,
+      "roi": "-26,0%"
     },
     "fav": {
-      "stake": 400,
-      "pnl": 200,
-      "roi": "+50,0%"
+      "stake": 500,
+      "pnl": 295.0,
+      "roi": "+59,0%"
     },
     "favmkt": {
-      "stake": 400,
-      "pnl": 200,
-      "roi": "+50,0%"
+      "stake": 500,
+      "pnl": 295.0,
+      "roi": "+59,0%"
     }
   },
   "lines": {
