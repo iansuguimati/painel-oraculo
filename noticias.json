@@ -1,6 +1,16 @@
 [
   {
     "tipo": "ultima_hora",
+    "hora": "18:29",
+    "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e movimento de odds na estreia do Grupo C. BRASIL de Ancelotti em 4-3-3, XI ainda NAO confirmado oficialmente (sai no pre-jogo). NOVIDADE QUE PESA: Neymar esta FORA - lesao grau 2 na panturrilha direita (17/05); treinou so na academia a semana toda, sem trabalho de campo, e a esperanca da CBF e te-lo de volta apenas contra o Haiti (19/06). Provavel Brasil: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Matheus Cunha, Vinicius Jr. MARROCOS: Nayef Aguerd (pubalgia), seu melhor zagueiro, deve ficar de FORA do XI; Mazraoui (ombro) em duvida na lateral. CONTEXTO: Marrocos chega INVICTO ha 29 jogos e venceu 7 dos ultimos 10; o Brasil vem de 3 vitorias seguidas. ODDS - MERCADO: Brasil favorito a -167/-145, Empate +290, Marrocos +400 (implicito aprox. 60 por cento Brasil, 24 Empate, 17 Marrocos). LEITURA: o Brasil tem mais elenco e cria mais, mas pega um Marrocos solido e sem medo (mesma espinha do 4o lugar em 2022); sem Neymar, o peso criativo recai sobre Paqueta, Raphinha e Vini. Palpite do bolao ainda PENDENTE (a analise diaria do dia nao foi publicada). Disciplinado aguarda a linha de fechamento."
+  },
+  {
+    "tipo": "resultado",
+    "hora": "18:02",
+    "texto": "FIM: Suica 1x1 Catar (estadio da Baia de Sao Francisco). Breel Embolo abriu o placar para a Suica de penalti; Boualem Khoukhi empatou de cabeca nos minutos finais e deu ao Catar um ponto na estreia. OBS: nao havia palpite registrado para este jogo (a analise diaria do dia nao saiu), entao sem pontuacao Prodefy nem simulacao de 100 reais."
+  },
+  {
+    "tipo": "ultima_hora",
     "hora": "18:18",
     "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e mercado para a estreia do Brasil no Grupo C. BRASIL (provavel): meio-campo com Casemiro e Bruno Guimaraes na base, Lucas Paqueta mais avancado, e o trio ofensivo Vinicius Jr, Raphinha e Matheus Cunha (linha defensiva ainda nao 100 por cento fechada pelas fontes). MARROCOS (provavel 4-2-3-1): Bono; Hakimi, Diop, Riad, Mazraoui; Bouaddi, El Aynaoui; Brahim Diaz, Ounahi, Sbai (ou Talbi); Saibari. MERCADO: Brasil amplo favorito - vitoria do Brasil perto de 1,65, empate perto de 3,75, vitoria do Marrocos perto de 5,00 (Betfair), implicito aproximado de 61 por cento Brasil, 27 empate, 20 Marrocos (antes da margem). LEITURA: Marrocos, semifinalista em 2022, e o adversario mais forte do grupo, joga em bloco e ataca nas transicoes via Hakimi; o Brasil tem mais talento individual, mas estreia de Copa pede cautela. Acompanhe o PRE-JOGO com as escalacoes confirmadas. Fonte: WebSearch (NSC Total, Terra, Betfair via Goal/Lance), 13/06."
   },
@@ -184,15 +194,5 @@
     "tipo": "fim",
     "hora": "00:05",
     "texto": "FIM DE JOGO - Paraguai 1x4 EUA (SoFi Stadium, Los Angeles). Os EUA atropelaram na estreia: Bobadilla marcou contra aos 7 (1x0), Balogun fez os dois dele aos 31 e aos 45+5 (3x0 no intervalo), Mauricio descontou para o Paraguai aos 73 (3x1) e Gio Reyna fechou aos 90+8 (4x1). Cinco gols: OVER 2,5 - o laboratorio do Under nao bateu. BOLAO: palpite era EUA 1x0 - acertamos o VENCEDOR (EUA), mas o placar saiu bem diferente; pontuamos so a faixa de vencedor (3 pts pela regra Prodefy, a confirmar), bolao sobe de 7 para 10. SIMULACOES DE 100 REAIS: DISCIPLINADO ficou de fora (sem tip, Edge abaixo de 4pp); FAVORITO DO MODELO (EUA) GANHOU e rendeu 95 reais (odd 1,95); FAVORITO DO MERCADO (EUA -105) tambem ganhou 95 reais; JOGO LOUCO apostou no Empate e PERDEU 100 reais. Sem tip disciplinado neste jogo, entao sem CLV. Brier do jogo: modelo 0,397 x mercado 0,387 - os dois cravaram o favorito certo. Acumulado das simulacoes: FAV e FAVMKT lideram com +200 (ROI +50%), JOGO LOUCO -30, DISCIPLINADO neutro. Proximo: Suica x Catar as 16h de Brasilia (13/06)."
-  },
-  {
-    "tipo": "odds",
-    "hora": "00:00",
-    "texto": "ODDS DE FECHAMENTO (pre-jogo, consenso) - Paraguai x EUA: Paraguai +320 | Empate +245 | EUA -105 | Under 2,5 -165. Linha aproximada pre-jogo - o motor nao capturou no apito porque nao rodou durante a partida; base do CLV. Sem tip disciplinado neste jogo, entao sem CLV a apurar."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "23:35",
-    "texto": "AO VIVO 2T - EUA 3x0 PARAGUAI (SoFi Stadium). EUA atropelam na estreia. GOLS: 7' Bobadilla (gol contra, do Sao Paulo, desviou cruzamento de McKennie apos jogada de Pulisic); 31' Balogun (toque de Pulisic apos triangulacao com Antonee Robinson); 45'+ Balogun de novo, finalizando no angulo antes do intervalo. Pulisic com 2 assistencias e show no primeiro tempo; Paraguai do bloco baixo de Alfaro nao resistiu e perdeu a organizacao apos o gol contra cedo. LEITURA: nosso FAVORITO (EUA, modelo e mercado) confirma com folga - o palpite EUA 1x0 acerta o vencedor, errou so no placar (foi goleada). Disciplinado seguiu SEM tip (edge nao chegava a +4pp), nao expoe nada. Jogo encaminhado, aguardando apito final."
   }
 ]
