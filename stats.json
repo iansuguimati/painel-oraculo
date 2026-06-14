@@ -126,6 +126,9 @@
     "hora": "01:07"
   },
   "alerta": {
-    "ativo": false
+    "ativo": true,
+    "hora": "01:31",
+    "jogo": "Australia x Turquia",
+    "texto": "Azarao Australia marca aos 27' (Irankunda). Anterior: Turquia favorita (mercado 1,69 ~59 por cento, vies Under 2,5) -> Novo: Australia 1-0, jogo ameaca virar contra o favorito."
   }
 }
