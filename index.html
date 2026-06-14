@@ -43,7 +43,7 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 .picks{display:grid;grid-template-columns:repeat(auto-fit,minmax(118px,1fr));gap:9px;margin-bottom:6px} @media(max-width:560px){.picks{grid-template-columns:1fr}}
 .pick{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;text-align:center}
 .pick .pl{font-size:10px;text-transform:uppercase;letter-spacing:.4px;color:var(--mut)} .pick .pv{font-size:22px;font-weight:700;margin-top:4px} .pick.main{border-color:var(--gold)} .pick.main .pv{color:var(--gold)}
-.acard{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:14px;margin-bottom:12px}.acard h4{font-size:14px;color:var(--gold);margin-bottom:4px}.acard .meta{font-size:11px;color:var(--mut);margin-bottom:8px;line-height:1.5}.acard .body{font-size:13px;line-height:1.6;color:var(--txt)}.chartcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:14px}.charttitle{font-size:13px;font-weight:700;color:var(--gold);margin-bottom:8px}</style><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script></head><body><div class="wrap">
+.acard{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:12px;padding:14px;margin-bottom:12px}.acard h4{font-size:14px;color:var(--gold);margin-bottom:4px}.acard .meta{font-size:11px;color:var(--mut);margin-bottom:8px;line-height:1.5}.acard .body{font-size:13px;line-height:1.6;color:var(--txt)}.chartcard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:14px}.charttitle{font-size:13px;font-weight:700;color:var(--gold);margin-bottom:8px}.gameGroup{margin-top:16px;padding-top:8px;border-top:2px solid var(--gold)}.gameGroup:first-child{margin-top:0;padding-top:0;border-top:none}.gameGroupH{font-weight:700;font-size:13px;color:var(--gold);margin-bottom:2px;display:flex;justify-content:space-between;align-items:center;gap:8px}.gg-n{font-size:10px;color:var(--mut);font-weight:400}.trk{width:100%;border-collapse:collapse;font-size:12px}.trk th,.trk td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:center;white-space:nowrap}.trk th{color:var(--mut);font-weight:600;text-transform:uppercase;font-size:10px}.trk td:nth-child(2){text-align:left;white-space:normal}.trk tbody tr:hover{background:#0e2038}</style><script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script></head><body><div class="wrap">
 
 <header><div class="live"><span class="dot"></span>AO VIVO</div>
 <h1><span class="o">&#9670;</span> ORACULO ESTATISTICO</h1>
@@ -106,6 +106,10 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
   <div class="def"><b>O que e:</b> aposta 100 reais no resultado de menor odd (favorito do mercado) em cada jogo. Comparado ao Favorito do Modelo, mostra se a nossa leitura agrega valor sobre simplesmente seguir as casas. Em jogo de moeda os dois divergem.</div>
 </div>
 
+<h2>Track record por jogo</h2>
+<div class="h2note">Cada partida, jogo a jogo: se acertamos vencedor e placar exato, o Brier do nosso modelo (k) vs mercado (m) e o lucro de cada estrategia em 100 reais.</div>
+<div class="chartcard"><div id="trkTable"><div class="h2note">Carregando...</div></div></div>
+
 <h2>Graficos de desempenho</h2>
 <div class="h2note">Os numeros crescem a cada jogo - com a Copa avancando a amostra fica robusta.</div>
 <div class="chartcard"><div class="charttitle">Lucro acumulado das 3 simulacoes (100 reais por jogo)</div><canvas id="cLucro" height="170"></canvas></div>
@@ -147,24 +151,41 @@ function loadStats(){getJSON("stats.json").then(function(s){
   if(s.alerta&&s.alerta.ativo){var ab=$("alertaBox");if(ab){ab.style.display="block";ab.innerHTML='<div class="alertaBanner"><span class="alertaTag">Alerta</span>'+s.alerta.texto+(s.alerta.hora?' <span style="opacity:.7">('+s.alerta.hora+')</span>':'')+'</div>';}}else{var ab0=$("alertaBox");if(ab0)ab0.style.display="none";}
   if(s.odds_fech&&s.odds_fech.jogo){var of=s.odds_fech,ofb=$("oddsFechBox");if(ofb){ofb.style.display="block";ofb.innerHTML='<div class="oddsfech"><span class="oddsfech-t">Odds de fechamento (no apito):</span> <b>'+of.jogo+'</b> &nbsp; 1 <b>'+(of.o1||"-")+'</b> | X <b>'+(of.ox||"-")+'</b> | 2 <b>'+(of.o2||"-")+'</b>'+(of.under?' | U2,5 <b>'+of.under+'</b>':'')+' <span class="oddsfech-n">(base do CLV)</span></div>';}}else{var ofb0=$("oddsFechBox");if(ofb0)ofb0.style.display="none";}
 }).catch(function(){});}
-function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Ao vivo"],previsao:["t-previsao","Previsao"],alerta:["t-alerta","ALERTA"],odds:["t-odds","Odds"]};return m[t]||["t-lance","Ao vivo"];}
+function bd(t){var m={analise:["t-analise","Analise"],lance:["t-lance","Lance"],gol:["t-lance","GOL"],ao_vivo:["t-lance","Ao vivo"],fim:["t-previsao","Fim"],clima:["t-previsao","Clima"],esquenta:["t-analise","Esquenta"],forma:["t-analise","Forma"],historico:["t-analise","Historico"],previsao:["t-previsao","Previsao"],alerta:["t-alerta","ALERTA"],odds:["t-odds","Odds"]};return m[t]||["t-lance","Ao vivo"];}
+function _norm(s){return (s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");}
+function _keys(j){return j.split(" x ").map(function(t){return _norm(t).split(/[-\s]/)[0];});}
+function _gameOf(txt){var t=_norm(txt),G=window.GAMES||[];for(var i=0;i<G.length;i++){var k=_keys(G[i].jogo);if(k.length>1&&t.indexOf(k[0])>=0&&t.indexOf(k[1])>=0)return G[i].jogo;}return null;}
 var lastTop="";
 function loadNews(){getJSON("noticias.json").then(function(d){
-  function row(n,cls){var b=bd(n.tipo);return '<div class="ni'+(cls?" "+cls:"")+'"><span class="h">'+n.hora+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}
+  function row(n,cls){var b=bd(n.tipo),h=n.hora||"";return '<div class="ni'+(cls?" "+cls:"")+'"><span class="h">'+h+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}
   var changed=d.length&&d[0].texto!==lastTop;if(d.length)lastTop=d[0].texto;
-  var vis=d.slice(0,10),old=d.slice(10);
-  var html=vis.map(function(n,k){return row(n,(k===0&&changed)?"new":"");}).join("");
-  if(old.length){html+='<div id="oldNews" style="display:none">'+old.map(function(n){return row(n,"");}).join("")+'</div><div style="text-align:center;margin-top:10px"><button id="oldBtn" class="oldbtn" onclick="toggleOld()">Ver anteriores ('+old.length+')</button></div>';}
+  var html="";
+  if(window.GAMES&&window.GAMES.length){
+    var groups=[],idx={};
+    d.forEach(function(n){var g=_gameOf(n.texto)||"Outras atualizacoes";if(!(g in idx)){idx[g]=groups.length;groups.push({jogo:g,items:[]});}groups[idx[g]].items.push(n);});
+    html=groups.map(function(gr,gi){
+      var inner=gr.items.map(function(n,k){return row(n,(gi===0&&k===0&&changed)?"new":"");}).join("");
+      return '<div class="gameGroup"><div class="gameGroupH">'+gr.jogo+'<span class="gg-n">'+gr.items.length+' atualizacoes</span></div>'+inner+'</div>';
+    }).join("");
+  }else{
+    var vis=d.slice(0,10),old=d.slice(10);
+    html=vis.map(function(n,k){return row(n,(k===0&&changed)?"new":"");}).join("");
+    if(old.length){html+='<div id="oldNews" style="display:none">'+old.map(function(n){return row(n,"");}).join("")+'</div><div style="text-align:center;margin-top:10px"><button id="oldBtn" class="oldbtn" onclick="toggleOld()">Ver anteriores ('+old.length+')</button></div>';}
+  }
   var el=$("newsList");if(el&&html)el.innerHTML=html;var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
 }).catch(function(){});}
 window.toggleOld=function(){var o=$("oldNews"),b=$("oldBtn");if(!o||!b)return;if(o.style.display==="none"){o.style.display="block";b.textContent="Ver menos";}else{o.style.display="none";b.textContent="Ver anteriores ("+o.children.length+")";}};
-function loadAgenda(){getJSON("agenda.json").then(function(d){
+function loadAgenda(){getJSON("agenda.json").then(function(d){window.GAMES=d;
   var h=d.map(function(g){var tg=(g.palpite&&g.palpite!=="-")?'<span class="tag t-previsao">'+g.palpite+'</span>':'<span class="tag t-lance">agendado</span>';
   return '<div class="ni"><span class="h">'+g.data+' '+g.hora+'</span>'+tg+'<span>'+g.jogo+(g.grupo&&g.grupo!=="-"?' (Grupo '+g.grupo+')':'')+'</span></div>';}).join("");
   try{var now=new Date(),yr=now.getFullYear(),prox=null;for(var z=0;z<d.length;z++){var pp=d[z].data.split("/"),hm=(d[z].hora||"00:00").split(":"),dt=new Date(yr,parseInt(pp[1],10)-1,parseInt(pp[0],10),parseInt(hm[0],10),parseInt(hm[1],10));if(dt.getTime()>now.getTime()){prox=d[z];break;}}if(prox){var nj=$("nextJogo"),nh=$("nextHora");if(nj)nj.textContent=prox.jogo;if(nh)nh.textContent=prox.hora+" (Brasilia)";}}catch(e){}
   var el=$("agendaList");if(el&&h)el.innerHTML=h;
 }).catch(function(){});}
 function loadCharts(){if(!window.Chart)return;getJSON("historico.json").then(function(H){
+  (function(){var pnl=function(v){if(v==null)return '<td>-</td>';var c=v>0?"pos":(v<0?"neg":"");return '<td class="'+c+'">'+(v>0?"+":"")+v+'</td>';};
+  var rows=H.slice().reverse().map(function(g){return '<tr><td>'+g.data+'</td><td>'+g.jogo+'</td><td>'+(g.venc?'<span class="pos">OK</span>':'<span class="neg">X</span>')+'</td><td>'+(g.placar?'<span class="pos">OK</span>':'<span class="neg">X</span>')+'</td><td>'+g.bolao_pts+'</td><td>'+((g.brier_k!=null?g.brier_k.toFixed(2):'-')+' / '+(g.brier_m!=null?g.brier_m.toFixed(2):'-'))+'</td>'+pnl(g.fav)+pnl(g.disc)+pnl(g.louco)+pnl(g.favmkt)+'</tr>';}).join("");
+  var t='<table class="trk"><thead><tr><th>Data</th><th>Jogo</th><th>Venc</th><th>Placar</th><th>Pts</th><th>Brier k/m</th><th>Fav</th><th>Disc</th><th>Louco</th><th>Mkt</th></tr></thead><tbody>'+rows+'</tbody></table>';
+  var te=$("trkTable");if(te)te.innerHTML=t;})();
   var labels=H.map(function(g){return g.jogo;});
   function cum(k){var t=0;return H.map(function(g){t+=g[k];return t;});}
   var gc="rgba(255,255,255,.07)",tc="#9fb3c8";
