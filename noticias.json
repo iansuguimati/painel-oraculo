@@ -1,6 +1,18 @@
 [
   {
     "tipo": "ao_vivo",
+    "texto": "BOLA ROLANDO - comeca Haiti x Escocia (Gillette Stadium, Foxborough, Grupo C). Escalacoes confirmadas. Haiti: Placide; Arcus, Ade, Experience, Duverne; Providence, Jean-Jacques, Casimir; Nazon e Isidor. Escocia: Gunn; Hickey, Hanley, Hendry, Robertson; Gannon-Doak, McTominay, Ferguson, Christie; Che Adams e Shankland. Minutos iniciais sem gols. Palpite do bolao: Escocia 2x0."
+  },
+  {
+    "tipo": "odds",
+    "texto": "ODDS NO APITO - Escocia x Haiti: Escocia -210 | Empate +355 | Haiti +460 | Under 2,5 -115 (linha de fechamento no apito, base do CLV). Escocia favorita ampla (cerca de 67 por cento implicito); mercado precifica jogo de poucos gols."
+  },
+  {
+    "tipo": "fim",
+    "texto": "FIM - Marrocos 1x1 Brasil (MetLife Stadium, Nova Jersey), estreia do Grupo C. Saibari abriu para o Marrocos e Vinicius Jr empatou ainda no 1o tempo. Palpite do bolao Brasil 2x1 ERROU o vencedor (empate): 0 ponto. Total de 2 gols, Under 2,5 bateu - contra a leitura de jogo aberto do mercado (Over 2,5 saiu a 1,95). Sem linha do modelo do dia publicada para este jogo, entao fica fora do Brier e das sim100 (registro factual)."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "22:09",
     "texto": "AO VIVO - Escocia 0x0 Haiti (inicio de jogo, Gillette Stadium). Escalacoes confirmadas. Escocia (Steve Clarke): Gunn; Hickey, Hanley, Hendry, Robertson; Doak, Lewis Ferguson, McTominay, McGinn; Shankland e Che Adams - forca maxima, com McTominay e Robertson em campo. Haiti: Placide; Arcus, Delcroix, Ade, Experience; Deedson, Jacques, Bellegarde, Providence; Pierrot e Isidor. Leitura mantida: Escocia controla a posse e busca abrir pela esquerda de Robertson; Haiti aposta no bloco e na transicao com Pierrot. Sem gols ou cartoes ate aqui. Palpite do bolao: Escocia 2x0."
   },
@@ -180,18 +192,5 @@
     "tipo": "odds",
     "hora": "15:58",
     "texto": "ODDS NO APITO - Catar x Suica: Suica 1,21 (-475) | Empate 6,50 (+550) | Catar 14,0 (+1300) | Under 2,5 +115 (2,15) (linha de fechamento, base do CLV). Suica favoritissima, implicito de cerca de 83 por cento na vitoria. Fonte: oddschecker/ESPN, 13/06."
-  },
-  {
-    "tipo": "ao_vivo",
-    "texto": "AO VIVO - Suica x Catar (2o tempo, por volta dos 78 min): Suica 1x0. PRIMEIRO PENALTI DA COPA 2026 - Remo Freuler foi derrubado na area por Mahmoud Abunada (amarelo) e Breel Embolo, contra o pais onde nasceu, bateu firme de pe direito: 1x0. O VAR conferiu um possivel impedimento de Freuler no lance e validou o gol. Sommer seguro, a Suica administra a vantagem no Levi's Stadium, Santa Clara. Favorita confirmando o favoritismo."
-  },
-  {
-    "tipo": "esquenta",
-    "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): estreia do Grupo C e do Brasil na Copa. Provavel Brasil de Ancelotti: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr e Matheus Cunha. Brasil perdeu Wesley por corte (entrou Ederson). Marrocos, semifinalista em 2022 e apontado pelo proprio Ancelotti como principal adversario do grupo, vem sem o zagueiro Aguerd e sem o atacante Abde Ezzalzouli (Saadane e Amine Sbai nos lugares). Estreia tende a ser estudada e de poucos gols ate o Brasil encaixar."
-  },
-  {
-    "tipo": "forma",
-    "hora": "17:28",
-    "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium): o contraste esta na defesa. O BRASIL chega com ataque pegando fogo - 13 gols nos ultimos 5 jogos (media 2,6 por jogo) - mas com alerta atras: foi vazado em TODOS os 5 ultimos, 7 gols sofridos no periodo. O MARROCOS faz o oposto: venceu 3 dos ultimos 5, marcou 6 e sofreu so 1 - defesa solida e o time mais bem ranqueado da historia do pais (7o da FIFA, melhor posicao de sempre, contra um Brasil no top-5). O retrospecto direto (3 jogos, 2 vitorias do Brasil) ja teve a virada africana no ultimo encontro (2x1 em Tanger, 2023). Cruzando os dados: ataque quente do Brasil + defesa recente furada dos dois lados apontam jogo ABERTO, com chance real de passar de 1 gol e ambos marcarem - a mesma tendencia de placares altos que vem se repetindo nesta Copa. Leitura mantida do palpite Brasil 2x1. Escalacoes confirmadas no PRE-JOGO. Fontes: Goal.com, SBT Sports, CBF, O Povo (12-13/06)."
   }
 ]

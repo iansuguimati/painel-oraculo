@@ -37,7 +37,7 @@
     "jogo": "Escocia x Haiti",
     "hora": "22:00 (Brasilia)"
   },
-  "analise": "Marrocos 1x1 Brasil ENCERRADO (MetLife): golaco de Vinicius Jr, mas o Brasil foi mal e o Marrocos empatou; palpite do bolao Brasil 2x1 errou (0 pt). Sem linha do modelo do dia para este jogo, logo fora das sim100 e do Brier - factual. AGORA AO VIVO: Escocia x Haiti (22:00, Gillette Stadium). Escocia favorita ampla (1,50; ~65 por cento). Odds de fechamento capturadas para o CLV. Palpite do bolao: Escocia 2x0. Placar 0x0.",
+  "analise": "Marrocos 1x1 Brasil ENCERRADO: Saibari marcou e Vinicius Jr empatou no 1o tempo; palpite Brasil 2x1 errou o vencedor (0 pt), Under 2,5 bateu. Sem linha do modelo do dia, fica fora do Brier/sim100. AO VIVO agora: Haiti x Escocia (22:00, Gillette Stadium, Foxborough) - Escocia favorita (-210), mercado ve poucos gols (Under 2,5 -115). Palpite do bolao Escocia 2x0.",
   "analises": [
     {
       "jogo": "Bosnia-Herzegovina x Canada",
@@ -68,10 +68,10 @@
   ],
   "odds_fech": {
     "jogo": "Escocia x Haiti",
-    "o1": "1,50",
-    "ox": "4,00",
-    "o2": "6,00",
-    "under": "2,00",
+    "o1": "-210",
+    "ox": "+355",
+    "o2": "+460",
+    "under": "-115",
     "hora": "22:00"
   },
   "alerta": {
