@@ -1,6 +1,16 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:20",
+    "texto": "BOLA ROLANDO - comeca Escocia x Haiti pelo Grupo C (Gillette Stadium). AO VIVO aos 20 min do 1o tempo: ESCOCIA 0x0 HAITI. A Escocia mantem a bola (61 por cento de posse, 4 finalizacoes) como mandava o favoritismo, mas NENHUMA no alvo ainda; o Haiti se defende em bloco e ja respondeu com 3 finalizacoes (0 no alvo). Jogo truncado, sem grandes chances claras. Contexto do grupo: mais cedo Brasil 1x1 Marrocos (Saibari abriu, Vini Jr empatou) - quem vencer aqui assume a lideranca provisoria do Grupo C. Sem analise diaria gravada para este jogo no painel; cobertura ao vivo apenas. Fonte do placar: ESPN/Sofascore."
+  },
+  {
+    "tipo": "odds",
+    "hora": "22:00",
+    "texto": "ODDS NO APITO - Escocia x Haiti (Gillette Stadium, Foxborough): Escocia -200 (1,50) | Empate +370 (4,70) | Haiti +500 (6,00) | total 2,5 gols (preco do Under nao confirmado pelas fontes no apito). Linha de fechamento, base do CLV. Escocia ampla favorita na estreia mundial pos-1998; Haiti volta a Copa depois de 52 anos."
+  },
+  {
+    "tipo": "ao_vivo",
     "texto": "BOLA ROLANDO - comeca Haiti x Escocia (Gillette Stadium, Foxborough, Grupo C). Escalacoes confirmadas. Haiti: Placide; Arcus, Ade, Experience, Duverne; Providence, Jean-Jacques, Casimir; Nazon e Isidor. Escocia: Gunn; Hickey, Hanley, Hendry, Robertson; Gannon-Doak, McTominay, Ferguson, Christie; Che Adams e Shankland. Minutos iniciais sem gols. Palpite do bolao: Escocia 2x0."
   },
   {
