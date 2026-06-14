@@ -161,20 +161,20 @@ function loadNews(){getJSON("noticias.json").then(function(d){
   var changed=d.length&&d[0].texto!==lastTop;if(d.length)lastTop=d[0].texto;
   var html="";
   try{
+  var vis=d.slice(0,5),old=d.slice(5);
   if(window.GAMES&&window.GAMES.length){
     var groups=[],idx={};
-    d.forEach(function(n){var g=_gameOf(n.texto)||"Outras atualizacoes";if(!(g in idx)){idx[g]=groups.length;groups.push({jogo:g,items:[]});}groups[idx[g]].items.push(n);});
+    vis.forEach(function(n){var g=_gameOf(n.texto)||"Outras atualizacoes";if(!(g in idx)){idx[g]=groups.length;groups.push({jogo:g,items:[]});}groups[idx[g]].items.push(n);});
     html=groups.map(function(gr,gi){
       var inner=gr.items.map(function(n,k){return row(n,(gi===0&&k===0&&changed)?"new":"");}).join("");
       return '<div class="gameGroup"><div class="gameGroupH">'+gr.jogo+'<span class="gg-n">'+gr.items.length+' atualizacoes</span></div>'+inner+'</div>';
     }).join("");
   }else{
-    var vis=d.slice(0,10),old=d.slice(10);
     html=vis.map(function(n,k){return row(n,(k===0&&changed)?"new":"");}).join("");
-    if(old.length){html+='<div id="oldNews" style="display:none">'+old.map(function(n){return row(n,"");}).join("")+'</div><div style="text-align:center;margin-top:10px"><button id="oldBtn" class="oldbtn" onclick="toggleOld()">Ver anteriores ('+old.length+')</button></div>';}
   }
+  if(old.length){html+='<div id="oldNews" style="display:none">'+old.map(function(n){return row(n,"");}).join("")+'</div><div style="text-align:center;margin-top:10px"><button id="oldBtn" class="oldbtn" onclick="toggleOld()">Ver anteriores ('+old.length+')</button></div>';}
   }catch(_e){html="";}
-  if(!html&&d&&d.length){html=d.slice(0,12).map(function(n,k){return row(n,(k===0&&changed)?"new":"");}).join("");}
+  if(!html&&d&&d.length){html=d.slice(0,5).map(function(n,k){return row(n,(k===0&&changed)?"new":"");}).join("");}
   var el=$("newsList");if(el&&html)el.innerHTML=html;var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
 }).catch(function(){});}
 window.toggleOld=function(){var o=$("oldNews"),b=$("oldBtn");if(!o||!b)return;if(o.style.display==="none"){o.style.display="block";b.textContent="Ver menos";}else{o.style.display="none";b.textContent="Ver anteriores ("+o.children.length+")";}};
