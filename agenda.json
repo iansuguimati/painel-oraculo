@@ -1,14 +1,98 @@
 [
-{"data": "12/06", "hora": "16:00", "jogo": "Bosnia-Herzegovina x Canada", "grupo": "B", "palpite": "Canada 1x0", "id": "760416"},
-{"data": "12/06", "hora": "22:00", "jogo": "Paraguai x EUA", "grupo": "D", "palpite": "EUA 1x0", "id": "760417"},
-{"data": "13/06", "hora": "16:00", "jogo": "Suica x Catar", "grupo": "-", "palpite": "Suica 2x0", "id": "760420"},
-{"data": "13/06", "hora": "19:00", "jogo": "Marrocos x Brasil", "grupo": "C", "palpite": "Brasil 2x1", "id": "760419"},
-{"data": "13/06", "hora": "22:00", "jogo": "Escocia x Haiti", "grupo": "C", "palpite": "Escocia 2x0", "id": "760418"},
-{"data": "14/06", "hora": "14:00", "jogo": "Alemanha x Curacao", "grupo": "-", "palpite": "-", "id": "-"},
-{"data": "14/06", "hora": "17:00", "jogo": "Holanda x Japao", "grupo": "-", "palpite": "-", "id": "-"},
-{"data": "14/06", "hora": "20:00", "jogo": "Costa do Marfim x Equador", "grupo": "-", "palpite": "-", "id": "-"},
-{"data": "14/06", "hora": "23:00", "jogo": "Suecia x Tunisia", "grupo": "-", "palpite": "-", "id": "-"},
-{"data": "15/06", "hora": "13:00", "jogo": "Espanha x Cabo Verde", "grupo": "-", "palpite": "-", "id": "-"},
-{"data": "15/06", "hora": "19:00", "jogo": "Belgica x Egito", "grupo": "-", "palpite": "-", "id": "-"},
-{"data": "15/06", "hora": "19:00", "jogo": "Arabia Saudita x Uruguai", "grupo": "-", "palpite": "-", "id": "-"}
+  {
+    "data": "12/06",
+    "hora": "16:00",
+    "jogo": "Bosnia-Herzegovina x Canada",
+    "grupo": "B",
+    "palpite": "Canada 1x0",
+    "id": "760416"
+  },
+  {
+    "data": "12/06",
+    "hora": "22:00",
+    "jogo": "Paraguai x EUA",
+    "grupo": "D",
+    "palpite": "EUA 1x0",
+    "id": "760417"
+  },
+  {
+    "data": "13/06",
+    "hora": "16:00",
+    "jogo": "Suica x Catar",
+    "grupo": "-",
+    "palpite": "Suica 2x0",
+    "id": "760420"
+  },
+  {
+    "data": "13/06",
+    "hora": "19:00",
+    "jogo": "Marrocos x Brasil",
+    "grupo": "C",
+    "palpite": "Brasil 2x1",
+    "id": "760419"
+  },
+  {
+    "data": "13/06",
+    "hora": "22:00",
+    "jogo": "Escocia x Haiti",
+    "grupo": "C",
+    "palpite": "Escocia 2x0",
+    "id": "760418"
+  },
+  {
+    "data": "14/06",
+    "hora": "14:00",
+    "jogo": "Alemanha x Curacao",
+    "grupo": "-",
+    "palpite": "Alemanha 3x0",
+    "id": "-"
+  },
+  {
+    "data": "14/06",
+    "hora": "17:00",
+    "jogo": "Holanda x Japao",
+    "grupo": "-",
+    "palpite": "Holanda 2x1",
+    "id": "-"
+  },
+  {
+    "data": "14/06",
+    "hora": "20:00",
+    "jogo": "Costa do Marfim x Equador",
+    "grupo": "-",
+    "palpite": "Equador 1x0",
+    "id": "-"
+  },
+  {
+    "data": "14/06",
+    "hora": "23:00",
+    "jogo": "Suecia x Tunisia",
+    "grupo": "-",
+    "palpite": "Suecia 1x0",
+    "id": "-"
+  },
+  {
+    "data": "15/06",
+    "hora": "13:00",
+    "jogo": "Espanha x Cabo Verde",
+    "grupo": "-",
+    "palpite": "-",
+    "id": "-"
+  },
+  {
+    "data": "15/06",
+    "hora": "19:00",
+    "jogo": "Belgica x Egito",
+    "grupo": "-",
+    "palpite": "-",
+    "id": "-"
+  },
+  {
+    "data": "15/06",
+    "hora": "19:00",
+    "jogo": "Arabia Saudita x Uruguai",
+    "grupo": "-",
+    "palpite": "-",
+    "id": "-"
+  }
 ]

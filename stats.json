@@ -1,72 +1,111 @@
 {
- "updated": "14/06/2026",
- "tips": 0,
- "hit": "80% (4/5)",
- "roi": "-",
- "clv": "-",
- "brier": "0,457 (mercado 0,465)",
- "bolao": 13,
- "sim100": {
-  "disc": {
-   "stake": 500,
-   "pnl": 0,
-   "roi": "-"
+  "updated": "14/06/2026",
+  "tips": 0,
+  "hit": "80% (4/5)",
+  "roi": "-",
+  "clv": "-",
+  "brier": "0,457 (mercado 0,465)",
+  "bolao": 13,
+  "sim100": {
+    "disc": {
+      "stake": 500,
+      "pnl": 0,
+      "roi": "-"
+    },
+    "louco": {
+      "stake": 500,
+      "pnl": -30,
+      "roi": "-6,0%"
+    },
+    "fav": {
+      "stake": 500,
+      "pnl": 251,
+      "roi": "+50,2%"
+    },
+    "favmkt": {
+      "stake": 500,
+      "pnl": 251,
+      "roi": "+50,2%"
+    }
   },
-  "louco": {
-   "stake": 500,
-   "pnl": -30,
-   "roi": "-6,0%"
+  "lines": {
+    "bolao": "Alemanha 3x0",
+    "disc": "-",
+    "louco": "Over 2,5"
   },
-  "fav": {
-   "stake": 500,
-   "pnl": 251,
-   "roi": "+50,2%"
+  "next": {
+    "jogo": "Alemanha x Curacao",
+    "hora": "14:00 (Brasilia)"
   },
-  "favmkt": {
-   "stake": 500,
-   "pnl": 251,
-   "roi": "+50,2%"
+  "analise": {
+    "jogo": "Alemanha x Curacao",
+    "hora": "14:00",
+    "bolao": "-",
+    "disc": "-",
+    "louco": "-",
+    "fav": "-",
+    "fav_odd": "-",
+    "fav_mkt": "-",
+    "fav_mkt_odd": "-",
+    "elenco": "-",
+    "texto": "Rodada de 14/06 sera modelada na atualizacao automatica das 5h (Brasilia). Sem palpite ainda."
+  },
+  "analises": [
+    {
+      "jogo": "Alemanha x Curacao",
+      "hora": "14:00",
+      "bolao": "Alemanha 3x0",
+      "disc": "-",
+      "louco": "Over 2,5",
+      "fav": "Alemanha",
+      "fav_odd": "-2500 (1,04)",
+      "fav_mkt": "Alemanha",
+      "fav_mkt_odd": "-2500 (1,04)",
+      "elenco": "Diferencial MAXIMO da rodada: Alemanha (Wirtz, Musiala, Kimmich, Havertz) contra a estreante Curacao, fraca no ataque e na defesa.",
+      "texto": "MISMATCH PURO - aqui a regra (3.B.8) e o OPOSTO dos jogos travados: subir o placar. Alemanha candidata ao titulo vs uma das selecoes mais fracas do torneio. Lambda do modelo: Alemanha ~2,8 x Curacao ~0,3; clean sheet alemao provavel (~74%). Palpite Alemanha 3x0 (alt 2x0 - a Alemanha tem historico de comecar devagar: perdeu pra Japao em 2022 e Mexico em 2018). Sem tip 1X2 (favoritismo obvio); valor, se houver, no Over/handicap. Lab no Over 2,5."
+    },
+    {
+      "jogo": "Holanda x Japao",
+      "hora": "17:00",
+      "bolao": "Holanda 2x1",
+      "disc": "-",
+      "louco": "Dupla chance Japao (X2)",
+      "fav": "Holanda",
+      "fav_odd": "-150 (1,67)",
+      "fav_mkt": "Holanda",
+      "fav_mkt_odd": "-150 (1,67)",
+      "elenco": "Holanda superior, MAS o Japao tem muitos jogadores na Europa (Mitoma, Kubo, Endo) e bateu Alemanha e Espanha em 2022 - diferencial menor do que o ranking sugere.",
+      "texto": "Menos desigual do que parece. O Japao e bom DE VERDADE. Aqui aplico a LICAO das ultimas rodadas: NAO cravar clean sheet do favorito quando o azarao sabe atacar (erramos isso com Coreia e Canada). Lambda: Holanda ~1,5 x Japao ~1,0. Palpite Holanda 2x1 (a Holanda ganha, mas o Japao provavelmente marca). Possivel VALOR no Japao/dupla-chance - o mercado tende a superestimar a Holanda. Lab na dupla chance do Japao."
+    },
+    {
+      "jogo": "Costa do Marfim x Equador",
+      "hora": "20:00",
+      "bolao": "Equador 1x0",
+      "disc": "-",
+      "louco": "Under 2,5",
+      "fav": "Equador",
+      "fav_odd": "+115 (2,15)",
+      "fav_mkt": "Equador",
+      "fav_mkt_odd": "+115 (2,15)",
+      "elenco": "Equilibrado: as duas melhores DEFESAS das eliminatorias (Caicedo no Equador, Amad Diallo no Marfim). Equador leve favorito pelo Caicedo + pedigree CONMEBOL.",
+      "texto": "O mais travado de todos. Dois azaroes defensivos + estreia = placar baixissimo e EMPATE muito vivo. Lambda: ambos ~0,9; total ~1,8. Palpite Equador 1x0 (vantagem leve), com empate 1x1/0x0 como alternativa real. O UNDER 2,5 e o empate sao os pontos de valor - jogo de moeda travado. Lab no Under 2,5."
+    },
+    {
+      "jogo": "Suecia x Tunisia",
+      "hora": "23:00",
+      "bolao": "Suecia 1x0",
+      "disc": "-",
+      "louco": "Under 2,5",
+      "fav": "Suecia",
+      "fav_odd": "-120 (1,83)",
+      "fav_mkt": "Suecia",
+      "fav_mkt_odd": "-120 (1,83)",
+      "elenco": "Suecia com ataque forte (Isak, Gyokeres) contra a Tunisia defensiva e organizada. Suecia favorita, mas imprevisivel (ranking 38).",
+      "texto": "Estreia travada. A Suecia tem como furar a defesa tunisiana uma vez (Isak/Gyokeres), mas a Tunisia e organizada e dificil. Lambda: Suecia ~1,3 x Tunisia ~0,8. Palpite Suecia 1x0 (alt 2x1). Valor no Under 2,5. Lab no Under."
+    }
+  ],
+  "odds_fech": {},
+  "alerta": {
+    "ativo": false
   }
- },
- "lines": {
-  "bolao": "-",
-  "disc": "-",
-  "louco": "-"
- },
- "next": {
-  "jogo": "Alemanha x Curacao",
-  "hora": "14:00 (Brasilia)"
- },
- "analise": {
-  "jogo": "Alemanha x Curacao",
-  "hora": "14:00",
-  "bolao": "-",
-  "disc": "-",
-  "louco": "-",
-  "fav": "-",
-  "fav_odd": "-",
-  "fav_mkt": "-",
-  "fav_mkt_odd": "-",
-  "elenco": "-",
-  "texto": "Rodada de 14/06 sera modelada na atualizacao automatica das 5h (Brasilia). Sem palpite ainda."
- },
- "analises": [
-  {
-   "jogo": "Alemanha x Curacao",
-   "hora": "14:00",
-   "bolao": "-",
-   "disc": "-",
-   "louco": "-",
-   "fav": "-",
-   "fav_odd": "-",
-   "fav_mkt": "-",
-   "fav_mkt_odd": "-",
-   "elenco": "-",
-   "texto": "Rodada de 14/06 sera modelada na atualizacao automatica das 5h (Brasilia). Sem palpite ainda."
-  }
- ],
- "odds_fech": {},
- "alerta": {
-  "ativo": false
- }
 }
