@@ -71,10 +71,10 @@
   ],
   "odds_fech": {
     "jogo": "Costa do Marfim x Equador",
-    "o1": "3.70",
-    "ox": "2.80",
-    "o2": "2.50",
-    "under": "~1.60",
+    "o1": "+275",
+    "ox": "+190",
+    "o2": "+145",
+    "under": "1,5 (linha do mercado; preco Under 2,5 nao publicado)",
     "hora": "20:00"
   }
 }
