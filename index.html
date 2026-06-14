@@ -132,7 +132,7 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 </div>
 <script>
 function $(i){return document.getElementById(i);}
-function getJSON(f){var t=Date.now();return fetch("https://raw.githubusercontent.com/iansuguimati/painel-oraculo/main/"+f+"?t="+t,{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json();}).catch(function(){return fetch(f+"?t="+t,{cache:"no-store"}).then(function(r){return r.json();});});}
+function getJSON(f){var t=Date.now();return fetch(f+"?t="+t,{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json();}).catch(function(){return fetch("https://raw.githubusercontent.com/iansuguimati/painel-oraculo/main/"+f+"?t="+t,{cache:"no-store"}).then(function(r){return r.json();});});}
 try{
 function tk(){var e=$("clk");if(e)e.textContent=new Date().toLocaleTimeString("pt-BR");} tk();setInterval(tk,1000);
 function money(v){return (v>0?"+":"")+"R$ "+v;}
@@ -160,6 +160,7 @@ function loadNews(){getJSON("noticias.json").then(function(d){
   function row(n,cls){var b=bd(n.tipo),h=n.hora||"";return '<div class="ni'+(cls?" "+cls:"")+'"><span class="h">'+h+'</span><span class="tag '+b[0]+'">'+b[1]+'</span><span>'+n.texto+'</span></div>';}
   var changed=d.length&&d[0].texto!==lastTop;if(d.length)lastTop=d[0].texto;
   var html="";
+  try{
   if(window.GAMES&&window.GAMES.length){
     var groups=[],idx={};
     d.forEach(function(n){var g=_gameOf(n.texto)||"Outras atualizacoes";if(!(g in idx)){idx[g]=groups.length;groups.push({jogo:g,items:[]});}groups[idx[g]].items.push(n);});
@@ -172,10 +173,12 @@ function loadNews(){getJSON("noticias.json").then(function(d){
     html=vis.map(function(n,k){return row(n,(k===0&&changed)?"new":"");}).join("");
     if(old.length){html+='<div id="oldNews" style="display:none">'+old.map(function(n){return row(n,"");}).join("")+'</div><div style="text-align:center;margin-top:10px"><button id="oldBtn" class="oldbtn" onclick="toggleOld()">Ver anteriores ('+old.length+')</button></div>';}
   }
+  }catch(_e){html="";}
+  if(!html&&d&&d.length){html=d.slice(0,12).map(function(n,k){return row(n,(k===0&&changed)?"new":"");}).join("");}
   var el=$("newsList");if(el&&html)el.innerHTML=html;var u=$("newsUpd");if(u)u.textContent="atualizado "+new Date().toLocaleTimeString("pt-BR");
 }).catch(function(){});}
 window.toggleOld=function(){var o=$("oldNews"),b=$("oldBtn");if(!o||!b)return;if(o.style.display==="none"){o.style.display="block";b.textContent="Ver menos";}else{o.style.display="none";b.textContent="Ver anteriores ("+o.children.length+")";}};
-function loadAgenda(){getJSON("agenda.json").then(function(d){window.GAMES=d;
+function loadAgenda(){getJSON("agenda.json").then(function(d){window.GAMES=d;try{loadNews();}catch(_e){}
   var h=d.map(function(g){var tg=(g.palpite&&g.palpite!=="-")?'<span class="tag t-previsao">'+g.palpite+'</span>':'<span class="tag t-lance">agendado</span>';
   return '<div class="ni"><span class="h">'+g.data+' '+g.hora+'</span>'+tg+'<span>'+g.jogo+(g.grupo&&g.grupo!=="-"?' (Grupo '+g.grupo+')':'')+'</span></div>';}).join("");
   try{var now=new Date(),yr=now.getFullYear(),prox=null;for(var z=0;z<d.length;z++){var pp=d[z].data.split("/"),hm=(d[z].hora||"00:00").split(":"),dt=new Date(yr,parseInt(pp[1],10)-1,parseInt(pp[0],10),parseInt(hm[0],10),parseInt(hm[1],10));if(dt.getTime()>now.getTime()){prox=d[z];break;}}if(prox){var nj=$("nextJogo"),nh=$("nextHora");if(nj)nj.textContent=prox.jogo;if(nh)nh.textContent=prox.hora+" (Brasilia)";}}catch(e){}
@@ -204,6 +207,6 @@ function loadCharts(){if(!window.Chart)return;getJSON("historico.json").then(fun
     {label:"Modelo",data:bm,borderColor:"#C8A24B",backgroundColor:"#C8A24B",tension:.2},
     {label:"Mercado",data:bk,borderColor:"#7fb0e6",backgroundColor:"#7fb0e6",tension:.2}]},options:base});
 }).catch(function(){});}
-loadStats();loadNews();loadAgenda();loadCharts();setInterval(loadStats,30000);setInterval(loadNews,30000);setInterval(loadAgenda,300000);
+loadStats();loadNews();loadAgenda();loadCharts();setInterval(loadStats,20000);setInterval(loadNews,20000);setInterval(loadAgenda,120000);
 }catch(e){}
 </script></body></html>
