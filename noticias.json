@@ -1,6 +1,11 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:48",
+    "texto": "AO VIVO - Escocia x Haiti (Boston Stadium, Foxborough; intervalo / inicio do 2o tempo): Escocia 1x0 Haiti. John McGinn abriu aos 28 do 1o tempo - chute da entrada da area com desvio que enganou o goleiro Johny Placide. Amarelo para Bellegarde (Haiti) ainda na etapa inicial. A Escocia volta a uma Copa depois de 28 anos (1998) e o Haiti depois de 52 anos; os dois fecham a 1a rodada do Grupo C, onde mais cedo Brasil empatou 1x1 com Marrocos (Saibari aos 21, Vinicius Jr aos 32). Se a Escocia segurar o 1x0, assume a ponta do grupo com 3 pontos. Sem palpite do bolao para este jogo. Lances do 2o tempo entram assim que confirmados pelas fontes (Sofascore, FotMob, ESPN, Fox Sports, Sky Sports)."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "22:46",
     "texto": "AO VIVO - Escocia x Haiti (fim do 1o tempo, em torno dos 40 min, Gillette Stadium em Boston): Escocia 1x0. Gol de John McGinn - chute da entrada da area que desviou na defesa e enganou o goleiro Johny Placide. O Haiti respondeu na hora e quase empatou: Ricardo Ade subiu em cobranca de falta e cabeceou para fora, perto da trave direita. Amarelo para Bellegarde (Haiti). Jogo do Grupo C, o mesmo do Brasil, que mais cedo empatou 1x1 com o Marrocos (Saibari abriu, Vini Jr empatou). Sem palpite do bolao registrado para este jogo no painel. Estreia das duas selecoes: Haiti volta a uma Copa apos 52 anos e a Escocia apos 28."
   },
@@ -184,10 +189,5 @@
     "tipo": "ultima_hora",
     "hora": "18:18",
     "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e mercado para a estreia do Brasil no Grupo C. BRASIL (provavel): meio-campo com Casemiro e Bruno Guimaraes na base, Lucas Paqueta mais avancado, e o trio ofensivo Vinicius Jr, Raphinha e Matheus Cunha (linha defensiva ainda nao 100 por cento fechada pelas fontes). MARROCOS (provavel 4-2-3-1): Bono; Hakimi, Diop, Riad, Mazraoui; Bouaddi, El Aynaoui; Brahim Diaz, Ounahi, Sbai (ou Talbi); Saibari. MERCADO: Brasil amplo favorito - vitoria do Brasil perto de 1,65, empate perto de 3,75, vitoria do Marrocos perto de 5,00 (Betfair), implicito aproximado de 61 por cento Brasil, 27 empate, 20 Marrocos (antes da margem). LEITURA: Marrocos, semifinalista em 2022, e o adversario mais forte do grupo, joga em bloco e ataca nas transicoes via Hakimi; o Brasil tem mais talento individual, mas estreia de Copa pede cautela. Acompanhe o PRE-JOGO com as escalacoes confirmadas. Fonte: WebSearch (NSC Total, Terra, Betfair via Goal/Lance), 13/06."
-  },
-  {
-    "tipo": "fim",
-    "hora": "17:56",
-    "texto": "FIM DE JOGO - Catar 1x1 Suica (Grupo B). A Suica dominou a posse e abriu cedo: Breel Embolo converteu penalti aos 17 (falta do goleiro Abunada sobre Remo Freuler, o primeiro penalti desta Copa), mas o Catar arrancou um empate historico nos acrescimos com Boualem Khoukhi de cabeca aos 90+5. Favorita no mercado e dona do jogo, a Suica saiu sem a vitoria; o Catar somou um ponto valioso. Total de 2 gols: UNDER 2,5 bateu. OBS: jogo fora da grade de tips do dia (sem palpite do bolao), entao sem simulacao de 100 reais. Fonte: WebSearch (Lance, Flashscore, Goal), 13/06."
   }
 ]
