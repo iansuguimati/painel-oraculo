@@ -1,6 +1,11 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:28",
+    "texto": "AO VIVO - Escocia 0x0 Haiti (cerca de 30 min, Gillette Stadium, Boston). Escocia comanda: Scott McTominay acertou a TRAVE direita e a dupla Shankland/Adams ainda nao furou o bloqueio 4-4-2 de Migne. O Haiti, de volta a Copa apos 52 anos, aposta no contra-ataque com Nazon e Isidor, mas criou pouco. LEITURA MANTIDA: Escocia favorita (fechou -200 / 1,50 no apito) segue mandando no jogo; o Under 2,5 continua VIVO no 0x0. Nenhum fato ate aqui muda a previsao."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "22:20",
     "texto": "BOLA ROLANDO - comeca Escocia x Haiti pelo Grupo C (Gillette Stadium). AO VIVO aos 20 min do 1o tempo: ESCOCIA 0x0 HAITI. A Escocia mantem a bola (61 por cento de posse, 4 finalizacoes) como mandava o favoritismo, mas NENHUMA no alvo ainda; o Haiti se defende em bloco e ja respondeu com 3 finalizacoes (0 no alvo). Jogo truncado, sem grandes chances claras. Contexto do grupo: mais cedo Brasil 1x1 Marrocos (Saibari abriu, Vini Jr empatou) - quem vencer aqui assume a lideranca provisoria do Grupo C. Sem analise diaria gravada para este jogo no painel; cobertura ao vivo apenas. Fonte do placar: ESPN/Sofascore."
   },
@@ -187,20 +192,5 @@
     "tipo": "esquenta",
     "hora": "17:38",
     "texto": "ESQUENTA - Marrocos x Brasil (19:00, MetLife Stadium, Nova Jersey): estreia da Selecao no Grupo C. Brasil amplo favorito - odds de vitoria entre 1,40 e 1,70 (consenso cerca de 1,65), empate 3,70-4,30, Marrocos 5,30-7,00. PROVAVEIS - Brasil (4-3-3): Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Matheus Cunha, Vinicius Jr. NEYMAR FORA (lesao na panturrilha esquerda, segue em tratamento). Marrocos: Bounou; Hakimi, Chadi Riad, Saadane, Mazraoui; El Aynaoui, Ounahi, El Khannouss, Brahim Diaz; Saibari, Sbai. DESFALQUES do Marrocos: Nayef Aguerd e Abde Ezzalzouli cortados por lesao. Marrocos foi semifinalista em 2022, time fisico e organizado - nao e adversario facil. Palpite e tips saem no PRE-JOGO, apos escalacoes confirmadas. Fontes: CNN Brasil, Olympics, Jornal da Paraiba."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "17:35",
-    "texto": "AO VIVO 2o tempo - Catar 0x1 Suica (Levi's Stadium): GOL de Breel Embolo aos 17' de penalti, marcado apos checagem do VAR por falta de Abunada em Freuler. Amarelos: Jassem Jaber (23', Catar) e Denis Zakaria (42', Suica). Favorita no controle e perto de confirmar o resultado esperado; Under 2,5 segue vivo. Sem alerta - leitura mantida. Fontes: VAVEL, Yahoo Sports, FOX Sports."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "16:00",
-    "texto": "BOLA ROLANDO - comeca Catar x Suica no Levi's Stadium, Santa Clara, pelo Grupo B. Estreia das duas selecoes. Suica forca total: Kobel; Widmer, Elvedi, Akanji, R.Rodriguez; Aebischer, Xhaka, Ndoye, Vargas, Rieder; Embolo. Catar no bloco baixo com Barsham; Afif e Almoez Ali na frente."
-  },
-  {
-    "tipo": "odds",
-    "hora": "15:58",
-    "texto": "ODDS NO APITO - Catar x Suica: Suica 1,21 (-475) | Empate 6,50 (+550) | Catar 14,0 (+1300) | Under 2,5 +115 (2,15) (linha de fechamento, base do CLV). Suica favoritissima, implicito de cerca de 83 por cento na vitoria. Fonte: oddschecker/ESPN, 13/06."
   }
 ]
