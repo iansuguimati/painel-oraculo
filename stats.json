@@ -1,50 +1,49 @@
 {
   "updated": "14/06/2026",
   "tips": 1,
-  "hit": "75% (3/4)",
+  "hit": "71% (5/7)",
   "roi": "-",
   "clv": "-",
-  "brier": "0,525 (mercado 0,505)",
-  "bolao": 11,
+  "brier": "0.453 (mercado 0.452)",
+  "bolao": 17,
   "sim100": {
-    "disc": {"stake": 0, "pnl": 0, "roi": "-"},
-    "louco": {"stake": 400, "pnl": -30, "roi": "-7,5%"},
-    "fav": {"stake": 400, "pnl": 200, "roi": "+50%"},
-    "favmkt": {"stake": 400, "pnl": 200, "roi": "+50%"}
+    "disc": {
+      "stake": 0,
+      "pnl": 0,
+      "roi": "-"
+    },
+    "louco": {
+      "stake": 700,
+      "pnl": 60,
+      "roi": "+8.6%"
+    },
+    "fav": {
+      "stake": 700,
+      "pnl": 155,
+      "roi": "+22.1%"
+    },
+    "favmkt": {
+      "stake": 700,
+      "pnl": 155,
+      "roi": "+22.1%"
+    }
   },
-  "lines": {"bolao": "Alemanha 3x0", "disc": "-", "louco": "Under 4,5 (1.80)"},
-  "next": {"jogo": "Alemanha x Curacao", "hora": "14:00 (Brasilia)"},
-  "alerta": {"ativo": false},
+  "lines": {
+    "bolao": "Alemanha 3x0",
+    "disc": "-",
+    "louco": "Under 4,5 (1.80)"
+  },
+  "next": {
+    "jogo": "Suecia x Tunisia",
+    "hora": "23:00 (Brasilia)"
+  },
+  "alerta": {
+    "ativo": false
+  },
   "analise": "RODADA 1 - DIA 4 (14/06). Quatro estreias hoje: Alemanha x Curacao (14h), Holanda x Japao (17h), Costa do Marfim x Equador (20h), Suecia x Tunisia (23h). RESOLVIDOS desde a ultima execucao: Canada 1x1 Bosnia (palpite Canada 1x0 = 1 ponto), EUA 4x1 Paraguai (palpite EUA 1x0 = 3 pontos, goleada acima do esperado). Os jogos de 13/06 (Suica 1x1 Catar, Brasil 1x1 Marrocos, Escocia 1x0 Haiti) nao tiveram palpite do bolao porque a execucao de 13/06 nao rodou. PLACAR: 1X2 em 75% (3/4), 11 pontos Prodefy, Brier do modelo 0,525 vs 0,505 do mercado (n=4). Simulacao 100 reais: Favorito (modelo e mercado) +200 cada (ROI +50%), Jogo Louco -30, Disciplinado neutro. PRODUTO: hoje 1 tip do Disciplinado - Costa do Marfim x Equador UNDER 1,75 a 2.15 (duas das melhores defesas da Copa; Edge +6pp, EV +7%). Nas outras tres estreias o valor nao passou no corte. Analise estatistica, nao recomendacao financeira; jogo responsavel.",
   "analises": [
     {
-      "jogo": "Alemanha x Curacao (14:00, HOJE - Grupo E)",
-      "hora": "14:00",
-      "bolao": "Alemanha 3x0 (EP alto)",
-      "disc": "-",
-      "louco": "Under 4,5 (1.80)",
-      "fav": "Alemanha",
-      "fav_odd": "1.02",
-      "fav_mkt": "Alemanha",
-      "fav_mkt_odd": "1.02",
-      "elenco": "Alemanha gigante (Musiala, Wirtz, Havertz, Kimmich, Rudiger) vs Curacao estreante (rank FIFA 82)",
-      "texto": "Maior mismatch do dia, no NRG Stadium (Houston). DE-VIG (Alemanha 1.02 / empate ~20.0 / Curacao ~100): Alemanha 94 por cento, empate 5, Curacao 1. INDEPENDENTE: lambda Alemanha 3,4 x Curacao 0,30 (ajuste leve de estreia), total ~3,7. Matriz Poisson aponta modais 2x0 (~17 por cento) e 3x0 (~16 por cento); a Curacao manter o zero e o desfecho dominante. BOLAO: Alemanha 3x0 - em mismatch o lambda do favorito sobe e a moda passa de 1x0; alvo Prodefy e vencedor + azarao no zero (4 pts), com chance real do exato. EDGE 1X2 zero (Alemanha ja a 1.02). TOTAIS: modelo ve Under 4,5 ~69 por cento vs ~55 implicito (Edge +14pp, EV +24 por cento), MAS goleada tem teto incerto (pode 5x0/6x0), entao o Disciplinado NAO publica. LAB (Jogo Louco): Under 4,5 a 1.80."
-    },
-    {
-      "jogo": "Holanda x Japao (17:00, HOJE - estreia)",
-      "hora": "17:00",
-      "bolao": "Holanda 2x1 (EP)",
-      "disc": "-",
-      "louco": "Holanda ML (2.00)",
-      "fav": "Holanda",
-      "fav_odd": "2.00",
-      "fav_mkt": "Holanda",
-      "fav_mkt_odd": "2.00",
-      "elenco": "Holanda (Van Dijk, Frenkie de Jong, Gakpo, Depay, Xavi Simons) acima do Japao - que perde Mitoma e Endo por lesao",
-      "texto": "AT&T Stadium, Dallas. DESFALQUES DO JAPAO: Mitoma e Wataru Endo fora por lesao - dois dos melhores, cortam criacao e equilibrio. DE-VIG (bet365 Holanda 2.00 / empate 3.75 / Japao 3.40): Holanda 47 por cento, empate 25, Japao 28. INDEPENDENTE: lambda Holanda 1,5 x Japao 0,95 (reduzido pelos desfalques), total ~2,45. Poisson 1X2 ~ Holanda 50 / empate 25 / Japao 25; P(Under 2,5) ~56 por cento. BOLAO: Holanda 2x1 - vitoria decisiva holandesa e Japao ainda com ~61 por cento de marcar; placar tipico de favorito que vence concedendo na estreia. PRODUTO: sem tip - Edge da Holanda ~+3pp, abaixo do corte e dentro do ruido (modo sombra nao publica favorito por margem pequena). LAB: Holanda ML a 2.00."
-    },
-    {
-      "jogo": "Costa do Marfim x Equador (20:00, HOJE - estreia)",
+      "jogo": "Costa do Marfim x Equador",
       "hora": "20:00",
       "bolao": "Equador 1x0 (EP)",
       "disc": "Under 1,75 @ 2.15 (Edge +6pp, EV +7%)",
@@ -57,7 +56,7 @@
       "texto": "Choque de duas das melhores defesas da Copa, no Lincoln Financial Field (Filadelfia). FORMA: Marfim com 4 vitorias seguidas (7 em 9) e um 2x1 sobre a Franca na vespera; Equador invicto ha 19 jogos. DE-VIG (Equador 2.45 / empate 2.80 / Marfim 3.50): Equador 39 por cento, empate 34, Marfim 27. INDEPENDENTE: lambda Equador 1,05 x Marfim 0,90, total ~1,95 - jogo travado. Poisson: P(Under 2,5) ~69 por cento, P(Under 1,5) ~42; 1X2 ~ Equador 37 / empate 35 / Marfim 28 (colado no mercado, sem edge no vencedor). BOLAO: Equador 1x0 - leve favorito, poucos gols; empate vivo (34 por cento) mas nao supera o favorito, entao trava-se o vencedor. PRODUTO (Disciplinado): UNDER 1,75 a 2.15 - modelo da ~43 por cento de sair 0 ou 1 gol mais o parcial no 2 a 2, EV +6,8 por cento e Edge ~+6pp; duas defesas de elite e dois ataques contidos. Odd pega 2.15 para CLV. LAB: Costa do Marfim a 3.50 - forma e vitoria sobre a Franca sugerem mercado subavaliando os Elefantes."
     },
     {
-      "jogo": "Suecia x Tunisia (23:00, HOJE - Grupo F)",
+      "jogo": "Suecia x Tunisia",
       "hora": "23:00",
       "bolao": "Suecia 1x0 (EP)",
       "disc": "-",

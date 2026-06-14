@@ -63,5 +63,31 @@
     "disc": 0,
     "louco": 0,
     "favmkt": 51
+  },
+  {
+    "data": "14/06",
+    "jogo": "ALE x CUW",
+    "bolao_pts": 3,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.01,
+    "brier_k": 0.012,
+    "fav": 4,
+    "disc": 0,
+    "louco": 40,
+    "favmkt": 4
+  },
+  {
+    "data": "14/06",
+    "jogo": "NED x JPN",
+    "bolao_pts": 1,
+    "venc": 0,
+    "placar": 0,
+    "brier_m": 0.836,
+    "brier_k": 0.868,
+    "fav": -100,
+    "disc": 0,
+    "louco": 50,
+    "favmkt": -100
   }
 ]
