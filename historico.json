@@ -89,5 +89,31 @@
     "disc": 0,
     "louco": 50,
     "favmkt": -100
+  },
+  {
+    "data": "14/06",
+    "jogo": "ALE x CUR",
+    "bolao_pts": 3,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.006,
+    "brier_k": 0.006,
+    "fav": 2,
+    "disc": 0,
+    "louco": -100,
+    "favmkt": 2
+  },
+  {
+    "data": "14/06",
+    "jogo": "HOL x JAP",
+    "bolao_pts": 1,
+    "venc": 0,
+    "placar": 0,
+    "brier_m": 0.875,
+    "brier_k": 0.862,
+    "fav": -100,
+    "disc": 0,
+    "louco": -100,
+    "favmkt": -100
   }
 ]

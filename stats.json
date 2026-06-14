@@ -1,11 +1,11 @@
 {
   "updated": "14/06/2026",
   "tips": 1,
-  "hit": "71% (5/7)",
+  "hit": "67% (4/6)",
   "roi": "-",
   "clv": "-",
-  "brier": "0.453 (mercado 0.452)",
-  "bolao": 17,
+  "brier": "0,497 (mercado 0,481)",
+  "bolao": 15,
   "sim100": {
     "disc": {
       "stake": 0,
@@ -13,34 +13,34 @@
       "roi": "-"
     },
     "louco": {
-      "stake": 700,
-      "pnl": 60,
-      "roi": "+8.6%"
+      "stake": 600,
+      "pnl": -230,
+      "roi": "-38,3%"
     },
     "fav": {
-      "stake": 700,
-      "pnl": 155,
-      "roi": "+22.1%"
+      "stake": 600,
+      "pnl": 102,
+      "roi": "+17%"
     },
     "favmkt": {
-      "stake": 700,
-      "pnl": 155,
-      "roi": "+22.1%"
+      "stake": 600,
+      "pnl": 102,
+      "roi": "+17%"
     }
   },
   "lines": {
-    "bolao": "Alemanha 3x0",
-    "disc": "-",
-    "louco": "Under 4,5 (1.80)"
+    "bolao": "Equador 1x0",
+    "disc": "Under 1,75 @ 2.15",
+    "louco": "Marfim ML (3.50)"
   },
   "next": {
-    "jogo": "Suecia x Tunisia",
-    "hora": "23:00 (Brasilia)"
+    "jogo": "Costa do Marfim x Equador",
+    "hora": "AO VIVO (20:00, Brasilia)"
   },
   "alerta": {
     "ativo": false
   },
-  "analise": "RODADA 1 - DIA 4 (14/06). Quatro estreias hoje: Alemanha x Curacao (14h), Holanda x Japao (17h), Costa do Marfim x Equador (20h), Suecia x Tunisia (23h). RESOLVIDOS desde a ultima execucao: Canada 1x1 Bosnia (palpite Canada 1x0 = 1 ponto), EUA 4x1 Paraguai (palpite EUA 1x0 = 3 pontos, goleada acima do esperado). Os jogos de 13/06 (Suica 1x1 Catar, Brasil 1x1 Marrocos, Escocia 1x0 Haiti) nao tiveram palpite do bolao porque a execucao de 13/06 nao rodou. PLACAR: 1X2 em 75% (3/4), 11 pontos Prodefy, Brier do modelo 0,525 vs 0,505 do mercado (n=4). Simulacao 100 reais: Favorito (modelo e mercado) +200 cada (ROI +50%), Jogo Louco -30, Disciplinado neutro. PRODUTO: hoje 1 tip do Disciplinado - Costa do Marfim x Equador UNDER 1,75 a 2.15 (duas das melhores defesas da Copa; Edge +6pp, EV +7%). Nas outras tres estreias o valor nao passou no corte. Analise estatistica, nao recomendacao financeira; jogo responsavel.",
+  "analise": "RODADA 1 - DIA 4 (14/06) - FECHAMENTOS. Alemanha 7x1 Curacao: palpite Alemanha 3x0 = 3 pts (vencedor certo; a goleada passou muito do nosso placar e a Curacao furou o zero com gol historico de Comenencia); Jogo Louco Under 4,5 perdeu (8 gols). Holanda 2x2 Japao: palpite Holanda 2x1 = 1 pt (acertou os 2 gols holandeses, mas terminou empatado); Japao surpreendeu mesmo sem Mitoma e Endo. AO VIVO: Costa do Marfim x Equador (apito 20:00, Filadelfia) - palpite Equador 1x0, tip Disciplinado UNDER 1,75 pega a 2.15; odds de fechamento Equador 2.50 / empate 2.80 / Marfim 3.70. PLACAR: 1X2 67% (4/6), 15 pts Prodefy, Brier do modelo 0,497 vs 0,481 do mercado (n=6). Simulacao 100 reais: Favorito do modelo e do mercado +102 cada (ROI +17%), Jogo Louco -230 (-38,3%), Disciplinado neutro (1 tip vivo). Falta Suecia x Tunisia 23h. Analise estatistica, nao recomendacao financeira; jogo responsavel.",
   "analises": [
     {
       "jogo": "Costa do Marfim x Equador",
@@ -68,5 +68,13 @@
       "elenco": "Suecia (Isak, Gyokeres, Kulusevski, Svanberg) acima da Tunisia (Msakni, Laidouni) - o ataque sueco e o diferencial",
       "texto": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento)."
     }
-  ]
+  ],
+  "odds_fech": {
+    "jogo": "Costa do Marfim x Equador",
+    "o1": "3.70",
+    "ox": "2.80",
+    "o2": "2.50",
+    "under": "~1.60",
+    "hora": "20:00"
+  }
 }
