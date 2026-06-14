@@ -1,80 +1,80 @@
 {
-  "updated": "13/06/2026",
-  "tips": 0,
-  "hit": "75% (3/4)",
-  "roi": "-",
-  "clv": "-",
-  "brier": "0,525 (mercado 0,515)",
-  "bolao": 10,
-  "sim100": {
-    "disc": {
-      "stake": 400,
-      "pnl": 0,
-      "roi": "-"
-    },
-    "louco": {
-      "stake": 400,
-      "pnl": -30,
-      "roi": "-7,5%"
-    },
-    "fav": {
-      "stake": 400,
-      "pnl": 200,
-      "roi": "+50,0%"
-    },
-    "favmkt": {
-      "stake": 400,
-      "pnl": 200,
-      "roi": "+50,0%"
-    }
-  },
-  "lines": {
-    "bolao": "Escocia 2x0",
-    "disc": "-",
-    "louco": "-"
-  },
-  "next": {
-    "jogo": "Escocia x Haiti",
-    "hora": "22:00 (Brasilia)"
-  },
-  "analise": "Marrocos 1x1 Brasil ENCERRADO: Saibari marcou e Vinicius Jr empatou no 1o tempo; palpite Brasil 2x1 errou o vencedor (0 pt), Under 2,5 bateu. Sem linha do modelo do dia, fica fora do Brier/sim100. AO VIVO agora: Haiti x Escocia (22:00, Gillette Stadium, Foxborough) - Escocia favorita (-210), mercado ve poucos gols (Under 2,5 -115). Palpite do bolao Escocia 2x0.",
-  "analises": [
-    {
-      "jogo": "Bosnia-Herzegovina x Canada",
-      "bolao": "Canada 1x0 (EP 2,52)",
-      "disc": "sem tip (Edge < +4pp)",
-      "louco": "Empate (+270)",
-      "texto": "Mando real do Canada (BMO Field, Toronto) - a API lista a Bosnia como mandante, mas quem joga em casa e o Canada. FORMA: o Canada perdeu so 1 jogo desde set/2025 (bateu Pais de Gales, Venezuela e Uzbequistao), porem vive seca de gol - Jonathan David fez 1 gol de bola rolando em 10 jogos e Cyle Larin esta zerado em 14; o ultimo amistoso foi 1x1 com a Irlanda, com gol contra. Defesa solida, ataque travado. A Bosnia tem ranking FIFA 64 mas esta SUBAVALIADA: marcou 19 gols em 10 jogos nas eliminatorias, eliminou a Italia no playoff e empatou 1x1 com Italia, Pais de Gales e Austria - nao perde facil. Dzeko (40 anos, capitao, 73 gols pela selecao) fez 6 nas eliminatorias e segue decisivo. CONTEXTO COPA: sem altitude, junho ameno em Toronto; o unico atrito e a viagem e o fuso da Bosnia vindo da Europa. LEITURA: jogo de margem estreita, decidido pela organizacao e nao por goleada - dai o 1x0. Lambda do modelo: Canada 1,47 x Bosnia 0,82. PRODUTO: sem tip - modelo ancorado bate o mercado ponto a ponto (53,0/25,8/21,2; Under ja a -150), nenhuma divergencia chega a +4pp. LAB: o modelo sombra ve leve valor no empate (+270, ~+3pp).",
-      "fav_mkt": "Canada",
-      "fav_mkt_odd": "-125 (1,80)",
-      "hora": "16:00",
-      "fav": "Canada",
-      "fav_odd": "-125 (1,80)",
-      "elenco": "Vantagem Canada: mais jogadores em ligas top-5 (J. David/Juventus, A. Davies/Bayern, Buchanan/Inter, Eustaquio/Porto) contra uma Bosnia mais experiente (Dzeko, 40). Indice ofensivo e defensivo pendem para o Canada."
-    },
-    {
-      "jogo": "Paraguai x EUA",
-      "bolao": "EUA 1x0 (EP 2,39)",
-      "disc": "sem tip (Under ja caro)",
-      "louco": "Empate (+245)",
-      "texto": "Mando real dos EUA (SoFi Stadium, Inglewood) - a API lista o Paraguai como mandante. FORMA: os EUA estao invictos em boa sequencia, criam chances e as vezes pecam na pontaria; o H2H e amplo a favor (5V-2E-2D em 9 jogos, venceram o ultimo 2x1 em amistoso no fim de 2025). O Paraguai e uma MURALHA sob Gustavo Alfaro: fez so 14 gols e sofreu 10 em 18 jogos nas eliminatorias da Conmebol (0,78 gol marcado por jogo, o menor ataque da competicao), comecou mal e cresceu no fim (6 vitorias nos ultimos 11). CONTEXTO COPA: SoFi com teto translucido, Los Angeles ameno e fuso curto para o Paraguai. LEITURA: jogo de bloco baixo - os EUA tem a bola, o Paraguai segura; o gol do anfitriao tende a sair de bola parada ou lance individual. Dai o 1x0 (EP 2,39), que captura a faixa de 4 pontos do Prodefy. Lambda do modelo: EUA 1,35 x Paraguai 0,85. PRODUTO: sem tip - modelo em linha com o mercado (48,6/27,5/24,0) e o Under ja esta caro a -165. LAB: maior valor aparente no X2/empate do Paraguai (+245), so como experimento.",
-      "fav_mkt": "EUA",
-      "fav_mkt_odd": "-105 (1,95)",
-      "hora": "22:00",
-      "fav": "EUA",
-      "fav_odd": "-105 (1,95)",
-      "elenco": "Vantagem clara dos EUA: Pulisic/Milan, McKennie/Juventus, Balogun/Monaco, Tyler Adams e Robinson na Premier, contra um Paraguai com poucos de liga top-5 e SEM Enciso. Diferencial de elenco forte para os EUA."
-    }
-  ],
-  "odds_fech": {
-    "jogo": "Escocia x Haiti",
-    "o1": "-200",
-    "ox": "+370",
-    "o2": "+500",
-    "under": "linha 2,5 (preco nao confirmado)",
-    "hora": "22:00"
-  },
-  "alerta": {
-    "ativo": false
-  }
+"updated": "13/06/2026",
+"tips": 0,
+"hit": "75% (3/4)",
+"roi": "-",
+"clv": "-",
+"brier": "0,525 (mercado 0,515)",
+"bolao": 10,
+"sim100": {
+"disc": {
+"stake": 400,
+"pnl": 0,
+"roi": "-"
+},
+"louco": {
+"stake": 400,
+"pnl": -30,
+"roi": "-7,5%"
+},
+"fav": {
+"stake": 400,
+"pnl": 200,
+"roi": "+50,0%"
+},
+"favmkt": {
+"stake": 400,
+"pnl": 200,
+"roi": "+50,0%"
+}
+},
+"lines": {
+"bolao": "Escocia 2x0",
+"disc": "-",
+"louco": "-"
+},
+"next": {
+"jogo": "Escocia x Haiti",
+"hora": "22:00 (Brasilia)"
+},
+"analise": "Marrocos 1x1 Brasil ENCERRADO: Saibari marcou e Vinicius Jr empatou no 1o tempo; palpite Brasil 2x1 errou o vencedor (0 pt), Under 2,5 bateu. Sem linha do modelo do dia, fica fora do Brier/sim100. AO VIVO agora: Haiti x Escocia (22:00, Gillette Stadium, Foxborough) - Escocia favorita (-210), mercado ve poucos gols (Under 2,5 -115). Palpite do bolao Escocia 2x0.",
+"analises": [
+{
+"jogo": "Bosnia-Herzegovina x Canada",
+"bolao": "Canada 1x0 (EP 2,52)",
+"disc": "sem tip (Edge < +4pp)",
+"louco": "Empate (+270)",
+"texto": "Mando real do Canada (BMO Field, Toronto) - a API lista a Bosnia como mandante, mas quem joga em casa e o Canada. FORMA: o Canada perdeu so 1 jogo desde set/2025 (bateu Pais de Gales, Venezuela e Uzbequistao), porem vive seca de gol - Jonathan David fez 1 gol de bola rolando em 10 jogos e Cyle Larin esta zerado em 14; o ultimo amistoso foi 1x1 com a Irlanda, com gol contra. Defesa solida, ataque travado. A Bosnia tem ranking FIFA 64 mas esta SUBAVALIADA: marcou 19 gols em 10 jogos nas eliminatorias, eliminou a Italia no playoff e empatou 1x1 com Italia, Pais de Gales e Austria - nao perde facil. Dzeko (40 anos, capitao, 73 gols pela selecao) fez 6 nas eliminatorias e segue decisivo. CONTEXTO COPA: sem altitude, junho ameno em Toronto; o unico atrito e a viagem e o fuso da Bosnia vindo da Europa. LEITURA: jogo de margem estreita, decidido pela organizacao e nao por goleada - dai o 1x0. Lambda do modelo: Canada 1,47 x Bosnia 0,82. PRODUTO: sem tip - modelo ancorado bate o mercado ponto a ponto (53,0/25,8/21,2; Under ja a -150), nenhuma divergencia chega a +4pp. LAB: o modelo sombra ve leve valor no empate (+270, ~+3pp).",
+"fav_mkt": "Canada",
+"fav_mkt_odd": "-125 (1,80)",
+"hora": "16:00",
+"fav": "Canada",
+"fav_odd": "-125 (1,80)",
+"elenco": "Vantagem Canada: mais jogadores em ligas top-5 (J. David/Juventus, A. Davies/Bayern, Buchanan/Inter, Eustaquio/Porto) contra uma Bosnia mais experiente (Dzeko, 40). Indice ofensivo e defensivo pendem para o Canada."
+},
+{
+"jogo": "Paraguai x EUA",
+"bolao": "EUA 1x0 (EP 2,39)",
+"disc": "sem tip (Under ja caro)",
+"louco": "Empate (+245)",
+"texto": "Mando real dos EUA (SoFi Stadium, Inglewood) - a API lista o Paraguai como mandante. FORMA: os EUA estao invictos em boa sequencia, criam chances e as vezes pecam na pontaria; o H2H e amplo a favor (5V-2E-2D em 9 jogos, venceram o ultimo 2x1 em amistoso no fim de 2025). O Paraguai e uma MURALHA sob Gustavo Alfaro: fez so 14 gols e sofreu 10 em 18 jogos nas eliminatorias da Conmebol (0,78 gol marcado por jogo, o menor ataque da competicao), comecou mal e cresceu no fim (6 vitorias nos ultimos 11). CONTEXTO COPA: SoFi com teto translucido, Los Angeles ameno e fuso curto para o Paraguai. LEITURA: jogo de bloco baixo - os EUA tem a bola, o Paraguai segura; o gol do anfitriao tende a sair de bola parada ou lance individual. Dai o 1x0 (EP 2,39), que captura a faixa de 4 pontos do Prodefy. Lambda do modelo: EUA 1,35 x Paraguai 0,85. PRODUTO: sem tip - modelo em linha com o mercado (48,6/27,5/24,0) e o Under ja esta caro a -165. LAB: maior valor aparente no X2/empate do Paraguai (+245), so como experimento.",
+"fav_mkt": "EUA",
+"fav_mkt_odd": "-105 (1,95)",
+"hora": "22:00",
+"fav": "EUA",
+"fav_odd": "-105 (1,95)",
+"elenco": "Vantagem clara dos EUA: Pulisic/Milan, McKennie/Juventus, Balogun/Monaco, Tyler Adams e Robinson na Premier, contra um Paraguai com poucos de liga top-5 e SEM Enciso. Diferencial de elenco forte para os EUA."
+}
+],
+"odds_fech": {
+"jogo": "Escocia x Haiti",
+"o1": "-195",
+"ox": "+360",
+"o2": "+400",
+"under": "+110",
+"hora": "22:00"
+},
+"alerta": {
+"ativo": false
+}
 }
