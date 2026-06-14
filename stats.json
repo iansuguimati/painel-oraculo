@@ -29,15 +29,15 @@
     }
   },
   "lines": {
-    "bolao": "-",
+    "bolao": "Escocia 2x0",
     "disc": "-",
     "louco": "-"
   },
   "next": {
-    "jogo": "Marrocos x Brasil",
-    "hora": "19:00 (Brasilia)"
+    "jogo": "Escocia x Haiti",
+    "hora": "22:00 (Brasilia)"
   },
-  "analise": "Suica x Catar ENCERRADO: 1x1 (Embolo de penalti aos 16 para a Suica; Boualem empatou para o Catar na reta final). Palpite Suica 2x0 errou: jogo terminou empatado e o Catar marcou, 0 pts no bolao. Este jogo nao teve linha do modelo do dia publicada, entao fica fora do placar de Brier e das sim100. Under 2,5 bateu (2 gols). Foco agora em Marrocos x Brasil (19:00, MetLife Stadium).",
+  "analise": "Marrocos 1x1 Brasil ENCERRADO (MetLife): golaco de Vinicius Jr, mas o Brasil foi mal e o Marrocos empatou; palpite do bolao Brasil 2x1 errou (0 pt). Sem linha do modelo do dia para este jogo, logo fora das sim100 e do Brier - factual. AGORA AO VIVO: Escocia x Haiti (22:00, Gillette Stadium). Escocia favorita ampla (1,50; ~65 por cento). Odds de fechamento capturadas para o CLV. Palpite do bolao: Escocia 2x0. Placar 0x0.",
   "analises": [
     {
       "jogo": "Bosnia-Herzegovina x Canada",
@@ -67,12 +67,12 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Marrocos x Brasil",
-    "o1": "5,00",
-    "ox": "3,75",
-    "o2": "1,63",
-    "under": "1,85",
-    "hora": "19:00"
+    "jogo": "Escocia x Haiti",
+    "o1": "1,50",
+    "ox": "4,00",
+    "o2": "6,00",
+    "under": "2,00",
+    "hora": "22:00"
   },
   "alerta": {
     "ativo": false

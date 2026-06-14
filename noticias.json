@@ -1,6 +1,21 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:02",
+    "texto": "BOLA ROLANDO - comeca Escocia x Haiti (Gillette Stadium, Foxborough-Boston), encerramento da 1a rodada do Grupo C. Escocia volta a uma Copa apos 28 anos e e ampla favorita (cerca de 65 por cento implicito, 7 gols sofridos nas eliminatorias); Haiti faz sua 2a Copa, 52 anos depois de 1974, e cedeu 13 gols na campanha. Palpite do bolao: Escocia 2x0. Placar 0x0, sem lances ainda."
+  },
+  {
+    "tipo": "odds",
+    "hora": "22:00",
+    "texto": "ODDS NO APITO - Escocia x Haiti: Escocia 1,50 | Empate 4,00 | Haiti 6,00 | Under 2,5 2,00 (Over 2,5 a 1,82; linha de fechamento Betfair, base do CLV)."
+  },
+  {
+    "tipo": "resultado",
+    "hora": "21:02",
+    "texto": "FIM - Marrocos 1x1 Brasil (MetLife Stadium, East Rutherford-NJ), estreia do Grupo C. Vinicius Jr fez um golaco para o Brasil, mas a Selecao foi mal na estreia e o Marrocos arrancou o empate; 1 ponto para cada lado no grupo. Palpite do bolao Brasil 2x1 ERROU (jogo empatou): 0 ponto. Esta partida NAO teve linha do modelo do dia publicada (tarefa diaria pendente), entao fica de fora das sim100 e do Brier - registro apenas factual."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "19:59",
     "texto": "AO VIVO - Marrocos 1x1 Brasil (2o tempo, por volta dos 65-70 min, MetLife): segue 1 a 1. Ancelotti mexeu cedo - colocou Fabinho e Danilo no intervalo para proteger os pendurados (Casemiro amarelado aos 37 e Ibanez aos 43) e aos 61 trocou Igor Thiago por Luiz Henrique buscando mais velocidade pela frente. O Marrocos respondeu aos 65 com El Mourabet no lugar de Ounahi. A melhor chance recente foi do Brasil: Bounou fez defesa espetacular em finalizacao de Paqueta que ia no canto inferior. O Marrocos segue fechado e venenoso na transicao. Leitura mantida: jogo equilibrado e truncado, exatamente o cenario que projetamos; sem palpite fechado do bolao para este jogo. Under 2,5 (laboratorio) ainda vivo com 2 gols no total. Proximo do dia: Escocia x Haiti as 22h (Brasilia)."
   },
@@ -178,20 +193,5 @@
     "tipo": "ao_vivo",
     "hora": "17:24",
     "texto": "AO VIVO - Suica x Catar (2o tempo, em torno dos 65 min): Suica 1x0. O motor entrou no jogo ja em andamento (apito 16:00, Levi's Stadium, Santa Clara). GOL: Breel Embolo de penalti aos 17 do 1o tempo - falta do goleiro Abunada sobre Remo Freuler, penalti confirmado pelo VAR apos checagem de impedimento muito apertada a favor da Suica. A Suica de Murat Yakin administra a vantagem na estreia do Grupo B; o Catar de Lopetegui, apoiado em Akram Afif e no artilheiro Almoez Ali, busca o empate. Este jogo esta fora do nosso book do dia - sem palpite do bolao nem tip. Odds de fechamento no apito nao capturadas (engine entrou tarde). Acompanhando os proximos lances."
-  },
-  {
-    "tipo": "esquenta",
-    "hora": "17:24",
-    "texto": "ESQUENTA - Marrocos x Brasil (apito 19:00, MetLife Stadium, East Rutherford-NJ), estreia do Grupo C. PROVAVEIS - BRASIL (Ancelotti, 4-2-3-1): Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes; Raphinha, Paqueta, Vinicius Jr; Matheus Cunha. MARROCOS (Regragui, 4-3-3): Bounou; Hakimi, Aguerd, Chadi Riad (ou Issa Diop), Mazraoui; Amrabat, Ounahi, Brahim Diaz (ou El Khannouss); Ez Abde, El Kaabi, Rahimi. FORMA: Brasil com 4 vitorias nos ultimos 6 e ataque quente (os 4 ultimos jogos passaram de 2,5 gols); Marrocos invicto ha mais de 10 meses e vencedor de 3 dos ultimos 4. MERCADO: Brasil favorito claro - vitoria entre 1,53 e 1,66 (implicito cerca de 62 a 65 por cento), Empate em torno de 3,75, Marrocos por volta de 5,00. CONTEXTO: 4o lugar em 2022, o Marrocos e o azarao mais perigoso da primeira fase e venceu o ultimo encontro direto (amistoso de 2023, 2x1 em Tanger). Sem palpite oficial do bolao registrado para este jogo ainda. Revisao com escalacoes confirmadas no PRE-JOGO."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:16",
-    "texto": "AO VIVO - Suica 1x0 Catar, perto dos 75 min no Levis Stadium (Santa Clara). Placar inalterado desde o penalti de Embolo (17 do 1o tempo). A Suica administra a posse e o ritmo, controla o territorio e tenta o segundo gol que liquidaria; o Catar segue no bloco baixo, sem chegada clara para o empate. Sem novos gols, cartoes ou expulsoes. Under 2,5 segue na frente (linha de fechamento -110). Leitura de amplo favoritismo helvetico mantida."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:02",
-    "texto": "AO VIVO - Suica 1x0 Catar, passando dos 62 min no Levis Stadium (Santa Clara). Placar segue 1x0 desde o penalti de Embolo aos 17 min (falta de Abunada sobre Freuler). O Catar se defende bem e evita o segundo, mas cria pouco no ataque; a Suica administra a vantagem com posse de bola e ritmo controlado. Sem novos gols, cartoes ou expulsoes desde o intervalo. Under 2,5 segue na frente (linha de fechamento -110)."
   }
 ]
