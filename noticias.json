@@ -1,6 +1,11 @@
 [
   {
     "tipo": "ao_vivo",
+    "hora": "22:09",
+    "texto": "AO VIVO - Escocia 0x0 Haiti (inicio de jogo, Gillette Stadium). Escalacoes confirmadas. Escocia (Steve Clarke): Gunn; Hickey, Hanley, Hendry, Robertson; Doak, Lewis Ferguson, McTominay, McGinn; Shankland e Che Adams - forca maxima, com McTominay e Robertson em campo. Haiti: Placide; Arcus, Delcroix, Ade, Experience; Deedson, Jacques, Bellegarde, Providence; Pierrot e Isidor. Leitura mantida: Escocia controla a posse e busca abrir pela esquerda de Robertson; Haiti aposta no bloco e na transicao com Pierrot. Sem gols ou cartoes ate aqui. Palpite do bolao: Escocia 2x0."
+  },
+  {
+    "tipo": "ao_vivo",
     "hora": "22:02",
     "texto": "BOLA ROLANDO - comeca Escocia x Haiti (Gillette Stadium, Foxborough-Boston), encerramento da 1a rodada do Grupo C. Escocia volta a uma Copa apos 28 anos e e ampla favorita (cerca de 65 por cento implicito, 7 gols sofridos nas eliminatorias); Haiti faz sua 2a Copa, 52 anos depois de 1974, e cedeu 13 gols na campanha. Palpite do bolao: Escocia 2x0. Placar 0x0, sem lances ainda."
   },
@@ -188,10 +193,5 @@
     "tipo": "forma",
     "hora": "17:28",
     "texto": "FORMA - Marrocos x Brasil (19:00, MetLife Stadium): o contraste esta na defesa. O BRASIL chega com ataque pegando fogo - 13 gols nos ultimos 5 jogos (media 2,6 por jogo) - mas com alerta atras: foi vazado em TODOS os 5 ultimos, 7 gols sofridos no periodo. O MARROCOS faz o oposto: venceu 3 dos ultimos 5, marcou 6 e sofreu so 1 - defesa solida e o time mais bem ranqueado da historia do pais (7o da FIFA, melhor posicao de sempre, contra um Brasil no top-5). O retrospecto direto (3 jogos, 2 vitorias do Brasil) ja teve a virada africana no ultimo encontro (2x1 em Tanger, 2023). Cruzando os dados: ataque quente do Brasil + defesa recente furada dos dois lados apontam jogo ABERTO, com chance real de passar de 1 gol e ambos marcarem - a mesma tendencia de placares altos que vem se repetindo nesta Copa. Leitura mantida do palpite Brasil 2x1. Escalacoes confirmadas no PRE-JOGO. Fontes: Goal.com, SBT Sports, CBF, O Povo (12-13/06)."
-  },
-  {
-    "tipo": "ao_vivo",
-    "hora": "17:24",
-    "texto": "AO VIVO - Suica x Catar (2o tempo, em torno dos 65 min): Suica 1x0. O motor entrou no jogo ja em andamento (apito 16:00, Levi's Stadium, Santa Clara). GOL: Breel Embolo de penalti aos 17 do 1o tempo - falta do goleiro Abunada sobre Remo Freuler, penalti confirmado pelo VAR apos checagem de impedimento muito apertada a favor da Suica. A Suica de Murat Yakin administra a vantagem na estreia do Grupo B; o Catar de Lopetegui, apoiado em Akram Afif e no artilheiro Almoez Ali, busca o empate. Este jogo esta fora do nosso book do dia - sem palpite do bolao nem tip. Odds de fechamento no apito nao capturadas (engine entrou tarde). Acompanhando os proximos lances."
   }
 ]
