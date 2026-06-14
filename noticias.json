@@ -1,6 +1,11 @@
 [
  {
   "tipo": "ao_vivo",
+  "hora": "23:00",
+  "texto": "AO VIVO - Escocia 1x0 Haiti (Boston Stadium, Foxborough; ~60 min do 2o tempo). A Escocia segue na frente com o gol de John McGinn (28 do 1o tempo, chute de fora desviado em Placide) e administra a posse para fechar o jogo. O Haiti tenta o contra-ataque com Isidor e Pierrot, mas nao criou chance clara na etapa final ate aqui. Placar 1x0 inalterado: sem novo gol, sem cartao vermelho e sem lesao relevante no 2o tempo. Palpite do bolao Escocia 2x0 ainda precisa de mais um gol escoces; linha de fechamento via poucos gols (Under 2,5 +110). Fontes: Outlook India, VAVEL, Fox Sports, Sofascore."
+ },
+ {
+  "tipo": "ao_vivo",
   "texto": "AO VIVO - Escocia 1x0 Haiti (2o tempo em andamento, Boston Stadium, Foxborough). Escocia administra a vantagem do gol de John McGinn (28 min, chute de fora desviado em Placide). Haiti tenta o contra-ataque com Isidor e Pierrot, mas sem chance clara ate aqui. Palpite do bolao Escocia 2x0 segue vivo - falta um gol; linha de fechamento via poucos gols (Under 2,5 +110). Sem vermelho nem lesao relevante. Fontes: Fox Sports, VAVEL, Sofascore."
  },
  {
@@ -183,10 +188,5 @@
   "tipo": "ultima_hora",
   "hora": "18:29",
   "texto": "ULTIMA HORA - Marrocos x Brasil (apito 19:00, MetLife Stadium, Nova Jersey): provaveis escalacoes e movimento de odds na estreia do Grupo C. BRASIL de Ancelotti em 4-3-3, XI ainda NAO confirmado oficialmente (sai no pre-jogo). NOVIDADE QUE PESA: Neymar esta FORA - lesao grau 2 na panturrilha direita (17/05); treinou so na academia a semana toda, sem trabalho de campo, e a esperanca da CBF e te-lo de volta apenas contra o Haiti (19/06). Provavel Brasil: Alisson; Danilo, Marquinhos, Gabriel Magalhaes, Alex Sandro; Casemiro, Bruno Guimaraes, Paqueta; Raphinha, Matheus Cunha, Vinicius Jr. MARROCOS: Nayef Aguerd (pubalgia), seu melhor zagueiro, deve ficar de FORA do XI; Mazraoui (ombro) em duvida na lateral. CONTEXTO: Marrocos chega INVICTO ha 29 jogos e venceu 7 dos ultimos 10; o Brasil vem de 3 vitorias seguidas. ODDS - MERCADO: Brasil favorito a -167/-145, Empate +290, Marrocos +400 (implicito aprox. 60 por cento Brasil, 24 Empate, 17 Marrocos). LEITURA: o Brasil tem mais elenco e cria mais, mas pega um Marrocos solido e sem medo (mesma espinha do 4o lugar em 2022); sem Neymar, o peso criativo recai sobre Paqueta, Raphinha e Vini. Palpite do bolao ainda PENDENTE (a analise diaria do dia nao foi publicada). Disciplinado aguarda a linha de fechamento."
- },
- {
-  "tipo": "resultado",
-  "hora": "18:02",
-  "texto": "FIM: Suica 1x1 Catar (estadio da Baia de Sao Francisco). Breel Embolo abriu o placar para a Suica de penalti; Boualem Khoukhi empatou de cabeca nos minutos finais e deu ao Catar um ponto na estreia. OBS: nao havia palpite registrado para este jogo (a analise diaria do dia nao saiu), entao sem pontuacao Prodefy nem simulacao de 100 reais."
  }
 ]
