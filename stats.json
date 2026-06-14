@@ -65,14 +65,7 @@
    "texto": "Rodada de 14/06 sera modelada na atualizacao automatica das 5h (Brasilia). Sem palpite ainda."
   }
  ],
- "odds_fech": {
-  "jogo": "Haiti x Escocia",
-  "o1": "+400",
-  "ox": "+360",
-  "o2": "-195",
-  "under": "+110",
-  "hora": "22:00"
- },
+ "odds_fech": {},
  "alerta": {
   "ativo": false
  }
