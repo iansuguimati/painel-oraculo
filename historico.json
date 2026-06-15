@@ -154,5 +154,18 @@
     "disc": -100,
     "louco": -100,
     "favmkt": -100
+  },
+  {
+    "data": "15/06",
+    "jogo": "ARA x URU",
+    "bolao_pts": 0,
+    "venc": 0,
+    "placar": 0,
+    "brier_m": 1.187,
+    "brier_k": 1.074,
+    "fav": -100,
+    "disc": 0,
+    "louco": -100,
+    "favmkt": -100
   }
 ]

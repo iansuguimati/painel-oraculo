@@ -1,26 +1,26 @@
 {
   "updated": "15/06/2026",
   "tips": 2,
-  "hit": "50% (6/12)",
+  "hit": "46% (6/13)",
   "roi": "+7,5%",
-  "clv": "+0,5%",
-  "brier": "0.650 (mercado 0.628)",
+  "clv": "+0,3%",
+  "brier": "0.691 (mercado 0.662)",
   "bolao": 20,
   "sim100": {
     "fav": {
-      "stake": 1200,
-      "pnl": -190,
-      "roi": "-15.8%"
+      "stake": 1300,
+      "pnl": -290,
+      "roi": "-22.3%"
     },
     "louco": {
-      "stake": 1200,
-      "pnl": -440,
-      "roi": "-36.7%"
+      "stake": 1300,
+      "pnl": -540,
+      "roi": "-41.5%"
     },
     "favmkt": {
-      "stake": 1200,
-      "pnl": -190,
-      "roi": "-15.8%"
+      "stake": 1300,
+      "pnl": -290,
+      "roi": "-22.3%"
     },
     "disc": {
       "stake": 200,
@@ -29,13 +29,13 @@
     }
   },
   "lines": {
-    "bolao": "Uruguai 2x0",
-    "disc": "-",
-    "louco": "Uruguai"
+    "bolao": "Ira 1x0",
+    "disc": "reavalia no apito",
+    "louco": "Under 2,5"
   },
   "next": {
-    "jogo": "Arabia Saudita x Uruguai",
-    "hora": "19:00 (Brasilia) - PRE-JOGO"
+    "jogo": "Ira x Nova Zelandia",
+    "hora": "22:00 (Brasilia) - aguardando"
   },
   "alerta": {
     "ativo": false
@@ -70,11 +70,11 @@
     }
   ],
   "odds_fech": {
-    "jogo": "",
-    "o1": "-",
-    "ox": "-",
-    "o2": "-",
+    "jogo": "Arabia Saudita x Uruguai",
+    "o1": "1.42",
+    "ox": "4.40",
+    "o2": "8.00",
     "under": "-",
-    "hora": ""
+    "hora": "linha pre-jogo (apito nao capturado; usada como referencia de CLV)"
   }
 }
