@@ -7,25 +7,25 @@
   "brier": "0,511 (mercado 0,499)",
   "bolao": 15,
   "sim100": {
+    "fav": {
+      "stake": 800,
+      "pnl": 55,
+      "roi": "+6,9%"
+    },
+    "louco": {
+      "stake": 800,
+      "pnl": -40,
+      "roi": "-5,0%"
+    },
+    "favmkt": {
+      "stake": 800,
+      "pnl": 55,
+      "roi": "+6,9%"
+    },
     "disc": {
       "stake": 100,
       "pnl": 115,
       "roi": "+115,0%"
-    },
-    "louco": {
-      "stake": 700,
-      "pnl": -330,
-      "roi": "-47,1%"
-    },
-    "fav": {
-      "stake": 700,
-      "pnl": 2,
-      "roi": "+0,3%"
-    },
-    "favmkt": {
-      "stake": 700,
-      "pnl": 2,
-      "roi": "+0,3%"
     }
   },
   "lines": {
@@ -42,19 +42,6 @@
   },
   "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
   "analises": [
-    {
-      "jogo": "Costa do Marfim x Equador",
-      "hora": "20:00",
-      "bolao": "Equador 1x0 (EP)",
-      "disc": "Under 1,75 @ 2.15 (Edge +6pp, EV +7%)",
-      "louco": "Costa do Marfim ML (3.50)",
-      "fav": "Equador",
-      "fav_odd": "2.45",
-      "fav_mkt": "Equador",
-      "fav_mkt_odd": "2.45",
-      "elenco": "Equilibrado - leve Costa do Marfim (nucleo Premier: Kessie, Haller, Amad Diallo, Kossounou) vs Equador (Caicedo, Pacho, Estupinan, Valencia)",
-      "texto": "Choque de duas das melhores defesas da Copa, no Lincoln Financial Field (Filadelfia). FORMA: Marfim com 4 vitorias seguidas (7 em 9) e um 2x1 sobre a Franca na vespera; Equador invicto ha 19 jogos. DE-VIG (Equador 2.45 / empate 2.80 / Marfim 3.50): Equador 39 por cento, empate 34, Marfim 27. INDEPENDENTE: lambda Equador 1,05 x Marfim 0,90, total ~1,95 - jogo travado. Poisson: P(Under 2,5) ~69 por cento, P(Under 1,5) ~42; 1X2 ~ Equador 37 / empate 35 / Marfim 28 (colado no mercado, sem edge no vencedor). BOLAO: Equador 1x0 - leve favorito, poucos gols; empate vivo (34 por cento) mas nao supera o favorito, entao trava-se o vencedor. PRODUTO (Disciplinado): UNDER 1,75 a 2.15 - modelo da ~43 por cento de sair 0 ou 1 gol mais o parcial no 2 a 2, EV +6,8 por cento e Edge ~+6pp; duas defesas de elite e dois ataques contidos. Odd pega 2.15 para CLV. LAB: Costa do Marfim a 3.50 - forma e vitoria sobre a Franca sugerem mercado subavaliando os Elefantes."
-    },
     {
       "jogo": "Suecia x Tunisia",
       "hora": "23:00",
