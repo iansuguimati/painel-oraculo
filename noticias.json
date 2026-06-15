@@ -1,5 +1,10 @@
 [
  {
+  "tipo": "clima",
+  "hora": "15:54",
+  "texto": "CLIMA - Belgica x Egito (apito 16h, Lumen Field-Seattle). Times prestes a entrar para o jogo de estreia do Grupo G. O Lumen Field, casa do Seattle Seahawks, e um dos estadios mais barulhentos dos EUA - palco lotado para a abertura do grupo. De um lado a torcida belga embalada pela geracao De Bruyne-Doku; do outro, a legiao de Salah, que arrasta egipcios e neutros pelo astro do Liverpool. Duelo de cartaz: De Bruyne x Salah. Transmissao no Brasil por Globo, SBT, SporTV e CazeTV. Nada muda na leitura: Belgica 65 por cento / empate 21 / Egito 14; palpite do bolao Belgica 2x0. No apito capturo as odds de fechamento (1X2 e Under 2,5) e so libero o Disciplinado (Over 2,5) se o Edge ficar maior ou igual a +4pp e o EV maior ou igual a +3 por cento. Fontes: Seattle Times, Sounders FC, Goal, CNN Brasil (checado 15:54 BRT)."
+ },
+ {
   "tipo": "prejogo",
   "hora": "15:46",
   "texto": "PRE-JOGO - Belgica x Egito (apito 16h, Lumen Field-Seattle). Escalacoes CONFIRMADAS e batem com a leitura: BELGICA (4-2-3-1) Courtois; Meunier, Ngoy, Mechele, Castagne; Onana, Tielemans; Trossard, De Bruyne (c), Doku; De Ketelaere (Lukaku no banco). EGITO (4-2-3-1) Shobeir; Hany, Fathy, Ibrahim, Fotouh; Lasheen, Attia; Salah, Ashour, Ziko; Marmoush - Salah E Marmoush juntos na frente, exatamente o cenario que sustenta o jogo aberto. Nada muda: SEM alerta. Palpite do bolao mantido Belgica 2x0. Modelo firme: Belgica 65 por cento / empate 21 / Egito 14. PRODUTO: o Over 2,5 segue como candidato do Disciplinado (nosso modelo 56 por cento), mas o mercado ja apertou para ~51-52 por cento e o edge encolheu para ~+4pp, no limiar. DECISAO no apito: capturo as odds de fechamento (1X2 e Under 2,5) e so entro se o Edge ficar maior ou igual a +4pp e o EV maior ou igual a +3 por cento. Fontes: Khel Now, World Soccer Talk, OneFootball, Goal (checado 15:46 BRT)."
@@ -193,10 +198,5 @@
   "tipo": "esquenta",
   "hora": "21:50",
   "texto": "FORMA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). SUECIA irregular: so 2 vitorias nos ultimos 10 jogos, empate 2x2 com a Grecia e derrota de 3x1 para a Noruega nos amistosos; ataque sustentado por Isak e Gyokeres. TUNISIA chega abalada: uma unica vitoria nas ultimas 7 saidas (sobre o Haiti) e levou 5x0 da Belgica no ultimo amistoso, mas passou invicta e sem sofrer gols nas Eliminatorias da CAF. Leitura: poder ofensivo sueco contra defesa tunisiana solida no papel mas em ma fase - cenario de poucos gols mantem o palpite Suecia 1x0."
- },
- {
-  "tipo": "fim",
-  "hora": "21:40",
-  "texto": "FIM DE JOGO - Costa do Marfim 0x0 Equador (Lincoln Financial Field, Filadelfia). Duelo de duas das melhores defesas da Copa terminou sem gols, exatamente como o modelo projetava (P(Under 2,5) cerca de 69 por cento). O Equador foi quem mais ameacou - duas bolas no travessao no 1o tempo (Yeboah e Minda) mais finalizacoes de Valencia e Plata, com Caicedo comandando a pressao; a Costa do Marfim respondeu nos contra-ataques e tambem assustou. Primeiro encontro da historia entre as selecoes em Copas. BOLAO: palpite era Equador 1x0 - deu empate, vencedor e placar errados, 0 ponto (bolao segue 15); o unico acerto foi a leitura de poucos gols e o zero da Costa do Marfim. SIMULACOES DE 100 REAIS neste jogo: DISCIPLINADO CRAVOU - Under 1,75 a 2.15, total de 0 gol, lucro de 115 reais (primeira tip do produto, 1 de 1); JOGO LOUCO perdeu (Costa do Marfim ML 3.50, CLV -6,7 por cento sobre o fechamento 3.75); FAVORITO DO MODELO (Equador 2.45) perdeu 100; FAVORITO DO MERCADO (Equador 2.45) perdeu 100. Brier do jogo: modelo 0,638 x mercado 0,661 - o modelo deu um pouco mais de chance ao empate (35 x 34 por cento) e levou a melhor. Saldo acumulado das simulacoes: DISCIPLINADO +115 (ROI +115 por cento, so entra com Edge maior ou igual a 4pp e EV maior ou igual a 3 por cento), FAVORITO e FAV MERCADO +2 cada, JOGO LOUCO -330. Proximo: Suecia x Tunisia as 23h (Brasilia), Estadio BBVA, Monterrey."
  }
 ]
