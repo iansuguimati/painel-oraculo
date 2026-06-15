@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "esquenta",
+    "hora": "12:52",
+    "texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
+  },
+  {
     "tipo": "analise",
     "hora": "10:20",
     "texto": "MODELO RECALIBRADO com os 12 jogos reais (sempre calculado, zero chute). Descoberta: estavamos calibrando o lambda pela mediana (2 gols) quando o Poisson mira a MEDIA (2,9) - por isso 0 placares exatos em 10 jogos. Corrigido (mu=0,26 beta=1,5, regularizado p/ nao overfittar a cauda). Placares de hoje subiram pro lugar certo: Espanha 4x0, Belgica 2x0, Uruguai 2x0, Ira 1x0. Esse e o caminho pra cravar placar e fechar o gap pro lider."
@@ -193,10 +198,5 @@
     "tipo": "resultado",
     "hora": "05:10",
     "texto": "FIM (13/06): Brasil 1x1 Marrocos (Saibari abriu, Vinicius Jr empatou) | Suica 1x1 Catar | Escocia 1x0 Haiti. Jogos sem palpite do bolao publicado - a execucao automatica de 13/06 nao rodou."
-  },
-  {
-    "tipo": "forma",
-    "texto": "FORMA - Suecia x Tunisia (23:00, Brasilia, Estadio Gigante de Acero, Monterrey): a Tunisia chega com a defesa mais solida das duas - nas eliminatorias africanas foram 9 vitorias e 1 empate, 22 gols pro e ZERO sofridos. A Suecia volta a Copa apos ficar de fora em 2022, passando pela repescagem ao bater Ucrania (3x1) e Polonia (3x2) no agregado: ataque produtivo, mas defesa mais vazada. Modelo estatistico da FGV: Suecia 40,9% / empate 26,5% / Tunisia 32,6%. Roteiro classico de ataque (SUE) contra defesa fechada (TUN); palpite do bolao segue Suecia 1x0, jogo de poucos gols. Fontes: FIFA, FGV, Sofascore (14/06).",
-    "hora": "--:--"
   }
 ]
