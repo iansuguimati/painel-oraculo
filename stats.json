@@ -43,19 +43,6 @@
   "analise": "Hard Rock Stadium, Miami. Uruguai favoritissimo (elenco ~78 vs ~38), mas com a dupla de zaga titular DESFALCADA - Ronald Araujo e Gimenez fora por lesao, alem de Arrascaeta. Provavel Uruguai (4-4-2): Muslera; Varela, Caceres, M.Olivera, Vina; Ugarte, Bentancur, Valverde, M.Araujo; Vinas e Darwin Nunez. Arabia sem o goleiro Al-Aqidi (Al-Owais assume). Odds Uruguai 1.42 / empate 4.40 / Arabia 8.00. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. BOLAO: Uruguai 2x0 - os buracos na zaga sobem o risco de a Arabia marcar, mas o abismo tecnico sustenta a vitoria. Total alto tirou o valor do Under; Disciplinado sem aposta, reavalia 1X2/handicap/gols no apito.",
   "analises": [
     {
-      "jogo": "Belgica x Egito",
-      "hora": "16:00",
-      "elenco": "Belgica ~80 vs Egito ~50",
-      "bolao": "Belgica 2x0",
-      "disc": "Over 2,5 (~56% vs mkt 47%) - candidato",
-      "louco": "Over 2,5",
-      "fav": "Belgica",
-      "fav_odd": "1.50",
-      "fav_mkt": "Belgica",
-      "fav_mkt_odd": "1.50",
-      "texto": "<b>Calibrado.</b> Lambda: Belgica 2,08 x Egito 0,85 (total 2,93). 1X2: Belgica <b>65%</b>/21%/14%. Placar otimo e exato+provavel coincidem: <b>2x0</b> (12%). Valor mantido: Over 2,5 ~56% vs mercado 47% (edge ~+9pp) - candidato do Disciplinado, confirma no apito."
-    },
-    {
       "jogo": "Arabia Saudita x Uruguai",
       "hora": "19:00",
       "elenco": "Uruguai ~78 vs Arabia ~38",
@@ -83,11 +70,11 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Belgica x Egito",
-    "o1": "1.55",
-    "ox": "4.00",
-    "o2": "6.50",
-    "under": "1.90",
-    "hora": "16:00"
+    "jogo": "",
+    "o1": "-",
+    "ox": "-",
+    "o2": "-",
+    "under": "-",
+    "hora": ""
   }
 }
