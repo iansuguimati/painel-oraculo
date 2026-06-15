@@ -1,197 +1,202 @@
 [
-{
-"tipo": "esquenta",
-"texto": "ULTIMA HORA - Belgica x Egito (apito 16h, Lumen Field-Seattle). Escalacoes CONFIRMADAS. BELGICA (4-2-3-1): Courtois; Meunier, Ngoy, Mechele, Castagne; Onana, Tielemans; Trossard, De Bruyne (c), Doku; De Ketelaere. Lukaku comeca no banco - mas o ataque segue de elite (De Bruyne, Doku, Trossard, De Ketelaere), nada que mude a leitura. EGITO: Shobeir; Hany, Ibrahim, Fathy, Fatouh; Lashin, Attia, Ashour, Zico; Salah, Marmoush - Salah e Marmoush juntos na frente, justamente a ameaca que sustenta o cenario de jogo aberto. MOVIMENTO DE ODDS: o Over 2,5 abriu folgado (mercado ~47 por cento) e apertou para ~51-52 por cento (FanDuel -110/-110, ESPN Over 2,5 -105). Nosso modelo segue em 56 por cento. Ou seja, o edge do Disciplinado encolheu de ~+9pp para ~+4pp - ainda no limiar (Edge maior ou igual a +4pp), mas boa parte do valor ja evaporou; decisao final so no apito com as odds de fechamento. Palpite do bolao mantido: Belgica 2x0.",
-"hora": "--:--"
-},
-{
-"tipo": "fechamento",
-"hora": "15:14",
-"texto": "FIM CONFIRMADO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Resultado FINAL conferido as 15:14 BRT em FOX Sports, ESPN e Sofascore: empate sem gols na estreia historica de Cabo Verde em Copas - heroi o goleiro Vozinha (40 anos), que segurou a favorita Espanha. Correcao de feed: a nota que marcava o jogo ao vivo aos 65min estava defasada - a partida ja havia se encerrado (FIM DE JOGO postado as 14:35) e foi computada no historico (placar 0x0). Fontes: FOX Sports, ESPN, Sofascore (15/06)."
-},
-{
-"tipo": "esquenta",
-"hora": "14:43",
-"texto": "FORMA - Belgica x Egito (apito 16h, Lumen Field-Seattle). Os dois chegam embalados, mas a forma conta historias diferentes. BELGICA: invicta ha 13 jogos sob Rudi Garcia, vindo de 4 vitorias seguidas nos amistosos de preparacao em maio (5x0 Tunisia e 2x0 Croacia, com De Bruyne ja em ritmo de jogo); marcou 5 gols ou mais em 5 dos ultimos 10 jogos entre amistosos e Eliminatorias - ataque de altissimo volume. A ultima derrota foi ha mais de um ano (3x1 para a Ucrania na Nations League). EGITO: tambem invicto no caminho, 5 vitorias e 1 empate nos ultimos 6, mas com um sinal de alerta que pesa no nosso modelo - perde folego no 2o tempo (so 2 gols marcados na etapa final nas ultimas 5 exibicoes), justamente quando a Belgica costuma aprofundar o placar. Nos amistosos recentes empatou com a Espanha e bateu a Russia, mas perdeu 2x1 para o Brasil; chegou as semifinais da Copa Africana de Nacoes 2025. LEITURA: a forma reforca o lambda alto da Belgica (2,08) e o teto de gols - o Over 2,5 (cerca de 56 por cento vs 47 do mercado, edge ~+9pp) segue como candidato do Disciplinado, confirma no apito. Palpite do bolao Belgica 2x0. Fontes: Goal, CNN Brasil, Lance (checado 14:43 BRT)."
-},
-{
-"tipo": "esquenta",
-"hora": "14:40",
-"texto": "HISTORICO - Belgica x Egito (apito 16h, Lumen Field-Seattle). Curiosidade que pesa no papel: nos 4 confrontos diretos (todos amistosos) o Egito leva vantagem 3-1 - venceu 1x0 (1999), 4x0 (2005, maior goleada egipcia sobre os belgas) e 2x1 (nov/2022, Kuwait, gols de Mostafa Mohamed e Trezeguet); a unica vitoria belga foi 3x0 em 2018 (Lukaku, Hazard, Fellaini), as vesperas da Copa anterior. POREM e a PRIMEIRA vez que se cruzam em Mundial - e ai a historia inverte: o Egito JAMAIS venceu uma partida em Copas (4a participacao, melhor campanha foi so a fase de grupos), enquanto a Belgica chega invicta ha 13 jogos sob Rudi Garcia e 20 posicoes a frente no ranking FIFA (9o contra 29o). Leitura do modelo segue firme: Belgica 65 por cento / empate 21 / Egito 14; palpite do bolao Belgica 2x0. O retrospecto recente assusta, mas era outro contexto (amistosos, outra geracao). Fontes: Khelnow, Sports Mole, CNN Brasil, Gazeta Esportiva (checado 14:40 BRT)."
-},
-{
-"tipo": "fechamento",
-"texto": "FIM DE JOGO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). HISTORICO: na estreia em Copas, Cabo Verde segura empate epico contra uma das favoritas ao titulo. Espanha com cerca de 67% de posse e dominio total mas esbarrou no bloco baixo, no travessao (Ferran) e num Vozinha gigante (varias defesas). Cabo Verde nao acertou o alvo e levou 1 ponto de ouro. FECHAMENTO DO ORACULO: nosso palpite Espanha 4x0 (vitoria 95%) NAO se confirmou. Bolao: 1 ponto (acertamos so o zero de Cabo Verde) - total agora 21. Brier do modelo 1,824 vs mercado 1,644: foi nossa pior leitura do torneio, fomos mais confiantes (95%) que o proprio mercado (89%) e o empate puniu os dois. Disciplinado: sem tip aqui (mismatch, sem Under) - ficou de fora, 0. Favorito do modelo e do mercado (Espanha 1.06): -100 cada. Jogo Louco (Over 3,5): -100. LICAO: mismatch no papel nao garante goleada - bloco baixo + dia de gala do goleiro travam o teto. Proximo: Belgica x Egito as 16h.",
-"hora": "14:35"
-},
-{
-"tipo": "alerta",
-"texto": "ALERTA - Espanha x Cabo Verde: 0-0 no 2o tempo (~75'), Cabo Verde segurando o zero contra nossa leitura. Vozinha pegando tudo; Ferran na trave aos 39' e cabecada de Oyarzabal salva. Previsao ANTERIOR Espanha 4x0 (vitoria 95%) -> NOVA: 4x0 morto, vitoria espanhola caiu p/ ~55%, empate subiu p/ ~42%, Under 2,5 quase certo.",
-"hora": "14:24"
-},
-{
-"tipo": "aovivo",
-"texto": "AO VIVO - Espanha x Cabo Verde 0-0, 2o tempo em andamento (~75'). 1o tempo: Espanha com 12 finalizacoes (so contra a Suica em 1966 teve mais num 1o tempo sem marcar) e nada na rede - Ferran na trave aos 39', cabecada de Oyarzabal salva por Vozinha. Amarelo p/ Sidny Lopes Cabral aos 15'. Sem expulsoes. Cabo Verde com bloco baixo segurando a Furia na estreia historica.",
-"hora": "14:23"
-},
-{
-"tipo": "esquenta",
-"hora": "14:24",
-"texto": "ESQUENTA - Belgica x Egito (apito 16h). Palpite calibrado: Belgica 2x0 (lambda Belgica 2,08 x Egito 0,85, total 2,93). 1X2: Belgica 65% / empate 21% / Egito 14%. Disciplinado de olho no Over 2,5 (~56% vs mercado 47%, edge ~+9pp) - confirma no apito. Egito aposta no contra-ataque de Salah; escalacoes saem ~15 min antes."
-},
-{
-"tipo": "aovivo",
-"hora": "14:18",
-"texto": "AO VIVO reta final (cerca de 65 min reais) - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Placar real checado nas fontes (FIFA, ESPN, Terra, Sofascore, FlashScore) SEGUE 0x0: La Furia nao furou o bloco baixo 4-2-3-1 e Vozinha segue gigante no gol cabo-verdiano. Espanha domina posse (cerca de 70 por cento) e xG, ja com Lamine Yamal em campo para forcar o gol, mas esbarra na trave e na pontaria. Os Tubaroes Azuis a cerca de 25 minutos de um ponto historico na estreia em Mundiais. LEITURA: vencedor previsto ainda Espanha, mas a chance do empate-surpresa sobe a cada minuto; palpite 4x0 ja descartado, vale a vitoria magra ou o 0x0 historico. SEM alerta novo - sem gol e sem cartao vermelho; o ALERTA esta ARMADO e dispara se Cabo Verde segurar ate o apito ou marcar contra a previsao."
-},
-{
-"tipo": "aovivo",
-"hora": "14:12",
-"texto": "AO VIVO 2o tempo (cerca de 57 min reais; o painel vinha adiantado) - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Placar real checado nas fontes segue ZERADO: La Furia nao furou o bloco baixo cabo-verdiano nem com Lamine Yamal ja em campo. A Espanha empilha finalizacoes (mais de 12, marca de chutes sem marcar que so perde para 1966 vs Suica) e domina a posse, mas esbarra em Vozinha e na trave. Cabo Verde sustenta o 4-2-3-1 e sonha com o ponto historico na estreia em Mundiais. LEITURA: vencedor previsto segue Espanha, mas a chance do empate-surpresa sobe a cada minuto; palpite 4x0 ja descartado, agora vale a vitoria magra ou o 0x0 historico. SEM alerta - sem gol e sem cartao vermelho novo, vencedor previsto nao mudou. Fontes: FIFA, ESPN, Sports Illustrated, Fox Sports, Al Jazeera (checado 14:12 BRT)."
-},
-{
-"tipo": "aovivo",
-"texto": "AO VIVO 2o tempo - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Os Tubaroes Azuis seguem segurando o nulo na estreia historica em Mundiais. La Furia volta do intervalo com mais intensidade (Oyarzabal de centroavante, Ferran Torres e Baena pelos lados) mas esbarra no 4-2-3-1 fechado de Cabo Verde - ja tinha carimbado o travessao com Ferran Torres. Palpite do bolao (Espanha 4x0) virtualmente fora de alcance pelo placar; modelo dava Espanha 95 por cento e ela segue favorita a furar o bloqueio, mas o relogio joga a favor do azarao. Sem novo gol e sem cartao desde o amarelo de Sidny Cabral.",
-"hora": "14:08"
-},
-{
-"tipo": "esquenta",
-"texto": "ESQUENTA - Belgica x Egito (apito 16:00, Grupo G). Palpite do bolao: Belgica 2x0. Modelo calibrado: lambda Belgica 2,08 x Egito 0,85 (total 2,93). 1X2: Belgica 65 por cento, empate 21, Egito 14. Placar exato mais provavel e tambem o melhor para o Prodefy coincidem: 2x0 (12 por cento). DE OLHO NO VALOR: Over 2,5 gols sai ~56 por cento no nosso modelo contra ~47 por cento implicito no mercado (edge ~+9pp) - principal candidato do Disciplinado, a confirmar no apito. Belgica chega superior com De Bruyne; Egito aposta em Salah e no bloco defensivo.",
-"hora": "14:03"
-},
-{
-"tipo": "aovivo",
-"texto": "INTERVALO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Os Tubaroes Azuis vao para o vestiario com a estreia historica empatada com a campea europeia: bloco baixo no 4-2-3-1, Vozinha decisivo (negou Pedri e Ferran) e a trave salvando os africanos. La Furia teve a posse e as chances (Ferran na trave, Cucurella e Oyarzabal por pouco), mas pecou na pontaria; Sidny Cabral amarelado. Lamine Yamal segue no banco. LEITURA: vitoria da Espanha ainda fortemente favorita (mercado abriu 1.08), SEM alerta - ninguem marcou e o vencedor previsto nao muda. Mas o palpite 4x0 do bolao esta praticamente descartado: para bater o placar a Espanha precisaria de 4 gols em 45 min. Cenario mais provavel agora e vitoria magra (1x0/2x0) ou ate o empate-surpresa se o bloco aguentar. Fontes: FIFA, World Soccer Talk, Outlook India (15/06).",
-"hora": "13:50"
-},
-{
-"tipo": "aovivo",
-"texto": "AO VIVO ~45min, fim do 1o tempo a vista - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). A Furia aperta na reta final da etapa: Ferran Torres carimbou a TRAVE e Vozinha fez defesa decisiva em chute forte de Pedri (no lance, escanteio anulado por impedimento de Cucurella). Cabo Verde sustenta o 0x0 com as duas linhas e ainda assusta no contra-ataque. LEITURA: vitoria da Espanha segue amplamente favorita (mercado 1.08), SEM alerta - ninguem marcou e o vencedor previsto nao muda; mas o palpite 4x0 virou cenario remoto - com o 1o tempo caminhando para o zero, o placar alto perde forca de vez. Detalhe de escalacao: Gavi confirmado no meio (no lugar de Baena). Fontes: Outlook India, World Soccer Talk, FIFA, News24 (15/06).",
-"hora": "13:45"
-},
-{
-"tipo": "aovivo",
-"texto": "AO VIVO 1o tempo - Espanha 0x0 Cabo Verde (~40 min, Mercedes-Benz Stadium). O azarao surpreende: Cabo Verde fecha o 4-2-3-1, sustenta o zero e ainda assustou - Steven Moreira saiu em boa posicao aos 27 min e mandou pra fora. A Furia cria mas peca: Oyarzabal nao alcancou o cruzamento de Pedri (12 min), Cucurella bateu por cima e um penalti reclamado aos 4 min foi anulado pelo VAR (virou tiro de meta). Sidny Cabral ja levou amarelo. LEITURA: a vitoria da Espanha segue de pe (favorita extrema, mercado 1.08), mas o palpite 4x0 esfria - cada minuto em branco corta o teto de gols. SEM alerta: ninguem marcou e a previsao de vencedor nao mudou. Detalhe de escalacao: varias fontes apontam Gavi no meio-campo (no lugar de Baena), troca que nao muda a leitura.",
-"hora": "13:40"
-},
-{
-"tipo": "aovivo",
-"texto": "AO VIVO ~37min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia ainda em primeira marcha: muita posse com Pedri e Rodri, mas so um chute torto de Pedri ate agora; Cabo Verde fecha o 4-2-3-1 e segura bem o zero. Sem gol e sem novo lance desde o amarelo de Sidny Cabral. Palpite Espanha 4x0 mantido na direcao (vitoria espanhola segue amplamente favorita), porem com o intervalo se aproximando o zero a zero corroi o placar alto previsto - sem alerta, mas o teto de 4 gols ja esta sob pressao real. Fontes: FOX Sports, World Soccer Talk, Al Jazeera (15/06).",
-"hora": "13:37"
-},
-{
-"tipo": "aovivo",
-"texto": "AO VIVO ~30min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). CARTAO AMARELO para Sidny Cabral (Cabo Verde) por empurrao em Llorente. Espanha gira a bola mas ainda em primeira marcha - a unica chance foi um chute torto de Pedri de longe; Ferran Torres o mais perigoso pela direita. O bloco baixo de Cabo Verde segura o zero. Palpite Espanha 4x0 mantido (P 95 por cento), sem alerta - mas o relogio comeca a apertar o teto do placar alto.",
-"hora": "13:30"
-},
-{
-"tipo": "aovivo",
-"texto": "AO VIVO ~25min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia domina a posse no campo de ataque mas ainda sem criar chance clara de gol; um escanteio espanhol foi anulado pelo VAR (nova regra de 2026 que permite corrigir marcacao errada). Cabo Verde segue compacto no 4-2-3-1 e segura o zero bem. Palpite Espanha 4x0 mantido (P 95 por cento) - sem alerta. O gol tende a vir com o desgaste do bloco cabo-verdiano, mas o relogio ja comeca a pesar contra o placar alto.",
-"hora": "13:25"
-},
-{
-"tipo": "aovivo",
-"texto": "AO VIVO 15min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia com a posse (Pedri e Rodri girando) mas ainda sem furar o bloco baixo cabo-verdiano; Yamal comeca no banco. Estreante segura o zero no inicio - palpite Espanha 4x0 segue de pe; o gol espanhol tende a vir com o desgaste da defesa de Cabo Verde.",
-"hora": "13:15"
-},
-{
-"tipo": "aovivo",
-"texto": "BOLA ROLANDO - comeca Espanha x Cabo Verde (Mercedes-Benz Stadium, Atlanta). Apito as 13:00 de Brasilia, confirmado pelo relogio. Palpite mantido: Espanha 4x0 (P 95 por cento). Nota de escalacao: Lamine Yamal comeca no banco; Ferran Torres e Oyarzabal no ataque - a profundidade do elenco mantem a leitura, sem alerta. Lances a seguir.",
-"hora": "13:00"
-},
-{
-"tipo": "esquenta",
-"texto": "ULTIMA HORA - Espanha x Cabo Verde (apito 14:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H, que tem ainda Uruguai e Arabia Saudita). Escalacoes provaveis: Espanha de De la Fuente no 4-3-3 com Pedro Porro e Cucurella nas laterais, Rodri apoiando a saida entre os zagueiros e Pedri entre as linhas; Lamine Yamal e Nico Williams voltaram a treinar mas dificilmente comecam (poupados, banco no inicio). Cabo Verde, na estreia historica em Copas, arma um 4-2-3-1 compacto, duas linhas fechadas e saidas rapidas pelos lados. Movimento de odds: mercado trava a Espanha em torno de 1.08 na vitoria, empate perto de 14.0 e Cabo Verde acima de 35.0; total de gols com linha em 3,5 e leve favoritismo do Over. Fontes: Gazeta Esportiva, OneFootball, Oddschecker, FanDuel via CBS Sports (15/06).",
-"hora": "12:59"
-},
-{
-"tipo": "clima",
-"texto": "CLIMA - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta, 70 mil lugares, teto retratil e o telao Halo Board de 360 graus). Estreia historica de Cabo Verde em Copas do Mundo; a Furia mantem a posse, mas o ambiente fechado e barulhento pode dar energia ao azarao. Selecoes no gramado para os hinos, jogo prestes a comecar.",
-"hora": "12:58"
-},
-{
-"tipo": "odds",
-"texto": "ODDS NO APITO - Espanha x Cabo Verde (linha de fechamento, base do CLV): Espanha 1.08 | Empate 12.00 | Cabo Verde 36.00 | Under 2,5 3.20. Mercado crava Espanha como favorita extrema; vida real so nos totais de gols e na margem (handicap -2,5 a 1.90).",
-"hora": "12:57"
-},
-{
-"tipo": "pre_jogo",
-"texto": "PRE-JOGO - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H). ESCALACOES CONFIRMADAS. ESPANHA (De la Fuente): Unai Simon; Marcos Llorente, Pau Cubarsi, Laporte, Cucurella; Pedri, Rodri, Fabian Ruiz; Ferran Torres, Baena; Oyarzabal. Lamine Yamal e Nico Williams FORA do XI (gerenciando lesao na coxa), comecam no banco. CABO VERDE (Bubista), estreia historica em Copas: Vozinha; Steven Moreira, Pico, Logan Costa, Borges; Deroy Duarte, Lenini, Jamiro, Ryan Mendes, Jovane Cabral; Livramento - 4-2-3-1 defensivo. LEITURA: ausencia de Yamal/Nico ja estava precificada pelo modelo (lambda Espanha ~4,1); palpite mantido, Espanha vence com folga. Sem ALERTA.",
-"hora": "12:56"
-},
-{
-"tipo": "esquenta",
-"hora": "12:52",
-"texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
-},
-{
-"tipo": "analise",
-"hora": "10:20",
-"texto": "MODELO RECALIBRADO com os 12 jogos reais (sempre calculado, zero chute). Descoberta: estavamos calibrando o lambda pela mediana (2 gols) quando o Poisson mira a MEDIA (2,9) - por isso 0 placares exatos em 10 jogos. Corrigido (mu=0,26 beta=1,5, regularizado p/ nao overfittar a cauda). Placares de hoje subiram pro lugar certo: Espanha 4x0, Belgica 2x0, Uruguai 2x0, Ira 1x0. Esse e o caminho pra cravar placar e fechar o gap pro lider."
-},
-{
-"tipo": "analise",
-"hora": "09:55",
-"texto": "ANALISE FUNDAMENTADA publicada (modelo Dixon-Coles rodado). A matematica do EP revisou 3 palpites: Espanha 3x0 (nao 4x0), Belgica 1x0, Uruguai 1x0. Valor do dia: Belgica-Egito Over 2,5 (edge +9,8pp) e Ira vitoria (edge +4,9pp marginal). Espanha-Cabo Verde: modelo aponta Under mas REJEITAMOS (armadilha de mismatch). Uruguai: sem aposta, nenhum mercado bate o corte."
-},
-{
-"tipo": "resumo",
-"hora": "09:30",
-"texto": "BOM DIA 15/06. Fechamos a rodada de ontem (fonte API ESPN): Alemanha 7x1 Curacao (nosso 3x0 = 3pts, vencedor certo), Holanda 2x2 Japao (1pt), Marfim 1x0 Equador (tip Under do Disciplinado GANHOU, +115%), Suecia 5x1 Tunisia (nosso 1x0, vencedor certo mas placar errou feio), e Australia 2x0 Turquia (nosso Turquia 2x1, ERRAMOS - jogo que nao tinha sido registrado, agora logado por honestidade). LICAO DE MODELO: em jogos de estreia com diferenca GRANDE de nivel (Alemanha 7, Suecia 5) os gols vieram MUITO acima do nosso fator-cautela-de-estreia. O fator vale para jogos equilibrados, nao para mismatch. Por isso hoje Espanha x Cabo Verde sai 4x0 (placar alto) e nao 3x0. Placar atual: bolao 20 pts, acerto de vencedor 60% (6/10), Brier 0.491 (mercado 0.491) (empatado com o mercado - ainda nao batemos)."
-},
-{
-"tipo": "resultado",
-"hora": "00:50",
-"texto": "RESULTADO - Suecia 5x1 Tunisia (Estadio BBVA, Monterrey). Ayari (2x), Isak, Gyokeres e Svanberg; Rekik descontou. Suecia abriu cedo (Ayari aos 7) e atropelou - a leitura de Suecia favorita e jogo aberto se confirmou com folga; placar bem acima do nosso 1x0. Suecia lidera o Grupo F isolada; no outro jogo Holanda 2x2 Japao. Jogo FORA do book do dia (palpite na agenda), registro factual: sem pontuacao do bolao nem simulacao de 100 reais."
-},
-{
-"tipo": "aovivo",
-"texto": "GOL - Suecia 1x0 Tunisia, Yasin Ayari aos 7 do 1o tempo. Gyokeres forcou a defesa de Chamakh, que soltou no meio, e Ayari completou o rebote de fora da area. CONFIRMA a leitura: palpite do bolao Suecia 1x0 e favorito do modelo (Suecia ~49 por cento). Cedo, mas dentro do roteiro - Suecia abre o placar e empurra a Tunisia (ataque fraco) para fora da concha. Sem alerta: gol a favor da previsao.",
-"hora": "23:07"
-},
-{
-"tipo": "aovivo",
-"hora": "23:00",
-"texto": "BOLA ROLANDO - comeca Suecia x Tunisia (Estadio BBVA, Monterrey). Estreia do Grupo F em jogo unico da rodada. Palpite do Oraculo: Suecia 1x0. Linha de fechamento Suecia 1.91 / empate 3.40 / Tunisia 4.40. Acompanhando os lances em tempo real."
-},
-{
-"tipo": "odds",
-"hora": "22:57",
-"texto": "ODDS DE FECHAMENTO - Suecia x Tunisia (apito 23:00, em instantes; Estadio BBVA, Monterrey): Suecia 1.91 | Empate 3.40 | Tunisia 4.40 (FanDuel, -110/+240/+340). Total Over/Under 2,5 (preco limpo de Under nao divulgado). Esta e a linha de fechamento, base do CLV. LAB pegou Tunisia ML a 4.60 antes do fechamento (4.40) - CLV positivo de cerca de +4,5 por cento sobre a linha. Jogo ainda NAO comecou; bola rola as 23:00."
-},
-{
-"tipo": "clima",
-"texto": "CLIMA - Suecia x Tunisia (apito 23:00, Estadio de Monterrey, Guadalupe-MEX, capacidade ~53,5 mil). Estreia do Grupo F: as duas selecoes encaram este como o jogo da vida no grupo de Holanda e Japao. Times indo para o gramado, hinos a caminho sob noite quente de Monterrey; torcida sueca de amarelo e a tunisiana de vermelho dao o tom nas arquibancadas. Suecia de Potter aposta em Isak e Gyokeres pela frente; Tunisia confia na marcacao de Skhiri e Rani Khedira para travar o jogo. Palpite do Oraculo segue Suecia 1x0. Bola prestes a rolar.",
-"hora": "22:55"
-},
-{
-"tipo": "pre_jogo",
-"hora": "22:46",
-"texto": "PRE-JOGO - Suecia x Tunisia (apito 23:00, Estadio BBVA, Monterrey; grupo de Holanda e Japao). ESCALACOES CONFIRMADAS. Suecia: Nordfeldt; Lagerbielke, Lindelof, Hien, Bernhardsson; Gudmundsson, Nygren, Karlstrom, Ayari; Isak e Gyokeres. Tunisia: Chamakh; Abdi, Talbi, Rekik, Valery; Ben Hmida, Hannibal, Khedira, Skhiri; Slimane e Saad. MERCADO: Suecia favorita a cerca de 1,94 (BetBoom), apoiada na dupla Isak e Gyokeres; Tunisia chegou invicta e sem sofrer gols nas eliminatorias africanas e aposta no bloco solido de Skhiri e Talbi. CONTEXTO: jogo FORA do nosso book do dia (palpite '-' na agenda), entao registro factual e leitura de mercado, sem palpite do bolao nem simulacao de 100 reais."
-},
-{
-"tipo": "esquenta",
-"hora": "22:07",
-"texto": "ULTIMA HORA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Escalacoes provaveis ja circulando. SUECIA num 3-4-2-1 com a dupla de elite Isak e Gyokeres confirmada na frente e Elanga/Nygren apoiando - Zetterstrom (ou Nordfeldt) no gol; Lagerbielke, Hien e a zaga; Svanberg, Karlstrom e Ayari no meio. TUNISIA defensiva no 4-2-3-1: Skhiri e Khedira de duplo volante blindando a zaga (Talbi, Rekik), Mejbri e Achouri na criacao, Chaouat de referencia. Nenhum titular decisivo ausente nos dois lados - a leitura NAO muda. ODDS estaveis: Suecia ~1.92 (sem steam; abria 1.93), 'ambos marcam: nao' pagando 1.76 e 0x0 a 7.75 - o mercado tambem espera jogo de poucos gols, em linha com nosso Under e o palpite Suecia 1x0. Palpite mantido. Sem alerta. Fontes: Khelnow, Rotowire, Sports Mole, netflu, Trivela (14/06)."
-},
-{
-"tipo": "resultado",
-"hora": "22:00",
-"texto": "RESULTADO - Costa do Marfim 1x0 Equador (Lincoln Financial Field, Philadelphia). Amad Diallo decidiu nos acrescimos; o Equador criou mais, mas parou no goleiro marfinense. Total de 1 gol: Under 2,5 bateu. Jogo FORA do nosso book do dia (sem palpite na agenda), registro apenas factual, sem pontuacao do bolao nem simulacao de 100 reais."
-},
-{
-"tipo": "esquenta",
-"hora": "21:57",
-"texto": "HISTORICO - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Primeiro encontro das selecoes em Copas do Mundo - so se cruzaram 4 vezes, todas em amistosos, com vantagem sueca: 2 vitorias, 1 empate, 1 derrota. Empate 1x1 em 1976, vitorias da Suecia por 1x0 em 1992 e 1999, e 1x0 da Tunisia em 2003 (gol de Najeh Braham). Nenhum desses confrontos passou de 2 gols no total e nunca um lado fez mais de 1 - o historico reforca a leitura de jogo travado e mantem o palpite Suecia 1x0. Fontes: Sports Mole, 11v11, AiScore (14/06)."
-},
-{
-"tipo": "esquenta",
-"hora": "21:50",
-"texto": "FORMA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). SUECIA irregular: so 2 vitorias nos ultimos 10 jogos, empate 2x2 com a Grecia e derrota de 3x1 para a Noruega nos amistosos; ataque sustentado por Isak e Gyokeres. TUNISIA chega abalada: uma unica vitoria nas ultimas 7 saidas (sobre o Haiti) e levou 5x0 da Belgica no ultimo amistoso, mas passou invicta e sem sofrer gols nas Eliminatorias da CAF. Leitura: poder ofensivo sueco contra defesa tunisiana solida no papel mas em ma fase - cenario de poucos gols mantem o palpite Suecia 1x0."
-},
-{
-"tipo": "fim",
-"hora": "21:40",
-"texto": "FIM DE JOGO - Costa do Marfim 0x0 Equador (Lincoln Financial Field, Filadelfia). Duelo de duas das melhores defesas da Copa terminou sem gols, exatamente como o modelo projetava (P(Under 2,5) cerca de 69 por cento). O Equador foi quem mais ameacou - duas bolas no travessao no 1o tempo (Yeboah e Minda) mais finalizacoes de Valencia e Plata, com Caicedo comandando a pressao; a Costa do Marfim respondeu nos contra-ataques e tambem assustou. Primeiro encontro da historia entre as selecoes em Copas. BOLAO: palpite era Equador 1x0 - deu empate, vencedor e placar errados, 0 ponto (bolao segue 15); o unico acerto foi a leitura de poucos gols e o zero da Costa do Marfim. SIMULACOES DE 100 REAIS neste jogo: DISCIPLINADO CRAVOU - Under 1,75 a 2.15, total de 0 gol, lucro de 115 reais (primeira tip do produto, 1 de 1); JOGO LOUCO perdeu (Costa do Marfim ML 3.50, CLV -6,7 por cento sobre o fechamento 3.75); FAVORITO DO MODELO (Equador 2.45) perdeu 100; FAVORITO DO MERCADO (Equador 2.45) perdeu 100. Brier do jogo: modelo 0,638 x mercado 0,661 - o modelo deu um pouco mais de chance ao empate (35 x 34 por cento) e levou a melhor. Saldo acumulado das simulacoes: DISCIPLINADO +115 (ROI +115 por cento, so entra com Edge maior ou igual a 4pp e EV maior ou igual a 3 por cento), FAVORITO e FAV MERCADO +2 cada, JOGO LOUCO -330. Proximo: Suecia x Tunisia as 23h (Brasilia), Estadio BBVA, Monterrey."
-}
+ {
+  "tipo": "prejogo",
+  "hora": "15:46",
+  "texto": "PRE-JOGO - Belgica x Egito (apito 16h, Lumen Field-Seattle). Escalacoes CONFIRMADAS e batem com a leitura: BELGICA (4-2-3-1) Courtois; Meunier, Ngoy, Mechele, Castagne; Onana, Tielemans; Trossard, De Bruyne (c), Doku; De Ketelaere (Lukaku no banco). EGITO (4-2-3-1) Shobeir; Hany, Fathy, Ibrahim, Fotouh; Lasheen, Attia; Salah, Ashour, Ziko; Marmoush - Salah E Marmoush juntos na frente, exatamente o cenario que sustenta o jogo aberto. Nada muda: SEM alerta. Palpite do bolao mantido Belgica 2x0. Modelo firme: Belgica 65 por cento / empate 21 / Egito 14. PRODUTO: o Over 2,5 segue como candidato do Disciplinado (nosso modelo 56 por cento), mas o mercado ja apertou para ~51-52 por cento e o edge encolheu para ~+4pp, no limiar. DECISAO no apito: capturo as odds de fechamento (1X2 e Under 2,5) e so entro se o Edge ficar maior ou igual a +4pp e o EV maior ou igual a +3 por cento. Fontes: Khel Now, World Soccer Talk, OneFootball, Goal (checado 15:46 BRT)."
+ },
+ {
+  "tipo": "esquenta",
+  "texto": "ULTIMA HORA - Belgica x Egito (apito 16h, Lumen Field-Seattle). Escalacoes CONFIRMADAS. BELGICA (4-2-3-1): Courtois; Meunier, Ngoy, Mechele, Castagne; Onana, Tielemans; Trossard, De Bruyne (c), Doku; De Ketelaere. Lukaku comeca no banco - mas o ataque segue de elite (De Bruyne, Doku, Trossard, De Ketelaere), nada que mude a leitura. EGITO: Shobeir; Hany, Ibrahim, Fathy, Fatouh; Lashin, Attia, Ashour, Zico; Salah, Marmoush - Salah e Marmoush juntos na frente, justamente a ameaca que sustenta o cenario de jogo aberto. MOVIMENTO DE ODDS: o Over 2,5 abriu folgado (mercado ~47 por cento) e apertou para ~51-52 por cento (FanDuel -110/-110, ESPN Over 2,5 -105). Nosso modelo segue em 56 por cento. Ou seja, o edge do Disciplinado encolheu de ~+9pp para ~+4pp - ainda no limiar (Edge maior ou igual a +4pp), mas boa parte do valor ja evaporou; decisao final so no apito com as odds de fechamento. Palpite do bolao mantido: Belgica 2x0.",
+  "hora": "--:--"
+ },
+ {
+  "tipo": "fechamento",
+  "hora": "15:14",
+  "texto": "FIM CONFIRMADO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Resultado FINAL conferido as 15:14 BRT em FOX Sports, ESPN e Sofascore: empate sem gols na estreia historica de Cabo Verde em Copas - heroi o goleiro Vozinha (40 anos), que segurou a favorita Espanha. Correcao de feed: a nota que marcava o jogo ao vivo aos 65min estava defasada - a partida ja havia se encerrado (FIM DE JOGO postado as 14:35) e foi computada no historico (placar 0x0). Fontes: FOX Sports, ESPN, Sofascore (15/06)."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "14:43",
+  "texto": "FORMA - Belgica x Egito (apito 16h, Lumen Field-Seattle). Os dois chegam embalados, mas a forma conta historias diferentes. BELGICA: invicta ha 13 jogos sob Rudi Garcia, vindo de 4 vitorias seguidas nos amistosos de preparacao em maio (5x0 Tunisia e 2x0 Croacia, com De Bruyne ja em ritmo de jogo); marcou 5 gols ou mais em 5 dos ultimos 10 jogos entre amistosos e Eliminatorias - ataque de altissimo volume. A ultima derrota foi ha mais de um ano (3x1 para a Ucrania na Nations League). EGITO: tambem invicto no caminho, 5 vitorias e 1 empate nos ultimos 6, mas com um sinal de alerta que pesa no nosso modelo - perde folego no 2o tempo (so 2 gols marcados na etapa final nas ultimas 5 exibicoes), justamente quando a Belgica costuma aprofundar o placar. Nos amistosos recentes empatou com a Espanha e bateu a Russia, mas perdeu 2x1 para o Brasil; chegou as semifinais da Copa Africana de Nacoes 2025. LEITURA: a forma reforca o lambda alto da Belgica (2,08) e o teto de gols - o Over 2,5 (cerca de 56 por cento vs 47 do mercado, edge ~+9pp) segue como candidato do Disciplinado, confirma no apito. Palpite do bolao Belgica 2x0. Fontes: Goal, CNN Brasil, Lance (checado 14:43 BRT)."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "14:40",
+  "texto": "HISTORICO - Belgica x Egito (apito 16h, Lumen Field-Seattle). Curiosidade que pesa no papel: nos 4 confrontos diretos (todos amistosos) o Egito leva vantagem 3-1 - venceu 1x0 (1999), 4x0 (2005, maior goleada egipcia sobre os belgas) e 2x1 (nov/2022, Kuwait, gols de Mostafa Mohamed e Trezeguet); a unica vitoria belga foi 3x0 em 2018 (Lukaku, Hazard, Fellaini), as vesperas da Copa anterior. POREM e a PRIMEIRA vez que se cruzam em Mundial - e ai a historia inverte: o Egito JAMAIS venceu uma partida em Copas (4a participacao, melhor campanha foi so a fase de grupos), enquanto a Belgica chega invicta ha 13 jogos sob Rudi Garcia e 20 posicoes a frente no ranking FIFA (9o contra 29o). Leitura do modelo segue firme: Belgica 65 por cento / empate 21 / Egito 14; palpite do bolao Belgica 2x0. O retrospecto recente assusta, mas era outro contexto (amistosos, outra geracao). Fontes: Khelnow, Sports Mole, CNN Brasil, Gazeta Esportiva (checado 14:40 BRT)."
+ },
+ {
+  "tipo": "fechamento",
+  "texto": "FIM DE JOGO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). HISTORICO: na estreia em Copas, Cabo Verde segura empate epico contra uma das favoritas ao titulo. Espanha com cerca de 67% de posse e dominio total mas esbarrou no bloco baixo, no travessao (Ferran) e num Vozinha gigante (varias defesas). Cabo Verde nao acertou o alvo e levou 1 ponto de ouro. FECHAMENTO DO ORACULO: nosso palpite Espanha 4x0 (vitoria 95%) NAO se confirmou. Bolao: 1 ponto (acertamos so o zero de Cabo Verde) - total agora 21. Brier do modelo 1,824 vs mercado 1,644: foi nossa pior leitura do torneio, fomos mais confiantes (95%) que o proprio mercado (89%) e o empate puniu os dois. Disciplinado: sem tip aqui (mismatch, sem Under) - ficou de fora, 0. Favorito do modelo e do mercado (Espanha 1.06): -100 cada. Jogo Louco (Over 3,5): -100. LICAO: mismatch no papel nao garante goleada - bloco baixo + dia de gala do goleiro travam o teto. Proximo: Belgica x Egito as 16h.",
+  "hora": "14:35"
+ },
+ {
+  "tipo": "alerta",
+  "texto": "ALERTA - Espanha x Cabo Verde: 0-0 no 2o tempo (~75'), Cabo Verde segurando o zero contra nossa leitura. Vozinha pegando tudo; Ferran na trave aos 39' e cabecada de Oyarzabal salva. Previsao ANTERIOR Espanha 4x0 (vitoria 95%) -> NOVA: 4x0 morto, vitoria espanhola caiu p/ ~55%, empate subiu p/ ~42%, Under 2,5 quase certo.",
+  "hora": "14:24"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO - Espanha x Cabo Verde 0-0, 2o tempo em andamento (~75'). 1o tempo: Espanha com 12 finalizacoes (so contra a Suica em 1966 teve mais num 1o tempo sem marcar) e nada na rede - Ferran na trave aos 39', cabecada de Oyarzabal salva por Vozinha. Amarelo p/ Sidny Lopes Cabral aos 15'. Sem expulsoes. Cabo Verde com bloco baixo segurando a Furia na estreia historica.",
+  "hora": "14:23"
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "14:24",
+  "texto": "ESQUENTA - Belgica x Egito (apito 16h). Palpite calibrado: Belgica 2x0 (lambda Belgica 2,08 x Egito 0,85, total 2,93). 1X2: Belgica 65% / empate 21% / Egito 14%. Disciplinado de olho no Over 2,5 (~56% vs mercado 47%, edge ~+9pp) - confirma no apito. Egito aposta no contra-ataque de Salah; escalacoes saem ~15 min antes."
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "14:18",
+  "texto": "AO VIVO reta final (cerca de 65 min reais) - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Placar real checado nas fontes (FIFA, ESPN, Terra, Sofascore, FlashScore) SEGUE 0x0: La Furia nao furou o bloco baixo 4-2-3-1 e Vozinha segue gigante no gol cabo-verdiano. Espanha domina posse (cerca de 70 por cento) e xG, ja com Lamine Yamal em campo para forcar o gol, mas esbarra na trave e na pontaria. Os Tubaroes Azuis a cerca de 25 minutos de um ponto historico na estreia em Mundiais. LEITURA: vencedor previsto ainda Espanha, mas a chance do empate-surpresa sobe a cada minuto; palpite 4x0 ja descartado, vale a vitoria magra ou o 0x0 historico. SEM alerta novo - sem gol e sem cartao vermelho; o ALERTA esta ARMADO e dispara se Cabo Verde segurar ate o apito ou marcar contra a previsao."
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "14:12",
+  "texto": "AO VIVO 2o tempo (cerca de 57 min reais; o painel vinha adiantado) - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Placar real checado nas fontes segue ZERADO: La Furia nao furou o bloco baixo cabo-verdiano nem com Lamine Yamal ja em campo. A Espanha empilha finalizacoes (mais de 12, marca de chutes sem marcar que so perde para 1966 vs Suica) e domina a posse, mas esbarra em Vozinha e na trave. Cabo Verde sustenta o 4-2-3-1 e sonha com o ponto historico na estreia em Mundiais. LEITURA: vencedor previsto segue Espanha, mas a chance do empate-surpresa sobe a cada minuto; palpite 4x0 ja descartado, agora vale a vitoria magra ou o 0x0 historico. SEM alerta - sem gol e sem cartao vermelho novo, vencedor previsto nao mudou. Fontes: FIFA, ESPN, Sports Illustrated, Fox Sports, Al Jazeera (checado 14:12 BRT)."
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO 2o tempo - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Os Tubaroes Azuis seguem segurando o nulo na estreia historica em Mundiais. La Furia volta do intervalo com mais intensidade (Oyarzabal de centroavante, Ferran Torres e Baena pelos lados) mas esbarra no 4-2-3-1 fechado de Cabo Verde - ja tinha carimbado o travessao com Ferran Torres. Palpite do bolao (Espanha 4x0) virtualmente fora de alcance pelo placar; modelo dava Espanha 95 por cento e ela segue favorita a furar o bloqueio, mas o relogio joga a favor do azarao. Sem novo gol e sem cartao desde o amarelo de Sidny Cabral.",
+  "hora": "14:08"
+ },
+ {
+  "tipo": "esquenta",
+  "texto": "ESQUENTA - Belgica x Egito (apito 16:00, Grupo G). Palpite do bolao: Belgica 2x0. Modelo calibrado: lambda Belgica 2,08 x Egito 0,85 (total 2,93). 1X2: Belgica 65 por cento, empate 21, Egito 14. Placar exato mais provavel e tambem o melhor para o Prodefy coincidem: 2x0 (12 por cento). DE OLHO NO VALOR: Over 2,5 gols sai ~56 por cento no nosso modelo contra ~47 por cento implicito no mercado (edge ~+9pp) - principal candidato do Disciplinado, a confirmar no apito. Belgica chega superior com De Bruyne; Egito aposta em Salah e no bloco defensivo.",
+  "hora": "14:03"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "INTERVALO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Os Tubaroes Azuis vao para o vestiario com a estreia historica empatada com a campea europeia: bloco baixo no 4-2-3-1, Vozinha decisivo (negou Pedri e Ferran) e a trave salvando os africanos. La Furia teve a posse e as chances (Ferran na trave, Cucurella e Oyarzabal por pouco), mas pecou na pontaria; Sidny Cabral amarelado. Lamine Yamal segue no banco. LEITURA: vitoria da Espanha ainda fortemente favorita (mercado abriu 1.08), SEM alerta - ninguem marcou e o vencedor previsto nao muda. Mas o palpite 4x0 do bolao esta praticamente descartado: para bater o placar a Espanha precisaria de 4 gols em 45 min. Cenario mais provavel agora e vitoria magra (1x0/2x0) ou ate o empate-surpresa se o bloco aguentar. Fontes: FIFA, World Soccer Talk, Outlook India (15/06).",
+  "hora": "13:50"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO ~45min, fim do 1o tempo a vista - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). A Furia aperta na reta final da etapa: Ferran Torres carimbou a TRAVE e Vozinha fez defesa decisiva em chute forte de Pedri (no lance, escanteio anulado por impedimento de Cucurella). Cabo Verde sustenta o 0x0 com as duas linhas e ainda assusta no contra-ataque. LEITURA: vitoria da Espanha segue amplamente favorita (mercado 1.08), SEM alerta - ninguem marcou e o vencedor previsto nao muda; mas o palpite 4x0 virou cenario remoto - com o 1o tempo caminhando para o zero, o placar alto perde forca de vez. Detalhe de escalacao: Gavi confirmado no meio (no lugar de Baena). Fontes: Outlook India, World Soccer Talk, FIFA, News24 (15/06).",
+  "hora": "13:45"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO 1o tempo - Espanha 0x0 Cabo Verde (~40 min, Mercedes-Benz Stadium). O azarao surpreende: Cabo Verde fecha o 4-2-3-1, sustenta o zero e ainda assustou - Steven Moreira saiu em boa posicao aos 27 min e mandou pra fora. A Furia cria mas peca: Oyarzabal nao alcancou o cruzamento de Pedri (12 min), Cucurella bateu por cima e um penalti reclamado aos 4 min foi anulado pelo VAR (virou tiro de meta). Sidny Cabral ja levou amarelo. LEITURA: a vitoria da Espanha segue de pe (favorita extrema, mercado 1.08), mas o palpite 4x0 esfria - cada minuto em branco corta o teto de gols. SEM alerta: ninguem marcou e a previsao de vencedor nao mudou. Detalhe de escalacao: varias fontes apontam Gavi no meio-campo (no lugar de Baena), troca que nao muda a leitura.",
+  "hora": "13:40"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO ~37min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia ainda em primeira marcha: muita posse com Pedri e Rodri, mas so um chute torto de Pedri ate agora; Cabo Verde fecha o 4-2-3-1 e segura bem o zero. Sem gol e sem novo lance desde o amarelo de Sidny Cabral. Palpite Espanha 4x0 mantido na direcao (vitoria espanhola segue amplamente favorita), porem com o intervalo se aproximando o zero a zero corroi o placar alto previsto - sem alerta, mas o teto de 4 gols ja esta sob pressao real. Fontes: FOX Sports, World Soccer Talk, Al Jazeera (15/06).",
+  "hora": "13:37"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO ~30min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). CARTAO AMARELO para Sidny Cabral (Cabo Verde) por empurrao em Llorente. Espanha gira a bola mas ainda em primeira marcha - a unica chance foi um chute torto de Pedri de longe; Ferran Torres o mais perigoso pela direita. O bloco baixo de Cabo Verde segura o zero. Palpite Espanha 4x0 mantido (P 95 por cento), sem alerta - mas o relogio comeca a apertar o teto do placar alto.",
+  "hora": "13:30"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO ~25min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia domina a posse no campo de ataque mas ainda sem criar chance clara de gol; um escanteio espanhol foi anulado pelo VAR (nova regra de 2026 que permite corrigir marcacao errada). Cabo Verde segue compacto no 4-2-3-1 e segura o zero bem. Palpite Espanha 4x0 mantido (P 95 por cento) - sem alerta. O gol tende a vir com o desgaste do bloco cabo-verdiano, mas o relogio ja comeca a pesar contra o placar alto.",
+  "hora": "13:25"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO 15min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia com a posse (Pedri e Rodri girando) mas ainda sem furar o bloco baixo cabo-verdiano; Yamal comeca no banco. Estreante segura o zero no inicio - palpite Espanha 4x0 segue de pe; o gol espanhol tende a vir com o desgaste da defesa de Cabo Verde.",
+  "hora": "13:15"
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "BOLA ROLANDO - comeca Espanha x Cabo Verde (Mercedes-Benz Stadium, Atlanta). Apito as 13:00 de Brasilia, confirmado pelo relogio. Palpite mantido: Espanha 4x0 (P 95 por cento). Nota de escalacao: Lamine Yamal comeca no banco; Ferran Torres e Oyarzabal no ataque - a profundidade do elenco mantem a leitura, sem alerta. Lances a seguir.",
+  "hora": "13:00"
+ },
+ {
+  "tipo": "esquenta",
+  "texto": "ULTIMA HORA - Espanha x Cabo Verde (apito 14:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H, que tem ainda Uruguai e Arabia Saudita). Escalacoes provaveis: Espanha de De la Fuente no 4-3-3 com Pedro Porro e Cucurella nas laterais, Rodri apoiando a saida entre os zagueiros e Pedri entre as linhas; Lamine Yamal e Nico Williams voltaram a treinar mas dificilmente comecam (poupados, banco no inicio). Cabo Verde, na estreia historica em Copas, arma um 4-2-3-1 compacto, duas linhas fechadas e saidas rapidas pelos lados. Movimento de odds: mercado trava a Espanha em torno de 1.08 na vitoria, empate perto de 14.0 e Cabo Verde acima de 35.0; total de gols com linha em 3,5 e leve favoritismo do Over. Fontes: Gazeta Esportiva, OneFootball, Oddschecker, FanDuel via CBS Sports (15/06).",
+  "hora": "12:59"
+ },
+ {
+  "tipo": "clima",
+  "texto": "CLIMA - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta, 70 mil lugares, teto retratil e o telao Halo Board de 360 graus). Estreia historica de Cabo Verde em Copas do Mundo; a Furia mantem a posse, mas o ambiente fechado e barulhento pode dar energia ao azarao. Selecoes no gramado para os hinos, jogo prestes a comecar.",
+  "hora": "12:58"
+ },
+ {
+  "tipo": "odds",
+  "texto": "ODDS NO APITO - Espanha x Cabo Verde (linha de fechamento, base do CLV): Espanha 1.08 | Empate 12.00 | Cabo Verde 36.00 | Under 2,5 3.20. Mercado crava Espanha como favorita extrema; vida real so nos totais de gols e na margem (handicap -2,5 a 1.90).",
+  "hora": "12:57"
+ },
+ {
+  "tipo": "pre_jogo",
+  "texto": "PRE-JOGO - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H). ESCALACOES CONFIRMADAS. ESPANHA (De la Fuente): Unai Simon; Marcos Llorente, Pau Cubarsi, Laporte, Cucurella; Pedri, Rodri, Fabian Ruiz; Ferran Torres, Baena; Oyarzabal. Lamine Yamal e Nico Williams FORA do XI (gerenciando lesao na coxa), comecam no banco. CABO VERDE (Bubista), estreia historica em Copas: Vozinha; Steven Moreira, Pico, Logan Costa, Borges; Deroy Duarte, Lenini, Jamiro, Ryan Mendes, Jovane Cabral; Livramento - 4-2-3-1 defensivo. LEITURA: ausencia de Yamal/Nico ja estava precificada pelo modelo (lambda Espanha ~4,1); palpite mantido, Espanha vence com folga. Sem ALERTA.",
+  "hora": "12:56"
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "12:52",
+  "texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
+ },
+ {
+  "tipo": "analise",
+  "hora": "10:20",
+  "texto": "MODELO RECALIBRADO com os 12 jogos reais (sempre calculado, zero chute). Descoberta: estavamos calibrando o lambda pela mediana (2 gols) quando o Poisson mira a MEDIA (2,9) - por isso 0 placares exatos em 10 jogos. Corrigido (mu=0,26 beta=1,5, regularizado p/ nao overfittar a cauda). Placares de hoje subiram pro lugar certo: Espanha 4x0, Belgica 2x0, Uruguai 2x0, Ira 1x0. Esse e o caminho pra cravar placar e fechar o gap pro lider."
+ },
+ {
+  "tipo": "analise",
+  "hora": "09:55",
+  "texto": "ANALISE FUNDAMENTADA publicada (modelo Dixon-Coles rodado). A matematica do EP revisou 3 palpites: Espanha 3x0 (nao 4x0), Belgica 1x0, Uruguai 1x0. Valor do dia: Belgica-Egito Over 2,5 (edge +9,8pp) e Ira vitoria (edge +4,9pp marginal). Espanha-Cabo Verde: modelo aponta Under mas REJEITAMOS (armadilha de mismatch). Uruguai: sem aposta, nenhum mercado bate o corte."
+ },
+ {
+  "tipo": "resumo",
+  "hora": "09:30",
+  "texto": "BOM DIA 15/06. Fechamos a rodada de ontem (fonte API ESPN): Alemanha 7x1 Curacao (nosso 3x0 = 3pts, vencedor certo), Holanda 2x2 Japao (1pt), Marfim 1x0 Equador (tip Under do Disciplinado GANHOU, +115%), Suecia 5x1 Tunisia (nosso 1x0, vencedor certo mas placar errou feio), e Australia 2x0 Turquia (nosso Turquia 2x1, ERRAMOS - jogo que nao tinha sido registrado, agora logado por honestidade). LICAO DE MODELO: em jogos de estreia com diferenca GRANDE de nivel (Alemanha 7, Suecia 5) os gols vieram MUITO acima do nosso fator-cautela-de-estreia. O fator vale para jogos equilibrados, nao para mismatch. Por isso hoje Espanha x Cabo Verde sai 4x0 (placar alto) e nao 3x0. Placar atual: bolao 20 pts, acerto de vencedor 60% (6/10), Brier 0.491 (mercado 0.491) (empatado com o mercado - ainda nao batemos)."
+ },
+ {
+  "tipo": "resultado",
+  "hora": "00:50",
+  "texto": "RESULTADO - Suecia 5x1 Tunisia (Estadio BBVA, Monterrey). Ayari (2x), Isak, Gyokeres e Svanberg; Rekik descontou. Suecia abriu cedo (Ayari aos 7) e atropelou - a leitura de Suecia favorita e jogo aberto se confirmou com folga; placar bem acima do nosso 1x0. Suecia lidera o Grupo F isolada; no outro jogo Holanda 2x2 Japao. Jogo FORA do book do dia (palpite na agenda), registro factual: sem pontuacao do bolao nem simulacao de 100 reais."
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "GOL - Suecia 1x0 Tunisia, Yasin Ayari aos 7 do 1o tempo. Gyokeres forcou a defesa de Chamakh, que soltou no meio, e Ayari completou o rebote de fora da area. CONFIRMA a leitura: palpite do bolao Suecia 1x0 e favorito do modelo (Suecia ~49 por cento). Cedo, mas dentro do roteiro - Suecia abre o placar e empurra a Tunisia (ataque fraco) para fora da concha. Sem alerta: gol a favor da previsao.",
+  "hora": "23:07"
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "23:00",
+  "texto": "BOLA ROLANDO - comeca Suecia x Tunisia (Estadio BBVA, Monterrey). Estreia do Grupo F em jogo unico da rodada. Palpite do Oraculo: Suecia 1x0. Linha de fechamento Suecia 1.91 / empate 3.40 / Tunisia 4.40. Acompanhando os lances em tempo real."
+ },
+ {
+  "tipo": "odds",
+  "hora": "22:57",
+  "texto": "ODDS DE FECHAMENTO - Suecia x Tunisia (apito 23:00, em instantes; Estadio BBVA, Monterrey): Suecia 1.91 | Empate 3.40 | Tunisia 4.40 (FanDuel, -110/+240/+340). Total Over/Under 2,5 (preco limpo de Under nao divulgado). Esta e a linha de fechamento, base do CLV. LAB pegou Tunisia ML a 4.60 antes do fechamento (4.40) - CLV positivo de cerca de +4,5 por cento sobre a linha. Jogo ainda NAO comecou; bola rola as 23:00."
+ },
+ {
+  "tipo": "clima",
+  "texto": "CLIMA - Suecia x Tunisia (apito 23:00, Estadio de Monterrey, Guadalupe-MEX, capacidade ~53,5 mil). Estreia do Grupo F: as duas selecoes encaram este como o jogo da vida no grupo de Holanda e Japao. Times indo para o gramado, hinos a caminho sob noite quente de Monterrey; torcida sueca de amarelo e a tunisiana de vermelho dao o tom nas arquibancadas. Suecia de Potter aposta em Isak e Gyokeres pela frente; Tunisia confia na marcacao de Skhiri e Rani Khedira para travar o jogo. Palpite do Oraculo segue Suecia 1x0. Bola prestes a rolar.",
+  "hora": "22:55"
+ },
+ {
+  "tipo": "pre_jogo",
+  "hora": "22:46",
+  "texto": "PRE-JOGO - Suecia x Tunisia (apito 23:00, Estadio BBVA, Monterrey; grupo de Holanda e Japao). ESCALACOES CONFIRMADAS. Suecia: Nordfeldt; Lagerbielke, Lindelof, Hien, Bernhardsson; Gudmundsson, Nygren, Karlstrom, Ayari; Isak e Gyokeres. Tunisia: Chamakh; Abdi, Talbi, Rekik, Valery; Ben Hmida, Hannibal, Khedira, Skhiri; Slimane e Saad. MERCADO: Suecia favorita a cerca de 1,94 (BetBoom), apoiada na dupla Isak e Gyokeres; Tunisia chegou invicta e sem sofrer gols nas eliminatorias africanas e aposta no bloco solido de Skhiri e Talbi. CONTEXTO: jogo FORA do nosso book do dia (palpite '-' na agenda), entao registro factual e leitura de mercado, sem palpite do bolao nem simulacao de 100 reais."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "22:07",
+  "texto": "ULTIMA HORA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Escalacoes provaveis ja circulando. SUECIA num 3-4-2-1 com a dupla de elite Isak e Gyokeres confirmada na frente e Elanga/Nygren apoiando - Zetterstrom (ou Nordfeldt) no gol; Lagerbielke, Hien e a zaga; Svanberg, Karlstrom e Ayari no meio. TUNISIA defensiva no 4-2-3-1: Skhiri e Khedira de duplo volante blindando a zaga (Talbi, Rekik), Mejbri e Achouri na criacao, Chaouat de referencia. Nenhum titular decisivo ausente nos dois lados - a leitura NAO muda. ODDS estaveis: Suecia ~1.92 (sem steam; abria 1.93), 'ambos marcam: nao' pagando 1.76 e 0x0 a 7.75 - o mercado tambem espera jogo de poucos gols, em linha com nosso Under e o palpite Suecia 1x0. Palpite mantido. Sem alerta. Fontes: Khelnow, Rotowire, Sports Mole, netflu, Trivela (14/06)."
+ },
+ {
+  "tipo": "resultado",
+  "hora": "22:00",
+  "texto": "RESULTADO - Costa do Marfim 1x0 Equador (Lincoln Financial Field, Philadelphia). Amad Diallo decidiu nos acrescimos; o Equador criou mais, mas parou no goleiro marfinense. Total de 1 gol: Under 2,5 bateu. Jogo FORA do nosso book do dia (sem palpite na agenda), registro apenas factual, sem pontuacao do bolao nem simulacao de 100 reais."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "21:57",
+  "texto": "HISTORICO - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Primeiro encontro das selecoes em Copas do Mundo - so se cruzaram 4 vezes, todas em amistosos, com vantagem sueca: 2 vitorias, 1 empate, 1 derrota. Empate 1x1 em 1976, vitorias da Suecia por 1x0 em 1992 e 1999, e 1x0 da Tunisia em 2003 (gol de Najeh Braham). Nenhum desses confrontos passou de 2 gols no total e nunca um lado fez mais de 1 - o historico reforca a leitura de jogo travado e mantem o palpite Suecia 1x0. Fontes: Sports Mole, 11v11, AiScore (14/06)."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "21:50",
+  "texto": "FORMA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). SUECIA irregular: so 2 vitorias nos ultimos 10 jogos, empate 2x2 com a Grecia e derrota de 3x1 para a Noruega nos amistosos; ataque sustentado por Isak e Gyokeres. TUNISIA chega abalada: uma unica vitoria nas ultimas 7 saidas (sobre o Haiti) e levou 5x0 da Belgica no ultimo amistoso, mas passou invicta e sem sofrer gols nas Eliminatorias da CAF. Leitura: poder ofensivo sueco contra defesa tunisiana solida no papel mas em ma fase - cenario de poucos gols mantem o palpite Suecia 1x0."
+ },
+ {
+  "tipo": "fim",
+  "hora": "21:40",
+  "texto": "FIM DE JOGO - Costa do Marfim 0x0 Equador (Lincoln Financial Field, Filadelfia). Duelo de duas das melhores defesas da Copa terminou sem gols, exatamente como o modelo projetava (P(Under 2,5) cerca de 69 por cento). O Equador foi quem mais ameacou - duas bolas no travessao no 1o tempo (Yeboah e Minda) mais finalizacoes de Valencia e Plata, com Caicedo comandando a pressao; a Costa do Marfim respondeu nos contra-ataques e tambem assustou. Primeiro encontro da historia entre as selecoes em Copas. BOLAO: palpite era Equador 1x0 - deu empate, vencedor e placar errados, 0 ponto (bolao segue 15); o unico acerto foi a leitura de poucos gols e o zero da Costa do Marfim. SIMULACOES DE 100 REAIS neste jogo: DISCIPLINADO CRAVOU - Under 1,75 a 2.15, total de 0 gol, lucro de 115 reais (primeira tip do produto, 1 de 1); JOGO LOUCO perdeu (Costa do Marfim ML 3.50, CLV -6,7 por cento sobre o fechamento 3.75); FAVORITO DO MODELO (Equador 2.45) perdeu 100; FAVORITO DO MERCADO (Equador 2.45) perdeu 100. Brier do jogo: modelo 0,638 x mercado 0,661 - o modelo deu um pouco mais de chance ao empate (35 x 34 por cento) e levou a melhor. Saldo acumulado das simulacoes: DISCIPLINADO +115 (ROI +115 por cento, so entra com Edge maior ou igual a 4pp e EV maior ou igual a 3 por cento), FAVORITO e FAV MERCADO +2 cada, JOGO LOUCO -330. Proximo: Suecia x Tunisia as 23h (Brasilia), Estadio BBVA, Monterrey."
+ }
 ]
