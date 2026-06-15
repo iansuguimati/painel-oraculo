@@ -1,6 +1,11 @@
 [
  {
   "tipo": "aovivo",
+  "hora": "14:18",
+  "texto": "AO VIVO reta final (cerca de 65 min reais) - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Placar real checado nas fontes (FIFA, ESPN, Terra, Sofascore, FlashScore) SEGUE 0x0: La Furia nao furou o bloco baixo 4-2-3-1 e Vozinha segue gigante no gol cabo-verdiano. Espanha domina posse (cerca de 70 por cento) e xG, ja com Lamine Yamal em campo para forcar o gol, mas esbarra na trave e na pontaria. Os Tubaroes Azuis a cerca de 25 minutos de um ponto historico na estreia em Mundiais. LEITURA: vencedor previsto ainda Espanha, mas a chance do empate-surpresa sobe a cada minuto; palpite 4x0 ja descartado, vale a vitoria magra ou o 0x0 historico. SEM alerta novo - sem gol e sem cartao vermelho; o ALERTA esta ARMADO e dispara se Cabo Verde segurar ate o apito ou marcar contra a previsao."
+ },
+ {
+  "tipo": "aovivo",
   "hora": "14:12",
   "texto": "AO VIVO 2o tempo (cerca de 57 min reais; o painel vinha adiantado) - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Placar real checado nas fontes segue ZERADO: La Furia nao furou o bloco baixo cabo-verdiano nem com Lamine Yamal ja em campo. A Espanha empilha finalizacoes (mais de 12, marca de chutes sem marcar que so perde para 1966 vs Suica) e domina a posse, mas esbarra em Vozinha e na trave. Cabo Verde sustenta o 4-2-3-1 e sonha com o ponto historico na estreia em Mundiais. LEITURA: vencedor previsto segue Espanha, mas a chance do empate-surpresa sobe a cada minuto; palpite 4x0 ja descartado, agora vale a vitoria magra ou o 0x0 historico. SEM alerta - sem gol e sem cartao vermelho novo, vencedor previsto nao mudou. Fontes: FIFA, ESPN, Sports Illustrated, Fox Sports, Al Jazeera (checado 14:12 BRT)."
  },
@@ -188,10 +193,5 @@
   "tipo": "ao_vivo",
   "hora": "21:05",
   "texto": "AO VIVO - Costa do Marfim x Equador (2o tempo, por volta dos 65 min): segue 0 x 0. Pelo relogio real (apito as 20:00) o jogo passou da hora de bola rolando e entra na fase decisiva. As fontes (ge, Sofascore, ESPN Brasil, World Soccer Talk) nao registram gol novo nem expulsao desde o intervalo - amarelos para Guela Doue e Kessie no lado marfinense. O Equador segue com as chances de melhor qualidade (o travessao salvou a Costa do Marfim no 1o tempo), enquanto o Marfim responde em lances individuais de Singo e Yan Diomande. Palpite do bolao (Equador 1x0) ainda vivo; o 0 a 0 favorece o nosso laboratorio (Under 1,75) e o cenario de empate. Sem alerta - placar inalterado."
- },
- {
-  "tipo": "esquenta",
-  "hora": "21:05",
-  "texto": "ESQUENTA - Suecia x Tunisia (23:00, Brasilia, Estadio BBVA em Monterrey, Mexico), estreia do Grupo F. Palpite do bolao: Suecia 1x0. A Suecia de Graham Potter aposta no ataque mais forte do grupo - Isak e Gyokeres na frente, Elanga pela ponta; a Tunisia de Sabri Lamouchi se arma em bloco baixo e organizacao, mirando o contra-ataque com Mejbri e Achouri. Leitura inicial: favoritismo sueco moderado pela qualidade ofensiva, mas a solidez tunisiana puxa o jogo para poucos gols - faixa de 1x0 ou 2x1 e Under com valor aparente. Monterrey costuma ter noite quente, fator a observar no ritmo. Escalacoes confirmadas e movimento de odds saem nos proximos estagios."
  }
 ]
