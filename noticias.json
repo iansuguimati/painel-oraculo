@@ -1,5 +1,9 @@
 [
  {
+  "tipo": "aovivo",
+  "texto": "BOLA ROLANDO - comeca Espanha x Cabo Verde (Mercedes-Benz Stadium, Atlanta). Apito as 13:00 de Brasilia, confirmado pelo relogio. Palpite mantido: Espanha 4x0 (P 95 por cento). Nota de escalacao: Lamine Yamal comeca no banco; Ferran Torres e Oyarzabal no ataque - a profundidade do elenco mantem a leitura, sem alerta. Lances a seguir."
+ },
+ {
   "tipo": "clima",
   "texto": "CLIMA - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta, 70 mil lugares, teto retratil e o telao Halo Board de 360 graus). Estreia historica de Cabo Verde em Copas do Mundo; a Furia mantem a posse, mas o ambiente fechado e barulhento pode dar energia ao azarao. Selecoes no gramado para os hinos, jogo prestes a comecar."
  },
@@ -190,20 +194,5 @@
   "tipo": "analise",
   "hora": "05:20",
   "texto": "Quatro estreias hoje (14/06): Alemanha x Curacao (14h), Holanda x Japao (17h, Japao sem Mitoma e Endo), Costa do Marfim x Equador (20h) e Suecia x Tunisia (23h). UNICO tip do Disciplinado: Marfim x Equador UNDER 1,75 a 2.15 - duas das melhores defesas da Copa (Edge +6pp, EV +7%)."
- },
- {
-  "tipo": "resumo",
-  "hora": "05:15",
-  "texto": "PLACAR ATUALIZADO: 11 pontos Prodefy, 1X2 em 75% (3/4). Brier do modelo 0,525 vs 0,505 do mercado (n=4). Disciplinado segue 0 tip resolvido (disciplina). Simulacao 100 reais - Favorito (modelo e mercado) +200 cada (ROI +50%), Jogo Louco -30."
- },
- {
-  "tipo": "resultado",
-  "hora": "05:10",
-  "texto": "FIM (12/06): Canada 1x1 Bosnia. Cyle Larin empatou aos 78 min. Palpite do bolao Canada 1x0 = 1 PONTO (acertou o gol do Canada, mas o jogo terminou empatado)."
- },
- {
-  "tipo": "resultado",
-  "hora": "05:10",
-  "texto": "FIM (12/06): EUA 4x1 Paraguai. Balogun (2x) e Pulisic atropelaram. Palpite EUA 1x0 = 3 PONTOS (vencedor certo); a goleada veio muito acima do nosso 1x0."
  }
 ]
