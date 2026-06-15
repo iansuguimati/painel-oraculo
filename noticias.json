@@ -1,6 +1,10 @@
 [
  {
   "tipo": "aovivo",
+  "texto": "AO VIVO ~37min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia ainda em primeira marcha: muita posse com Pedri e Rodri, mas so um chute torto de Pedri ate agora; Cabo Verde fecha o 4-2-3-1 e segura bem o zero. Sem gol e sem novo lance desde o amarelo de Sidny Cabral. Palpite Espanha 4x0 mantido na direcao (vitoria espanhola segue amplamente favorita), porem com o intervalo se aproximando o zero a zero corroi o placar alto previsto - sem alerta, mas o teto de 4 gols ja esta sob pressao real. Fontes: FOX Sports, World Soccer Talk, Al Jazeera (15/06)."
+ },
+ {
+  "tipo": "aovivo",
   "texto": "AO VIVO ~30min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). CARTAO AMARELO para Sidny Cabral (Cabo Verde) por empurrao em Llorente. Espanha gira a bola mas ainda em primeira marcha - a unica chance foi um chute torto de Pedri de longe; Ferran Torres o mais perigoso pela direita. O bloco baixo de Cabo Verde segura o zero. Palpite Espanha 4x0 mantido (P 95 por cento), sem alerta - mas o relogio comeca a apertar o teto do placar alto."
  },
  {
@@ -185,10 +189,5 @@
   "tipo": "odds",
   "hora": "20:00",
   "texto": "ODDS NO APITO - Costa do Marfim x Equador: Costa do Marfim 3.70 | Empate 2.80 | Equador 2.50 | Under 2,5 ~1.60 (linha de fechamento, base do CLV; jogo de poucos gols, BTTS Nao a 1.67 na Betsson)."
- },
- {
-  "tipo": "resultado",
-  "hora": "19:05",
-  "texto": "FIM (14/06): Holanda 2x2 Japao. Van Dijk e Summerville marcaram; o Japao buscou com Nakamura e Kamada. Palpite do bolao Holanda 2x1 = 1 PONTO (acertou os 2 gols da Holanda, mas o jogo terminou empatado e a vitoria nao veio). Japao surpreendeu mesmo sem Mitoma e Endo."
  }
 ]
