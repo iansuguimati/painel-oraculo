@@ -1,6 +1,11 @@
 [
  {
   "tipo": "aovivo",
+  "hora": "16:53",
+  "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 55 min (Lumen Field, Seattle). Egito segue na frente com o golaco de Emam Ashour (19min) e se fecha em bloco baixo, apostando nos contras de Salah e Marmoush. A Belgica de Rudi Garcia tem a posse e empurra com De Bruyne, Doku e Trossard, mas ainda nao furou. Placar mantido 0x1, sem novo gol nesta etapa ate agora. Leitura segue INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) PRECISA de 2 gols e o relogio aperta: faltam cerca de 35min e o Egito recuado dificulta - mas a Belgica lancada abre espacos para contra-ataque, cenario que ainda pode estourar o total."
+ },
+ {
+  "tipo": "aovivo",
   "hora": "16:46",
   "texto": "AO VIVO - Belgica 0x1 Egito, comeco do 2o tempo (Lumen Field, Seattle). Egito volta do intervalo segurando a vantagem do golaco de Emam Ashour (19min, assistencia de Salah). A Belgica de Rudi Garcia voltou ligada e empurrando: Doku ja foi derrubado e Ahmed Fatouh levou amarelo por falta no ponta belga; De Bruyne segue puxando a criacao e o time se lanca ao ataque atras do empate. Egito firme no bloco baixo, apostando nos contras de Salah e Marmoush. Placar mantido 0x1. Leitura segue INVERTIDA do palpite (Belgica 2x0); alerta das 16:29 ainda de pe - modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisa de 2 gols nesta etapa: com a Belgica se lancando, o espaco para o jogo abrir aumenta."
  },
@@ -192,10 +197,5 @@
   "tipo": "ao_vivo",
   "hora": "20:53",
   "texto": "AO VIVO - Costa do Marfim x Equador (INTERVALO, Lincoln Financial Field, Filadelfia): 0 x 0. Primeiro tempo equilibrado e taticamente travado: o Equador (La Tri) foi quem mais buscou o jogo, com Alan Minda carimbando a trave, enquanto Seko Fofana levou amarelo por entrada dura na Costa do Marfim. Duas defesas fortes confirmando o roteiro de placar magro. LEITURA: palpite do bolao e Equador 1x0 - segue plausivel; Under firme (mercado pendurou o total em 1,5). Sem alerta - nada mudou a previsao. Cruzamento VAVEL, Sofascore, Gazeta Esportiva, Flashscore e 365Scores."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "20:42",
-  "texto": "AO VIVO ~42 min - Costa do Marfim 0x0 Equador. Jogo truncado e equilibrado, exatamente como o mercado projetava (total 1,5). Melhores chances: Nicolas Pepe recebeu dentro da area e bateu de esquerda, mas Alan Franco se atirou e bloqueou; do outro lado, apos pressao alta de Caicedo, Alan Minda pegou de primeira e mandou no travessao. Sem gols ate aqui, caminhando para o intervalo."
  }
 ]
