@@ -1,67 +1,62 @@
 {
-  "updated": "14/06/2026",
-  "tips": 1,
-  "hit": "57% (4/7)",
-  "roi": "+115,0%",
-  "clv": "-",
-  "brier": "0,511 (mercado 0,499)",
-  "bolao": 15,
-  "sim100": {
-    "fav": {
-      "stake": 800,
-      "pnl": 55,
-      "roi": "+6,9%"
-    },
-    "louco": {
-      "stake": 800,
-      "pnl": -40,
-      "roi": "-5,0%"
-    },
-    "favmkt": {
-      "stake": 800,
-      "pnl": 55,
-      "roi": "+6,9%"
-    },
-    "disc": {
-      "stake": 100,
-      "pnl": 115,
-      "roi": "+115,0%"
-    }
+ "updated": "14/06/2026",
+ "tips": 1,
+ "hit": "57% (4/7)",
+ "roi": "+115,0%",
+ "clv": "-",
+ "brier": "0,511 (mercado 0,499)",
+ "bolao": 15,
+ "sim100": {
+  "fav": {
+   "stake": 800,
+   "pnl": 55,
+   "roi": "+6,9%"
   },
-  "lines": {
-    "bolao": "Suecia 1x0",
-    "disc": "-",
-    "louco": "Tunisia ML (4.60)"
+  "louco": {
+   "stake": 800,
+   "pnl": -40,
+   "roi": "-5,0%"
   },
-  "next": {
-    "jogo": "Suecia x Tunisia",
-    "hora": "23:00 (Brasilia)"
+  "favmkt": {
+   "stake": 800,
+   "pnl": 55,
+   "roi": "+6,9%"
   },
-  "alerta": {
-    "ativo": false
-  },
-  "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
-  "analises": [
-    {
-      "jogo": "Suecia x Tunisia",
-      "hora": "23:00",
-      "bolao": "Suecia 1x0 (EP)",
-      "disc": "-",
-      "louco": "Tunisia ML (4.60)",
-      "fav": "Suecia",
-      "fav_odd": "1.93",
-      "fav_mkt": "Suecia",
-      "fav_mkt_odd": "1.93",
-      "elenco": "Suecia (Isak, Gyokeres, Kulusevski, Svanberg) acima da Tunisia (Msakni, Laidouni) - o ataque sueco e o diferencial",
-      "texto": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento)."
-    }
-  ],
-  "odds_fech": {
-    "jogo": "Costa do Marfim x Equador",
-    "o1": "+275",
-    "ox": "+190",
-    "o2": "+145",
-    "under": "1,5 (linha do mercado; preco Under 2,5 nao publicado)",
-    "hora": "20:00"
+  "disc": {
+   "stake": 100,
+   "pnl": 115,
+   "roi": "+115,0%"
   }
+ },
+ "lines": {
+  "bolao": "Suecia 1x0",
+  "disc": "-",
+  "louco": "Tunisia ML (4.60)"
+ },
+ "next": {
+  "jogo": "Suecia x Tunisia",
+  "hora": "23:00 (Brasilia)"
+ },
+ "alerta": {
+  "ativo": false
+ },
+ "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
+ "analises": [
+  {
+   "jogo": "Suecia x Tunisia",
+   "hora": "23:00",
+   "bolao": "Suecia 1x0 (EP)",
+   "disc": "-",
+   "louco": "Tunisia ML (4.60)",
+   "fav": "Suecia",
+   "fav_odd": "1.93",
+   "fav_mkt": "Suecia",
+   "fav_mkt_odd": "1.93",
+   "elenco": "Suecia (Isak, Gyokeres, Kulusevski, Svanberg) acima da Tunisia (Msakni, Laidouni) - o ataque sueco e o diferencial",
+   "texto": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento)."
+  }
+ ],
+ "odds_fech": {
+  "jogo": ""
+ }
 }
