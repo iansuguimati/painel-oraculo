@@ -1,49 +1,46 @@
 {
   "updated": "15/06/2026",
-  "tips": 1,
-  "hit": "55% (6/11)",
-  "roi": "+115,0%",
-  "clv": "-",
-  "brier": "0.612 (mercado 0.596)",
+  "tips": 2,
+  "hit": "50% (6/12)",
+  "roi": "+7,5%",
+  "clv": "+0,5%",
+  "brier": "0.650 (mercado 0.628)",
   "bolao": 20,
   "sim100": {
     "fav": {
-      "stake": 1100,
-      "pnl": -90,
-      "roi": "-8.2%"
+      "stake": 1200,
+      "pnl": -190,
+      "roi": "-15.8%"
     },
     "louco": {
-      "stake": 1100,
-      "pnl": -340,
-      "roi": "-30.9%"
+      "stake": 1200,
+      "pnl": -440,
+      "roi": "-36.7%"
     },
     "favmkt": {
-      "stake": 1100,
-      "pnl": -90,
-      "roi": "-8.2%"
+      "stake": 1200,
+      "pnl": -190,
+      "roi": "-15.8%"
     },
     "disc": {
-      "stake": 100,
-      "pnl": 115,
-      "roi": "+115.0%"
+      "stake": 200,
+      "pnl": 15,
+      "roi": "+7.5%"
     }
   },
   "lines": {
-    "bolao": "Belgica 2x0",
+    "bolao": "Uruguai 2x0",
     "disc": "-",
-    "louco": "Over 2,5"
+    "louco": "Uruguai"
   },
   "next": {
-    "jogo": "Belgica x Egito",
-    "hora": "16:00 (Brasilia) - AO VIVO"
+    "jogo": "Arabia Saudita x Uruguai",
+    "hora": "19:00 (Brasilia) - PRE-JOGO"
   },
   "alerta": {
-    "ativo": true,
-    "hora": "17:05",
-    "jogo": "Belgica x Egito",
-    "texto": "Lukaku fora do XI e Egito abriu 1x0 (Ashour 19, assist Salah). Previsao ANTERIOR Belgica 2x0 (P 65 por cento) -> NOVA: Egito surpreende, vitoria belga ~45 por cento, empate/derrota ganham forca."
+    "ativo": false
   },
-  "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
+  "analise": "Hard Rock Stadium, Miami. Uruguai favoritissimo (elenco ~78 vs ~38), mas com a dupla de zaga titular DESFALCADA - Ronald Araujo e Gimenez fora por lesao, alem de Arrascaeta. Provavel Uruguai (4-4-2): Muslera; Varela, Caceres, M.Olivera, Vina; Ugarte, Bentancur, Valverde, M.Araujo; Vinas e Darwin Nunez. Arabia sem o goleiro Al-Aqidi (Al-Owais assume). Odds Uruguai 1.42 / empate 4.40 / Arabia 8.00. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. BOLAO: Uruguai 2x0 - os buracos na zaga sobem o risco de a Arabia marcar, mas o abismo tecnico sustenta a vitoria. Total alto tirou o valor do Under; Disciplinado sem aposta, reavalia 1X2/handicap/gols no apito.",
   "analises": [
     {
       "jogo": "Belgica x Egito",

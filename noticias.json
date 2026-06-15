@@ -1,5 +1,15 @@
 [
   {
+    "tipo": "prejogo",
+    "hora": "18:41",
+    "texto": "PRE-JOGO - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Escalacoes: Uruguai (4-4-2) Muslera; Varela, Caceres, M.Olivera, Vina; Ugarte, Bentancur, Valverde, M.Araujo; Vinas e Darwin Nunez. ATENCAO - alem de Arrascaeta (lesao) e Ronald Araujo, a Celeste tem TAMBEM Gimenez fora: a dupla de zaga titular esta desfalcada, o que enfraquece a defesa uruguaia. A Arabia de Donis perde o goleiro Al-Aqidi (Al-Owais assume) e tem o elenco quase todo da liga local, so Saud Abdulhamid atua fora. Odds: Uruguai 1.42 | empate 4.40 | Arabia 8.00 (Uruguai favoritissimo). Palpite do bolao mantido: Uruguai 2x0 - os desfalques na zaga sobem o risco de a Arabia balancar a rede, mas o abismo tecnico (elenco 78 vs 38) sustenta a vitoria uruguaia. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Disciplinado sem aposta de valor ate aqui (Under sem preco, total alto) - reavalia 1X2/handicap/gols no apito."
+  },
+  {
+    "tipo": "fechamento",
+    "hora": "17:55",
+    "texto": "FIM DE JOGO - Belgica 1x1 Egito (Lumen Field, Seattle). Empate com gosto de vitoria para o Egito: Emam Ashour abriu com um golaco de fora aos 19 e os Faraos seguraram a Belgica ate Lukaku entrar - 22 segundos depois, Hany marcou contra (66) e salvou os Diabos Vermelhos. xG do jogo: Belgica 1,31 x 1,07 Egito, equilibrado no peso das chances. Nosso palpite do bolao Belgica 2x0 FUROU (deu empate) - 0 pts; o modelo dava Belgica 65 por cento e o jogo virou a 2a zebra do dia, ao lado do 0x0 da Espanha. As QUATRO simulacoes perderam 100 reais cada: Favorito do Modelo e do Mercado (Belgica 1.50), Jogo Louco e Disciplinado (Over 2,5 a 1.91 - fechou em 2 gols, deu Under). Brier modelo 1,066 vs mercado 0,981; dia duro para o modelo, que superestimou os dois favoritos europeus."
+  },
+  {
     "tipo": "ao_vivo",
     "hora": "18:42",
     "texto": "AO VIVO / RESULTADOS: Belgica 1x1 Egito - FIM (mais um FAVORITO que empatou; a Belgica nao passou do Egito). Arabia Saudita 1x0 Uruguai, 79 min - ZEBRA NO AR: o Uruguai (nosso palpite 2x0) esta PERDENDO. Dia de favoritos tropecando: Espanha 0x0, Belgica 1x1, Uruguai atras - e exatamente o padrao que calibramos hoje (fator de empate). Falta Ira x Nova Zelandia (22h)."

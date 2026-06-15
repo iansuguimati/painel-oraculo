@@ -144,14 +144,14 @@
   },
   {
     "data": "15/06",
-    "jogo": "ESP x CPV",
+    "jogo": "BEL x EGY",
     "bolao_pts": 0,
     "venc": 0,
     "placar": 0,
-    "brier_m": 1.824,
-    "brier_k": 1.644,
+    "brier_m": 1.066,
+    "brier_k": 0.981,
     "fav": -100,
-    "disc": 0,
+    "disc": -100,
     "louco": -100,
     "favmkt": -100
   }
