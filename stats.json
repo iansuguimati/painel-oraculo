@@ -1,79 +1,79 @@
 {
-  "updated": "15/06/2026",
-  "tips": 1,
-  "hit": "60% (6/10)",
-  "roi": "+115,0%",
-  "clv": "-",
-  "brier": "0.491 (mercado 0.491)",
-  "bolao": 20,
-  "sim100": {
-    "fav": {
-      "stake": 1000,
-      "pnl": 10,
-      "roi": "+1.0%"
-    },
-    "louco": {
-      "stake": 1000,
-      "pnl": -240,
-      "roi": "-24.0%"
-    },
-    "favmkt": {
-      "stake": 1000,
-      "pnl": 10,
-      "roi": "+1.0%"
-    },
-    "disc": {
-      "stake": 100,
-      "pnl": 115,
-      "roi": "+115.0%"
-    }
+ "updated": "15/06/2026",
+ "tips": 1,
+ "hit": "60% (6/10)",
+ "roi": "+115,0%",
+ "clv": "-",
+ "brier": "0.491 (mercado 0.491)",
+ "bolao": 20,
+ "sim100": {
+  "fav": {
+   "stake": 1000,
+   "pnl": 10,
+   "roi": "+1.0%"
   },
-  "lines": {
-    "bolao": "Suecia 1x0",
-    "disc": "-",
-    "louco": "Tunisia ML (4.60)"
+  "louco": {
+   "stake": 1000,
+   "pnl": -240,
+   "roi": "-24.0%"
   },
-  "next": {
-    "jogo": "Espanha x Cabo Verde",
-    "hora": "13:00 (Brasilia)"
+  "favmkt": {
+   "stake": 1000,
+   "pnl": 10,
+   "roi": "+1.0%"
   },
-  "alerta": {
-    "ativo": false
+  "disc": {
+   "stake": 100,
+   "pnl": 115,
+   "roi": "+115.0%"
+  }
+ },
+ "lines": {
+  "bolao": "Suecia 1x0",
+  "disc": "-",
+  "louco": "Tunisia ML (4.60)"
+ },
+ "next": {
+  "jogo": "Espanha x Cabo Verde",
+  "hora": "13:00 (Brasilia)"
+ },
+ "alerta": {
+  "ativo": false
+ },
+ "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
+ "analises": [
+  {
+   "jogo": "Espanha x Cabo Verde",
+   "bolao": "Espanha 4x0 (mismatch - placar alto)",
+   "disc": "- (odd curta, aval. no apito)",
+   "louco": "Over 3,5",
+   "fav": "Espanha",
+   "favmkt": "Espanha"
   },
-  "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
-  "analises": [
-    {
-      "jogo": "Espanha x Cabo Verde",
-      "bolao": "Espanha 4x0 (mismatch - placar alto)",
-      "disc": "- (odd curta, aval. no apito)",
-      "louco": "Over 3,5",
-      "fav": "Espanha",
-      "favmkt": "Espanha"
-    },
-    {
-      "jogo": "Belgica x Egito",
-      "bolao": "Belgica 2x1 (EP)",
-      "disc": "- (aval. na escalacao)",
-      "louco": "Belgica handicap",
-      "fav": "Belgica",
-      "favmkt": "Belgica"
-    },
-    {
-      "jogo": "Arabia Saudita x Uruguai",
-      "bolao": "Uruguai 2x0 (EP)",
-      "disc": "Under 2,5 (aval. na escalacao)",
-      "louco": "Uruguai",
-      "fav": "Uruguai",
-      "favmkt": "Uruguai"
-    },
-    {
-      "jogo": "Ira x Nova Zelandia",
-      "bolao": "Ira 1x0 (EP travado)",
-      "disc": "Under 2,5 (aval. na escalacao)",
-      "louco": "Under 2,5",
-      "fav": "Ira",
-      "favmkt": "Ira"
-    }
-  ],
-  "odds_fech": {}
+  {
+   "jogo": "Belgica x Egito",
+   "bolao": "Belgica 2x1 (EP)",
+   "disc": "- (aval. na escalacao)",
+   "louco": "Belgica handicap",
+   "fav": "Belgica",
+   "favmkt": "Belgica"
+  },
+  {
+   "jogo": "Arabia Saudita x Uruguai",
+   "bolao": "Uruguai 2x0 (EP)",
+   "disc": "Under 2,5 (aval. na escalacao)",
+   "louco": "Uruguai",
+   "fav": "Uruguai",
+   "favmkt": "Uruguai"
+  },
+  {
+   "jogo": "Ira x Nova Zelandia",
+   "bolao": "Ira 1x0 (EP travado)",
+   "disc": "Under 2,5 (aval. na escalacao)",
+   "louco": "Under 2,5",
+   "fav": "Ira",
+   "favmkt": "Ira"
+  }
+ ],
+ "odds_fech": {}
 }
