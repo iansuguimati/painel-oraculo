@@ -43,19 +43,6 @@
   "analise": "Hard Rock Stadium, Miami. Uruguai favoritissimo (elenco ~78 vs ~38), mas com a dupla de zaga titular DESFALCADA - Ronald Araujo e Gimenez fora por lesao, alem de Arrascaeta. Provavel Uruguai (4-4-2): Muslera; Varela, Caceres, M.Olivera, Vina; Ugarte, Bentancur, Valverde, M.Araujo; Vinas e Darwin Nunez. Arabia sem o goleiro Al-Aqidi (Al-Owais assume). Odds Uruguai 1.42 / empate 4.40 / Arabia 8.00. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. BOLAO: Uruguai 2x0 - os buracos na zaga sobem o risco de a Arabia marcar, mas o abismo tecnico sustenta a vitoria. Total alto tirou o valor do Under; Disciplinado sem aposta, reavalia 1X2/handicap/gols no apito.",
   "analises": [
     {
-      "jogo": "Arabia Saudita x Uruguai",
-      "hora": "19:00",
-      "elenco": "Uruguai ~78 vs Arabia ~38",
-      "bolao": "Uruguai 2x0",
-      "disc": "- (recalibrado ve +gols, Under sem valor)",
-      "louco": "Uruguai",
-      "fav": "Uruguai",
-      "fav_odd": "1.40",
-      "fav_mkt": "Uruguai",
-      "fav_mkt_odd": "1.40",
-      "texto": "<b>Calibrado.</b> Lambda: Arabia 0,77 x Uruguai 2,29 (total 3,06). 1X2: Uruguai <b>71%</b>/18%/Arabia 10%. Placar otimo e exato+provavel: <b>Uruguai 2x0</b> (0x2, 12%). Atencao: com o modelo recalibrado o total subiu p/ 3,06 - o Under 2,5 que antes parecia valor SUMIU. Sem aposta no Disciplinado."
-    },
-    {
       "jogo": "Ira x Nova Zelandia",
       "hora": "22:00",
       "elenco": "Ira ~52 vs Nova Zelandia ~30",
@@ -70,11 +57,11 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Arabia Saudita x Uruguai",
-    "o1": "1.42",
-    "ox": "4.40",
-    "o2": "8.00",
+    "jogo": "Ira x Nova Zelandia",
+    "o1": "1.95",
+    "ox": "-",
+    "o2": "4.59",
     "under": "-",
-    "hora": "linha pre-jogo (apito nao capturado; usada como referencia de CLV)"
+    "hora": "linha pre-jogo (apito do proximo jogo ainda nao capturado; referencia de CLV)"
   }
 }
