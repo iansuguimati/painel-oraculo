@@ -1,6 +1,11 @@
 [
  {
   "tipo": "aovivo",
+  "texto": "AO VIVO ~45min, fim do 1o tempo a vista - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). A Furia aperta na reta final da etapa: Ferran Torres carimbou a TRAVE e Vozinha fez defesa decisiva em chute forte de Pedri (no lance, escanteio anulado por impedimento de Cucurella). Cabo Verde sustenta o 0x0 com as duas linhas e ainda assusta no contra-ataque. LEITURA: vitoria da Espanha segue amplamente favorita (mercado 1.08), SEM alerta - ninguem marcou e o vencedor previsto nao muda; mas o palpite 4x0 virou cenario remoto - com o 1o tempo caminhando para o zero, o placar alto perde forca de vez. Detalhe de escalacao: Gavi confirmado no meio (no lugar de Baena). Fontes: Outlook India, World Soccer Talk, FIFA, News24 (15/06).",
+  "hora": "13:45"
+ },
+ {
+  "tipo": "aovivo",
   "texto": "AO VIVO 1o tempo - Espanha 0x0 Cabo Verde (~40 min, Mercedes-Benz Stadium). O azarao surpreende: Cabo Verde fecha o 4-2-3-1, sustenta o zero e ainda assustou - Steven Moreira saiu em boa posicao aos 27 min e mandou pra fora. A Furia cria mas peca: Oyarzabal nao alcancou o cruzamento de Pedri (12 min), Cucurella bateu por cima e um penalti reclamado aos 4 min foi anulado pelo VAR (virou tiro de meta). Sidny Cabral ja levou amarelo. LEITURA: a vitoria da Espanha segue de pe (favorita extrema, mercado 1.08), mas o palpite 4x0 esfria - cada minuto em branco corta o teto de gols. SEM alerta: ninguem marcou e a previsao de vencedor nao mudou. Detalhe de escalacao: varias fontes apontam Gavi no meio-campo (no lugar de Baena), troca que nao muda a leitura."
  },
  {
@@ -191,10 +196,5 @@
   "tipo": "aovivo",
   "hora": "20:27",
   "texto": "BOLA ROLANDO - Costa do Marfim x Equador (Lincoln Financial Field, Filadelfia). Inicio do 1o tempo; sem gols na largada (0x0). Escalacoes confirmadas - Marfim: Fofana; Guela Doue, Singo, Agbadou, Konan; Kessie, Diomande, Bazoumana Toure; Pepe, Wahi. Equador: Galindez; Ordonez, Pacho, Hincapie; Caicedo, Alan Franco, Pedro Vite; Plata, Enner Valencia, Yeboah. Palpite do bolao Equador 1x0; tip Disciplinado UNDER 1,75 (pega a 2.15)."
- },
- {
-  "tipo": "resumo",
-  "hora": "20:27",
-  "texto": "PLACAR ATUALIZADO: 15 pontos Prodefy, 1X2 em 67% (4/6). Brier do modelo 0,497 vs 0,481 do mercado (n=6). Simulacao 100 reais - Favorito do modelo e do mercado +102 cada (ROI +17%), Jogo Louco -230, Disciplinado neutro (1 tip vivo: Marfim Under 1,75). Falta Suecia x Tunisia as 23h."
  }
 ]
