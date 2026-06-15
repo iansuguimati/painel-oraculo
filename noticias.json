@@ -1,19 +1,18 @@
 [
   {
     "tipo": "fechamento",
-    "texto": "FIM DE JOGO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). HISTORICO: na estreia em Copas, Cabo Verde segura empate epico contra uma das favoritas ao titulo. Espanha com cerca de 67% de posse e dominio total mas esbarrou no bloco baixo, no travessao (Ferran) e num Vozinha gigante (varias defesas). Cabo Verde nao acertou o alvo e levou 1 ponto de ouro. FECHAMENTO DO ORACULO: nosso palpite Espanha 4x0 (vitoria 95%) NAO se confirmou. Bolao: 1 ponto (acertamos so o zero de Cabo Verde) - total agora 21. Brier do modelo 1,824 vs mercado 1,644: foi nossa pior leitura do torneio, fomos mais confiantes (95%) que o proprio mercado (89%) e o empate puniu os dois. Disciplinado: sem tip aqui (mismatch, sem Under) - ficou de fora, 0. Favorito do modelo e do mercado (Espanha 1.06): -100 cada. Jogo Louco (Over 3,5): -100. LICAO: mismatch no papel nao garante goleada - bloco baixo + dia de gala do goleiro travam o teto. Proximo: Belgica x Egito as 16h."
-  },
-  {
-    "tipo": "aovivo",
-    "texto": "AO VIVO 2o tempo (cerca de 58 min reais; o painel vinha adiantado, agora alinhado a fonte Gazeta) - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Posse 67% Espanha e 6 finalizacoes no gol, TODAS defendidas por Vozinha - o goleiro cabo-verdiano faz jogo de gala. Laporte (cabeca, 47 do 1o tempo) e Ferran (na trave aos 38) desperdicam; Cabo Verde 0 no alvo, fechado e disciplinado. ALERTA segue ativo: nosso 4x0 morto, vitoria espanhola ~55%, empate ~42%, Under 2,5 quase certo."
+    "texto": "FIM DE JOGO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). HISTORICO: na estreia em Copas, Cabo Verde segura empate epico contra uma das favoritas ao titulo. Espanha com cerca de 67% de posse e dominio total mas esbarrou no bloco baixo, no travessao (Ferran) e num Vozinha gigante (varias defesas). Cabo Verde nao acertou o alvo e levou 1 ponto de ouro. FECHAMENTO DO ORACULO: nosso palpite Espanha 4x0 (vitoria 95%) NAO se confirmou. Bolao: 1 ponto (acertamos so o zero de Cabo Verde) - total agora 21. Brier do modelo 1,824 vs mercado 1,644: foi nossa pior leitura do torneio, fomos mais confiantes (95%) que o proprio mercado (89%) e o empate puniu os dois. Disciplinado: sem tip aqui (mismatch, sem Under) - ficou de fora, 0. Favorito do modelo e do mercado (Espanha 1.06): -100 cada. Jogo Louco (Over 3,5): -100. LICAO: mismatch no papel nao garante goleada - bloco baixo + dia de gala do goleiro travam o teto. Proximo: Belgica x Egito as 16h.",
+    "hora": "14:35"
   },
   {
     "tipo": "alerta",
-    "texto": "ALERTA - Espanha x Cabo Verde: 0-0 no 2o tempo (~75'), Cabo Verde segurando o zero contra nossa leitura. Vozinha pegando tudo; Ferran na trave aos 39' e cabecada de Oyarzabal salva. Previsao ANTERIOR Espanha 4x0 (vitoria 95%) -> NOVA: 4x0 morto, vitoria espanhola caiu p/ ~55%, empate subiu p/ ~42%, Under 2,5 quase certo."
+    "texto": "ALERTA - Espanha x Cabo Verde: 0-0 no 2o tempo (~75'), Cabo Verde segurando o zero contra nossa leitura. Vozinha pegando tudo; Ferran na trave aos 39' e cabecada de Oyarzabal salva. Previsao ANTERIOR Espanha 4x0 (vitoria 95%) -> NOVA: 4x0 morto, vitoria espanhola caiu p/ ~55%, empate subiu p/ ~42%, Under 2,5 quase certo.",
+    "hora": "14:24"
   },
   {
     "tipo": "aovivo",
-    "texto": "AO VIVO - Espanha x Cabo Verde 0-0, 2o tempo em andamento (~75'). 1o tempo: Espanha com 12 finalizacoes (so contra a Suica em 1966 teve mais num 1o tempo sem marcar) e nada na rede - Ferran na trave aos 39', cabecada de Oyarzabal salva por Vozinha. Amarelo p/ Sidny Lopes Cabral aos 15'. Sem expulsoes. Cabo Verde com bloco baixo segurando a Furia na estreia historica."
+    "texto": "AO VIVO - Espanha x Cabo Verde 0-0, 2o tempo em andamento (~75'). 1o tempo: Espanha com 12 finalizacoes (so contra a Suica em 1966 teve mais num 1o tempo sem marcar) e nada na rede - Ferran na trave aos 39', cabecada de Oyarzabal salva por Vozinha. Amarelo p/ Sidny Lopes Cabral aos 15'. Sem expulsoes. Cabo Verde com bloco baixo segurando a Furia na estreia historica.",
+    "hora": "14:23"
   },
   {
     "tipo": "esquenta",
@@ -37,20 +36,13 @@
   },
   {
     "tipo": "aovivo",
-    "texto": "AO VIVO reta final 2o tempo - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Os Tubaroes Azuis a poucos minutos de um ponto historico na estreia em Mundiais: bloco baixo 4-2-3-1 intacto e Vozinha gigante no gol. La Furia domina posse (~70 por cento) e tem xG esmagador (~1,2 a 0,0), mas esbarrou na trave, em defesaco e na propria pontaria. De la Fuente recorre a Lamine Yamal para forcar o gol na reta final. LEITURA: o modelo ainda da a Espanha como favorita a furar o ferrolho, mas a chance de empate sobe forte com o relogio correndo. Palpite do bolao (Espanha 4x0) ja descartado; agora vale a vitoria magra ou ate o 0x0 historico. Sem alerta - ninguem marcou e o vencedor previsto nao mudou; o alerta dispara se Cabo Verde segurar ate o apito ou marcar."
-  },
-  {
-    "tipo": "aovivo",
-    "texto": "AO VIVO 2o tempo - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Os Tubaroes Azuis seguem segurando o nulo na estreia historica em Mundiais. La Furia volta do intervalo com mais intensidade (Oyarzabal de centroavante, Ferran Torres e Baena pelos lados) mas esbarra no 4-2-3-1 fechado de Cabo Verde - ja tinha carimbado o travessao com Ferran Torres. Palpite do bolao (Espanha 4x0) virtualmente fora de alcance pelo placar; modelo dava Espanha 95 por cento e ela segue favorita a furar o bloqueio, mas o relogio joga a favor do azarao. Sem novo gol e sem cartao desde o amarelo de Sidny Cabral."
+    "texto": "AO VIVO 2o tempo - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Os Tubaroes Azuis seguem segurando o nulo na estreia historica em Mundiais. La Furia volta do intervalo com mais intensidade (Oyarzabal de centroavante, Ferran Torres e Baena pelos lados) mas esbarra no 4-2-3-1 fechado de Cabo Verde - ja tinha carimbado o travessao com Ferran Torres. Palpite do bolao (Espanha 4x0) virtualmente fora de alcance pelo placar; modelo dava Espanha 95 por cento e ela segue favorita a furar o bloqueio, mas o relogio joga a favor do azarao. Sem novo gol e sem cartao desde o amarelo de Sidny Cabral.",
+    "hora": "14:08"
   },
   {
     "tipo": "esquenta",
     "texto": "ESQUENTA - Belgica x Egito (apito 16:00, Grupo G). Palpite do bolao: Belgica 2x0. Modelo calibrado: lambda Belgica 2,08 x Egito 0,85 (total 2,93). 1X2: Belgica 65 por cento, empate 21, Egito 14. Placar exato mais provavel e tambem o melhor para o Prodefy coincidem: 2x0 (12 por cento). DE OLHO NO VALOR: Over 2,5 gols sai ~56 por cento no nosso modelo contra ~47 por cento implicito no mercado (edge ~+9pp) - principal candidato do Disciplinado, a confirmar no apito. Belgica chega superior com De Bruyne; Egito aposta em Salah e no bloco defensivo.",
     "hora": "14:03"
-  },
-  {
-    "tipo": "aovivo",
-    "texto": "AO VIVO 2o tempo ~58min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). O azarao SEGUE segurando o nulo na estreia historica em Mundiais. La Furia empilha chances - Ferran Torres acertou a trave e Vozinha defendeu o cabeceio de Oyarzabal - mas nao furou o bloco cabo-verdiano. Nosso palpite Espanha 4x0 sob pressao: jogo travado derruba o teto de gols, mas a Espanha domina e busca o 1o gol."
   },
   {
     "tipo": "aovivo",
@@ -64,11 +56,8 @@
   },
   {
     "tipo": "aovivo",
-    "texto": "AO VIVO 1o tempo - Espanha 0x0 Cabo Verde (~40 min, Mercedes-Benz Stadium). O azarao surpreende: Cabo Verde fecha o 4-2-3-1, sustenta o zero e ainda assustou - Steven Moreira saiu em boa posicao aos 27 min e mandou pra fora. A Furia cria mas peca: Oyarzabal nao alcancou o cruzamento de Pedri (12 min), Cucurella bateu por cima e um penalti reclamado aos 4 min foi anulado pelo VAR (virou tiro de meta). Sidny Cabral ja levou amarelo. LEITURA: a vitoria da Espanha segue de pe (favorita extrema, mercado 1.08), mas o palpite 4x0 esfria - cada minuto em branco corta o teto de gols. SEM alerta: ninguem marcou e a previsao de vencedor nao mudou. Detalhe de escalacao: varias fontes apontam Gavi no meio-campo (no lugar de Baena), troca que nao muda a leitura."
-  },
-  {
-    "tipo": "aovivo",
-    "texto": "AO VIVO ~42min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Reta final do 1o tempo e o roteiro segue contra o nosso placar: La Furia tem a bola toda mas pouca objetividade. Cucurella mandou por cima do travessao na melhor chance espanhola; Vozinha, goleiro cabo-verdiano, seguro no que chegou. A defesa em duas linhas de Cabo Verde aguenta. Vencedor ainda fortemente Espanha (abriu 1.08 no apito), mas o 4x0 do bolao virou cenario remoto - se vier gol no 1o tempo, leitura de blowout volta; se for 0x0 ao intervalo, o jogo pede paciencia e o placar exato perde forca."
+    "texto": "AO VIVO 1o tempo - Espanha 0x0 Cabo Verde (~40 min, Mercedes-Benz Stadium). O azarao surpreende: Cabo Verde fecha o 4-2-3-1, sustenta o zero e ainda assustou - Steven Moreira saiu em boa posicao aos 27 min e mandou pra fora. A Furia cria mas peca: Oyarzabal nao alcancou o cruzamento de Pedri (12 min), Cucurella bateu por cima e um penalti reclamado aos 4 min foi anulado pelo VAR (virou tiro de meta). Sidny Cabral ja levou amarelo. LEITURA: a vitoria da Espanha segue de pe (favorita extrema, mercado 1.08), mas o palpite 4x0 esfria - cada minuto em branco corta o teto de gols. SEM alerta: ninguem marcou e a previsao de vencedor nao mudou. Detalhe de escalacao: varias fontes apontam Gavi no meio-campo (no lugar de Baena), troca que nao muda a leitura.",
+    "hora": "13:40"
   },
   {
     "tipo": "aovivo",
