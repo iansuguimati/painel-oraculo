@@ -1,5 +1,25 @@
 [
  {
+  "tipo": "alerta",
+  "texto": "ALERTA - Belgica x Egito: Lukaku FORA do XI e o Egito abriu 1x0 com Ashour (19 do 1o tempo, assistencia de Salah) | previsao ANTERIOR Belgica 2x0 (P 65 por cento) -> NOVA leitura: Egito surpreende e segura, vitoria belga cai para ~45 por cento, empate e derrota ganham forca."
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO - Belgica 0x1 Egito. GOL DO EGITO: Emam Ashour aos 19 do 1o tempo, golaco de fora da area apos assistencia de Salah no canto de Courtois. Faraos lideram no intervalo - primeira vez que o Egito vence um 1o tempo em Copas. Belgica com ~70 por cento de posse mas sem furar o bloqueio ate aqui."
+ },
+ {
+  "tipo": "odds",
+  "texto": "ODDS NO APITO - Belgica x Egito: Belgica 1.55 | Empate 4.00 | Egito 6.50 | Under 2,5 1.90 (linha de fechamento, base do CLV). Mercado entrou com a Belgica favorita folgada; o gol egipcio aos 19 vira a chave do jogo."
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "BOLA ROLANDO - comeca Belgica x Egito (Lumen Field, Seattle). Apito as 16:00 de Brasilia. Palpite original: Belgica 2x0. Nota de escalacao: Lukaku fora, De Ketelaere de centroavante; De Bruyne, Doku e Trossard no apoio. Egito com Salah e Marmoush."
+ },
+ {
+  "tipo": "fechamento",
+  "texto": "FIM DE JOGO - Espanha 0x0 Cabo Verde. ZEBRA HISTORICA: Cabo Verde, estreante em Copas, segura a Furia. Vozinha fez 7 defesas e foi eleito o melhor em campo; Espanha teve 27 finalizacoes e ~70 por cento de posse sem marcar. Nosso palpite Espanha 4x0 FUROU - o modelo superestimou (lambda 4,14). Bolao 0 pts. Disciplinado se salvou: sem tip no mismatch (licao aplicada). Fav, FavMercado e Louco -100 reais cada."
+ },
+ {
   "tipo": "aovivo",
   "hora": "16:58",
   "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 60 min (Lumen Field, Seattle). Egito segura o golaco de Emam Ashour (19min) firme no bloco baixo, com Salah e Marmoush ameacando nos contras. A Belgica de Rudi Garcia segue com a posse e empurra por De Bruyne, Doku e Trossard, mas ainda nao furou - Lukaku ja se aquece no banco para dar referencia de area. Placar mantido 0x1, sem novo gol nesta etapa. Leitura segue INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisa de 2 gols em cerca de 30min e o relogio aperta - mas Belgica lancada com 9 de oficio tende a abrir espacos para o jogo estourar."
@@ -172,30 +192,5 @@
   "tipo": "ao_vivo",
   "hora": "21:18",
   "texto": "AO VIVO - Costa do Marfim 0x0 Equador (2o tempo em andamento), Lincoln Financial Field, Filadelfia. Pelo relogio real (apito as 20:00 de Brasilia) a bola rola ha pouco mais de uma hora, por volta dos 60-65 min de jogo - o painel vinha marcando o minuto adiantado, entao a reta final ainda nao chegou. Segue 0 a 0. Novidade: a Costa do Marfim levou tres amarelos por faltas duras no meio - Guela Doue, Franck Kessie e Seko Fofana ja estao pendurados, o que pesa na marcacao marfinense e abre risco para o segundo cartao. O Equador segue mais perigoso e voltou a assustar com Enner Valencia, dessa vez mandando na rede pelo lado de fora. Jogo truncado, de poucas chances claras: o roteiro continua empurrando para o Under 2,5. Sem gols ate aqui."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "21:13",
-  "texto": "AO VIVO - Costa do Marfim x Equador (2o tempo, ~73 min), Lincoln Financial Field, Filadelfia: segue 0 x 0. Equador segue mais perigoso (ja carimbou o travessao duas vezes). Jogo muito fisico e cheio de amarelos; Guela Doue esta pendurado e escapou da expulsao apos pisao em Enner Valencia (sem cartao vermelho confirmado ate agora). Palpite Equador 1x0 ainda de pe, mas o gol custa a sair."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "21:08",
-  "texto": "AO VIVO - Costa do Marfim x Equador (2o tempo, por volta dos 60 min), Lincoln Financial Field, Filadelfia: segue 0 a 0. O primeiro tempo terminou empatado e sem gols, mas com o Equador melhor - La Tri carimbou o travessao DUAS vezes (Yeboah e Minda) e seguiu pressionando na etapa final, com Enner Valencia cabeceando por cima. A Costa do Marfim se fecha bem e aposta no contra-ataque. Jogo aberto nas chances, travado no placar. Nenhum gol novo confirmado pelas fontes (ESPN, Flashscore, Sofascore, Terra, World Soccer Talk). Sem alerta - placar inalterado, leitura de jogo equilibrado com leve favoritismo do Equador para furar o bloco. Proximo da agenda: Suecia x Tunisia as 23:00."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "21:05",
-  "texto": "AO VIVO - Costa do Marfim x Equador (2o tempo, por volta dos 65 min): segue 0 x 0. Pelo relogio real (apito as 20:00) o jogo passou da hora de bola rolando e entra na fase decisiva. As fontes (ge, Sofascore, ESPN Brasil, World Soccer Talk) nao registram gol novo nem expulsao desde o intervalo - amarelos para Guela Doue e Kessie no lado marfinense. O Equador segue com as chances de melhor qualidade (o travessao salvou a Costa do Marfim no 1o tempo), enquanto o Marfim responde em lances individuais de Singo e Yan Diomande. Palpite do bolao (Equador 1x0) ainda vivo; o 0 a 0 favorece o nosso laboratorio (Under 1,75) e o cenario de empate. Sem alerta - placar inalterado."
- },
- {
-  "tipo": "esquenta",
-  "hora": "21:05",
-  "texto": "ESQUENTA - Suecia x Tunisia (23:00, Brasilia, Estadio BBVA em Monterrey, Mexico), estreia do Grupo F. Palpite do bolao: Suecia 1x0. A Suecia de Graham Potter aposta no ataque mais forte do grupo - Isak e Gyokeres na frente, Elanga pela ponta; a Tunisia de Sabri Lamouchi se arma em bloco baixo e organizacao, mirando o contra-ataque com Mejbri e Achouri. Leitura inicial: favoritismo sueco moderado pela qualidade ofensiva, mas a solidez tunisiana puxa o jogo para poucos gols - faixa de 1x0 ou 2x1 e Under com valor aparente. Monterrey costuma ter noite quente, fator a observar no ritmo. Escalacoes confirmadas e movimento de odds saem nos proximos estagios."
- },
- {
-  "tipo": "ao_vivo",
-  "texto": "AO VIVO - Costa do Marfim x Equador (2o tempo, por volta dos 55 min): segue 0 x 0. Recomeco sem mudar o roteiro do 1o tempo - jogo truncado, com o Equador um pouco melhor (acertou a trave num chute de fora da area antes do intervalo e tem mais controle com Caicedo e Plata). A Costa do Marfim segura no 4-4-2 e ja gastou dois amarelos no meio (Kessie e Seko Fofana), o que pede cautela nas divididas. Placar 0x0 mantem a leitura de jogo fechado e baixa producao ofensiva. Fontes: Sofascore, ESPN, VAVEL, Flashscore (consulta as 20:56 de Brasilia).",
-  "hora": "20:56"
  }
 ]

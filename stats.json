@@ -30,7 +30,7 @@
   },
   "lines": {
     "bolao": "Belgica 2x0",
-    "disc": "Over 2,5 (1.91)",
+    "disc": "-",
     "louco": "Over 2,5"
   },
   "next": {
@@ -39,9 +39,9 @@
   },
   "alerta": {
     "ativo": true,
-    "hora": "16:29",
+    "hora": "17:05",
     "jogo": "Belgica x Egito",
-    "texto": "Egito abre 1x0 com Emam Ashour aos 19min (golaco; Salah faz 34 anos hoje). ANTERIOR: Belgica 2x0, Belgica 65 por cento / empate 21 / Egito 14. NOVO: azarao na frente, leitura invertida -> Belgica ~42 / empate ~28 / Egito ~30; palpite 2x0 ameacado. Disciplinado (Over 2,5 a 1.91) intacto: 1 gol ja entrou, faltam 2 em ~70min."
+    "texto": "Lukaku fora do XI e Egito abriu 1x0 (Ashour 19, assist Salah). Previsao ANTERIOR Belgica 2x0 (P 65 por cento) -> NOVA: Egito surpreende, vitoria belga ~45 por cento, empate/derrota ganham forca."
   },
   "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
   "analises": [
@@ -87,10 +87,10 @@
   ],
   "odds_fech": {
     "jogo": "Belgica x Egito",
-    "o1": "1.57",
+    "o1": "1.55",
     "ox": "4.00",
-    "o2": "6.00",
-    "under": "1.91",
+    "o2": "6.50",
+    "under": "1.90",
     "hora": "16:00"
   }
 }
