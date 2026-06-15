@@ -1,6 +1,16 @@
 [
  {
   "tipo": "aovivo",
+  "hora": "17:24",
+  "texto": "AO VIVO - Belgica 0x1 Egito, segundo tempo em andamento (Lumen Field, Seattle). Nova chance clarissima do Egito: Salah cabeceou e Courtois espalmou; no rebote, Ashour - autor do gol - mandou para fora e perdeu o 2x0 que praticamente liquidaria a partida. A Belgica de Rudi Garcia segue com a posse e empurrando por De Bruyne, Doku e Trossard, mas nao fura o bloco baixo egipcio. Placar mantido 0x1. Leitura permanece INVERTIDA do palpite do bolao (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) cada vez mais improvavel - precisaria de 3 gols no tempo restante; o jogo caminha para Under e ameaca a segunda grande zebra do dia, ao lado do 0x0 da Espanha."
+ },
+ {
+  "tipo": "forma",
+  "hora": "17:24",
+  "texto": "FORMA - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Forma recente da Celeste de Bielsa e irregular: empates 1x1 com a Inglaterra e 0x0 com a Argelia em marco, depois de levar 5x1 dos EUA em novembro; nas Eliminatorias fechou em 4o, com so 1 vitoria nos 9 jogos da reta final. Mesmo assim entra favoritissima pelo elenco (~78 vs ~38) e pela diferenca tecnica, ainda que sem Arrascaeta (lesao) e sem Araujo. A Arabia de Georgios Donis (no cargo desde abril) chega sem o goleiro Al-Aqidi (lesao); Al-Owais, titular em 2022, assume. Palpite do bolao: Uruguai 2x0. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Total recalibrado p/ cima tirou o valor do Under - Disciplinado sem aposta, reavalia no apito."
+ },
+ {
+  "tipo": "aovivo",
   "texto": "AO VIVO - Belgica 0x1 Egito, reta final (Lumen Field, Seattle). A Belgica joga com tudo no campo de ataque atras do empate, mas o Egito se fecha bem e segura o golaco de Emam Ashour (19min). Placar segue 0x1. Leitura do produto: o palpite do bolao Belgica 2x0 ja nao sai, e o Over 2,5 do Disciplinado morre se o 0x1 persistir ate o apito. Egito a poucos minutos de uma zebra historica - aguardando o fim oficial."
  },
  {
@@ -180,15 +190,5 @@
   "tipo": "esquenta",
   "hora": "22:07",
   "texto": "ULTIMA HORA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Escalacoes provaveis ja circulando. SUECIA num 3-4-2-1 com a dupla de elite Isak e Gyokeres confirmada na frente e Elanga/Nygren apoiando - Zetterstrom (ou Nordfeldt) no gol; Lagerbielke, Hien e a zaga; Svanberg, Karlstrom e Ayari no meio. TUNISIA defensiva no 4-2-3-1: Skhiri e Khedira de duplo volante blindando a zaga (Talbi, Rekik), Mejbri e Achouri na criacao, Chaouat de referencia. Nenhum titular decisivo ausente nos dois lados - a leitura NAO muda. ODDS estaveis: Suecia ~1.92 (sem steam; abria 1.93), 'ambos marcam: nao' pagando 1.76 e 0x0 a 7.75 - o mercado tambem espera jogo de poucos gols, em linha com nosso Under e o palpite Suecia 1x0. Palpite mantido. Sem alerta. Fontes: Khelnow, Rotowire, Sports Mole, netflu, Trivela (14/06)."
- },
- {
-  "tipo": "resultado",
-  "hora": "22:00",
-  "texto": "RESULTADO - Costa do Marfim 1x0 Equador (Lincoln Financial Field, Philadelphia). Amad Diallo decidiu nos acrescimos; o Equador criou mais, mas parou no goleiro marfinense. Total de 1 gol: Under 2,5 bateu. Jogo FORA do nosso book do dia (sem palpite na agenda), registro apenas factual, sem pontuacao do bolao nem simulacao de 100 reais."
- },
- {
-  "tipo": "esquenta",
-  "hora": "21:57",
-  "texto": "HISTORICO - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Primeiro encontro das selecoes em Copas do Mundo - so se cruzaram 4 vezes, todas em amistosos, com vantagem sueca: 2 vitorias, 1 empate, 1 derrota. Empate 1x1 em 1976, vitorias da Suecia por 1x0 em 1992 e 1999, e 1x0 da Tunisia em 2003 (gol de Najeh Braham). Nenhum desses confrontos passou de 2 gols no total e nunca um lado fez mais de 1 - o historico reforca a leitura de jogo travado e mantem o palpite Suecia 1x0. Fontes: Sports Mole, 11v11, AiScore (14/06)."
  }
 ]
