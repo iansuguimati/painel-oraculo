@@ -10,6 +10,11 @@
     "texto": "ANALISE FUNDAMENTADA publicada (modelo Dixon-Coles rodado). A matematica do EP revisou 3 palpites: Espanha 3x0 (nao 4x0), Belgica 1x0, Uruguai 1x0. Valor do dia: Belgica-Egito Over 2,5 (edge +9,8pp) e Ira vitoria (edge +4,9pp marginal). Espanha-Cabo Verde: modelo aponta Under mas REJEITAMOS (armadilha de mismatch). Uruguai: sem aposta, nenhum mercado bate o corte."
   },
   {
+    "tipo": "resumo",
+    "hora": "09:30",
+    "texto": "BOM DIA 15/06. Fechamos a rodada de ontem (fonte API ESPN): Alemanha 7x1 Curacao (nosso 3x0 = 3pts, vencedor certo), Holanda 2x2 Japao (1pt), Marfim 1x0 Equador (tip Under do Disciplinado GANHOU, +115%), Suecia 5x1 Tunisia (nosso 1x0, vencedor certo mas placar errou feio), e Australia 2x0 Turquia (nosso Turquia 2x1, ERRAMOS - jogo que nao tinha sido registrado, agora logado por honestidade). LICAO DE MODELO: em jogos de estreia com diferenca GRANDE de nivel (Alemanha 7, Suecia 5) os gols vieram MUITO acima do nosso fator-cautela-de-estreia. O fator vale para jogos equilibrados, nao para mismatch. Por isso hoje Espanha x Cabo Verde sai 4x0 (placar alto) e nao 3x0. Placar atual: bolao 20 pts, acerto de vencedor 60% (6/10), Brier 0.491 (mercado 0.491) (empatado com o mercado - ainda nao batemos)."
+  },
+  {
     "tipo": "resultado",
     "hora": "00:50",
     "texto": "RESULTADO - Suecia 5x1 Tunisia (Estadio BBVA, Monterrey). Ayari (2x), Isak, Gyokeres e Svanberg; Rekik descontou. Suecia abriu cedo (Ayari aos 7) e atropelou - a leitura de Suecia favorita e jogo aberto se confirmou com folga; placar bem acima do nosso 1x0. Suecia lidera o Grupo F isolada; no outro jogo Holanda 2x2 Japao. Jogo FORA do book do dia (palpite na agenda), registro factual: sem pontuacao do bolao nem simulacao de 100 reais."
@@ -153,11 +158,6 @@
     "tipo": "resultado",
     "hora": "16:05",
     "texto": "FIM (14/06): Alemanha 7x1 Curacao. Havertz (2x) liderou a goleada; Comenencia fez o gol historico da Curacao na 1a Copa. Palpite do bolao Alemanha 3x0 = 3 PONTOS (vencedor certo; a goleada passou muito do nosso placar e a Curacao furou o zero). Jogo Louco Under 4,5 PERDEU (8 gols)."
-  },
-  {
-    "tipo": "resumo",
-    "hora": "09:30",
-    "texto": "BOM DIA 15/06. Fechamos a rodada de ontem (fonte API ESPN): Alemanha 7x1 Curacao (nosso 3x0 = 3pts, vencedor certo), Holanda 2x2 Japao (1pt), Marfim 1x0 Equador (tip Under do Disciplinado GANHOU, +115%), Suecia 5x1 Tunisia (nosso 1x0, vencedor certo mas placar errou feio), e Australia 2x0 Turquia (nosso Turquia 2x1, ERRAMOS - jogo que nao tinha sido registrado, agora logado por honestidade). LICAO DE MODELO: em jogos de estreia com diferenca GRANDE de nivel (Alemanha 7, Suecia 5) os gols vieram MUITO acima do nosso fator-cautela-de-estreia. O fator vale para jogos equilibrados, nao para mismatch. Por isso hoje Espanha x Cabo Verde sai 4x0 (placar alto) e nao 3x0. Placar atual: bolao 20 pts, acerto de vencedor 60% (6/10), Brier 0.491 (mercado 0.491) (empatado com o mercado - ainda nao batemos)."
   },
   {
     "tipo": "agenda",
