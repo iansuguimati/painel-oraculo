@@ -1,6 +1,11 @@
 [
   {
     "tipo": "aovivo",
+    "hora": "16:07",
+    "texto": "AO VIVO - Belgica 0x0 Egito (cerca de 7 min, Lumen Field-Seattle). Comeco de jogo dentro do roteiro: a Belgica assume a bola e a iniciativa, com De Bruyne caindo entre as linhas para municiar Doku e Trossard; o Egito se fecha no bloco baixo e aposta na velocidade de Salah e Marmoush no contra-ataque, exatamente o desenho que esperavamos. Placar zerado, SEM gol, SEM cartao e SEM expulsao ate aqui (checado nas fontes). LEITURA mantida e SEM alerta - vencedor previsto segue Belgica (modelo 65 por cento / empate 21 / Egito 14), palpite do bolao Belgica 2x0, e o Disciplinado segue no Over 2,5 (entrada 1.96): jogo aberto e tendencia de bola na frente reforcam o teto de gols. Fontes: ESPN, FOX Sports, Sofascore, FlashScore, Al Jazeera (checado 16:07 BRT)."
+  },
+  {
+    "tipo": "aovivo",
     "hora": "16:01",
     "texto": "BOLA ROLANDO - comeca Belgica x Egito (Lumen Field, Seattle), abertura do Grupo G. De Bruyne x Salah em campo. Modelo: Belgica 65 por cento / empate 21 / Egito 14; palpite do bolao Belgica 2x0. PRODUTO ja definido no apito: Disciplinado ENTROU no Over 2,5 a 1.96 (modelo 56 por cento vs mercado ~51, Edge ~+5pp, EV ~+10 por cento), stake 100 reais. Linha de fechamento 1X2: Belgica 1.59 | Empate 3.90 | Egito 5.50 | Under 2,5 1.81. Agora e acompanhar os lances. Fontes: ESPN, FOX Sports, Sofascore, LiveScore (checado 16:01 BRT)."
   },
@@ -193,10 +198,5 @@
     "tipo": "esquenta",
     "hora": "22:07",
     "texto": "ULTIMA HORA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Escalacoes provaveis ja circulando. SUECIA num 3-4-2-1 com a dupla de elite Isak e Gyokeres confirmada na frente e Elanga/Nygren apoiando - Zetterstrom (ou Nordfeldt) no gol; Lagerbielke, Hien e a zaga; Svanberg, Karlstrom e Ayari no meio. TUNISIA defensiva no 4-2-3-1: Skhiri e Khedira de duplo volante blindando a zaga (Talbi, Rekik), Mejbri e Achouri na criacao, Chaouat de referencia. Nenhum titular decisivo ausente nos dois lados - a leitura NAO muda. ODDS estaveis: Suecia ~1.92 (sem steam; abria 1.93), 'ambos marcam: nao' pagando 1.76 e 0x0 a 7.75 - o mercado tambem espera jogo de poucos gols, em linha com nosso Under e o palpite Suecia 1x0. Palpite mantido. Sem alerta. Fontes: Khelnow, Rotowire, Sports Mole, netflu, Trivela (14/06)."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "22:00",
-    "texto": "RESULTADO - Costa do Marfim 1x0 Equador (Lincoln Financial Field, Philadelphia). Amad Diallo decidiu nos acrescimos; o Equador criou mais, mas parou no goleiro marfinense. Total de 1 gol: Under 2,5 bateu. Jogo FORA do nosso book do dia (sem palpite na agenda), registro apenas factual, sem pontuacao do bolao nem simulacao de 100 reais."
   }
 ]
