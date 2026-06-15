@@ -1,79 +1,99 @@
 {
- "updated": "15/06/2026",
- "tips": 1,
- "hit": "60% (6/10)",
- "roi": "+115,0%",
- "clv": "-",
- "brier": "0.491 (mercado 0.491)",
- "bolao": 20,
- "sim100": {
-  "fav": {
-   "stake": 1000,
-   "pnl": 10,
-   "roi": "+1.0%"
+  "updated": "15/06/2026",
+  "tips": 1,
+  "hit": "60% (6/10)",
+  "roi": "+115,0%",
+  "clv": "-",
+  "brier": "0.491 (mercado 0.491)",
+  "bolao": 20,
+  "sim100": {
+    "fav": {
+      "stake": 1000,
+      "pnl": 10,
+      "roi": "+1.0%"
+    },
+    "louco": {
+      "stake": 1000,
+      "pnl": -240,
+      "roi": "-24.0%"
+    },
+    "favmkt": {
+      "stake": 1000,
+      "pnl": 10,
+      "roi": "+1.0%"
+    },
+    "disc": {
+      "stake": 100,
+      "pnl": 115,
+      "roi": "+115.0%"
+    }
   },
-  "louco": {
-   "stake": 1000,
-   "pnl": -240,
-   "roi": "-24.0%"
+  "lines": {
+    "bolao": "Suecia 1x0",
+    "disc": "-",
+    "louco": "Tunisia ML (4.60)"
   },
-  "favmkt": {
-   "stake": 1000,
-   "pnl": 10,
-   "roi": "+1.0%"
+  "next": {
+    "jogo": "Espanha x Cabo Verde",
+    "hora": "13:00 (Brasilia)"
   },
-  "disc": {
-   "stake": 100,
-   "pnl": 115,
-   "roi": "+115.0%"
-  }
- },
- "lines": {
-  "bolao": "Suecia 1x0",
-  "disc": "-",
-  "louco": "Tunisia ML (4.60)"
- },
- "next": {
-  "jogo": "Espanha x Cabo Verde",
-  "hora": "13:00 (Brasilia)"
- },
- "alerta": {
-  "ativo": false
- },
- "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
- "analises": [
-  {
-   "jogo": "Espanha x Cabo Verde",
-   "bolao": "Espanha 4x0 (mismatch - placar alto)",
-   "disc": "- (odd curta, aval. no apito)",
-   "louco": "Over 3,5",
-   "fav": "Espanha",
-   "favmkt": "Espanha"
+  "alerta": {
+    "ativo": false
   },
-  {
-   "jogo": "Belgica x Egito",
-   "bolao": "Belgica 2x1 (EP)",
-   "disc": "- (aval. na escalacao)",
-   "louco": "Belgica handicap",
-   "fav": "Belgica",
-   "favmkt": "Belgica"
-  },
-  {
-   "jogo": "Arabia Saudita x Uruguai",
-   "bolao": "Uruguai 2x0 (EP)",
-   "disc": "Under 2,5 (aval. na escalacao)",
-   "louco": "Uruguai",
-   "fav": "Uruguai",
-   "favmkt": "Uruguai"
-  },
-  {
-   "jogo": "Ira x Nova Zelandia",
-   "bolao": "Ira 1x0 (EP travado)",
-   "disc": "Under 2,5 (aval. na escalacao)",
-   "louco": "Under 2,5",
-   "fav": "Ira",
-   "favmkt": "Ira"
-  }
- ],
- "odds_fech": {}
+  "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
+  "analises": [
+    {
+      "jogo": "Espanha x Cabo Verde",
+      "hora": "13:00",
+      "elenco": "Espanha ~95 vs Cabo Verde ~15",
+      "bolao": "Espanha 3x0",
+      "disc": "- (modelo aponta Under, REJEITADO: armadilha de mismatch)",
+      "louco": "Over 3,5",
+      "fav": "Espanha",
+      "fav_odd": "1.06",
+      "fav_mkt": "Espanha",
+      "fav_mkt_odd": "1.06",
+      "texto": "<b>Modelo Dixon-Coles.</b> Gols esperados (lambda): Espanha 3,40 x Cabo Verde 0,45 (total 3,85). 1X2: Espanha <b>90,6%</b> / empate 7,3% / Cabo Verde 2,1% - quase igual ao mercado (89,1%). Placar otimo pela regra do Prodefy (maximiza pontos esperados): <b>3x0</b> (EP 3,72 pts); colados 2x0 (12,4%) e 4x0 (11,9%). DISCIPLINA: o modelo cospe Under 2,5 com EV +26%, MAS rejeitamos - e a armadilha de mismatch que nos pegou ontem (Alemanha 7x1, Suecia 5x1 estouraram o Over). Em goleada anunciada o lambda e incerto pra cima; nao apostamos Under. <i>lambda/odds sao priors do modelo; o motor confirma no apito.</i>"
+    },
+    {
+      "jogo": "Belgica x Egito",
+      "hora": "16:00",
+      "elenco": "Belgica ~80 vs Egito ~50",
+      "bolao": "Belgica 1x0 (ou 2x1)",
+      "disc": "Over 2,5 (edge +9,8pp, EV +15,9%) - candidato",
+      "louco": "Over 2,5",
+      "fav": "Belgica",
+      "fav_odd": "1.50",
+      "fav_mkt": "Belgica",
+      "fav_mkt_odd": "1.50",
+      "texto": "<b>Jogo mais aberto do dia.</b> Lambda: Belgica 1,95 x Egito 1,00 (total 2,95). 1X2: Belgica <b>58,9%</b> / empate 22,9% / Egito 18,3%. O mercado poe a Belgica mais favorita (63,3%) - vemos MENOS dominio e MAIS gols que o mercado. Placar otimo Prodefy: <b>1x0</b> (EP 2,51), colado com 2x1 e 2x0. VALOR: Over 2,5 - modelo 56,5% vs mercado 46,8%, <b>edge +9,8pp, EV +15,9%</b>. Passa o corte do Disciplinado (edge>=+4pp e EV>=+3%) - melhor candidato do dia, a confirmar nas odds de fechamento."
+    },
+    {
+      "jogo": "Arabia Saudita x Uruguai",
+      "hora": "19:00",
+      "elenco": "Uruguai ~78 vs Arabia ~38",
+      "bolao": "Uruguai 1x0",
+      "disc": "- (nenhum mercado bate o corte +4pp)",
+      "louco": "Uruguai DNB",
+      "fav": "Uruguai",
+      "fav_odd": "1.40",
+      "fav_mkt": "Uruguai",
+      "fav_mkt_odd": "1.40",
+      "texto": "<b>Uruguai favorito, jogo travado.</b> Lambda: Arabia 0,70 x Uruguai 1,70 (total 2,40 - baixo). 1X2: Uruguai <b>60,8%</b> / empate 24,8% / Arabia 14,4%. Mercado poe o Uruguai ainda mais forte (67,3%). Placar otimo Prodefy: <b>Uruguai 1x0</b> (EP 2,78); 0x2 e 1x1 atras. DISCIPLINADO SEM APOSTA: testamos todos os mercados - Under 2,5 edge -1,1pp, empate +3,9pp, Arabia +2,6pp (nenhum bate +4pp). O silencio e a feature: so apostamos com vantagem real. A melhor aposta e nenhuma."
+    },
+    {
+      "jogo": "Ira x Nova Zelandia",
+      "hora": "22:00",
+      "elenco": "Ira ~52 vs Nova Zelandia ~30",
+      "bolao": "Ira 1x0",
+      "disc": "Vitoria do Ira ~1.95 (edge +4,9pp, EV +3,5%) - marginal",
+      "louco": "Under 2,5",
+      "fav": "Ira",
+      "fav_odd": "1.95",
+      "fav_mkt": "Ira",
+      "fav_mkt_odd": "1.95",
+      "texto": "<b>Classico travado.</b> Lambda: Ira 1,45 x Nova Zelandia 0,75 (total 2,20 - baixo). 1X2: Ira <b>53,1%</b> / empate 28,3% / Nova Zelandia 18,6%. Vemos o Ira mais favorito que o mercado (48,2%). Placar otimo Prodefy: <b>Ira 1x0</b> (EP 2,56); 1x1 e 0x0 colados (poucos gols). VALOR MARGINAL: vitoria do Ira ~1,95 - edge +4,9pp, EV +3,5%, passa o corte por pouco. Under 2,5 NAO tem valor (edge -2,5pp) apesar do jogo fechado - o mercado ja precificou. Confirmar no apito."
+    }
+  ],
+  "odds_fech": {}
 }
