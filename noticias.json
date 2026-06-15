@@ -1,5 +1,9 @@
 [
  {
+  "tipo": "aovivo",
+  "texto": "AO VIVO 2o tempo (cerca de 58 min reais; o painel vinha adiantado, agora alinhado a fonte Gazeta) - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). Posse 67% Espanha e 6 finalizacoes no gol, TODAS defendidas por Vozinha - o goleiro cabo-verdiano faz jogo de gala. Laporte (cabeca, 47 do 1o tempo) e Ferran (na trave aos 38) desperdicam; Cabo Verde 0 no alvo, fechado e disciplinado. ALERTA segue ativo: nosso 4x0 morto, vitoria espanhola ~55%, empate ~42%, Under 2,5 quase certo."
+ },
+ {
   "tipo": "alerta",
   "texto": "ALERTA - Espanha x Cabo Verde: 0-0 no 2o tempo (~75'), Cabo Verde segurando o zero contra nossa leitura. Vozinha pegando tudo; Ferran na trave aos 39' e cabecada de Oyarzabal salva. Previsao ANTERIOR Espanha 4x0 (vitoria 95%) -> NOVA: 4x0 morto, vitoria espanhola caiu p/ ~55%, empate subiu p/ ~42%, Under 2,5 quase certo."
  },
@@ -186,10 +190,5 @@
   "tipo": "ao_vivo",
   "hora": "21:28",
   "texto": "AO VIVO - Costa do Marfim 0x0 Equador, entrando nos 15 minutos finais (cerca de 75 min reais; o painel vinha adiantado), Lincoln Financial Field, Filadelfia. Mais uma chegada marfinense: finalizacao de Yann Diomande passou por cima do travessao. Segue o roteiro travado que o mercado projetava: tres bolas na trave no jogo e nenhum gol. O tip Disciplinado (Under 1,75) esta praticamente liquidado a favor; o palpite do bolao (Equador 1x0) corre risco real de virar empate sem gols. Sem cartao vermelho e sem mudanca no placar - sem alerta. Fontes: FIFA, Outlook India, World Soccer Talk, ESPN (14/06)."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "21:24",
-  "texto": "AO VIVO - Costa do Marfim 0x0 Equador (reta final do 2o tempo, em torno dos 75 min), Lincoln Financial Field, Filadelfia. Jogo abriu um pouco: agora foi a vez da Costa do Marfim assustar - Elye Wahi carimbou o travessao apos boa jogada de Yann Diomande, somando-se aos dois travessoes do Equador (Yeboah e Minda) no 1o tempo. Tres bolas na trave no total e nenhuma dentro. Segue muito fisico, com amarelos dos dois lados (Guela Doue, Kessie, Seko Fofana e Fofana pendurados), sem expulsao confirmada. Roteiro travado como o mercado projetava (total 1,5): o tip Disciplinado Under 1,75 esta a poucos minutos de bater e o palpite do bolao (Equador 1x0) corre serio risco de virar empate. Fontes: ESPN, Outlook India, VAVEL, Opta Analyst, Bleacher Report. Sem alerta - placar inalterado."
  }
 ]
