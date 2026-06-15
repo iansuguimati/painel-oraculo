@@ -38,7 +38,10 @@
     "hora": "13:00 (Brasilia)"
   },
   "alerta": {
-    "ativo": false
+    "ativo": true,
+    "hora": "14:24",
+    "jogo": "Espanha x Cabo Verde",
+    "texto": "0-0 no 2o tempo, Cabo Verde segura o zero. ANTERIOR Espanha 4x0 (vit 95%) -> NOVA: 4x0 morto, vitoria ~55%, empate ~42%, Under 2,5 quase certo."
   },
   "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
   "analises": [

@@ -1,5 +1,18 @@
 [
  {
+  "tipo": "alerta",
+  "texto": "ALERTA - Espanha x Cabo Verde: 0-0 no 2o tempo (~75'), Cabo Verde segurando o zero contra nossa leitura. Vozinha pegando tudo; Ferran na trave aos 39' e cabecada de Oyarzabal salva. Previsao ANTERIOR Espanha 4x0 (vitoria 95%) -> NOVA: 4x0 morto, vitoria espanhola caiu p/ ~55%, empate subiu p/ ~42%, Under 2,5 quase certo."
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "AO VIVO - Espanha x Cabo Verde 0-0, 2o tempo em andamento (~75'). 1o tempo: Espanha com 12 finalizacoes (so contra a Suica em 1966 teve mais num 1o tempo sem marcar) e nada na rede - Ferran na trave aos 39', cabecada de Oyarzabal salva por Vozinha. Amarelo p/ Sidny Lopes Cabral aos 15'. Sem expulsoes. Cabo Verde com bloco baixo segurando a Furia na estreia historica."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "14:24",
+  "texto": "ESQUENTA - Belgica x Egito (apito 16h). Palpite calibrado: Belgica 2x0 (lambda Belgica 2,08 x Egito 0,85, total 2,93). 1X2: Belgica 65% / empate 21% / Egito 14%. Disciplinado de olho no Over 2,5 (~56% vs mercado 47%, edge ~+9pp) - confirma no apito. Egito aposta no contra-ataque de Salah; escalacoes saem ~15 min antes."
+ },
+ {
   "tipo": "esquenta",
   "hora": "14:24",
   "texto": "FORMA - Belgica x Egito (apito 16:00, Grupo G, Lumen Field-Seattle). Belgica chega embalada: 13 jogos de invencibilidade sob Rudi Garcia, fechando a preparacao com 5x0 na Tunisia (06/06) e 2x0 na Croacia (02/06). Egito tambem vem invicto nas Eliminatorias (cerca de 5V 1E em 6), mas tropecou no aquecimento - perdeu 2x1 para o Brasil - e tem como trunfo o bloco defensivo que segurou a propria Espanha num 0x0 em marco. Modelo calibrado mantem: Belgica 65 por cento, empate 21, Egito 14; palpite do bolao Belgica 2x0. Valor mapeado segue o Over 2,5 (modelo cerca de 56 por cento vs cerca de 47 do mercado, edge cerca de +9pp) - candidato do Disciplinado, a confirmar no apito. Fontes: CNN Brasil, Gazeta Esportiva, Observador (checado 14:24 BRT)."
@@ -178,20 +191,5 @@
   "tipo": "ao_vivo",
   "hora": "21:24",
   "texto": "AO VIVO - Costa do Marfim 0x0 Equador (reta final do 2o tempo, em torno dos 75 min), Lincoln Financial Field, Filadelfia. Jogo abriu um pouco: agora foi a vez da Costa do Marfim assustar - Elye Wahi carimbou o travessao apos boa jogada de Yann Diomande, somando-se aos dois travessoes do Equador (Yeboah e Minda) no 1o tempo. Tres bolas na trave no total e nenhuma dentro. Segue muito fisico, com amarelos dos dois lados (Guela Doue, Kessie, Seko Fofana e Fofana pendurados), sem expulsao confirmada. Roteiro travado como o mercado projetava (total 1,5): o tip Disciplinado Under 1,75 esta a poucos minutos de bater e o palpite do bolao (Equador 1x0) corre serio risco de virar empate. Fontes: ESPN, Outlook India, VAVEL, Opta Analyst, Bleacher Report. Sem alerta - placar inalterado."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "21:18",
-  "texto": "AO VIVO - Costa do Marfim 0x0 Equador (2o tempo em andamento), Lincoln Financial Field, Filadelfia. Pelo relogio real (apito as 20:00 de Brasilia) a bola rola ha pouco mais de uma hora, por volta dos 60-65 min de jogo - o painel vinha marcando o minuto adiantado, entao a reta final ainda nao chegou. Segue 0 a 0. Novidade: a Costa do Marfim levou tres amarelos por faltas duras no meio - Guela Doue, Franck Kessie e Seko Fofana ja estao pendurados, o que pesa na marcacao marfinense e abre risco para o segundo cartao. O Equador segue mais perigoso e voltou a assustar com Enner Valencia, dessa vez mandando na rede pelo lado de fora. Jogo truncado, de poucas chances claras: o roteiro continua empurrando para o Under 2,5. Sem gols ate aqui."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "21:13",
-  "texto": "AO VIVO - Costa do Marfim x Equador (2o tempo, ~73 min), Lincoln Financial Field, Filadelfia: segue 0 x 0. Equador segue mais perigoso (ja carimbou o travessao duas vezes). Jogo muito fisico e cheio de amarelos; Guela Doue esta pendurado e escapou da expulsao apos pisao em Enner Valencia (sem cartao vermelho confirmado ate agora). Palpite Equador 1x0 ainda de pe, mas o gol custa a sair."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "21:08",
-  "texto": "AO VIVO - Costa do Marfim x Equador (2o tempo, por volta dos 60 min), Lincoln Financial Field, Filadelfia: segue 0 a 0. O primeiro tempo terminou empatado e sem gols, mas com o Equador melhor - La Tri carimbou o travessao DUAS vezes (Yeboah e Minda) e seguiu pressionando na etapa final, com Enner Valencia cabeceando por cima. A Costa do Marfim se fecha bem e aposta no contra-ataque. Jogo aberto nas chances, travado no placar. Nenhum gol novo confirmado pelas fontes (ESPN, Flashscore, Sofascore, Terra, World Soccer Talk). Sem alerta - placar inalterado, leitura de jogo equilibrado com leve favoritismo do Equador para furar o bloco. Proximo da agenda: Suecia x Tunisia as 23:00."
  }
 ]
