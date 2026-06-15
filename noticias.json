@@ -1,6 +1,7 @@
 [
  {
   "tipo": "aovivo",
+  "hora": "16:36",
   "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 40 min do 1o tempo (Lumen Field, Seattle). Belgica empilha pressao mas segue atras: De Bruyne ja assustou duas vezes de fora da area (uma raspando a trave/perto do poste) e Doku/Trossard rondam pela esquerda. Egito recuou e aposta nos contras com Salah e Marmoush. Leitura segue INVERTIDA do nosso palpite (Belgica 2x0): com o jogo aberto, o Disciplinado (Over 2,5 a 1.91) respira - 1 gol dentro, falta 1 ate o intervalo virar provavel."
  },
  {
@@ -40,18 +41,22 @@
  },
  {
   "tipo": "aovivo",
+  "hora": "13:00",
   "texto": "BOLA ROLANDO - comeca Espanha x Cabo Verde (Mercedes-Benz Stadium, Atlanta). Apito as 13:00 de Brasilia, confirmado pelo relogio. Palpite mantido: Espanha 4x0 (P 95 por cento). Nota de escalacao: Lamine Yamal comeca no banco; Ferran Torres e Oyarzabal no ataque - a profundidade do elenco mantem a leitura, sem alerta. Lances a seguir."
  },
  {
   "tipo": "clima",
+  "hora": "13:00",
   "texto": "CLIMA - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta, 70 mil lugares, teto retratil e o telao Halo Board de 360 graus). Estreia historica de Cabo Verde em Copas do Mundo; a Furia mantem a posse, mas o ambiente fechado e barulhento pode dar energia ao azarao. Selecoes no gramado para os hinos, jogo prestes a comecar."
  },
  {
   "tipo": "odds",
+  "hora": "13:00",
   "texto": "ODDS NO APITO - Espanha x Cabo Verde (linha de fechamento, base do CLV): Espanha 1.08 | Empate 12.00 | Cabo Verde 36.00 | Under 2,5 3.20. Mercado crava Espanha como favorita extrema; vida real so nos totais de gols e na margem (handicap -2,5 a 1.90)."
  },
  {
   "tipo": "pre_jogo",
+  "hora": "13:00",
   "texto": "PRE-JOGO - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H). ESCALACOES CONFIRMADAS. ESPANHA (De la Fuente): Unai Simon; Marcos Llorente, Pau Cubarsi, Laporte, Cucurella; Pedri, Rodri, Fabian Ruiz; Ferran Torres, Baena; Oyarzabal. Lamine Yamal e Nico Williams FORA do XI (gerenciando lesao na coxa), comecam no banco. CABO VERDE (Bubista), estreia historica em Copas: Vozinha; Steven Moreira, Pico, Logan Costa, Borges; Deroy Duarte, Lenini, Jamiro, Ryan Mendes, Jovane Cabral; Livramento - 4-2-3-1 defensivo. LEITURA: ausencia de Yamal/Nico ja estava precificada pelo modelo (lambda Espanha ~4,1); palpite mantido, Espanha vence com folga. Sem ALERTA."
  },
  {
