@@ -1,5 +1,15 @@
 [
   {
+    "tipo": "alerta",
+    "hora": "16:29",
+    "texto": "ALERTA - Belgica x Egito: Egito abre 1x0 com Emam Ashour aos 19min, gol que INVERTE nossa leitura (azarao na frente). ANTERIOR Belgica 2x0 (65/21/14) -> NOVO Belgica ~42 / empate ~28 / Egito ~30. Palpite do bolao (Belgica 2x0) ameacado. Disciplinado (Over 2,5 a 1.91) segue de pe - 1 gol no placar, faltam 2 em ~70min."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:28",
+    "texto": "GOL DO EGITO! Emam Ashour aos 19min do 1o tempo (Lumen Field, Seattle): EGITO 1x0 BELGICA. Finalizacao individual de classe do meia egipcio, Courtois sem chance. Egito faz historia - busca a 1a vitoria em Copas em 8 participacoes, no aniversario de 34 anos de Salah. Belgica de Rudi Garcia (Lukaku fora, De Ketelaere de 9) agora corre atras com De Bruyne, Doku e Trossard. Modelo via Belgica ampla favorita; o jogo virou de chave. Bola rolando, ~30min."
+  },
+  {
     "tipo": "aovivo",
     "hora": "16:24",
     "texto": "AO VIVO - Belgica 0x0 Egito, cerca de 25 min do 1o tempo (Lumen Field, Seattle). Jogo pegado: amarelos para Attia (Egito) e Castagne (Belgica) ja nos primeiros minutos. Lukaku FORA do XI belga (De Ketelaere de centroavante); De Bruyne, Doku e Trossard armam. Egito fechado em bloco baixo com Salah e Marmoush na espreita. Leitura mantida: Belgica 2x0, modelo ve total alto (lambda 2,93). Sem gol ainda, sem alerta. Disciplinado segue com Over 2,5."
@@ -184,15 +194,5 @@
     "tipo": "resultado",
     "hora": "20:27",
     "texto": "RESULTADOS DE HOJE (14/06): Alemanha 4x1 Curacao - palpite Ale 3x0 = 3 pts (vencedor certo); Favoritos lucraram, Lab (Over 2,5) GANHOU. Holanda 2x2 Japao - palpite Hol 2x1 = 1 pt (acertamos os 2 gols da Holanda, mas deu empate); Favoritos perderam no empate, Lab (dupla chance Japao) GANHOU. Bolao acumulado: 17 pts. Ainda em jogo: Marfim x Equador (ao vivo) e Suecia x Tunisia (23h)."
-  },
-  {
-    "tipo": "odds",
-    "hora": "20:00",
-    "texto": "ODDS NO APITO - Costa do Marfim x Equador: Costa do Marfim 3.70 | Empate 2.80 | Equador 2.50 | Under 2,5 ~1.60 (linha de fechamento, base do CLV; jogo de poucos gols, BTTS Nao a 1.67 na Betsson)."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "19:05",
-    "texto": "FIM (14/06): Holanda 2x2 Japao. Van Dijk e Summerville marcaram; o Japao buscou com Nakamura e Kamada. Palpite do bolao Holanda 2x1 = 1 PONTO (acertou os 2 gols da Holanda, mas o jogo terminou empatado e a vitoria nao veio). Japao surpreendeu mesmo sem Mitoma e Endo."
   }
 ]
