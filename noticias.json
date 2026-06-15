@@ -1,6 +1,10 @@
 [
   {
     "tipo": "aovivo",
+    "texto": "AO VIVO ~25min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia domina a posse no campo de ataque mas ainda sem criar chance clara de gol; um escanteio espanhol foi anulado pelo VAR (nova regra de 2026 que permite corrigir marcacao errada). Cabo Verde segue compacto no 4-2-3-1 e segura o zero bem. Palpite Espanha 4x0 mantido (P 95 por cento) - sem alerta. O gol tende a vir com o desgaste do bloco cabo-verdiano, mas o relogio ja comeca a pesar contra o placar alto."
+  },
+  {
+    "tipo": "aovivo",
     "texto": "AO VIVO 15min - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). La Furia com a posse (Pedri e Rodri girando) mas ainda sem furar o bloco baixo cabo-verdiano; Yamal comeca no banco. Estreante segura o zero no inicio - palpite Espanha 4x0 segue de pe; o gol espanhol tende a vir com o desgaste da defesa de Cabo Verde."
   },
   {
@@ -188,10 +192,5 @@
     "tipo": "agenda",
     "hora": "05:25",
     "texto": "Motor ao vivo agendado das 12:00 de hoje ate ~02:00 da madrugada (cobre os quatro jogos, do apito das 14h ao fim do Suecia x Tunisia). Comeca pelas escalacoes 15 min antes de cada jogo."
-  },
-  {
-    "tipo": "previsao",
-    "hora": "05:20",
-    "texto": "Proximo jogo: Alemanha x Curacao as 14:00 (Houston) - palpite Alemanha 3x0."
   }
 ]
