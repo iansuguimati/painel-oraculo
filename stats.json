@@ -1,26 +1,26 @@
 {
   "updated": "15/06/2026",
   "tips": 1,
-  "hit": "60% (6/10)",
+  "hit": "54.5% (6/11)",
   "roi": "+115,0%",
   "clv": "-",
-  "brier": "0.491 (mercado 0.491)",
-  "bolao": 20,
+  "brier": "0.612 (mercado 0.596)",
+  "bolao": 21,
   "sim100": {
     "fav": {
-      "stake": 1000,
-      "pnl": 10,
-      "roi": "+1.0%"
+      "stake": 1100,
+      "pnl": -90,
+      "roi": "-8.2%"
     },
     "louco": {
-      "stake": 1000,
-      "pnl": -240,
-      "roi": "-24.0%"
+      "stake": 1100,
+      "pnl": -340,
+      "roi": "-30.9%"
     },
     "favmkt": {
-      "stake": 1000,
-      "pnl": 10,
-      "roi": "+1.0%"
+      "stake": 1100,
+      "pnl": -90,
+      "roi": "-8.2%"
     },
     "disc": {
       "stake": 100,
@@ -29,35 +29,19 @@
     }
   },
   "lines": {
-    "bolao": "Suecia 1x0",
-    "disc": "-",
-    "louco": "Tunisia ML (4.60)"
+    "bolao": "Belgica 2x0",
+    "disc": "Over 2,5 (~56% vs mkt 47%) - candidato",
+    "louco": "Over 2,5"
   },
   "next": {
-    "jogo": "Espanha x Cabo Verde",
-    "hora": "13:00 (Brasilia)"
+    "jogo": "Belgica x Egito",
+    "hora": "16:00 (Brasilia)"
   },
   "alerta": {
-    "ativo": true,
-    "hora": "14:24",
-    "jogo": "Espanha x Cabo Verde",
-    "texto": "0-0 no 2o tempo, Cabo Verde segura o zero. ANTERIOR Espanha 4x0 (vit 95%) -> NOVA: 4x0 morto, vitoria ~55%, empate ~42%, Under 2,5 quase certo."
+    "ativo": false
   },
-  "analise": "Estadio BBVA, Monterrey (Mexico). A Suecia tem dois centroavantes de elite (Isak e Gyokeres) mas vinha irregular nas eliminatorias; a Tunisia e disciplinada e defensiva. DE-VIG (Suecia 1.93 / empate 3.30 / Tunisia 4.00): Suecia 48 por cento, empate 28, Tunisia 23 (Kalshi 51/28/22). INDEPENDENTE: lambda Suecia 1,45 x Tunisia 0,85, total ~2,30. Poisson: P(Under 2,5) ~60 por cento; 1X2 ~ Suecia 49 / empate 28 / Tunisia 23, em linha com o mercado. BOLAO: Suecia 1x0 - ataque fraco da Tunisia favorece o azarao no zero, e a cautela de estreia limita o teto sueco. PRODUTO: sem tip - Under marginal (sem preco limpo de Under 2,5) e ataque sueco torna o total volatil. LAB: Tunisia a 4.60 (+360) - num jogo de margem estreita a zebra carrega EV positivo pelo preco alto (~+10 por cento).",
+  "analise": "Lumen Field, Seattle. Belgica chega com 13 jogos de invencibilidade sob Rudi Garcia (5x0 Tunisia, 2x0 Croacia no aquecimento); Egito invicto nas Eliminatorias mas perdeu 2x1 pro Brasil e tem como trunfo o bloco que segurou a Espanha num 0x0 em marco. Modelo calibrado: lambda Belgica 2,08 x Egito 0,85 (total 2,93); 1X2 Belgica 65 / empate 21 / Egito 14. BOLAO: Belgica 2x0. PRODUTO: candidato do Disciplinado e o Over 2,5 (~56 por cento vs ~47 do mercado, edge ~+9pp) - confirma no apito. LAB: Over 2,5.",
   "analises": [
-    {
-      "jogo": "Espanha x Cabo Verde",
-      "hora": "13:00",
-      "elenco": "Espanha ~95 vs Cabo Verde ~15",
-      "bolao": "Espanha 4x0",
-      "disc": "- (mismatch, sem Under - licao aprendida)",
-      "louco": "Over 3,5",
-      "fav": "Espanha",
-      "fav_odd": "1.06",
-      "fav_mkt": "Espanha",
-      "fav_mkt_odd": "1.06",
-      "texto": "<b>Modelo CALIBRADO (mu=0,26 beta=1,5).</b> Lambda: Espanha 4,14 x Cabo Verde 0,43 (total 4,56). 1X2: Espanha <b>95%</b>/4%/1%. Placar otimo Prodefy E placar exato mais provavel coincidem: <b>4x0</b> (13%). Subiu de 3x0 p/ 4x0 porque calibramos o lambda pela MEDIA de gols da Copa (2,9), nao pela mediana - era o erro que zerava nossos placares exatos. Sem Under aqui (armadilha de mismatch)."
-    },
     {
       "jogo": "Belgica x Egito",
       "hora": "16:00",

@@ -128,5 +128,18 @@
     "disc": 0,
     "louco": -100,
     "favmkt": 55
+  },
+  {
+    "data": "15/06",
+    "jogo": "ESP x CPV",
+    "bolao_pts": 1,
+    "venc": 0,
+    "placar": 0,
+    "brier_m": 1.824,
+    "brier_k": 1.644,
+    "fav": -100,
+    "disc": 0,
+    "louco": -100,
+    "favmkt": -100
   }
 ]
