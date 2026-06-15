@@ -82,5 +82,12 @@
       "texto": "<b>Calibrado.</b> Lambda: Ira 1,90 x Nova Zelandia 0,93 (total 2,83). 1X2: Ira <b>59%</b>/23%/17%. Aqui ha divisao: placar EP-otimo (mais seguro) e <b>Ira 1x0</b>, mas o placar exato mais provavel e <b>1x1</b> (11%, empate) - jogo travado. Se for caçar os 6 pts, 1x1 e a cartada; se for seguro, 1x0."
     }
   ],
-  "odds_fech": {}
+  "odds_fech": {
+    "jogo": "Belgica x Egito",
+    "o1": "1.59",
+    "ox": "3.90",
+    "o2": "5.50",
+    "under": "1.81",
+    "hora": "15:57"
+  }
 }
