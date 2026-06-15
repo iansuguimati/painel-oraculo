@@ -1,5 +1,15 @@
 [
   {
+    "tipo": "ao_vivo",
+    "hora": "21:41",
+    "texto": "AO VIVO - Costa do Marfim x Equador (Lincoln Financial Field, Filadelfia, Grupo E): 0x0 na reta final do 2o tempo. Pelo apito real das 20:00 de Brasilia o jogo ja passou dos 90 min e caminha para os acrescimos. Duelo tatico e travado: o Equador foi quem mais assustou - Yeboah e Minda pararam na trave e o goleiro Fofana defendeu um chutaco de Plata. Sem gols e sem expulsoes ate aqui; total de gols aponta UNDER 2,5. Aguardando o apito final - status sera confirmado na proxima passada."
+  },
+  {
+    "tipo": "esquenta",
+    "hora": "21:41",
+    "texto": "ESQUENTA - Suecia x Tunisia (23:00 de Brasilia, Estadio BBVA, regiao de Monterrey, Grupo F). A Suecia chega como favorita de mercado (cerca de 1,97 na vitoria), apoiada na dupla de ataque Gyokeres e Isak, em 3-4-1-2 com Lindelof, Hien e Lagerbielke na defesa. A Tunisia (4-2-3-1, Hannibal Mejbri na criacao) nao marca ha 3 jogos e tenta pela 1a vez em 7 participacoes chegar ao mata-mata. Leitura: favoritismo sueco e ataque tunisiano sem ritmo apontam jogo de poucos gols. Escalacoes ainda provaveis - confirmacao no pre-jogo."
+  },
+  {
     "tipo": "fim",
     "hora": "21:40",
     "texto": "FIM DE JOGO - Costa do Marfim 0x0 Equador (Lincoln Financial Field, Filadelfia). Duelo de duas das melhores defesas da Copa terminou sem gols, exatamente como o modelo projetava (P(Under 2,5) cerca de 69 por cento). O Equador foi quem mais ameacou - duas bolas no travessao no 1o tempo (Yeboah e Minda) mais finalizacoes de Valencia e Plata, com Caicedo comandando a pressao; a Costa do Marfim respondeu nos contra-ataques e tambem assustou. Primeiro encontro da historia entre as selecoes em Copas. BOLAO: palpite era Equador 1x0 - deu empate, vencedor e placar errados, 0 ponto (bolao segue 15); o unico acerto foi a leitura de poucos gols e o zero da Costa do Marfim. SIMULACOES DE 100 REAIS neste jogo: DISCIPLINADO CRAVOU - Under 1,75 a 2.15, total de 0 gol, lucro de 115 reais (primeira tip do produto, 1 de 1); JOGO LOUCO perdeu (Costa do Marfim ML 3.50, CLV -6,7 por cento sobre o fechamento 3.75); FAVORITO DO MODELO (Equador 2.45) perdeu 100; FAVORITO DO MERCADO (Equador 2.45) perdeu 100. Brier do jogo: modelo 0,638 x mercado 0,661 - o modelo deu um pouco mais de chance ao empate (35 x 34 por cento) e levou a melhor. Saldo acumulado das simulacoes: DISCIPLINADO +115 (ROI +115 por cento, so entra com Edge maior ou igual a 4pp e EV maior ou igual a 3 por cento), FAVORITO e FAV MERCADO +2 cada, JOGO LOUCO -330. Proximo: Suecia x Tunisia as 23h (Brasilia), Estadio BBVA, Monterrey."
