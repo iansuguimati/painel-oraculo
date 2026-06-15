@@ -1,6 +1,11 @@
 [
   {
     "tipo": "analise",
+    "hora": "10:20",
+    "texto": "MODELO RECALIBRADO com os 12 jogos reais (sempre calculado, zero chute). Descoberta: estavamos calibrando o lambda pela mediana (2 gols) quando o Poisson mira a MEDIA (2,9) - por isso 0 placares exatos em 10 jogos. Corrigido (mu=0,26 beta=1,5, regularizado p/ nao overfittar a cauda). Placares de hoje subiram pro lugar certo: Espanha 4x0, Belgica 2x0, Uruguai 2x0, Ira 1x0. Esse e o caminho pra cravar placar e fechar o gap pro lider."
+  },
+  {
+    "tipo": "analise",
     "hora": "09:55",
     "texto": "ANALISE FUNDAMENTADA publicada (modelo Dixon-Coles rodado). A matematica do EP revisou 3 palpites: Espanha 3x0 (nao 4x0), Belgica 1x0, Uruguai 1x0. Valor do dia: Belgica-Egito Over 2,5 (edge +9,8pp) e Ira vitoria (edge +4,9pp marginal). Espanha-Cabo Verde: modelo aponta Under mas REJEITAMOS (armadilha de mismatch). Uruguai: sem aposta, nenhum mercado bate o corte."
   },
