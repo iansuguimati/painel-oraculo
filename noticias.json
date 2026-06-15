@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "aovivo",
+    "hora": "16:33",
+    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 33 min do 1o tempo (Lumen Field, Seattle). Egito segue na frente com o gol de Emam Ashour aos 19min e se fecha em bloco baixo. A Belgica de Rudi Garcia assumiu a posse e pressiona por igualdade: De Bruyne carimbou perto da trave em chute de fora apos tabela pela esquerda, Doku puxando os contra-ataques. Placar mantido, sem novo gol. Leitura segue a do alerta das 16:29 (Belgica cerca de 42 / empate 28 / Egito 30). Disciplinado (Over 2,5 a 1.91) precisa de mais 2 gols em cerca de 55min - segue vivo, mas apertando."
+  },
+  {
     "tipo": "alerta",
     "hora": "16:29",
     "texto": "ALERTA - Belgica x Egito: Egito abre 1x0 com Emam Ashour aos 19min, gol que INVERTE nossa leitura (azarao na frente). ANTERIOR Belgica 2x0 (65/21/14) -> NOVO Belgica ~42 / empate ~28 / Egito ~30. Palpite do bolao (Belgica 2x0) ameacado. Disciplinado (Over 2,5 a 1.91) segue de pe - 1 gol no placar, faltam 2 em ~70min."
@@ -189,10 +194,5 @@
     "tipo": "resumo",
     "hora": "20:27",
     "texto": "PLACAR ATUALIZADO: 15 pontos Prodefy, 1X2 em 67% (4/6). Brier do modelo 0,497 vs 0,481 do mercado (n=6). Simulacao 100 reais - Favorito do modelo e do mercado +102 cada (ROI +17%), Jogo Louco -230, Disciplinado neutro (1 tip vivo: Marfim Under 1,75). Falta Suecia x Tunisia as 23h."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "20:27",
-    "texto": "RESULTADOS DE HOJE (14/06): Alemanha 4x1 Curacao - palpite Ale 3x0 = 3 pts (vencedor certo); Favoritos lucraram, Lab (Over 2,5) GANHOU. Holanda 2x2 Japao - palpite Hol 2x1 = 1 pt (acertamos os 2 gols da Holanda, mas deu empate); Favoritos perderam no empate, Lab (dupla chance Japao) GANHOU. Bolao acumulado: 17 pts. Ainda em jogo: Marfim x Equador (ao vivo) e Suecia x Tunisia (23h)."
   }
 ]
