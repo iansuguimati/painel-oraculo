@@ -1,6 +1,11 @@
 [
  {
   "tipo": "aovivo",
+  "hora": "23:10",
+  "texto": "AO VIVO - Ira 1x1 Nova Zelandia, segundo tempo em andamento (SoFi Stadium, Inglewood/LA). Ira voltou do intervalo pressionando e chegou a balancar a rede com Ali Nemati de cabeca em cobranca de falta, mas o bandeirinha marcou impedimento - segue 1x1. A leitura do modelo ainda pende pro Ira (dava 59 por cento), mas o azarao neozelandes segura o empate e mantem viva a zebra contra o palpite do bolao Ira 1x0."
+ },
+ {
+  "tipo": "aovivo",
   "hora": "22:56",
   "texto": "INTERVALO confirmado pela API - Ira 1x1 Nova Zelandia (SoFi Stadium, Inglewood). Gols: Elijah Just pela Nova Zelandia (7 min, voleio) e Ramin Rezaeian pelo Ira (32 min, na sobra dentro da area). CORRECAO DA NOTA DAS 22:53: a API ESPN estava momentaneamente ATRASADA e exibiu 0x1 aos 22 min; o placar correto e 1x1 e as notas de empate ficam VALIDADAS. O Ira reagiu rapido ao gol do azarao; nosso palpite Ira 1x0 ja caiu, mas a leitura volta a pender para o Ira no 2o tempo."
  },
