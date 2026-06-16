@@ -53,7 +53,7 @@
       "fav_odd": "-",
       "fav_mkt": "Franca",
       "fav_mkt_odd": "-",
-      "texto": "<b>FORCA (ataque/defesa, gols/jogo):</b> FRA ataca 1.57 e sofre 0.83 | SEN ataca 1.56 e sofre 0.85. <b>Lambda:</b> FRA 1.17 x 1.13 SEN (total 2.30). <b>1X2:</b> FRA 31% / empate 41% / SEN 29%. <b>Mercados:</b> Over 2,5 37% (Under 63%), Over 1,5 67%, Ambas marcam 50%. <b>Sem sofrer gol:</b> FRA 33%, SEN 32%. <b>Placares + provaveis:</b> 1x1 19% &bull; 0x0 15% &bull; 1x0 9% &bull; 0x1 9% &bull; 2x1 7%. <b>Forma (ult.6):</b> FRA 5V-0E-1D (16GF/6GS): 2-1 BRA, 3-1 COL, 1-2 CIV, 3-1 NIR | SEN 3V-1E-2D (8GF/7GS): 2-0 PER, 3-1 GAM, 2-3 USA, 0-0 KSA. <b>Placar otimo (EP Prodefy):</b> 1x1 (2.17 pts esperados). <b>PALPITE: Franca 1x1</b> - jogo parelho, empate e o mais provavel."
+      "texto": "<b>Modelo final (ataque/defesa, alpha=4, rho=-0,13).</b> Forca: FRA ataca 1.69/sofre 0.88 | SEN ataca 1.56/sofre 0.83. <b>Lambda:</b> FRA 1.23 x 1.21 SEN (total 2.44). <b>1X2:</b> FRA 30% / empate 42% / SEN 29%. <b>Mercados:</b> Over 2,5 40% (Under 60%), Ambas marcam 54%. <b>Sem sofrer:</b> FRA 31%, SEN 30%. <b>Placares + provaveis:</b> 1x1 20% &bull; 0x0 14% &bull; 1x0 8% &bull; 0x1 7% &bull; 2x1 7%. <b>Forma (ult.6):</b> FRA 5V-0E-1D (16GF/6GS) | SEN 3V-1E-2D (8GF/7GS). <b>Placar EP do modelo:</b> 1x1 (2.20 pts). <b>PALPITE: Franca 1x1</b> (empate e o mais provavel)."
     },
     {
       "jogo": "Iraque x Noruega",
@@ -66,7 +66,7 @@
       "fav_odd": "-",
       "fav_mkt": "Noruega",
       "fav_mkt_odd": "-",
-      "texto": "<b>FORCA (ataque/defesa, gols/jogo):</b> IRQ ataca 1.03 e sofre 0.89 | NOR ataca 1.92 e sofre 0.92. <b>Lambda:</b> IRQ 0.82 x 1.48 NOR (total 2.30). <b>1X2:</b> IRQ 17% / empate 38% / NOR 45%. <b>Mercados:</b> Over 2,5 37% (Under 63%), Over 1,5 67%, Ambas marcam 46%. <b>Sem sofrer gol:</b> IRQ 25%, NOR 43%. <b>Placares + provaveis:</b> 1x1 18% &bull; 0x0 15% &bull; 0x1 12% &bull; 0x2 9% &bull; 1x2 8%. <b>Forma (ult.6):</b> IRQ 3V-2E-1D (7GF/6GS): 2-1 BOL, 1-0 AND, 1-1 ESP, 0-2 VEN | NOR 3V-2E-1D (13GF/6GS): 1-2 NED, 0-0 SUI, 3-1 SWE, 1-1 MAR. <b>Placar otimo (EP Prodefy):</b> 0x1 (2.25 pts esperados). <b>PALPITE: Noruega 2x0</b> - ataque da Noruega (Haaland) muito superior."
+      "texto": "<b>Modelo final (ataque/defesa, alpha=4, rho=-0,13).</b> Forca: IRQ ataca 0.94/sofre 0.91 | NOR ataca 1.90/sofre 0.85. <b>Lambda:</b> IRQ 0.70 x 1.53 NOR (total 2.23). <b>1X2:</b> IRQ 13% / empate 39% / NOR 48%. <b>Mercados:</b> Over 2,5 35% (Under 65%), Ambas marcam 43%. <b>Sem sofrer:</b> IRQ 25%, NOR 49%. <b>Placares + provaveis:</b> 1x1 18% &bull; 0x0 17% &bull; 0x1 13% &bull; 0x2 11% &bull; 1x2 8%. <b>Forma (ult.6):</b> IRQ 3V-2E-1D (7GF/6GS) | NOR 3V-2E-1D (13GF/6GS). <b>Placar EP do modelo:</b> 0x1 (2.39 pts). <b>PALPITE: Noruega 2x0</b> (EP do modelo e 1x0; subimos pelo ataque forte da Noruega)."
     },
     {
       "jogo": "Argentina x Argelia",
@@ -79,7 +79,7 @@
       "fav_odd": "-",
       "fav_mkt": "Argentina",
       "fav_mkt_odd": "-",
-      "texto": "<b>FORCA (ataque/defesa, gols/jogo):</b> ARG ataca 1.68 e sofre 0.67 | ALG ataca 1.47 e sofre 0.74. <b>Lambda:</b> ARG 1.09 x 0.86 ALG (total 1.94). <b>1X2:</b> ARG 33% / empate 44% / ALG 23%. <b>Mercados:</b> Over 2,5 27% (Under 73%), Over 1,5 58%, Ambas marcam 41%. <b>Sem sofrer gol:</b> ARG 43%, ALG 36%. <b>Placares + provaveis:</b> 0x0 20% &bull; 1x1 19% &bull; 1x0 12% &bull; 0x1 10% &bull; 2x0 7%. <b>Forma (ult.6):</b> ARG 6V-0E-0D (20GF/1GS): 2-1 MTN, 5-0 ZAM, 2-0 HON, 3-0 ISL | ALG 4V-1E-1D (13GF/2GS): 7-0 GUA, 0-0 URU, 1-0 NED, 4-0 BOL. <b>Placar otimo (EP Prodefy):</b> 0x0 (2.30 pts esperados). <b>PALPITE: Argentina 1x0</b> - vitoria apertada; a defesa de elite da Argelia trava o jogo (o 0x0 do EP tem empate inflado pelo fator F)."
+      "texto": "<b>Modelo final (ataque/defesa, alpha=4, rho=-0,13).</b> Forca: ARG ataca 1.69/sofre 0.67 | ALG ataca 1.47/sofre 0.69. <b>Lambda:</b> ARG 1.02 x 0.87 ALG (total 1.89). <b>1X2:</b> ARG 30% / empate 47% / ALG 23%. <b>Mercados:</b> Over 2,5 26% (Under 74%), Ambas marcam 41%. <b>Sem sofrer:</b> ARG 43%, ALG 38%. <b>Placares + provaveis:</b> 0x0 22% &bull; 1x1 20% &bull; 1x0 11% &bull; 0x1 9% &bull; 2x0 7%. <b>Forma (ult.6):</b> ARG 6V-0E-0D (20GF/1GS) | ALG 4V-1E-1D (13GF/2GS). <b>Placar EP do modelo:</b> 0x0 (2.43 pts). <b>PALPITE: Argentina 1x0</b> (fator Messi; o modelo ve empate como mais provavel - 47% - pela defesa elite da Argelia, mas a vitoria apertada e defensavel)."
     }
   ],
   "odds_fech": {}
