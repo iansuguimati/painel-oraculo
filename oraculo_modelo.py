@@ -1,27 +1,20 @@
 #!/usr/bin/env python3
-"""
-ORACULO - Modelo de gols ATAQUE/DEFESA (Maher / Poisson regularizado)
-Ajusta um rating de ataque e um de defesa por selecao a partir dos jogos
-internacionais reais (2024+, API ESPN). Correcao de adversario automatica.
-Ajuste por Newton-Raphson com regularizacao L2 (numpy puro, sem sklearn).
-
-Uso:
-  python3 oraculo_modelo.py            # puxa dados, ajusta, salva ratings_ad.json
-  python3 oraculo_modelo.py --cache    # usa /tmp/intl.json se existir (mais rapido)
-
-Saida: ratings_ad.json {b0, home, alpha, atk{}, dfn{}, lam(home,away,neutral)}
-lambda_casa = exp(b0 + atk[casa] + dfn[fora] + (home se anfitriao senao 0))
-"""
+"""ORACULO - Modelo de gols ATAQUE/DEFESA (Maher / Poisson regularizado + recencia).
+Ajusta ataque e defesa por selecao dos jogos internacionais reais (2024+, API ESPN),
+com correcao de adversario automatica, regularizacao L2 (Newton, numpy puro) e
+PESO POR RECENCIA (jogo recente pesa mais; meia-vida ~300 dias, validado).
+Uso: python3 oraculo_modelo.py [--cache]  -> grava ratings_ad.json
+lambda_casa = exp(b0 + atk[casa] + dfn[fora] + home se anfitriao senao 0)"""
 import numpy as np, json, urllib.request, time, sys, os
-from math import exp, factorial
+from math import exp
+from datetime import date
 
-ANFITRIOES = {"USA", "MEX", "CAN"}  # Copa em sede neutra: home adv so p/ anfitrioes
+ANFITRIOES = {"USA", "MEX", "CAN"}
 
 def _get(url, timeout=20):
     return json.load(urllib.request.urlopen(url, timeout=timeout))
 
 def pull_matches():
-    """Puxa jogos internacionais (2024+) das selecoes da Copa via API ESPN."""
     ids = {}
     base = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates="
     for D in ["20260611","20260612","20260613","20260614","20260615","20260616",
@@ -64,23 +57,18 @@ def pull_matches():
             seen.add(key)
             matches.append({"d": dt, "h": ha, "hs": hs, "a": aa, "as": as_})
         time.sleep(0.04)
-    return matches, set(ids)
+    return matches
 
 def fit(matches, alpha=8.0, iters=25, half=300):
-    """Poisson ridge via Newton com PESO POR RECENCIA (meia-vida 'half' dias).
-    log(lam)=intercept+atk[scorer]+dfn[conceder]+home. Jogo recente pesa mais
-    (validado: meia-vida ~300d melhora o RPS out-of-sample)."""
-    from datetime import date
     teams = sorted(set([m["h"] for m in matches] + [m["a"] for m in matches]))
     ti = {t: i for i, t in enumerate(teams)}
     T = len(teams)
-    P = 2 * T + 2  # colunas: [atk(T), dfn(T), home, intercept]
+    P = 2 * T + 2
     hoje = date.today()
     def peso(d):
         try:
             y_, mo_, dd_ = map(int, d.split("-"))
-            ago = (hoje - date(y_, mo_, dd_)).days
-            return 0.5 ** (max(ago, 0) / half)
+            return 0.5 ** (max((hoje - date(y_, mo_, dd_)).days, 0) / half)
         except Exception:
             return 1.0
     rows, y, wts = [], [], []
@@ -92,7 +80,7 @@ def fit(matches, alpha=8.0, iters=25, half=300):
         rows.append(r); y.append(m["as"]); wts.append(wt)
     X = np.array(rows); y = np.array(y, float); W = np.array(wts)
     w = np.zeros(P)
-    R = np.ones(P); R[2*T+1] = 0.0  # nao regulariza o intercepto
+    R = np.ones(P); R[2*T+1] = 0.0
     for _ in range(iters):
         mu = np.exp(np.clip(X @ w, -10, 10))
         g = X.T @ (W*(mu - y)) + 2*alpha*R*w
@@ -100,26 +88,28 @@ def fit(matches, alpha=8.0, iters=25, half=300):
         w = w - np.linalg.solve(H, g)
     atk = {t: float(w[ti[t]]) for t in teams}
     dfn = {t: float(w[T + ti[t]]) for t in teams}
-    return {"b0": float(w[2*T+1]), "home": float(w[2*T]), "alpha": alpha,
-            "atk": atk, "dfn": dfn, "teams": teams}
+    return {"b0": float(w[2*T+1]), "home": float(w[2*T]), "alpha": alpha, "atk": atk, "dfn": dfn, "teams": teams}
 
 def lam(model, home, away, neutral=True):
-    b0, h = model["b0"], model["home"]
-    atk, dfn = model["atk"], model["dfn"]
-    hadv = 0.0 if (neutral and home not in ANFITRIOES) else h
-    lh = exp(b0 + atk.get(home, 0) + dfn.get(away, 0) + hadv)
-    la = exp(b0 + atk.get(away, 0) + dfn.get(home, 0))
+    hadv = 0.0 if (neutral and home not in ANFITRIOES) else model["home"]
+    lh = exp(model["b0"] + model["atk"].get(home, 0) + model["dfn"].get(away, 0) + hadv)
+    la = exp(model["b0"] + model["atk"].get(away, 0) + model["dfn"].get(home, 0))
     return lh, la
 
 if __name__ == "__main__":
     if "--cache" in sys.argv and os.path.exists("/tmp/intl.json"):
-        matches = json.load(open("/tmp/intl.json")); wcset = None
+        matches = json.load(open("/tmp/intl.json"))
     else:
-        matches, wcset = pull_matches()
+        matches = pull_matches()
         json.dump(matches, open("/tmp/intl.json", "w"))
     train = [m for m in matches if m["d"] < "2026-06-11"]
     model = fit(train)
-    out = {"_meta": {"modelo": "Maher ataque/defesa Poisson L2 (Newton)",
+    out = {"_meta": {"modelo": "Maher ataque/defesa Poisson L2 + recencia (half 300d)",
                      "jogos_treino": len(train), "data_fit": time.strftime("%Y-%m-%d"),
-                     "alpha": model["alpha"], "home_adv": round(model["home"], 3),
-                     "b0": round(model["b0"
+                     "alpha": model["alpha"], "home_adv": round(model["home"], 3), "b0": round(model["b0"], 3)},
+           "b0": model["b0"], "home": model["home"], "atk": model["atk"], "dfn": model["dfn"]}
+    json.dump(out, open("ratings_ad.json", "w"), ensure_ascii=False, indent=2)
+    print(f"OK: {len(train)} jogos de treino, {len(model['teams'])} selecoes.")
+    for t in ["ESP","GER","IRN","URU","JPN","ARG","ALG"]:
+        if t in model["atk"]:
+            print(f"  {t}: ataque {exp(model['b0']+model['atk'][t]):.2f} | defesa {exp(model['b0']+model['dfn'][t]):.2f}")
