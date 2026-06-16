@@ -1,6 +1,11 @@
 [
  {
   "tipo": "aovivo",
+  "hora": "23:14",
+  "texto": "AO VIVO - Ira 1x1 Nova Zelandia, segundo tempo no SoFi Stadium (Inglewood/LA). O Ira chegou a balancar a rede com Ali Nemati de cabeca apos falta, mas o bandeira marcou impedimento e o gol foi anulado - segue 1x1. Iranianos pressionando atras da virada; leitura do modelo ainda pende pro Ira (dava 59 por cento), mas jogo segue aberto e travado no placar."
+ },
+ {
+  "tipo": "aovivo",
   "hora": "23:10",
   "texto": "AO VIVO - Ira 1x1 Nova Zelandia, segundo tempo em andamento (SoFi Stadium, Inglewood/LA). Ira voltou do intervalo pressionando e chegou a balancar a rede com Ali Nemati de cabeca em cobranca de falta, mas o bandeirinha marcou impedimento - segue 1x1. A leitura do modelo ainda pende pro Ira (dava 59 por cento), mas o azarao neozelandes segura o empate e mantem viva a zebra contra o palpite do bolao Ira 1x0."
  },
@@ -193,10 +198,5 @@
   "tipo": "pre_jogo",
   "hora": "22:46",
   "texto": "PRE-JOGO - Suecia x Tunisia (apito 23:00, Estadio BBVA, Monterrey; grupo de Holanda e Japao). ESCALACOES CONFIRMADAS. Suecia: Nordfeldt; Lagerbielke, Lindelof, Hien, Bernhardsson; Gudmundsson, Nygren, Karlstrom, Ayari; Isak e Gyokeres. Tunisia: Chamakh; Abdi, Talbi, Rekik, Valery; Ben Hmida, Hannibal, Khedira, Skhiri; Slimane e Saad. MERCADO: Suecia favorita a cerca de 1,94 (BetBoom), apoiada na dupla Isak e Gyokeres; Tunisia chegou invicta e sem sofrer gols nas eliminatorias africanas e aposta no bloco solido de Skhiri e Talbi. CONTEXTO: jogo FORA do nosso book do dia (palpite '-' na agenda), entao registro factual e leitura de mercado, sem palpite do bolao nem simulacao de 100 reais."
- },
- {
-  "tipo": "esquenta",
-  "hora": "22:07",
-  "texto": "ULTIMA HORA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Escalacoes provaveis ja circulando. SUECIA num 3-4-2-1 com a dupla de elite Isak e Gyokeres confirmada na frente e Elanga/Nygren apoiando - Zetterstrom (ou Nordfeldt) no gol; Lagerbielke, Hien e a zaga; Svanberg, Karlstrom e Ayari no meio. TUNISIA defensiva no 4-2-3-1: Skhiri e Khedira de duplo volante blindando a zaga (Talbi, Rekik), Mejbri e Achouri na criacao, Chaouat de referencia. Nenhum titular decisivo ausente nos dois lados - a leitura NAO muda. ODDS estaveis: Suecia ~1.92 (sem steam; abria 1.93), 'ambos marcam: nao' pagando 1.76 e 0x0 a 7.75 - o mercado tambem espera jogo de poucos gols, em linha com nosso Under e o palpite Suecia 1x0. Palpite mantido. Sem alerta. Fontes: Khelnow, Rotowire, Sports Mole, netflu, Trivela (14/06)."
  }
 ]
