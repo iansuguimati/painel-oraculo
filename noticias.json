@@ -1,5 +1,15 @@
 [
  {
+  "tipo": "alerta",
+  "hora": "23:29",
+  "texto": "ALERTA - Ira x Nova Zelandia: azarao virou, Nova Zelandia 2x1 com brace de Elijah Just (7 e 54) | previsao Ira 1x0 (Ira 59 / empate 23 / NZ 17 por cento) -> Nova Zelandia perto da zebra, modelo errou a leitura do favorito"
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "23:29",
+  "texto": "AO VIVO - Ira 1x2 Nova Zelandia, 2o tempo (cerca de 63min, em Los Angeles). VIRADA DO AZARAO: Elijah Just colocou a Nova Zelandia na frente aos 7 (assist de Chris Wood), Ramin Rezaeian empatou aos 32 para o Ira, e Just voltou a marcar aos 54 num contra-ataque lancado de novo por Wood, fazendo 1x2. Nosso palpite era Ira 1x0 e a Nova Zelandia valia so 17 por cento no modelo. Os tres gols ja derrubaram o Under 2,5 do Jogo Louco."
+ },
+ {
   "tipo": "aovivo",
   "hora": "23:27",
   "texto": "AO VIVO - Ira 1x2 Nova Zelandia, reta final no SoFi Stadium (Inglewood/LA), cerca de 71 min reais (a API ESPN exibe 60', feed atrasado ~11 min). Sem lance novo desde o 1x2 de Elijah Just (54min): a Nova Zelandia recua para segurar a vitoria e o Ira empilha o ataque atras do empate, com Ghayedi e Ali Alipour ja em campo buscando profundidade pelos lados. Placar 1x2 e o relogio corre contra os iranianos. Leitura inalterada, sem novo alerta - o palpite seco Ira 1x0 ja caiu e a cartada de 6 pontos do bolao (1x1) depende de o Ira empatar."
@@ -188,15 +198,5 @@
   "tipo": "resumo",
   "hora": "09:30",
   "texto": "BOM DIA 15/06. Fechamos a rodada de ontem (fonte API ESPN): Alemanha 7x1 Curacao (nosso 3x0 = 3pts, vencedor certo), Holanda 2x2 Japao (1pt), Marfim 1x0 Equador (tip Under do Disciplinado GANHOU, +115%), Suecia 5x1 Tunisia (nosso 1x0, vencedor certo mas placar errou feio), e Australia 2x0 Turquia (nosso Turquia 2x1, ERRAMOS - jogo que nao tinha sido registrado, agora logado por honestidade). LICAO DE MODELO: em jogos de estreia com diferenca GRANDE de nivel (Alemanha 7, Suecia 5) os gols vieram MUITO acima do nosso fator-cautela-de-estreia. O fator vale para jogos equilibrados, nao para mismatch. Por isso hoje Espanha x Cabo Verde sai 4x0 (placar alto) e nao 3x0. Placar atual: bolao 20 pts, acerto de vencedor 60% (6/10), Brier 0.491 (mercado 0.491) (empatado com o mercado - ainda nao batemos)."
- },
- {
-  "tipo": "resultado",
-  "hora": "00:50",
-  "texto": "RESULTADO - Suecia 5x1 Tunisia (Estadio BBVA, Monterrey). Ayari (2x), Isak, Gyokeres e Svanberg; Rekik descontou. Suecia abriu cedo (Ayari aos 7) e atropelou - a leitura de Suecia favorita e jogo aberto se confirmou com folga; placar bem acima do nosso 1x0. Suecia lidera o Grupo F isolada; no outro jogo Holanda 2x2 Japao. Jogo FORA do book do dia (palpite na agenda), registro factual: sem pontuacao do bolao nem simulacao de 100 reais."
- },
- {
-  "tipo": "aovivo",
-  "texto": "GOL - Suecia 1x0 Tunisia, Yasin Ayari aos 7 do 1o tempo. Gyokeres forcou a defesa de Chamakh, que soltou no meio, e Ayari completou o rebote de fora da area. CONFIRMA a leitura: palpite do bolao Suecia 1x0 e favorito do modelo (Suecia ~49 por cento). Cedo, mas dentro do roteiro - Suecia abre o placar e empurra a Tunisia (ataque fraco) para fora da concha. Sem alerta: gol a favor da previsao.",
-  "hora": "23:07"
  }
 ]
