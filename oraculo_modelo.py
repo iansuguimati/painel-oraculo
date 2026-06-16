@@ -1,0 +1,121 @@
+#!/usr/bin/env python3
+"""
+ORACULO - Modelo de gols ATAQUE/DEFESA (Maher / Poisson regularizado)
+Ajusta um rating de ataque e um de defesa por selecao a partir dos jogos
+internacionais reais (2024+, API ESPN). Correcao de adversario automatica.
+Ajuste por Newton-Raphson com regularizacao L2 (numpy puro, sem sklearn).
+
+Uso:
+  python3 oraculo_modelo.py            # puxa dados, ajusta, salva ratings_ad.json
+  python3 oraculo_modelo.py --cache    # usa /tmp/intl.json se existir (mais rapido)
+
+Saida: ratings_ad.json {b0, home, alpha, atk{}, dfn{}, lam(home,away,neutral)}
+lambda_casa = exp(b0 + atk[casa] + dfn[fora] + (home se anfitriao senao 0))
+"""
+import numpy as np, json, urllib.request, time, sys, os
+from math import exp, factorial
+
+ANFITRIOES = {"USA", "MEX", "CAN"}  # Copa em sede neutra: home adv so p/ anfitrioes
+
+def _get(url, timeout=20):
+    return json.load(urllib.request.urlopen(url, timeout=timeout))
+
+def pull_matches():
+    """Puxa jogos internacionais (2024+) das selecoes da Copa via API ESPN."""
+    ids = {}
+    base = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates="
+    for D in ["20260611","20260612","20260613","20260614","20260615","20260616",
+              "20260617","20260618","20260619","20260620","20260621","20260622",
+              "20260623","20260624","20260625","20260626","20260627"]:
+        try:
+            d = _get(base + D)
+        except Exception:
+            continue
+        for e in d.get("events", []):
+            for c in e["competitions"][0]["competitors"]:
+                ids[c["team"]["abbreviation"]] = c["team"]["id"]
+    matches, seen = [], set()
+    for ab, tid in ids.items():
+        try:
+            d = _get(f"https://site.api.espn.com/apis/site/v2/sports/soccer/all/teams/{tid}/schedule")
+        except Exception:
+            continue
+        for ev in d.get("events", []):
+            comp = ev.get("competitions", [{}])[0]
+            if comp.get("status", {}).get("type", {}).get("state") != "post":
+                continue
+            dt = ev.get("date", "")[:10]
+            if dt < "2024-01-01":
+                continue
+            cs = comp.get("competitors", [])
+            if len(cs) != 2:
+                continue
+            try:
+                h = [x for x in cs if x.get("homeAway") == "home"][0]
+                a = [x for x in cs if x.get("homeAway") == "away"][0]
+                ha, aa = h["team"]["abbreviation"], a["team"]["abbreviation"]
+                hs = int(h.get("score", {}).get("value"))
+                as_ = int(a.get("score", {}).get("value"))
+            except Exception:
+                continue
+            key = tuple(sorted([ha, aa])) + (dt, hs + as_)
+            if key in seen:
+                continue
+            seen.add(key)
+            matches.append({"d": dt, "h": ha, "hs": hs, "a": aa, "as": as_})
+        time.sleep(0.04)
+    return matches, set(ids)
+
+def fit(matches, alpha=8.0, iters=25):
+    """Poisson ridge via Newton: log(lam)=intercept+atk[scorer]+dfn[conceder]+home."""
+    teams = sorted(set([m["h"] for m in matches] + [m["a"] for m in matches]))
+    ti = {t: i for i, t in enumerate(teams)}
+    T = len(teams)
+    # colunas: [atk(T), dfn(T), home, intercept]
+    P = 2 * T + 2
+    rows, y = [], []
+    for m in matches:
+        r = np.zeros(P); r[ti[m["h"]]] = 1; r[T + ti[m["a"]]] = 1; r[2*T] = 1; r[2*T+1] = 1
+        rows.append(r); y.append(m["hs"])
+        r = np.zeros(P); r[ti[m["a"]]] = 1; r[T + ti[m["h"]]] = 1; r[2*T+1] = 1
+        rows.append(r); y.append(m["as"])
+    X = np.array(rows); y = np.array(y, float)
+    w = np.zeros(P)
+    R = np.ones(P); R[2*T+1] = 0.0  # nao regulariza o intercepto
+    for _ in range(iters):
+        mu = np.exp(np.clip(X @ w, -10, 10))
+        g = X.T @ (mu - y) + 2*alpha*R*w
+        H = X.T @ (X * mu[:, None]) + 2*alpha*np.diag(R) + 1e-6*np.eye(P)
+        w = w - np.linalg.solve(H, g)
+    atk = {t: float(w[ti[t]]) for t in teams}
+    dfn = {t: float(w[T + ti[t]]) for t in teams}
+    return {"b0": float(w[2*T+1]), "home": float(w[2*T]), "alpha": alpha,
+            "atk": atk, "dfn": dfn, "teams": teams}
+
+def lam(model, home, away, neutral=True):
+    b0, h = model["b0"], model["home"]
+    atk, dfn = model["atk"], model["dfn"]
+    hadv = 0.0 if (neutral and home not in ANFITRIOES) else h
+    lh = exp(b0 + atk.get(home, 0) + dfn.get(away, 0) + hadv)
+    la = exp(b0 + atk.get(away, 0) + dfn.get(home, 0))
+    return lh, la
+
+if __name__ == "__main__":
+    if "--cache" in sys.argv and os.path.exists("/tmp/intl.json"):
+        matches = json.load(open("/tmp/intl.json")); wcset = None
+    else:
+        matches, wcset = pull_matches()
+        json.dump(matches, open("/tmp/intl.json", "w"))
+    train = [m for m in matches if m["d"] < "2026-06-11"]
+    model = fit(train)
+    out = {"_meta": {"modelo": "Maher ataque/defesa Poisson L2 (Newton)",
+                     "jogos_treino": len(train), "data_fit": time.strftime("%Y-%m-%d"),
+                     "alpha": model["alpha"], "home_adv": round(model["home"], 3),
+                     "b0": round(model["b0"], 3)},
+           "b0": model["b0"], "home": model["home"],
+           "atk": model["atk"], "dfn": model["dfn"]}
+    json.dump(out, open("ratings_ad.json", "w"), ensure_ascii=False, indent=2)
+    print(f"OK: {len(train)} jogos de treino, {len(model['teams'])} selecoes. ratings_ad.json salvo.")
+    for t in ["ESP","GER","IRN","URU","JPN","SWE","NZL"]:
+        if t in model["atk"]:
+            print(f"  {t}: ataque {exp(model['b0']+model['atk'][t]):.2f} | defesa {exp(model['b0']+model['dfn'][t]):.2f} sofridos")
