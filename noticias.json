@@ -1,197 +1,182 @@
 [
- {
-  "tipo": "alerta",
-  "hora": "22:31",
-  "texto": "ALERTA - Ira x Nova Zelandia: Nova Zelandia (azarao) abriu 1x0 com Elijah Just (7min, voleio) | previsao ANTERIOR Ira 1x0 -> AGORA Ira corre atras, leitura vira jogo aberto com risco de zebra."
- },
- {
-  "tipo": "aovivo",
-  "hora": "22:25",
-  "texto": "AO VIVO - Ira 0x1 Nova Zelandia, cerca de 25 min (SoFi Stadium, Inglewood). GOL DA NOVA ZELANDIA: Elijah Just aos 7 min, num voleio. O All Whites surpreende e o Ira, favorito do modelo (59 por cento), precisa reagir."
- },
- {
-  "tipo": "odds",
-  "hora": "22:00",
-  "texto": "ODDS NO APITO - Ira x Nova Zelandia: Ira 1.83 | Empate 3.45 | Nova Zelandia 4.50 | Under 2,5 1.57 (linha de fechamento, base do CLV). Mercado entrou com o Ira favorito e jogo de poucos gols."
- },
- {
-  "tipo": "aovivo",
-  "hora": "22:00",
-  "texto": "BOLA ROLANDO - comeca Ira x Nova Zelandia (SoFi Stadium, Inglewood). Apito as 22:00 de Brasilia. Palpite original do bolao: Ira 1x0. Disciplinado sem aposta (nosso modelo ve menos Under que o mercado e a regra anti-armadilha veta o Over)."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "22:24",
-  "texto": "AO VIVO - Ira 0x1 Nova Zelandia, cerca de 22 min (SoFi Stadium). Placar segue o golaco de Eli Just (7 min). Ira favorito (1.83) tem a posse mas esbarra no bloco baixo dos All Whites; o jogo cobra reacao do Ira para nao deixar nosso palpite Ira 1x0 ruir. Sem novos lances de perigo claro desde o gol."
- },
- {
-  "tipo": "alerta",
-  "texto": "ALERTA - Ira x Nova Zelandia: GOL da Nova Zelandia aos 8 min, azarao abre 0x1 num cabeceio dentro da area | Previa Ira 1x0 (Ira vence 59pp) -> AGORA Ira atras, vitoria do Ira ~38pp e o palpite Ira 1x0 ameacado",
-  "hora": "22:13"
- },
- {
-  "tipo": "ao_vivo",
-  "texto": "GOL - Ira 0x1 Nova Zelandia (8 min, SoFi Stadium). Os All Whites surpreendem com cabeceada dentro da area apos bola alcada. Mais um azarao mandando no dia das zebras (Cabo Verde segurou a Espanha, Egito empatou com a Belgica). Ira agora obrigado a se expor.",
-  "hora": "22:08"
- },
- {
-  "tipo": "ao_vivo",
-  "texto": "BOLA ROLANDO - comeca Ira x Nova Zelandia no SoFi Stadium (Los Angeles), estreia do Grupo G. Palpite do bolao Ira 1x0; modelo da Ira 59% / empate 23% / NZ 17%, total esperado 2,83 gols. Disciplinado sem aposta; Jogo Louco no Under 2,5. Acompanhamos lance a lance.",
-  "hora": "22:00"
- },
- {
-  "tipo": "odds",
-  "texto": "ODDS NO APITO - Ira x Nova Zelandia: Ira 1.83 | Empate 3.50 | Nova Zelandia 5.00 | Under 2,5 1.62 (linha de fechamento, base do CLV). Nosso modelo dava Ira a 1.95 - pegamos valor com o mercado encurtando o favorito.",
-  "hora": "22:02"
- },
- {
-  "tipo": "analise",
-  "hora": "22:05",
-  "texto": "DISCIPLINADO HOJE: SEM APOSTA. O modelo flagou Ira vence/Over/Ambas Marcam no Ira x Nova Zelandia, mas REJEITAMOS: o mercado crava jogo travado (Under 61%) e nosso lambda esta alto demais para dois times defensivos (o Ira tem uma das melhores defesas da Asia). Nao e valor, e erro de modelo - a mesma soberba do 0x0 da Espanha. Num dia de 4 favoritos tropecando, a melhor aposta e nenhuma. PROXIMA MELHORIA: separar ATAQUE e DEFESA por time (hoje usamos um indice unico de forca, que confunde time bom com time que faz gol - o Ira e bom E faz poucos gols)."
- },
- {
-  "tipo": "prejogo",
-  "hora": "21:57",
-  "texto": "PRE-JOGO - Ira x Nova Zelandia as 22:00 (SoFi Stadium, Los Angeles), estreia do Grupo G e ultimo jogo do dia. ESCALACOES: a Nova Zelandia confirma CHRIS WOOD apto e TITULAR com a bracadeira de capitao (era a duvida fisica do Nottingham Forest) - provavel: Crocombe; Payne, Boxall, Surman, Cacace; Bell, Stamenic; McCowatt, Sarpreet Singh (estreia em Copa), Elijah Just; Wood. Ryan Thomas fica fora com lesao muscular. O Ira deve ir com Beiranvand no gol e Mehdi Taremi na frente, sem desfalque de peso anunciado. LEITURA MANTIDA: o retorno de Wood ja era a premissa base, entao NAO muda o palpite - jogo travado, com abismo no ranking (a Nova Zelandia e a pior das 48 selecoes, 9 derrotas nos ultimos 11). Modelo segue Ira 59 por cento / empate 23 / Nova Zelandia 17, lambda 1,90 x 0,93. BOLAO: Ira 1x0 no placar seguro, 1x1 como cartada de 6 pontos. Disciplinado reavalia 1X2, handicap e gols no apito; Jogo Louco de olho no Under 2,5. Odds: Ira entre 1,76 e 1,95, empate alto, Nova Zelandia 4,59. Sem ALERTA - previsao inalterada."
- },
- {
-  "tipo": "esquenta",
-  "hora": "19:07",
-  "texto": "ESQUENTA - Ira x Nova Zelandia as 22:00 (SoFi Stadium, Inglewood/LA), ultimo jogo do dia e estreia do Grupo G. Modelo (Dixon-Coles calibrado): lambda Ira 1,90 x Nova Zelandia 0,93, total 2,83; 1X2 Ira 59 por cento / empate 23 / Nova Zelandia 17. O abismo aparece no ranking: a Nova Zelandia e a pior selecao entre as 48 da Copa e perdeu 9 dos ultimos 11 jogos (so 0,73 gol marcado e 1,82 sofrido por jogo); o Ira, desde o inicio de 2025, jogou 5 vezes como favorito e somou 4 vitorias e 1 empate, 15 gols pro e so 2 contra. No mercado o Ira sai entre 1,76 e 1,95, empate alto e Nova Zelandia 4,59 (Kalshi precifica Ira 54 / empate 27 / NZ 21). Palpite do bolao: Ira 1x0 no placar mais seguro, com o 1x1 como cartada de 6 pontos num jogo que tende a ser travado. Disciplinado reavalia 1X2, handicap e gols no apito; Jogo Louco de olho no Under 2,5 (total projetado abaixo da linha). Confronto direto curto: so 2 jogos, Ira invicto (1 vitoria e 1 empate)."
- },
- {
-  "tipo": "fechamento",
-  "hora": "18:57",
-  "texto": "FIM DE JOGO - Arabia Saudita 1x1 Uruguai (Hard Rock Stadium, Miami). TERCEIRO favorito a tropecar no dia. A Celeste de Bielsa, com a zaga titular toda desfalcada (Ronald Araujo, Gimenez e Arrascaeta fora), saiu atras: Al-Amri marcou aos 41 no rebote de escanteio que Muslera deu, e o Uruguai so empatou aos 80 com Maxi Araujo - primeiro gol uruguaio na Copa. Sem gols nos acrescimos, fechou 1x1. Nosso palpite do bolao Uruguai 2x0 FUROU (deu empate) - 0 pts. As tres simulacoes que apostaram no Uruguai perderam 100 reais cada (Favorito do Modelo, Jogo Louco e Favorito do Mercado, todos no Uruguai a 1.40); o Disciplinado NAO apostou (sem valor no apito) e foi o unico a se salvar no dia. Brier modelo 1,19 vs mercado 1,07 - de novo o modelo superestimou o favorito. Padrao do dia confirmado: Espanha caiu, Belgica empatou e o Uruguai so empatou. Resta Ira x Nova Zelandia as 22h."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "18:49",
-  "texto": "AO VIVO - Arabia Saudita 1x1 Uruguai, reta final em Miami. EMPATE DA CELESTE: Maxi Araujo igualou aos 80 minutos, aproveitando a sobra apos um cabeceio defendido - o primeiro gol do Uruguai na Copa. A Arabia Saudita tinha aberto com Al-Amri aos 41, no rebote de escanteio que Muslera deu rebote. Nosso palpite do bolao Uruguai 2x0 ja estava furado desde o gol saudita; agora a Celeste corre por cima atras da virada nos minutos finais. As tips de favorito (Uruguai a 1.42) seguem VIVAS so se o Uruguai marcar de novo - empate fecha como mais um tropeco de favorito no dia (Espanha 0x0, Belgica 1x1). Jogo aberto ao apito final."
- },
- {
-  "tipo": "ao_vivo",
-  "hora": "18:42",
-  "texto": "AO VIVO / RESULTADOS: Belgica 1x1 Egito - FIM (mais um FAVORITO que empatou; a Belgica nao passou do Egito). Arabia Saudita 1x0 Uruguai, 79 min - ZEBRA NO AR: o Uruguai (nosso palpite 2x0) esta PERDENDO. Dia de favoritos tropecando: Espanha 0x0, Belgica 1x1, Uruguai atras - e exatamente o padrao que calibramos hoje (fator de empate). Falta Ira x Nova Zelandia (22h)."
- },
- {
-  "tipo": "prejogo",
-  "hora": "18:41",
-  "texto": "PRE-JOGO - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Escalacoes: Uruguai (4-4-2) Muslera; Varela, Caceres, M.Olivera, Vina; Ugarte, Bentancur, Valverde, M.Araujo; Vinas e Darwin Nunez. ATENCAO - alem de Arrascaeta (lesao) e Ronald Araujo, a Celeste tem TAMBEM Gimenez fora: a dupla de zaga titular esta desfalcada, o que enfraquece a defesa uruguaia. A Arabia de Donis perde o goleiro Al-Aqidi (Al-Owais assume) e tem o elenco quase todo da liga local, so Saud Abdulhamid atua fora. Odds: Uruguai 1.42 | empate 4.40 | Arabia 8.00 (Uruguai favoritissimo). Palpite do bolao mantido: Uruguai 2x0 - os desfalques na zaga sobem o risco de a Arabia balancar a rede, mas o abismo tecnico (elenco 78 vs 38) sustenta a vitoria uruguaia. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Disciplinado sem aposta de valor ate aqui (Under sem preco, total alto) - reavalia 1X2/handicap/gols no apito."
- },
- {
-  "tipo": "fechamento",
-  "hora": "17:55",
-  "texto": "FIM DE JOGO - Belgica 1x1 Egito (Lumen Field, Seattle). Empate com gosto de vitoria para o Egito: Emam Ashour abriu com um golaco de fora aos 19 e os Faraos seguraram a Belgica ate Lukaku entrar - 22 segundos depois, Hany marcou contra (66) e salvou os Diabos Vermelhos. xG do jogo: Belgica 1,31 x 1,07 Egito, equilibrado no peso das chances. Nosso palpite do bolao Belgica 2x0 FUROU (deu empate) - 0 pts; o modelo dava Belgica 65 por cento e o jogo virou a 2a zebra do dia, ao lado do 0x0 da Espanha. As QUATRO simulacoes perderam 100 reais cada: Favorito do Modelo e do Mercado (Belgica 1.50), Jogo Louco e Disciplinado (Over 2,5 a 1.91 - fechou em 2 gols, deu Under). Brier modelo 1,066 vs mercado 0,981; dia duro para o modelo, que superestimou os dois favoritos europeus."
- },
- {
-  "tipo": "aovivo",
-  "hora": "17:24",
-  "texto": "AO VIVO - Belgica 0x1 Egito, segundo tempo em andamento (Lumen Field, Seattle). Nova chance clarissima do Egito: Salah cabeceou e Courtois espalmou; no rebote, Ashour - autor do gol - mandou para fora e perdeu o 2x0 que praticamente liquidaria a partida. A Belgica de Rudi Garcia segue com a posse e empurrando por De Bruyne, Doku e Trossard, mas nao fura o bloco baixo egipcio. Placar mantido 0x1. Leitura permanece INVERTIDA do palpite do bolao (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) cada vez mais improvavel - precisaria de 3 gols no tempo restante; o jogo caminha para Under e ameaca a segunda grande zebra do dia, ao lado do 0x0 da Espanha."
- },
- {
-  "tipo": "forma",
-  "hora": "17:24",
-  "texto": "FORMA - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Forma recente da Celeste de Bielsa e irregular: empates 1x1 com a Inglaterra e 0x0 com a Argelia em marco, depois de levar 5x1 dos EUA em novembro; nas Eliminatorias fechou em 4o, com so 1 vitoria nos 9 jogos da reta final. Mesmo assim entra favoritissima pelo elenco (~78 vs ~38) e pela diferenca tecnica, ainda que sem Arrascaeta (lesao) e sem Araujo. A Arabia de Georgios Donis (no cargo desde abril) chega sem o goleiro Al-Aqidi (lesao); Al-Owais, titular em 2022, assume. Palpite do bolao: Uruguai 2x0. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Total recalibrado p/ cima tirou o valor do Under - Disciplinado sem aposta, reavalia no apito."
- },
- {
-  "tipo": "aovivo",
-  "hora": "17:14",
-  "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 80 min (Lumen Field, Seattle). O cerco belga aperta mas nao fura: De Bruyne tentou o chip por cima da linha do Egito e Ashour - autor do gol - voltou para cortar; logo depois KDB finalizou para fora. Meunier entrou pela direita buscando profundidade. Egito segue com bloco baixo, disciplina e Salah/Marmoush espreitando o contra. Faltando os minutos finais + acrescimos, o palpite do bolao (Belgica 2x0) esta liquidado e a zebra do Egito se cristaliza - seria a 2a grande surpresa do dia, ao lado do 0x0 da Espanha. Modelo permanece INVERTIDO; Over 2,5 do Disciplinado praticamente perdido (precisaria de 3 gols agora)."
- },
- {
-  "tipo": "aovivo",
-  "hora": "17:08",
-  "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 68 min (Lumen Field, Seattle). Egito segura o golaco de Emam Ashour (19min) com bloco baixo e muita disciplina - no intervalo a Belgica tinha ZERO finalizacoes no gol contra 3 do Egito, sintoma de como o ataque belga travou. Rudi Garcia mexeu para furar o ferrolho (Lukaku acionado de referencia) e empurra com De Bruyne, Doku e Trossard, mas o placar segue 0x1. Leitura permanece INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisaria agora de 3 gols em cerca de 22min - cenario praticamente perdido; o jogo caminha para Under e ameaca uma segunda grande zebra do dia, ao lado do 0x0 da Espanha."
- },
- {
-  "tipo": "esquenta",
-  "hora": "17:08",
-  "texto": "ESQUENTA - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Palpite do bolao: Uruguai 2x0. A Celeste de Bielsa entra favoritissima (elenco ~78 vs ~38), mas com dois desfalques de peso: Arrascaeta fora (lesao grau 2 na panturrilha) e Araujo de volta ao Barcelona. Provavel Uruguai: Muslera; Varela, S.Bueno, Caceres, M.Olivera; Valverde, Ugarte, Bentancur, M.Araujo; Darwin Nunez e Vinas. A Arabia de Georgios Donis (no cargo so desde abril) perde o goleiro Al-Aqidi por lesao - Al-Owais, titular em 2022, assume o gol. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Com o total recalibrado para cima o Under 2,5 perdeu valor - Disciplinado sem aposta ate aqui, reavalia no apito."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:58",
-  "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 60 min (Lumen Field, Seattle). Egito segura o golaco de Emam Ashour (19min) firme no bloco baixo, com Salah e Marmoush ameacando nos contras. A Belgica de Rudi Garcia segue com a posse e empurra por De Bruyne, Doku e Trossard, mas ainda nao furou - Lukaku ja se aquece no banco para dar referencia de area. Placar mantido 0x1, sem novo gol nesta etapa. Leitura segue INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisa de 2 gols em cerca de 30min e o relogio aperta - mas Belgica lancada com 9 de oficio tende a abrir espacos para o jogo estourar."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:53",
-  "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 55 min (Lumen Field, Seattle). Egito segue na frente com o golaco de Emam Ashour (19min) e se fecha em bloco baixo, apostando nos contras de Salah e Marmoush. A Belgica de Rudi Garcia tem a posse e empurra com De Bruyne, Doku e Trossard, mas ainda nao furou. Placar mantido 0x1, sem novo gol nesta etapa ate agora. Leitura segue INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) PRECISA de 2 gols e o relogio aperta: faltam cerca de 35min e o Egito recuado dificulta - mas a Belgica lancada abre espacos para contra-ataque, cenario que ainda pode estourar o total."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:46",
-  "texto": "AO VIVO - Belgica 0x1 Egito, comeco do 2o tempo (Lumen Field, Seattle). Egito volta do intervalo segurando a vantagem do golaco de Emam Ashour (19min, assistencia de Salah). A Belgica de Rudi Garcia voltou ligada e empurrando: Doku ja foi derrubado e Ahmed Fatouh levou amarelo por falta no ponta belga; De Bruyne segue puxando a criacao e o time se lanca ao ataque atras do empate. Egito firme no bloco baixo, apostando nos contras de Salah e Marmoush. Placar mantido 0x1. Leitura segue INVERTIDA do palpite (Belgica 2x0); alerta das 16:29 ainda de pe - modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisa de 2 gols nesta etapa: com a Belgica se lancando, o espaco para o jogo abrir aumenta."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:42",
-  "texto": "INTERVALO - Belgica 0x1 Egito (Lumen Field, Seattle). Egito vai pro vestiario na frente com o golaco de Emam Ashour (19min), defendendo bem em bloco baixo. A Belgica dominou a posse mas nao furou: De Bruyne assustou de fora da area, Doku e Trossard pressionaram pela esquerda e Courtois precisou espalmar um chute de Mostafa Zico. Amarelos para Castagne (Belgica) e Attia (Egito). Leitura segue INVERTIDA do nosso palpite (Belgica 2x0); modelo agora ~ Belgica 45 / empate 28 / Egito 27 - Belgica ainda favorita pelo elenco, mas tem de virar a chave no 2o tempo. Disciplinado (Over 2,5 a 1.91) PRECISA de 2 gols na etapa final: com o Egito fechado fica mais dificil, mas a Belgica deve se lancar e abrir espacos."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:36",
-  "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 40 min do 1o tempo (Lumen Field, Seattle). Belgica empilha pressao mas segue atras: De Bruyne ja assustou duas vezes de fora da area (uma raspando a trave/perto do poste) e Doku/Trossard rondam pela esquerda. Egito recuou e aposta nos contras com Salah e Marmoush. Leitura segue INVERTIDA do nosso palpite (Belgica 2x0): com o jogo aberto, o Disciplinado (Over 2,5 a 1.91) respira - 1 gol dentro, falta 1 ate o intervalo virar provavel."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:33",
-  "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 33 min do 1o tempo (Lumen Field, Seattle). Egito segue na frente com o gol de Emam Ashour aos 19min e se fecha em bloco baixo. A Belgica de Rudi Garcia assumiu a posse e pressiona por igualdade: De Bruyne carimbou perto da trave em chute de fora apos tabela pela esquerda, Doku puxando os contra-ataques. Placar mantido, sem novo gol. Leitura segue a do alerta das 16:29 (Belgica cerca de 42 / empate 28 / Egito 30). Disciplinado (Over 2,5 a 1.91) precisa de mais 2 gols em cerca de 55min - segue vivo, mas apertando."
- },
- {
-  "tipo": "alerta",
-  "hora": "16:29",
-  "texto": "ALERTA - Belgica x Egito: Egito abre 1x0 com Emam Ashour aos 19min, gol que INVERTE nossa leitura (azarao na frente). ANTERIOR Belgica 2x0 (65/21/14) -> NOVO Belgica ~42 / empate ~28 / Egito ~30. Palpite do bolao (Belgica 2x0) ameacado. Disciplinado (Over 2,5 a 1.91) segue de pe - 1 gol no placar, faltam 2 em ~70min."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:28",
-  "texto": "GOL DO EGITO! Emam Ashour aos 19min do 1o tempo (Lumen Field, Seattle): EGITO 1x0 BELGICA. Finalizacao individual de classe do meia egipcio, Courtois sem chance. Egito faz historia - busca a 1a vitoria em Copas em 8 participacoes, no aniversario de 34 anos de Salah. Belgica de Rudi Garcia (Lukaku fora, De Ketelaere de 9) agora corre atras com De Bruyne, Doku e Trossard. Modelo via Belgica ampla favorita; o jogo virou de chave. Bola rolando, ~30min."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:24",
-  "texto": "AO VIVO - Belgica 0x0 Egito, cerca de 25 min do 1o tempo (Lumen Field, Seattle). Jogo pegado: amarelos para Attia (Egito) e Castagne (Belgica) ja nos primeiros minutos. Lukaku FORA do XI belga (De Ketelaere de centroavante); De Bruyne, Doku e Trossard armam. Egito fechado em bloco baixo com Salah e Marmoush na espreita. Leitura mantida: Belgica 2x0, modelo ve total alto (lambda 2,93). Sem gol ainda, sem alerta. Disciplinado segue com Over 2,5."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:01",
-  "texto": "BOLA ROLANDO - comeca Belgica x Egito (Lumen Field, Seattle). Apito as 16:00 de Brasilia, confirmado. Palpite do Oraculo: Belgica 2x0. Disciplinado COM tip: Over 2,5 a 1.91 (modelo 56% vs mercado 50%, edge +6pp, EV +7%). Acompanhando os lances em tempo real."
- },
- {
-  "tipo": "odds",
-  "hora": "16:00",
-  "texto": "ODDS NO APITO - Belgica x Egito: Belgica 1.57 | Empate 4.00 | Egito 6.00 | Under 2,5 1.91 (linha de fechamento, base do CLV). Mercado crava Belgica favorita (-175); total 2,5 dividido no -110/-110. Nosso Over 2,5 a 1.91 e a aposta do Disciplinado."
- },
- {
-  "tipo": "resultado",
-  "hora": "14:55",
-  "texto": "RESULTADO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). ZEBRA HISTORICA: Cabo Verde, na estreia em Copas, segura a Furia com Vozinha gigante no gol; a Espanha teve mais de 70% de posse e 27 finalizacoes e nao furou o bloco. NOSSO PALPITE 4x0 ERROU FEIO - deu empate, 0 ponto no bolao. Simulacoes de 100 reais: Favorito do Modelo (Espanha) e Favorito do Mercado (Espanha) PERDERAM (-100 cada); Jogo Louco (Over 3,5) PERDEU (-100); Disciplinado NAO tinha tip (mismatch sem valor), ficou de fora e preservou a banca. LICAO honesta: o modelo recalibrado p/ placares altos superestimou a Espanha num jogo de bloco baixo - a over-confianca (95%) custou caro no Brier (1.82 nosso x 1.64 mercado). Hoje caimos atras do mercado; e assim que o placar fica, sem maquiagem."
- },
- {
-  "tipo": "aovivo",
-  "hora": "13:00",
-  "texto": "BOLA ROLANDO - comeca Espanha x Cabo Verde (Mercedes-Benz Stadium, Atlanta). Apito as 13:00 de Brasilia, confirmado pelo relogio. Palpite mantido: Espanha 4x0 (P 95 por cento). Nota de escalacao: Lamine Yamal comeca no banco; Ferran Torres e Oyarzabal no ataque - a profundidade do elenco mantem a leitura, sem alerta. Lances a seguir."
- },
- {
-  "tipo": "clima",
-  "hora": "13:00",
-  "texto": "CLIMA - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta, 70 mil lugares, teto retratil e o telao Halo Board de 360 graus). Estreia historica de Cabo Verde em Copas do Mundo; a Furia mantem a posse, mas o ambiente fechado e barulhento pode dar energia ao azarao. Selecoes no gramado para os hinos, jogo prestes a comecar."
- },
- {
-  "tipo": "odds",
-  "hora": "13:00",
-  "texto": "ODDS NO APITO - Espanha x Cabo Verde (linha de fechamento, base do CLV): Espanha 1.08 | Empate 12.00 | Cabo Verde 36.00 | Under 2,5 3.20. Mercado crava Espanha como favorita extrema; vida real so nos totais de gols e na margem (handicap -2,5 a 1.90)."
- },
- {
-  "tipo": "pre_jogo",
-  "hora": "13:00",
-  "texto": "PRE-JOGO - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H). ESCALACOES CONFIRMADAS. ESPANHA (De la Fuente): Unai Simon; Marcos Llorente, Pau Cubarsi, Laporte, Cucurella; Pedri, Rodri, Fabian Ruiz; Ferran Torres, Baena; Oyarzabal. Lamine Yamal e Nico Williams FORA do XI (gerenciando lesao na coxa), comecam no banco. CABO VERDE (Bubista), estreia historica em Copas: Vozinha; Steven Moreira, Pico, Logan Costa, Borges; Deroy Duarte, Lenini, Jamiro, Ryan Mendes, Jovane Cabral; Livramento - 4-2-3-1 defensivo. LEITURA: ausencia de Yamal/Nico ja estava precificada pelo modelo (lambda Espanha ~4,1); palpite mantido, Espanha vence com folga. Sem ALERTA."
- },
- {
-  "tipo": "esquenta",
-  "hora": "12:52",
-  "texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
- }
+  {
+    "tipo": "alerta",
+    "hora": "22:31",
+    "texto": "ALERTA - Ira x Nova Zelandia: Nova Zelandia (azarao) abriu 1x0 com Elijah Just (7min, voleio) | previsao ANTERIOR Ira 1x0 -> AGORA Ira corre atras, leitura vira jogo aberto com risco de zebra."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "22:25",
+    "texto": "AO VIVO - Ira 0x1 Nova Zelandia, cerca de 25 min (SoFi Stadium, Inglewood). GOL DA NOVA ZELANDIA: Elijah Just aos 7 min, num voleio. O All Whites surpreende e o Ira, favorito do modelo (59 por cento), precisa reagir."
+  },
+  {
+    "tipo": "alerta",
+    "texto": "ALERTA - Ira x Nova Zelandia: GOL da Nova Zelandia aos 8 min, azarao abre 0x1 num cabeceio dentro da area | Previa Ira 1x0 (Ira vence 59pp) -> AGORA Ira atras, vitoria do Ira ~38pp e o palpite Ira 1x0 ameacado",
+    "hora": "22:13"
+  },
+  {
+    "tipo": "ao_vivo",
+    "texto": "GOL - Ira 0x1 Nova Zelandia (8 min, SoFi Stadium). Os All Whites surpreendem com cabeceada dentro da area apos bola alcada. Mais um azarao mandando no dia das zebras (Cabo Verde segurou a Espanha, Egito empatou com a Belgica). Ira agora obrigado a se expor.",
+    "hora": "22:08"
+  },
+  {
+    "tipo": "analise",
+    "hora": "22:05",
+    "texto": "DISCIPLINADO HOJE: SEM APOSTA. O modelo flagou Ira vence/Over/Ambas Marcam no Ira x Nova Zelandia, mas REJEITAMOS: o mercado crava jogo travado (Under 61%) e nosso lambda esta alto demais para dois times defensivos (o Ira tem uma das melhores defesas da Asia). Nao e valor, e erro de modelo - a mesma soberba do 0x0 da Espanha. Num dia de 4 favoritos tropecando, a melhor aposta e nenhuma. PROXIMA MELHORIA: separar ATAQUE e DEFESA por time (hoje usamos um indice unico de forca, que confunde time bom com time que faz gol - o Ira e bom E faz poucos gols)."
+  },
+  {
+    "tipo": "odds",
+    "hora": "22:00",
+    "texto": "ODDS NO APITO - Ira x Nova Zelandia: Ira 1.83 | Empate 3.45 | Nova Zelandia 4.50 | Under 2,5 1.57 (linha de fechamento, base do CLV). Mercado entrou com o Ira favorito e jogo de poucos gols."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "22:00",
+    "texto": "BOLA ROLANDO - comeca Ira x Nova Zelandia (SoFi Stadium, Inglewood). Apito as 22:00 de Brasilia. Palpite original do bolao: Ira 1x0. Disciplinado sem aposta (nosso modelo ve menos Under que o mercado e a regra anti-armadilha veta o Over)."
+  },
+  {
+    "tipo": "prejogo",
+    "hora": "21:57",
+    "texto": "PRE-JOGO - Ira x Nova Zelandia as 22:00 (SoFi Stadium, Los Angeles), estreia do Grupo G e ultimo jogo do dia. ESCALACOES: a Nova Zelandia confirma CHRIS WOOD apto e TITULAR com a bracadeira de capitao (era a duvida fisica do Nottingham Forest) - provavel: Crocombe; Payne, Boxall, Surman, Cacace; Bell, Stamenic; McCowatt, Sarpreet Singh (estreia em Copa), Elijah Just; Wood. Ryan Thomas fica fora com lesao muscular. O Ira deve ir com Beiranvand no gol e Mehdi Taremi na frente, sem desfalque de peso anunciado. LEITURA MANTIDA: o retorno de Wood ja era a premissa base, entao NAO muda o palpite - jogo travado, com abismo no ranking (a Nova Zelandia e a pior das 48 selecoes, 9 derrotas nos ultimos 11). Modelo segue Ira 59 por cento / empate 23 / Nova Zelandia 17, lambda 1,90 x 0,93. BOLAO: Ira 1x0 no placar seguro, 1x1 como cartada de 6 pontos. Disciplinado reavalia 1X2, handicap e gols no apito; Jogo Louco de olho no Under 2,5. Odds: Ira entre 1,76 e 1,95, empate alto, Nova Zelandia 4,59. Sem ALERTA - previsao inalterada."
+  },
+  {
+    "tipo": "esquenta",
+    "hora": "19:07",
+    "texto": "ESQUENTA - Ira x Nova Zelandia as 22:00 (SoFi Stadium, Inglewood/LA), ultimo jogo do dia e estreia do Grupo G. Modelo (Dixon-Coles calibrado): lambda Ira 1,90 x Nova Zelandia 0,93, total 2,83; 1X2 Ira 59 por cento / empate 23 / Nova Zelandia 17. O abismo aparece no ranking: a Nova Zelandia e a pior selecao entre as 48 da Copa e perdeu 9 dos ultimos 11 jogos (so 0,73 gol marcado e 1,82 sofrido por jogo); o Ira, desde o inicio de 2025, jogou 5 vezes como favorito e somou 4 vitorias e 1 empate, 15 gols pro e so 2 contra. No mercado o Ira sai entre 1,76 e 1,95, empate alto e Nova Zelandia 4,59 (Kalshi precifica Ira 54 / empate 27 / NZ 21). Palpite do bolao: Ira 1x0 no placar mais seguro, com o 1x1 como cartada de 6 pontos num jogo que tende a ser travado. Disciplinado reavalia 1X2, handicap e gols no apito; Jogo Louco de olho no Under 2,5 (total projetado abaixo da linha). Confronto direto curto: so 2 jogos, Ira invicto (1 vitoria e 1 empate)."
+  },
+  {
+    "tipo": "fechamento",
+    "hora": "18:57",
+    "texto": "FIM DE JOGO - Arabia Saudita 1x1 Uruguai (Hard Rock Stadium, Miami). TERCEIRO favorito a tropecar no dia. A Celeste de Bielsa, com a zaga titular toda desfalcada (Ronald Araujo, Gimenez e Arrascaeta fora), saiu atras: Al-Amri marcou aos 41 no rebote de escanteio que Muslera deu, e o Uruguai so empatou aos 80 com Maxi Araujo - primeiro gol uruguaio na Copa. Sem gols nos acrescimos, fechou 1x1. Nosso palpite do bolao Uruguai 2x0 FUROU (deu empate) - 0 pts. As tres simulacoes que apostaram no Uruguai perderam 100 reais cada (Favorito do Modelo, Jogo Louco e Favorito do Mercado, todos no Uruguai a 1.40); o Disciplinado NAO apostou (sem valor no apito) e foi o unico a se salvar no dia. Brier modelo 1,19 vs mercado 1,07 - de novo o modelo superestimou o favorito. Padrao do dia confirmado: Espanha caiu, Belgica empatou e o Uruguai so empatou. Resta Ira x Nova Zelandia as 22h."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "18:49",
+    "texto": "AO VIVO - Arabia Saudita 1x1 Uruguai, reta final em Miami. EMPATE DA CELESTE: Maxi Araujo igualou aos 80 minutos, aproveitando a sobra apos um cabeceio defendido - o primeiro gol do Uruguai na Copa. A Arabia Saudita tinha aberto com Al-Amri aos 41, no rebote de escanteio que Muslera deu rebote. Nosso palpite do bolao Uruguai 2x0 ja estava furado desde o gol saudita; agora a Celeste corre por cima atras da virada nos minutos finais. As tips de favorito (Uruguai a 1.42) seguem VIVAS so se o Uruguai marcar de novo - empate fecha como mais um tropeco de favorito no dia (Espanha 0x0, Belgica 1x1). Jogo aberto ao apito final."
+  },
+  {
+    "tipo": "ao_vivo",
+    "hora": "18:42",
+    "texto": "AO VIVO / RESULTADOS: Belgica 1x1 Egito - FIM (mais um FAVORITO que empatou; a Belgica nao passou do Egito). Arabia Saudita 1x0 Uruguai, 79 min - ZEBRA NO AR: o Uruguai (nosso palpite 2x0) esta PERDENDO. Dia de favoritos tropecando: Espanha 0x0, Belgica 1x1, Uruguai atras - e exatamente o padrao que calibramos hoje (fator de empate). Falta Ira x Nova Zelandia (22h)."
+  },
+  {
+    "tipo": "prejogo",
+    "hora": "18:41",
+    "texto": "PRE-JOGO - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Escalacoes: Uruguai (4-4-2) Muslera; Varela, Caceres, M.Olivera, Vina; Ugarte, Bentancur, Valverde, M.Araujo; Vinas e Darwin Nunez. ATENCAO - alem de Arrascaeta (lesao) e Ronald Araujo, a Celeste tem TAMBEM Gimenez fora: a dupla de zaga titular esta desfalcada, o que enfraquece a defesa uruguaia. A Arabia de Donis perde o goleiro Al-Aqidi (Al-Owais assume) e tem o elenco quase todo da liga local, so Saud Abdulhamid atua fora. Odds: Uruguai 1.42 | empate 4.40 | Arabia 8.00 (Uruguai favoritissimo). Palpite do bolao mantido: Uruguai 2x0 - os desfalques na zaga sobem o risco de a Arabia balancar a rede, mas o abismo tecnico (elenco 78 vs 38) sustenta a vitoria uruguaia. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Disciplinado sem aposta de valor ate aqui (Under sem preco, total alto) - reavalia 1X2/handicap/gols no apito."
+  },
+  {
+    "tipo": "fechamento",
+    "hora": "17:55",
+    "texto": "FIM DE JOGO - Belgica 1x1 Egito (Lumen Field, Seattle). Empate com gosto de vitoria para o Egito: Emam Ashour abriu com um golaco de fora aos 19 e os Faraos seguraram a Belgica ate Lukaku entrar - 22 segundos depois, Hany marcou contra (66) e salvou os Diabos Vermelhos. xG do jogo: Belgica 1,31 x 1,07 Egito, equilibrado no peso das chances. Nosso palpite do bolao Belgica 2x0 FUROU (deu empate) - 0 pts; o modelo dava Belgica 65 por cento e o jogo virou a 2a zebra do dia, ao lado do 0x0 da Espanha. As QUATRO simulacoes perderam 100 reais cada: Favorito do Modelo e do Mercado (Belgica 1.50), Jogo Louco e Disciplinado (Over 2,5 a 1.91 - fechou em 2 gols, deu Under). Brier modelo 1,066 vs mercado 0,981; dia duro para o modelo, que superestimou os dois favoritos europeus."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "17:24",
+    "texto": "AO VIVO - Belgica 0x1 Egito, segundo tempo em andamento (Lumen Field, Seattle). Nova chance clarissima do Egito: Salah cabeceou e Courtois espalmou; no rebote, Ashour - autor do gol - mandou para fora e perdeu o 2x0 que praticamente liquidaria a partida. A Belgica de Rudi Garcia segue com a posse e empurrando por De Bruyne, Doku e Trossard, mas nao fura o bloco baixo egipcio. Placar mantido 0x1. Leitura permanece INVERTIDA do palpite do bolao (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) cada vez mais improvavel - precisaria de 3 gols no tempo restante; o jogo caminha para Under e ameaca a segunda grande zebra do dia, ao lado do 0x0 da Espanha."
+  },
+  {
+    "tipo": "forma",
+    "hora": "17:24",
+    "texto": "FORMA - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Forma recente da Celeste de Bielsa e irregular: empates 1x1 com a Inglaterra e 0x0 com a Argelia em marco, depois de levar 5x1 dos EUA em novembro; nas Eliminatorias fechou em 4o, com so 1 vitoria nos 9 jogos da reta final. Mesmo assim entra favoritissima pelo elenco (~78 vs ~38) e pela diferenca tecnica, ainda que sem Arrascaeta (lesao) e sem Araujo. A Arabia de Georgios Donis (no cargo desde abril) chega sem o goleiro Al-Aqidi (lesao); Al-Owais, titular em 2022, assume. Palpite do bolao: Uruguai 2x0. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Total recalibrado p/ cima tirou o valor do Under - Disciplinado sem aposta, reavalia no apito."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "17:14",
+    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 80 min (Lumen Field, Seattle). O cerco belga aperta mas nao fura: De Bruyne tentou o chip por cima da linha do Egito e Ashour - autor do gol - voltou para cortar; logo depois KDB finalizou para fora. Meunier entrou pela direita buscando profundidade. Egito segue com bloco baixo, disciplina e Salah/Marmoush espreitando o contra. Faltando os minutos finais + acrescimos, o palpite do bolao (Belgica 2x0) esta liquidado e a zebra do Egito se cristaliza - seria a 2a grande surpresa do dia, ao lado do 0x0 da Espanha. Modelo permanece INVERTIDO; Over 2,5 do Disciplinado praticamente perdido (precisaria de 3 gols agora)."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "17:08",
+    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 68 min (Lumen Field, Seattle). Egito segura o golaco de Emam Ashour (19min) com bloco baixo e muita disciplina - no intervalo a Belgica tinha ZERO finalizacoes no gol contra 3 do Egito, sintoma de como o ataque belga travou. Rudi Garcia mexeu para furar o ferrolho (Lukaku acionado de referencia) e empurra com De Bruyne, Doku e Trossard, mas o placar segue 0x1. Leitura permanece INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisaria agora de 3 gols em cerca de 22min - cenario praticamente perdido; o jogo caminha para Under e ameaca uma segunda grande zebra do dia, ao lado do 0x0 da Espanha."
+  },
+  {
+    "tipo": "esquenta",
+    "hora": "17:08",
+    "texto": "ESQUENTA - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Palpite do bolao: Uruguai 2x0. A Celeste de Bielsa entra favoritissima (elenco ~78 vs ~38), mas com dois desfalques de peso: Arrascaeta fora (lesao grau 2 na panturrilha) e Araujo de volta ao Barcelona. Provavel Uruguai: Muslera; Varela, S.Bueno, Caceres, M.Olivera; Valverde, Ugarte, Bentancur, M.Araujo; Darwin Nunez e Vinas. A Arabia de Georgios Donis (no cargo so desde abril) perde o goleiro Al-Aqidi por lesao - Al-Owais, titular em 2022, assume o gol. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Com o total recalibrado para cima o Under 2,5 perdeu valor - Disciplinado sem aposta ate aqui, reavalia no apito."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:58",
+    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 60 min (Lumen Field, Seattle). Egito segura o golaco de Emam Ashour (19min) firme no bloco baixo, com Salah e Marmoush ameacando nos contras. A Belgica de Rudi Garcia segue com a posse e empurra por De Bruyne, Doku e Trossard, mas ainda nao furou - Lukaku ja se aquece no banco para dar referencia de area. Placar mantido 0x1, sem novo gol nesta etapa. Leitura segue INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisa de 2 gols em cerca de 30min e o relogio aperta - mas Belgica lancada com 9 de oficio tende a abrir espacos para o jogo estourar."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:53",
+    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 55 min (Lumen Field, Seattle). Egito segue na frente com o golaco de Emam Ashour (19min) e se fecha em bloco baixo, apostando nos contras de Salah e Marmoush. A Belgica de Rudi Garcia tem a posse e empurra com De Bruyne, Doku e Trossard, mas ainda nao furou. Placar mantido 0x1, sem novo gol nesta etapa ate agora. Leitura segue INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) PRECISA de 2 gols e o relogio aperta: faltam cerca de 35min e o Egito recuado dificulta - mas a Belgica lancada abre espacos para contra-ataque, cenario que ainda pode estourar o total."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:46",
+    "texto": "AO VIVO - Belgica 0x1 Egito, comeco do 2o tempo (Lumen Field, Seattle). Egito volta do intervalo segurando a vantagem do golaco de Emam Ashour (19min, assistencia de Salah). A Belgica de Rudi Garcia voltou ligada e empurrando: Doku ja foi derrubado e Ahmed Fatouh levou amarelo por falta no ponta belga; De Bruyne segue puxando a criacao e o time se lanca ao ataque atras do empate. Egito firme no bloco baixo, apostando nos contras de Salah e Marmoush. Placar mantido 0x1. Leitura segue INVERTIDA do palpite (Belgica 2x0); alerta das 16:29 ainda de pe - modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisa de 2 gols nesta etapa: com a Belgica se lancando, o espaco para o jogo abrir aumenta."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:42",
+    "texto": "INTERVALO - Belgica 0x1 Egito (Lumen Field, Seattle). Egito vai pro vestiario na frente com o golaco de Emam Ashour (19min), defendendo bem em bloco baixo. A Belgica dominou a posse mas nao furou: De Bruyne assustou de fora da area, Doku e Trossard pressionaram pela esquerda e Courtois precisou espalmar um chute de Mostafa Zico. Amarelos para Castagne (Belgica) e Attia (Egito). Leitura segue INVERTIDA do nosso palpite (Belgica 2x0); modelo agora ~ Belgica 45 / empate 28 / Egito 27 - Belgica ainda favorita pelo elenco, mas tem de virar a chave no 2o tempo. Disciplinado (Over 2,5 a 1.91) PRECISA de 2 gols na etapa final: com o Egito fechado fica mais dificil, mas a Belgica deve se lancar e abrir espacos."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:36",
+    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 40 min do 1o tempo (Lumen Field, Seattle). Belgica empilha pressao mas segue atras: De Bruyne ja assustou duas vezes de fora da area (uma raspando a trave/perto do poste) e Doku/Trossard rondam pela esquerda. Egito recuou e aposta nos contras com Salah e Marmoush. Leitura segue INVERTIDA do nosso palpite (Belgica 2x0): com o jogo aberto, o Disciplinado (Over 2,5 a 1.91) respira - 1 gol dentro, falta 1 ate o intervalo virar provavel."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:33",
+    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 33 min do 1o tempo (Lumen Field, Seattle). Egito segue na frente com o gol de Emam Ashour aos 19min e se fecha em bloco baixo. A Belgica de Rudi Garcia assumiu a posse e pressiona por igualdade: De Bruyne carimbou perto da trave em chute de fora apos tabela pela esquerda, Doku puxando os contra-ataques. Placar mantido, sem novo gol. Leitura segue a do alerta das 16:29 (Belgica cerca de 42 / empate 28 / Egito 30). Disciplinado (Over 2,5 a 1.91) precisa de mais 2 gols em cerca de 55min - segue vivo, mas apertando."
+  },
+  {
+    "tipo": "alerta",
+    "hora": "16:29",
+    "texto": "ALERTA - Belgica x Egito: Egito abre 1x0 com Emam Ashour aos 19min, gol que INVERTE nossa leitura (azarao na frente). ANTERIOR Belgica 2x0 (65/21/14) -> NOVO Belgica ~42 / empate ~28 / Egito ~30. Palpite do bolao (Belgica 2x0) ameacado. Disciplinado (Over 2,5 a 1.91) segue de pe - 1 gol no placar, faltam 2 em ~70min."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:28",
+    "texto": "GOL DO EGITO! Emam Ashour aos 19min do 1o tempo (Lumen Field, Seattle): EGITO 1x0 BELGICA. Finalizacao individual de classe do meia egipcio, Courtois sem chance. Egito faz historia - busca a 1a vitoria em Copas em 8 participacoes, no aniversario de 34 anos de Salah. Belgica de Rudi Garcia (Lukaku fora, De Ketelaere de 9) agora corre atras com De Bruyne, Doku e Trossard. Modelo via Belgica ampla favorita; o jogo virou de chave. Bola rolando, ~30min."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:24",
+    "texto": "AO VIVO - Belgica 0x0 Egito, cerca de 25 min do 1o tempo (Lumen Field, Seattle). Jogo pegado: amarelos para Attia (Egito) e Castagne (Belgica) ja nos primeiros minutos. Lukaku FORA do XI belga (De Ketelaere de centroavante); De Bruyne, Doku e Trossard armam. Egito fechado em bloco baixo com Salah e Marmoush na espreita. Leitura mantida: Belgica 2x0, modelo ve total alto (lambda 2,93). Sem gol ainda, sem alerta. Disciplinado segue com Over 2,5."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "16:01",
+    "texto": "BOLA ROLANDO - comeca Belgica x Egito (Lumen Field, Seattle). Apito as 16:00 de Brasilia, confirmado. Palpite do Oraculo: Belgica 2x0. Disciplinado COM tip: Over 2,5 a 1.91 (modelo 56% vs mercado 50%, edge +6pp, EV +7%). Acompanhando os lances em tempo real."
+  },
+  {
+    "tipo": "odds",
+    "hora": "16:00",
+    "texto": "ODDS NO APITO - Belgica x Egito: Belgica 1.57 | Empate 4.00 | Egito 6.00 | Under 2,5 1.91 (linha de fechamento, base do CLV). Mercado crava Belgica favorita (-175); total 2,5 dividido no -110/-110. Nosso Over 2,5 a 1.91 e a aposta do Disciplinado."
+  },
+  {
+    "tipo": "resultado",
+    "hora": "14:55",
+    "texto": "RESULTADO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). ZEBRA HISTORICA: Cabo Verde, na estreia em Copas, segura a Furia com Vozinha gigante no gol; a Espanha teve mais de 70% de posse e 27 finalizacoes e nao furou o bloco. NOSSO PALPITE 4x0 ERROU FEIO - deu empate, 0 ponto no bolao. Simulacoes de 100 reais: Favorito do Modelo (Espanha) e Favorito do Mercado (Espanha) PERDERAM (-100 cada); Jogo Louco (Over 3,5) PERDEU (-100); Disciplinado NAO tinha tip (mismatch sem valor), ficou de fora e preservou a banca. LICAO honesta: o modelo recalibrado p/ placares altos superestimou a Espanha num jogo de bloco baixo - a over-confianca (95%) custou caro no Brier (1.82 nosso x 1.64 mercado). Hoje caimos atras do mercado; e assim que o placar fica, sem maquiagem."
+  },
+  {
+    "tipo": "aovivo",
+    "hora": "13:00",
+    "texto": "BOLA ROLANDO - comeca Espanha x Cabo Verde (Mercedes-Benz Stadium, Atlanta). Apito as 13:00 de Brasilia, confirmado pelo relogio. Palpite mantido: Espanha 4x0 (P 95 por cento). Nota de escalacao: Lamine Yamal comeca no banco; Ferran Torres e Oyarzabal no ataque - a profundidade do elenco mantem a leitura, sem alerta. Lances a seguir."
+  },
+  {
+    "tipo": "clima",
+    "hora": "13:00",
+    "texto": "CLIMA - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta, 70 mil lugares, teto retratil e o telao Halo Board de 360 graus). Estreia historica de Cabo Verde em Copas do Mundo; a Furia mantem a posse, mas o ambiente fechado e barulhento pode dar energia ao azarao. Selecoes no gramado para os hinos, jogo prestes a comecar."
+  },
+  {
+    "tipo": "odds",
+    "hora": "13:00",
+    "texto": "ODDS NO APITO - Espanha x Cabo Verde (linha de fechamento, base do CLV): Espanha 1.08 | Empate 12.00 | Cabo Verde 36.00 | Under 2,5 3.20. Mercado crava Espanha como favorita extrema; vida real so nos totais de gols e na margem (handicap -2,5 a 1.90)."
+  },
+  {
+    "tipo": "pre_jogo",
+    "hora": "13:00",
+    "texto": "PRE-JOGO - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H). ESCALACOES CONFIRMADAS. ESPANHA (De la Fuente): Unai Simon; Marcos Llorente, Pau Cubarsi, Laporte, Cucurella; Pedri, Rodri, Fabian Ruiz; Ferran Torres, Baena; Oyarzabal. Lamine Yamal e Nico Williams FORA do XI (gerenciando lesao na coxa), comecam no banco. CABO VERDE (Bubista), estreia historica em Copas: Vozinha; Steven Moreira, Pico, Logan Costa, Borges; Deroy Duarte, Lenini, Jamiro, Ryan Mendes, Jovane Cabral; Livramento - 4-2-3-1 defensivo. LEITURA: ausencia de Yamal/Nico ja estava precificada pelo modelo (lambda Espanha ~4,1); palpite mantido, Espanha vence com folga. Sem ALERTA."
+  },
+  {
+    "tipo": "esquenta",
+    "hora": "12:52",
+    "texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
+  }
 ]
