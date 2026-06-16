@@ -1,5 +1,30 @@
 [
  {
+  "tipo": "alerta",
+  "hora": "22:31",
+  "texto": "ALERTA - Ira x Nova Zelandia: Nova Zelandia (azarao) abriu 1x0 com Elijah Just (7min, voleio) | previsao ANTERIOR Ira 1x0 -> AGORA Ira corre atras, leitura vira jogo aberto com risco de zebra."
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "22:25",
+  "texto": "AO VIVO - Ira 0x1 Nova Zelandia, cerca de 25 min (SoFi Stadium, Inglewood). GOL DA NOVA ZELANDIA: Elijah Just aos 7 min, num voleio. O All Whites surpreende e o Ira, favorito do modelo (59 por cento), precisa reagir."
+ },
+ {
+  "tipo": "odds",
+  "hora": "22:00",
+  "texto": "ODDS NO APITO - Ira x Nova Zelandia: Ira 1.83 | Empate 3.45 | Nova Zelandia 4.50 | Under 2,5 1.57 (linha de fechamento, base do CLV). Mercado entrou com o Ira favorito e jogo de poucos gols."
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "22:00",
+  "texto": "BOLA ROLANDO - comeca Ira x Nova Zelandia (SoFi Stadium, Inglewood). Apito as 22:00 de Brasilia. Palpite original do bolao: Ira 1x0. Disciplinado sem aposta (nosso modelo ve menos Under que o mercado e a regra anti-armadilha veta o Over)."
+ },
+ {
+  "tipo": "fechamento",
+  "hora": "19:50",
+  "texto": "FIM DE JOGO - Arabia Saudita 1x1 Uruguai (Hard Rock Stadium, Miami). A Celeste de Bielsa tropeca na estreia: Al-Amri abriu para os sauditas (41min) e Maxi Araujo salvou com um voleio (80min). Palpite Uruguai 2x0 nao pontua; favorito do modelo e do mercado (Uruguai 1.40) perde a aposta."
+ },
+ {
   "tipo": "ao_vivo",
   "hora": "22:24",
   "texto": "AO VIVO - Ira 0x1 Nova Zelandia, cerca de 22 min (SoFi Stadium). Placar segue o golaco de Eli Just (7 min). Ira favorito (1.83) tem a posse mas esbarra no bloco baixo dos All Whites; o jogo cobra reacao do Ira para nao deixar nosso palpite Ira 1x0 ruir. Sem novos lances de perigo claro desde o gol."
@@ -173,30 +198,5 @@
   "tipo": "esquenta",
   "hora": "12:52",
   "texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
- },
- {
-  "tipo": "analise",
-  "hora": "10:20",
-  "texto": "MODELO RECALIBRADO com os 12 jogos reais (sempre calculado, zero chute). Descoberta: estavamos calibrando o lambda pela mediana (2 gols) quando o Poisson mira a MEDIA (2,9) - por isso 0 placares exatos em 10 jogos. Corrigido (mu=0,26 beta=1,5, regularizado p/ nao overfittar a cauda). Placares de hoje subiram pro lugar certo: Espanha 4x0, Belgica 2x0, Uruguai 2x0, Ira 1x0. Esse e o caminho pra cravar placar e fechar o gap pro lider."
- },
- {
-  "tipo": "analise",
-  "hora": "09:55",
-  "texto": "ANALISE FUNDAMENTADA publicada (modelo Dixon-Coles rodado). A matematica do EP revisou 3 palpites: Espanha 3x0 (nao 4x0), Belgica 1x0, Uruguai 1x0. Valor do dia: Belgica-Egito Over 2,5 (edge +9,8pp) e Ira vitoria (edge +4,9pp marginal). Espanha-Cabo Verde: modelo aponta Under mas REJEITAMOS (armadilha de mismatch). Uruguai: sem aposta, nenhum mercado bate o corte."
- },
- {
-  "tipo": "resumo",
-  "hora": "09:30",
-  "texto": "BOM DIA 15/06. Fechamos a rodada de ontem (fonte API ESPN): Alemanha 7x1 Curacao (nosso 3x0 = 3pts, vencedor certo), Holanda 2x2 Japao (1pt), Marfim 1x0 Equador (tip Under do Disciplinado GANHOU, +115%), Suecia 5x1 Tunisia (nosso 1x0, vencedor certo mas placar errou feio), e Australia 2x0 Turquia (nosso Turquia 2x1, ERRAMOS - jogo que nao tinha sido registrado, agora logado por honestidade). LICAO DE MODELO: em jogos de estreia com diferenca GRANDE de nivel (Alemanha 7, Suecia 5) os gols vieram MUITO acima do nosso fator-cautela-de-estreia. O fator vale para jogos equilibrados, nao para mismatch. Por isso hoje Espanha x Cabo Verde sai 4x0 (placar alto) e nao 3x0. Placar atual: bolao 20 pts, acerto de vencedor 60% (6/10), Brier 0.491 (mercado 0.491) (empatado com o mercado - ainda nao batemos)."
- },
- {
-  "tipo": "resultado",
-  "hora": "00:50",
-  "texto": "RESULTADO - Suecia 5x1 Tunisia (Estadio BBVA, Monterrey). Ayari (2x), Isak, Gyokeres e Svanberg; Rekik descontou. Suecia abriu cedo (Ayari aos 7) e atropelou - a leitura de Suecia favorita e jogo aberto se confirmou com folga; placar bem acima do nosso 1x0. Suecia lidera o Grupo F isolada; no outro jogo Holanda 2x2 Japao. Jogo FORA do book do dia (palpite na agenda), registro factual: sem pontuacao do bolao nem simulacao de 100 reais."
- },
- {
-  "tipo": "aovivo",
-  "texto": "GOL - Suecia 1x0 Tunisia, Yasin Ayari aos 7 do 1o tempo. Gyokeres forcou a defesa de Chamakh, que soltou no meio, e Ayari completou o rebote de fora da area. CONFIRMA a leitura: palpite do bolao Suecia 1x0 e favorito do modelo (Suecia ~49 por cento). Cedo, mas dentro do roteiro - Suecia abre o placar e empurra a Tunisia (ataque fraco) para fora da concha. Sem alerta: gol a favor da previsao.",
-  "hora": "23:07"
  }
 ]
