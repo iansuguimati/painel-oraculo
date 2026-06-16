@@ -1,5 +1,13 @@
 [
   {
+    "tipo": "alerta",
+    "texto": "ALERTA - Ira x Nova Zelandia: GOL da Nova Zelandia aos 8 min, azarao abre 0x1 num cabeceio dentro da area | Previa Ira 1x0 (Ira vence 59pp) -> AGORA Ira atras, vitoria do Ira ~38pp e o palpite Ira 1x0 ameacado"
+  },
+  {
+    "tipo": "ao_vivo",
+    "texto": "GOL - Ira 0x1 Nova Zelandia (8 min, SoFi Stadium). Os All Whites surpreendem com cabeceada dentro da area apos bola alcada. Mais um azarao mandando no dia das zebras (Cabo Verde segurou a Espanha, Egito empatou com a Belgica). Ira agora obrigado a se expor."
+  },
+  {
     "tipo": "ao_vivo",
     "texto": "BOLA ROLANDO - comeca Ira x Nova Zelandia no SoFi Stadium (Los Angeles), estreia do Grupo G. Palpite do bolao Ira 1x0; modelo da Ira 59% / empate 23% / NZ 17%, total esperado 2,83 gols. Disciplinado sem aposta; Jogo Louco no Under 2,5. Acompanhamos lance a lance."
   },
@@ -186,15 +194,5 @@
     "tipo": "aovivo",
     "hora": "23:00",
     "texto": "BOLA ROLANDO - comeca Suecia x Tunisia (Estadio BBVA, Monterrey). Estreia do Grupo F em jogo unico da rodada. Palpite do Oraculo: Suecia 1x0. Linha de fechamento Suecia 1.91 / empate 3.40 / Tunisia 4.40. Acompanhando os lances em tempo real."
-  },
-  {
-    "tipo": "odds",
-    "hora": "22:57",
-    "texto": "ODDS DE FECHAMENTO - Suecia x Tunisia (apito 23:00, em instantes; Estadio BBVA, Monterrey): Suecia 1.91 | Empate 3.40 | Tunisia 4.40 (FanDuel, -110/+240/+340). Total Over/Under 2,5 (preco limpo de Under nao divulgado). Esta e a linha de fechamento, base do CLV. LAB pegou Tunisia ML a 4.60 antes do fechamento (4.40) - CLV positivo de cerca de +4,5 por cento sobre a linha. Jogo ainda NAO comecou; bola rola as 23:00."
-  },
-  {
-    "tipo": "clima",
-    "texto": "CLIMA - Suecia x Tunisia (apito 23:00, Estadio de Monterrey, Guadalupe-MEX, capacidade ~53,5 mil). Estreia do Grupo F: as duas selecoes encaram este como o jogo da vida no grupo de Holanda e Japao. Times indo para o gramado, hinos a caminho sob noite quente de Monterrey; torcida sueca de amarelo e a tunisiana de vermelho dao o tom nas arquibancadas. Suecia de Potter aposta em Isak e Gyokeres pela frente; Tunisia confia na marcacao de Skhiri e Rani Khedira para travar o jogo. Palpite do Oraculo segue Suecia 1x0. Bola prestes a rolar.",
-    "hora": "22:55"
   }
 ]
