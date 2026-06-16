@@ -1,53 +1,8 @@
 [
  {
   "tipo": "aovivo",
-  "hora": "22:48",
-  "texto": "INTERVALO - Ira 1x1 Nova Zelandia (SoFi Stadium, Inglewood). Azarao da Oceania segurou o 1o tempo: Elijah Just (7 min) abriu, Ramin Rezaeian (32 min) empatou. Nosso palpite era Ira 1x0; a Nova Zelandia rendeu acima do esperado e o jogo esta aberto. Disciplinado segue SEM APOSTA (acertou ao vetar Over e vitoria do Ira). 2o tempo deve ter o Ira pressionando por iniciativa."
- },
- {
-  "tipo": "alerta",
-  "hora": "22:42",
-  "texto": "ALERTA - Ira x Nova Zelandia: IRA EMPATOU 1x1 com Ramin Rezaeian (32 min), tapinha de perto na sobra dentro da area apos disputa de Moghanlou. A previsao do dia (Ira 1x0, modelo 59 por cento) volta a pender pro Ira: o azarao perdeu a vantagem. Jogo aberto, fim do 1o tempo."
- },
- {
-  "tipo": "alerta",
-  "hora": "22:31",
-  "texto": "ALERTA - Ira x Nova Zelandia: Nova Zelandia (azarao) abriu 1x0 com Elijah Just (7min, voleio) | previsao ANTERIOR Ira 1x0 -> AGORA Ira corre atras, leitura vira jogo aberto com risco de zebra."
- },
- {
-  "tipo": "aovivo",
-  "hora": "22:25",
-  "texto": "AO VIVO - Ira 0x1 Nova Zelandia, cerca de 25 min (SoFi Stadium, Inglewood). GOL DA NOVA ZELANDIA: Elijah Just aos 7 min, num voleio. O All Whites surpreende e o Ira, favorito do modelo (59 por cento), precisa reagir."
- },
- {
-  "tipo": "alerta",
-  "texto": "ALERTA - Ira x Nova Zelandia: GOL da Nova Zelandia aos 8 min, azarao abre 0x1 num cabeceio dentro da area | Previa Ira 1x0 (Ira vence 59pp) -> AGORA Ira atras, vitoria do Ira ~38pp e o palpite Ira 1x0 ameacado",
-  "hora": "22:13"
- },
- {
-  "tipo": "ao_vivo",
-  "texto": "GOL - Ira 0x1 Nova Zelandia (8 min, SoFi Stadium). Os All Whites surpreendem com cabeceada dentro da area apos bola alcada. Mais um azarao mandando no dia das zebras (Cabo Verde segurou a Espanha, Egito empatou com a Belgica). Ira agora obrigado a se expor.",
-  "hora": "22:08"
- },
- {
-  "tipo": "analise",
-  "hora": "22:05",
-  "texto": "DISCIPLINADO HOJE: SEM APOSTA. O modelo flagou Ira vence/Over/Ambas Marcam no Ira x Nova Zelandia, mas REJEITAMOS: o mercado crava jogo travado (Under 61%) e nosso lambda esta alto demais para dois times defensivos (o Ira tem uma das melhores defesas da Asia). Nao e valor, e erro de modelo - a mesma soberba do 0x0 da Espanha. Num dia de 4 favoritos tropecando, a melhor aposta e nenhuma. PROXIMA MELHORIA: separar ATAQUE e DEFESA por time (hoje usamos um indice unico de forca, que confunde time bom com time que faz gol - o Ira e bom E faz poucos gols)."
- },
- {
-  "tipo": "odds",
-  "hora": "22:00",
-  "texto": "ODDS NO APITO - Ira x Nova Zelandia: Ira 1.83 | Empate 3.45 | Nova Zelandia 4.50 | Under 2,5 1.57 (linha de fechamento, base do CLV). Mercado entrou com o Ira favorito e jogo de poucos gols."
- },
- {
-  "tipo": "aovivo",
-  "hora": "22:00",
-  "texto": "BOLA ROLANDO - comeca Ira x Nova Zelandia (SoFi Stadium, Inglewood). Apito as 22:00 de Brasilia. Palpite original do bolao: Ira 1x0. Disciplinado sem aposta (nosso modelo ve menos Under que o mercado e a regra anti-armadilha veta o Over)."
- },
- {
-  "tipo": "prejogo",
-  "hora": "21:57",
-  "texto": "PRE-JOGO - Ira x Nova Zelandia as 22:00 (SoFi Stadium, Los Angeles), estreia do Grupo G e ultimo jogo do dia. ESCALACOES: a Nova Zelandia confirma CHRIS WOOD apto e TITULAR com a bracadeira de capitao (era a duvida fisica do Nottingham Forest) - provavel: Crocombe; Payne, Boxall, Surman, Cacace; Bell, Stamenic; McCowatt, Sarpreet Singh (estreia em Copa), Elijah Just; Wood. Ryan Thomas fica fora com lesao muscular. O Ira deve ir com Beiranvand no gol e Mehdi Taremi na frente, sem desfalque de peso anunciado. LEITURA MANTIDA: o retorno de Wood ja era a premissa base, entao NAO muda o palpite - jogo travado, com abismo no ranking (a Nova Zelandia e a pior das 48 selecoes, 9 derrotas nos ultimos 11). Modelo segue Ira 59 por cento / empate 23 / Nova Zelandia 17, lambda 1,90 x 0,93. BOLAO: Ira 1x0 no placar seguro, 1x1 como cartada de 6 pontos. Disciplinado reavalia 1X2, handicap e gols no apito; Jogo Louco de olho no Under 2,5. Odds: Ira entre 1,76 e 1,95, empate alto, Nova Zelandia 4,59. Sem ALERTA - previsao inalterada."
+  "hora": "22:53",
+  "texto": "AO VIVO - Ira 0x1 Nova Zelandia, 22 min do 1o tempo (SoFi Stadium, Inglewood). CORRECAO IMPORTANTE: o placar REAL pela API e 0x1 e o jogo segue no 1o tempo - NAO houve empate nem intervalo. As notas anteriores de 1x1 e INTERVALO vieram de narracao nao confirmada e ficam RETRATADAS. Unico gol do jogo: Elijah Just aos 7 min (voleio) para a Nova Zelandia. O Ira pressiona atras do empate; nosso palpite do bolao Ira 1x0 segue ameacado com o azarao na frente."
  },
  {
   "tipo": "esquenta",
@@ -188,5 +143,55 @@
   "tipo": "esquenta",
   "hora": "12:52",
   "texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
+ },
+ {
+  "tipo": "analise",
+  "hora": "10:20",
+  "texto": "MODELO RECALIBRADO com os 12 jogos reais (sempre calculado, zero chute). Descoberta: estavamos calibrando o lambda pela mediana (2 gols) quando o Poisson mira a MEDIA (2,9) - por isso 0 placares exatos em 10 jogos. Corrigido (mu=0,26 beta=1,5, regularizado p/ nao overfittar a cauda). Placares de hoje subiram pro lugar certo: Espanha 4x0, Belgica 2x0, Uruguai 2x0, Ira 1x0. Esse e o caminho pra cravar placar e fechar o gap pro lider."
+ },
+ {
+  "tipo": "analise",
+  "hora": "09:55",
+  "texto": "ANALISE FUNDAMENTADA publicada (modelo Dixon-Coles rodado). A matematica do EP revisou 3 palpites: Espanha 3x0 (nao 4x0), Belgica 1x0, Uruguai 1x0. Valor do dia: Belgica-Egito Over 2,5 (edge +9,8pp) e Ira vitoria (edge +4,9pp marginal). Espanha-Cabo Verde: modelo aponta Under mas REJEITAMOS (armadilha de mismatch). Uruguai: sem aposta, nenhum mercado bate o corte."
+ },
+ {
+  "tipo": "resumo",
+  "hora": "09:30",
+  "texto": "BOM DIA 15/06. Fechamos a rodada de ontem (fonte API ESPN): Alemanha 7x1 Curacao (nosso 3x0 = 3pts, vencedor certo), Holanda 2x2 Japao (1pt), Marfim 1x0 Equador (tip Under do Disciplinado GANHOU, +115%), Suecia 5x1 Tunisia (nosso 1x0, vencedor certo mas placar errou feio), e Australia 2x0 Turquia (nosso Turquia 2x1, ERRAMOS - jogo que nao tinha sido registrado, agora logado por honestidade). LICAO DE MODELO: em jogos de estreia com diferenca GRANDE de nivel (Alemanha 7, Suecia 5) os gols vieram MUITO acima do nosso fator-cautela-de-estreia. O fator vale para jogos equilibrados, nao para mismatch. Por isso hoje Espanha x Cabo Verde sai 4x0 (placar alto) e nao 3x0. Placar atual: bolao 20 pts, acerto de vencedor 60% (6/10), Brier 0.491 (mercado 0.491) (empatado com o mercado - ainda nao batemos)."
+ },
+ {
+  "tipo": "resultado",
+  "hora": "00:50",
+  "texto": "RESULTADO - Suecia 5x1 Tunisia (Estadio BBVA, Monterrey). Ayari (2x), Isak, Gyokeres e Svanberg; Rekik descontou. Suecia abriu cedo (Ayari aos 7) e atropelou - a leitura de Suecia favorita e jogo aberto se confirmou com folga; placar bem acima do nosso 1x0. Suecia lidera o Grupo F isolada; no outro jogo Holanda 2x2 Japao. Jogo FORA do book do dia (palpite na agenda), registro factual: sem pontuacao do bolao nem simulacao de 100 reais."
+ },
+ {
+  "tipo": "aovivo",
+  "texto": "GOL - Suecia 1x0 Tunisia, Yasin Ayari aos 7 do 1o tempo. Gyokeres forcou a defesa de Chamakh, que soltou no meio, e Ayari completou o rebote de fora da area. CONFIRMA a leitura: palpite do bolao Suecia 1x0 e favorito do modelo (Suecia ~49 por cento). Cedo, mas dentro do roteiro - Suecia abre o placar e empurra a Tunisia (ataque fraco) para fora da concha. Sem alerta: gol a favor da previsao.",
+  "hora": "23:07"
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "23:00",
+  "texto": "BOLA ROLANDO - comeca Suecia x Tunisia (Estadio BBVA, Monterrey). Estreia do Grupo F em jogo unico da rodada. Palpite do Oraculo: Suecia 1x0. Linha de fechamento Suecia 1.91 / empate 3.40 / Tunisia 4.40. Acompanhando os lances em tempo real."
+ },
+ {
+  "tipo": "odds",
+  "hora": "22:57",
+  "texto": "ODDS DE FECHAMENTO - Suecia x Tunisia (apito 23:00, em instantes; Estadio BBVA, Monterrey): Suecia 1.91 | Empate 3.40 | Tunisia 4.40 (FanDuel, -110/+240/+340). Total Over/Under 2,5 (preco limpo de Under nao divulgado). Esta e a linha de fechamento, base do CLV. LAB pegou Tunisia ML a 4.60 antes do fechamento (4.40) - CLV positivo de cerca de +4,5 por cento sobre a linha. Jogo ainda NAO comecou; bola rola as 23:00."
+ },
+ {
+  "tipo": "clima",
+  "texto": "CLIMA - Suecia x Tunisia (apito 23:00, Estadio de Monterrey, Guadalupe-MEX, capacidade ~53,5 mil). Estreia do Grupo F: as duas selecoes encaram este como o jogo da vida no grupo de Holanda e Japao. Times indo para o gramado, hinos a caminho sob noite quente de Monterrey; torcida sueca de amarelo e a tunisiana de vermelho dao o tom nas arquibancadas. Suecia de Potter aposta em Isak e Gyokeres pela frente; Tunisia confia na marcacao de Skhiri e Rani Khedira para travar o jogo. Palpite do Oraculo segue Suecia 1x0. Bola prestes a rolar.",
+  "hora": "22:55"
+ },
+ {
+  "tipo": "pre_jogo",
+  "hora": "22:46",
+  "texto": "PRE-JOGO - Suecia x Tunisia (apito 23:00, Estadio BBVA, Monterrey; grupo de Holanda e Japao). ESCALACOES CONFIRMADAS. Suecia: Nordfeldt; Lagerbielke, Lindelof, Hien, Bernhardsson; Gudmundsson, Nygren, Karlstrom, Ayari; Isak e Gyokeres. Tunisia: Chamakh; Abdi, Talbi, Rekik, Valery; Ben Hmida, Hannibal, Khedira, Skhiri; Slimane e Saad. MERCADO: Suecia favorita a cerca de 1,94 (BetBoom), apoiada na dupla Isak e Gyokeres; Tunisia chegou invicta e sem sofrer gols nas eliminatorias africanas e aposta no bloco solido de Skhiri e Talbi. CONTEXTO: jogo FORA do nosso book do dia (palpite '-' na agenda), entao registro factual e leitura de mercado, sem palpite do bolao nem simulacao de 100 reais."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "22:07",
+  "texto": "ULTIMA HORA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Escalacoes provaveis ja circulando. SUECIA num 3-4-2-1 com a dupla de elite Isak e Gyokeres confirmada na frente e Elanga/Nygren apoiando - Zetterstrom (ou Nordfeldt) no gol; Lagerbielke, Hien e a zaga; Svanberg, Karlstrom e Ayari no meio. TUNISIA defensiva no 4-2-3-1: Skhiri e Khedira de duplo volante blindando a zaga (Talbi, Rekik), Mejbri e Achouri na criacao, Chaouat de referencia. Nenhum titular decisivo ausente nos dois lados - a leitura NAO muda. ODDS estaveis: Suecia ~1.92 (sem steam; abria 1.93), 'ambos marcam: nao' pagando 1.76 e 0x0 a 7.75 - o mercado tambem espera jogo de poucos gols, em linha com nosso Under e o palpite Suecia 1x0. Palpite mantido. Sem alerta. Fontes: Khelnow, Rotowire, Sports Mole, netflu, Trivela (14/06)."
  }
 ]

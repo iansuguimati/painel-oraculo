@@ -35,13 +35,13 @@
  },
  "next": {
   "jogo": "Ira x Nova Zelandia",
-  "hora": "22:00 (Brasilia) - AO VIVO"
+  "hora": "22:00 (Brasilia) - AO VIVO 1o tempo (0x1)"
  },
  "alerta": {
   "ativo": true,
-  "hora": "22:42",
+  "hora": "22:53",
   "jogo": "Ira x Nova Zelandia",
-  "texto": "Ira empatou 1x1 com Rezaeian (32min). Previsao do dia Ira 1x0 (modelo 59 por cento). NZ abriu cedo (Just, 7 min) -> Ira reagiu e igualou; leitura volta a pender pro Ira, mas jogo segue aberto e o 1x0 ja caiu."
+  "texto": "Placar real pela API: Ira 0x1 Nova Zelandia aos 22 min (1o tempo) - NAO houve empate (notas de 1x1 retratadas). Azarao da Oceania lidera com Elijah Just (7min, voleio). Previsao do dia Ira 1x0 (modelo dava Ira 59 por cento) ja caiu; jogo aberto com a Nova Zelandia na frente."
  },
  "analise": "Hard Rock Stadium, Miami. Uruguai favoritissimo (elenco ~78 vs ~38), mas com a dupla de zaga titular DESFALCADA - Ronald Araujo e Gimenez fora por lesao, alem de Arrascaeta. Provavel Uruguai (4-4-2): Muslera; Varela, Caceres, M.Olivera, Vina; Ugarte, Bentancur, Valverde, M.Araujo; Vinas e Darwin Nunez. Arabia sem o goleiro Al-Aqidi (Al-Owais assume). Odds Uruguai 1.42 / empate 4.40 / Arabia 8.00. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. BOLAO: Uruguai 2x0 - os buracos na zaga sobem o risco de a Arabia marcar, mas o abismo tecnico sustenta a vitoria. Total alto tirou o valor do Under; Disciplinado sem aposta, reavalia 1X2/handicap/gols no apito.",
  "analises": [
