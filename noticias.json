@@ -1,5 +1,10 @@
 [
  {
+  "tipo": "ao_vivo",
+  "hora": "22:24",
+  "texto": "AO VIVO - Ira 0x1 Nova Zelandia, cerca de 22 min (SoFi Stadium). Placar segue o golaco de Eli Just (7 min). Ira favorito (1.83) tem a posse mas esbarra no bloco baixo dos All Whites; o jogo cobra reacao do Ira para nao deixar nosso palpite Ira 1x0 ruir. Sem novos lances de perigo claro desde o gol."
+ },
+ {
   "tipo": "alerta",
   "texto": "ALERTA - Ira x Nova Zelandia: GOL da Nova Zelandia aos 8 min, azarao abre 0x1 num cabeceio dentro da area | Previa Ira 1x0 (Ira vence 59pp) -> AGORA Ira atras, vitoria do Ira ~38pp e o palpite Ira 1x0 ameacado",
   "hora": "22:13"
@@ -193,10 +198,5 @@
   "tipo": "aovivo",
   "texto": "GOL - Suecia 1x0 Tunisia, Yasin Ayari aos 7 do 1o tempo. Gyokeres forcou a defesa de Chamakh, que soltou no meio, e Ayari completou o rebote de fora da area. CONFIRMA a leitura: palpite do bolao Suecia 1x0 e favorito do modelo (Suecia ~49 por cento). Cedo, mas dentro do roteiro - Suecia abre o placar e empurra a Tunisia (ataque fraco) para fora da concha. Sem alerta: gol a favor da previsao.",
   "hora": "23:07"
- },
- {
-  "tipo": "aovivo",
-  "hora": "23:00",
-  "texto": "BOLA ROLANDO - comeca Suecia x Tunisia (Estadio BBVA, Monterrey). Estreia do Grupo F em jogo unico da rodada. Palpite do Oraculo: Suecia 1x0. Linha de fechamento Suecia 1.91 / empate 3.40 / Tunisia 4.40. Acompanhando os lances em tempo real."
  }
 ]
