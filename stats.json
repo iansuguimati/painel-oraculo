@@ -42,12 +42,5 @@
  },
  "analise": "Dia 15/06 encerrado (4 jogos, todos com surpresa: ESP 0x0 CPV, BEL 1x1 EGY, ARA 1x1 URU, IRN 2x2 NZL - nenhum favorito venceu). Proximo: Franca x Senegal amanha 16:00; analise completa sai na rodada matinal.",
  "analises": [],
- "odds_fech": {
-  "jogo": "Ira x Nova Zelandia",
-  "o1": "1.83",
-  "ox": "3.45",
-  "o2": "4.50",
-  "under": "1.57",
-  "hora": "22:00"
- }
+ "odds_fech": {}
 }
