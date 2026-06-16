@@ -1,86 +1,86 @@
 {
- "updated": "08:35",
- "tips": 2,
- "hit": "43% (6/14)",
- "roi": "+7,5%",
- "clv": "+0,3%",
- "brier": "0.711 (mercado 0.675)",
- "bolao": 20,
- "sim100": {
-  "fav": {
-   "stake": 1400,
-   "pnl": -390,
-   "roi": "-27.9%"
+  "updated": "16/06/2026",
+  "tips": 2,
+  "hit": "43% (6/14)",
+  "roi": "+7,5%",
+  "clv": "+0,3%",
+  "brier": "0.711 (mercado 0.675)",
+  "bolao": 20,
+  "sim100": {
+    "fav": {
+      "stake": 1400,
+      "pnl": -390,
+      "roi": "-27.9%"
+    },
+    "louco": {
+      "stake": 1400,
+      "pnl": -640,
+      "roi": "-45.7%"
+    },
+    "favmkt": {
+      "stake": 1400,
+      "pnl": -390,
+      "roi": "-27.9%"
+    },
+    "disc": {
+      "stake": 200,
+      "pnl": 15,
+      "roi": "+7.5%"
+    }
   },
-  "louco": {
-   "stake": 1400,
-   "pnl": -640,
-   "roi": "-45.7%"
+  "lines": {
+    "bolao": "-",
+    "disc": "-",
+    "louco": "-"
   },
-  "favmkt": {
-   "stake": 1400,
-   "pnl": -390,
-   "roi": "-27.9%"
+  "next": {
+    "jogo": "Franca x Senegal",
+    "hora": "16:00 (Brasilia)"
   },
-  "disc": {
-   "stake": 200,
-   "pnl": 15,
-   "roi": "+7.5%"
-  }
- },
- "lines": {
-  "bolao": "-",
-  "disc": "-",
-  "louco": "-"
- },
- "next": {
-  "jogo": "Franca x Senegal",
-  "hora": "16/06 16:00 (Brasilia) - abre a rodada de hoje"
- },
- "alerta": {
-  "ativo": false
- },
- "analise": "Recalibracao diaria (16 jogos encerrados desde 11/06): mu 0.264, beta 1.5 fixo, fator empate F 1.6 (otimo cru 2.4 regularizado), media-alvo 2.8 gols/jogo, P(empate) media 34 por cento - a Copa abriu com 7 empates em 16 jogos. Hoje 3 jogos: Franca x Senegal 16h, Iraque x Noruega 19h, Argentina x Argelia 22h. Disciplinado sem tip nos tres (edges no empate sao artefato do F regularizado, nao valor).",
- "analises": [
-  {
-   "jogo": "Franca x Senegal",
-   "hora": "16:00",
-   "bolao": "Franca 2x1",
-   "disc": "-",
-   "louco": "Empate @ 4.40",
-   "fav": "Franca",
-   "fav_odd": "1.44",
-   "fav_mkt": "Franca",
-   "fav_mkt_odd": "1.44",
-   "elenco": "Franca completa (Mbappe, Dembele, Olise, Tchouameni); Senegal forte (Mane, N.Jackson, I.Sarr, Koulibaly)",
-   "texto": "Modelo Dixon-Coles recalibrado (mu 0.264, beta 1.5, fator empate F 1.6): lambda Franca 1,74 x Senegal 1,02 (total 2,76). Matriz Poisson+DC -> P(1/X/2) 47/35/19; Over 2,5 49 por cento, BTTS 56. Mercado de-vig (Betfair) 66/22/12. Bolao: EP otimo entre 1x0 (2,16) e 2x1 (2,12) - escolho Franca 2x1 (regra de estreia: favorito que vence mas concede, nao ancorar em 1x0); placar modal 1x1 (9 por cento). Disciplinado: SEM tip. O edge aparente no empate (+13pp) vem do F regularizado puxando empates pra cima depois de uma amostra com 7 empates em 16 jogos - artefato, nao valor; e o modelo subestima o favorito sharp. Nos totais o modelo fica na moeda (Over 49 vs mercado 53), EV abaixo de +3 por cento. Jogo Louco fica no empate (maior edge)."
+  "alerta": {
+    "ativo": false
   },
-  {
-   "jogo": "Iraque x Noruega",
-   "hora": "19:00",
-   "bolao": "Noruega 0x1",
-   "disc": "-",
-   "louco": "Empate @ 7.00",
-   "fav": "Noruega",
-   "fav_odd": "1.22",
-   "fav_mkt": "Noruega",
-   "fav_mkt_odd": "1.22",
-   "elenco": "Noruega com Haaland (55 gols em 50 jogos) e Odegaard, 8 vitorias em 8 nas Eliminatorias; Iraque sem ataque do mesmo nivel",
-   "texto": "Modelo: lambda Iraque 1,06 x Noruega 1,68 (total 2,74); P(1/X/2) 20/35/44; Over 2,5 48 por cento, BTTS 56. Mercado de-vig coloca Noruega em ~80 por cento (odd 1,22), bem acima dos nossos 44 - divergencia grande = ERRO de modelo (nosso indice nao captura o abismo Haaland/Eliminatorias), nao valor. Por isso Disciplinado SEM tip e leitura conservadora. Bolao: EP otimo Noruega 0x1 (2,09); modal 1x1 (17 por cento). Jogo Louco no empate (maior edge nominal, +21pp, alta variancia). Favorito do modelo e do mercado coincidem: Noruega 1,22."
-  },
-  {
-   "jogo": "Argentina x Argelia",
-   "hora": "22:00",
-   "bolao": "Argentina 2x0",
-   "disc": "-",
-   "louco": "Empate @ 4.50",
-   "fav": "Argentina",
-   "fav_odd": "1.42",
-   "fav_mkt": "Argentina",
-   "fav_mkt_odd": "1.42",
-   "elenco": "Argentina campea mundial, 5 vitorias seguidas sofrendo 1 gol; Argelia nunca passou das oitavas em Copas",
-   "texto": "Modelo: lambda Argentina 1,96 x Argelia 0,91 (total 2,87); P(1/X/2) 54/32/14; Over 2,5 51 por cento, BTTS 54. Mercado de-vig (bet365/Kalshi) ~66-71/20/11-14. Bolao: EP otimo muito junto - 1x0 (2,40), 2x0 (2,37), 2x1 (2,35); escolho Argentina 2x0 (favorito claro vs defesa fraca, celula mais provavel 9,6 por cento, nao ancorar em 1x0); modal 1x1 (15 por cento). Disciplinado SEM tip: empate +11pp e artefato do F; favorito subestimado pelo modelo; totais na moeda. Jogo Louco no empate @ 4.50."
-  }
- ],
- "odds_fech": {}
+  "analise": "Recalibracao diaria (16 jogos encerrados desde 11/06): mu 0.264, beta 1.5 fixo, fator empate F 1.6 (otimo cru 2.4 regularizado), media-alvo 2.8 gols/jogo, P(empate) media 34 por cento - a Copa abriu com 7 empates em 16 jogos. Hoje 3 jogos: Franca x Senegal 16h, Iraque x Noruega 19h, Argentina x Argelia 22h. Disciplinado sem tip nos tres (edges no empate sao artefato do F regularizado, nao valor).",
+  "analises": [
+    {
+      "jogo": "Franca x Senegal",
+      "hora": "16:00",
+      "elenco": "Fra 1.57atq/0.83def vs Sen 1.56/0.85",
+      "bolao": "Franca 1x1",
+      "disc": "- (aval. no apito)",
+      "louco": "Dupla chance / empate",
+      "fav": "Franca",
+      "fav_odd": "-",
+      "fav_mkt": "Franca",
+      "fav_mkt_odd": "-",
+      "texto": "<b>Modelo ataque/defesa (novo).</b> Lambda Franca 1,17 x Senegal 1,13 - jogo PARELHO. 1X2: Franca 31% / empate 41% / Senegal 29%. A leitura nova REBAIXA a Franca de favorita: ela anda irregular e leva gols (defesa 0,83), e o Senegal e solido. Placar EP: 1x1, sem favorito claro - empate e o resultado mais provavel."
+    },
+    {
+      "jogo": "Iraque x Noruega",
+      "hora": "19:00",
+      "elenco": "Nor 1.92atq/0.92def vs Irq 1.03/0.89",
+      "bolao": "Noruega 2x0",
+      "disc": "- (aval. no apito)",
+      "louco": "Noruega",
+      "fav": "Noruega",
+      "fav_odd": "-",
+      "fav_mkt": "Noruega",
+      "fav_mkt_odd": "-",
+      "texto": "<b>Modelo ataque/defesa.</b> Lambda Iraque 0,82 x Noruega 1,48. 1X2: Iraque 17% / empate 38% / Noruega 45%. Noruega (Haaland) tem ataque 1,92 (2,71 gols/jogo reais), bem acima do Iraque (ataque 1,03). Favorita clara. Palpite 2x0 (EP do modelo e 1x0; subimos p/ 2x0 pelo ataque forte da Noruega)."
+    },
+    {
+      "jogo": "Argentina x Argelia",
+      "hora": "22:00",
+      "elenco": "Arg 1.68atq/0.67def vs Alg 1.47/0.74",
+      "bolao": "Argentina 1x0",
+      "disc": "- (aval. no apito)",
+      "louco": "Under 2,5",
+      "fav": "Argentina",
+      "fav_odd": "-",
+      "fav_mkt": "Argentina",
+      "fav_mkt_odd": "-",
+      "texto": "<b>DESTAQUE do modelo novo.</b> Lambda Argentina 1,09 x Argelia 0,86. 1X2: Argentina 33% / empate 44% / Argelia 23%. A Argentina tem ataque forte (1,68), MAS a Argelia tem DEFESA DE ELITE (0,52 gol sofrido/jogo nas Eliminatorias: segurou 0x0 o Uruguai, venceu a Holanda 1x0) - isso neutraliza o ataque argentino e trava o jogo. Palpite Argentina 1x0 (vitoria apertada; o EP 0x0 do modelo tem o empate inflado pelo fator F)."
+    }
+  ],
+  "odds_fech": {}
 }
