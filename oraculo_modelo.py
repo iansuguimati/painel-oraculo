@@ -59,7 +59,7 @@ def pull_matches():
         time.sleep(0.04)
     return matches
 
-def fit(matches, alpha=8.0, iters=25, half=300):
+def fit(matches, alpha=4.0, iters=25, half=300):
     teams = sorted(set([m["h"] for m in matches] + [m["a"] for m in matches]))
     ti = {t: i for i, t in enumerate(teams)}
     T = len(teams)
