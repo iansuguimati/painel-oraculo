@@ -1,5 +1,13 @@
 [
   {
+    "tipo": "ao_vivo",
+    "texto": "BOLA ROLANDO - comeca Ira x Nova Zelandia no SoFi Stadium (Los Angeles), estreia do Grupo G. Palpite do bolao Ira 1x0; modelo da Ira 59% / empate 23% / NZ 17%, total esperado 2,83 gols. Disciplinado sem aposta; Jogo Louco no Under 2,5. Acompanhamos lance a lance."
+  },
+  {
+    "tipo": "odds",
+    "texto": "ODDS NO APITO - Ira x Nova Zelandia: Ira 1.83 | Empate 3.50 | Nova Zelandia 5.00 | Under 2,5 1.62 (linha de fechamento, base do CLV). Nosso modelo dava Ira a 1.95 - pegamos valor com o mercado encurtando o favorito."
+  },
+  {
     "tipo": "analise",
     "hora": "22:05",
     "texto": "DISCIPLINADO HOJE: SEM APOSTA. O modelo flagou Ira vence/Over/Ambas Marcam no Ira x Nova Zelandia, mas REJEITAMOS: o mercado crava jogo travado (Under 61%) e nosso lambda esta alto demais para dois times defensivos (o Ira tem uma das melhores defesas da Asia). Nao e valor, e erro de modelo - a mesma soberba do 0x0 da Espanha. Num dia de 4 favoritos tropecando, a melhor aposta e nenhuma. PROXIMA MELHORIA: separar ATAQUE e DEFESA por time (hoje usamos um indice unico de forca, que confunde time bom com time que faz gol - o Ira e bom E faz poucos gols)."
@@ -188,15 +196,5 @@
     "tipo": "clima",
     "texto": "CLIMA - Suecia x Tunisia (apito 23:00, Estadio de Monterrey, Guadalupe-MEX, capacidade ~53,5 mil). Estreia do Grupo F: as duas selecoes encaram este como o jogo da vida no grupo de Holanda e Japao. Times indo para o gramado, hinos a caminho sob noite quente de Monterrey; torcida sueca de amarelo e a tunisiana de vermelho dao o tom nas arquibancadas. Suecia de Potter aposta em Isak e Gyokeres pela frente; Tunisia confia na marcacao de Skhiri e Rani Khedira para travar o jogo. Palpite do Oraculo segue Suecia 1x0. Bola prestes a rolar.",
     "hora": "22:55"
-  },
-  {
-    "tipo": "pre_jogo",
-    "hora": "22:46",
-    "texto": "PRE-JOGO - Suecia x Tunisia (apito 23:00, Estadio BBVA, Monterrey; grupo de Holanda e Japao). ESCALACOES CONFIRMADAS. Suecia: Nordfeldt; Lagerbielke, Lindelof, Hien, Bernhardsson; Gudmundsson, Nygren, Karlstrom, Ayari; Isak e Gyokeres. Tunisia: Chamakh; Abdi, Talbi, Rekik, Valery; Ben Hmida, Hannibal, Khedira, Skhiri; Slimane e Saad. MERCADO: Suecia favorita a cerca de 1,94 (BetBoom), apoiada na dupla Isak e Gyokeres; Tunisia chegou invicta e sem sofrer gols nas eliminatorias africanas e aposta no bloco solido de Skhiri e Talbi. CONTEXTO: jogo FORA do nosso book do dia (palpite '-' na agenda), entao registro factual e leitura de mercado, sem palpite do bolao nem simulacao de 100 reais."
-  },
-  {
-    "tipo": "esquenta",
-    "hora": "22:07",
-    "texto": "ULTIMA HORA - Suecia x Tunisia (23:00, Estadio BBVA, Monterrey). Escalacoes provaveis ja circulando. SUECIA num 3-4-2-1 com a dupla de elite Isak e Gyokeres confirmada na frente e Elanga/Nygren apoiando - Zetterstrom (ou Nordfeldt) no gol; Lagerbielke, Hien e a zaga; Svanberg, Karlstrom e Ayari no meio. TUNISIA defensiva no 4-2-3-1: Skhiri e Khedira de duplo volante blindando a zaga (Talbi, Rekik), Mejbri e Achouri na criacao, Chaouat de referencia. Nenhum titular decisivo ausente nos dois lados - a leitura NAO muda. ODDS estaveis: Suecia ~1.92 (sem steam; abria 1.93), 'ambos marcam: nao' pagando 1.76 e 0x0 a 7.75 - o mercado tambem espera jogo de poucos gols, em linha com nosso Under e o palpite Suecia 1x0. Palpite mantido. Sem alerta. Fontes: Khelnow, Rotowire, Sports Mole, netflu, Trivela (14/06)."
   }
 ]
