@@ -1,5 +1,10 @@
 [
  {
+  "tipo": "fechamento",
+  "hora": "23:56",
+  "texto": "FIM DE JOGO - Ira 2x2 Nova Zelandia (SoFi Stadium, Inglewood/LA). O azarao Nova Zelandia saiu na frente duas vezes com Elijah Just (7 e 54); o Ira respondeu com Rezaeian (32) e Mohebbi de cabeca (64). Empate justo num jogo aberto e movimentado. Palpite do dia Ira 1x0 FUROU - vencedor e placar errados, 0 ponto no bolao. Simulacoes de 100 reais: Disciplinado SEM APOSTA (acertou o veto - o Under 2,5 era a armadilha e sairam 4 gols), saldo 0; Jogo Louco Under 2,5 perdeu, -100; Favorito do Modelo (Ira a 1.95) perdeu, -100; Favorito do Mercado (Ira a 1.95) perdeu, -100. Brier do modelo 0.97 contra 0.84 do mercado: superestimamos o favoritismo do Ira diante de uma Nova Zelandia mais agressiva. Encerrado o ultimo jogo do dia; proximo Franca x Senegal amanha as 16:00."
+ },
+ {
   "tipo": "aovivo",
   "hora": "23:49",
   "texto": "AO VIVO - Ira 2x2 Nova Zelandia, ACRESCIMOS FINAIS no SoFi Stadium (Inglewood/LA). Feed ESPN avancou para 82' (real cerca de 94 min, atraso de aproximadamente 12 min). Sem gol novo desde Mohebbi (64); sequencia segue Just 7, Rezaeian 32, Just 54, Mohebbi 64. Empate se confirmando: palpite do dia Ira 1x0 ja descartado e a leitura ao vivo de empate como o mais provavel na reta final segue de pe. Aguardando o apito final."
@@ -193,10 +198,5 @@
   "tipo": "pre_jogo",
   "hora": "13:00",
   "texto": "PRE-JOGO - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H). ESCALACOES CONFIRMADAS. ESPANHA (De la Fuente): Unai Simon; Marcos Llorente, Pau Cubarsi, Laporte, Cucurella; Pedri, Rodri, Fabian Ruiz; Ferran Torres, Baena; Oyarzabal. Lamine Yamal e Nico Williams FORA do XI (gerenciando lesao na coxa), comecam no banco. CABO VERDE (Bubista), estreia historica em Copas: Vozinha; Steven Moreira, Pico, Logan Costa, Borges; Deroy Duarte, Lenini, Jamiro, Ryan Mendes, Jovane Cabral; Livramento - 4-2-3-1 defensivo. LEITURA: ausencia de Yamal/Nico ja estava precificada pelo modelo (lambda Espanha ~4,1); palpite mantido, Espanha vence com folga. Sem ALERTA."
- },
- {
-  "tipo": "esquenta",
-  "hora": "12:52",
-  "texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
  }
 ]
