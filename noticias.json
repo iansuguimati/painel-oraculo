@@ -1,5 +1,30 @@
 [
  {
+  "tipo": "recalibracao",
+  "hora": "08:35",
+  "texto": "RECALIBRACAO DIARIA - 16 jogos encerrados desde 11/06 alimentaram o modelo. Parametros: mu 0.264, beta 1.5 (fixo), fator de empate F 1.6 (otimo cru 2.4 regularizado pelo teto). Media-alvo 2.8 gols/jogo (observada 2.875). P(empate) media prevista 34 por cento - reflexo de uma abertura de Copa atipica, com 7 empates nos 16 primeiros jogos. Brier do modelo no 1X2 desses 16 jogos: 0.63."
+ },
+ {
+  "tipo": "agenda",
+  "hora": "08:34",
+  "texto": "AGENDA DE HOJE (16/06, Brasilia) - 3 jogos: Franca x Senegal 16:00 (New York/New Jersey), Iraque x Noruega 19:00 (Boston/Foxborough), Argentina x Argelia 22:00 (Kansas City). Janela do motor ao vivo ajustada para cobrir das 14:00 ate ~01:00. Amanha (17/06): Austria x Jordania 01:00, Portugal x Congo RDC 14:00, Inglaterra x Croacia 17:00, Gana x Panama 20:00, Uzbequistao x Colombia 23:00."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "08:33",
+  "texto": "ESQUENTA - Franca x Senegal 16:00 (estreia, Grupo). Modelo: lambda Franca 1,74 x Senegal 1,02 (total 2,76); 1X2 47/35/19. Franca vem completa (Mbappe, Dembele, Olise) e Senegal e azarao de respeito (Mane, N.Jackson, Koulibaly). Mercado crava Franca em ~66 por cento (1,44). Palpite do bolao: Franca 2x1. Disciplinado sem tip - o edge no empate e artefato do fator F, nao valor. Jogo Louco no empate @ 4.40."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "08:32",
+  "texto": "ESQUENTA - Iraque x Noruega 19:00 (estreia). Modelo: lambda Iraque 1,06 x Noruega 1,68 (total 2,74); 1X2 20/35/44. Noruega chega com Haaland (55 gols em 50 jogos) e Odegaard apos 8 vitorias em 8 nas Eliminatorias; mercado a coloca em ~80 por cento (1,22) - bem acima do nosso modelo, que subestima o abismo (erro de indice, nao valor). Palpite do bolao: Noruega 0x1. Disciplinado sem tip."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "08:31",
+  "texto": "ESQUENTA - Argentina x Argelia 22:00 (estreia, Kansas City). Modelo: lambda Argentina 1,96 x Argelia 0,91 (total 2,87); 1X2 54/32/14. A campea mundial vem de 5 vitorias seguidas sofrendo so 1 gol; a Argelia nunca passou das oitavas. Mercado: Argentina ~66-71 por cento (1,42). Palpite do bolao: Argentina 2x0. Disciplinado sem tip; Jogo Louco no empate @ 4.50."
+ },
+ {
   "tipo": "fechamento",
   "hora": "23:56",
   "texto": "FIM DE JOGO - Ira 2x2 Nova Zelandia (SoFi Stadium, Inglewood/LA). O azarao Nova Zelandia saiu na frente duas vezes com Elijah Just (7 e 54); o Ira respondeu com Rezaeian (32) e Mohebbi de cabeca (64). Empate justo num jogo aberto e movimentado. Palpite do dia Ira 1x0 FUROU - vencedor e placar errados, 0 ponto no bolao. Simulacoes de 100 reais: Disciplinado SEM APOSTA (acertou o veto - o Under 2,5 era a armadilha e sairam 4 gols), saldo 0; Jogo Louco Under 2,5 perdeu, -100; Favorito do Modelo (Ira a 1.95) perdeu, -100; Favorito do Mercado (Ira a 1.95) perdeu, -100. Brier do modelo 0.97 contra 0.84 do mercado: superestimamos o favoritismo do Ira diante de uma Nova Zelandia mais agressiva. Encerrado o ultimo jogo do dia; proximo Franca x Senegal amanha as 16:00."
@@ -173,30 +198,5 @@
   "tipo": "odds",
   "hora": "16:00",
   "texto": "ODDS NO APITO - Belgica x Egito: Belgica 1.57 | Empate 4.00 | Egito 6.00 | Under 2,5 1.91 (linha de fechamento, base do CLV). Mercado crava Belgica favorita (-175); total 2,5 dividido no -110/-110. Nosso Over 2,5 a 1.91 e a aposta do Disciplinado."
- },
- {
-  "tipo": "resultado",
-  "hora": "14:55",
-  "texto": "RESULTADO - Espanha 0x0 Cabo Verde (Mercedes-Benz Stadium, Atlanta). ZEBRA HISTORICA: Cabo Verde, na estreia em Copas, segura a Furia com Vozinha gigante no gol; a Espanha teve mais de 70% de posse e 27 finalizacoes e nao furou o bloco. NOSSO PALPITE 4x0 ERROU FEIO - deu empate, 0 ponto no bolao. Simulacoes de 100 reais: Favorito do Modelo (Espanha) e Favorito do Mercado (Espanha) PERDERAM (-100 cada); Jogo Louco (Over 3,5) PERDEU (-100); Disciplinado NAO tinha tip (mismatch sem valor), ficou de fora e preservou a banca. LICAO honesta: o modelo recalibrado p/ placares altos superestimou a Espanha num jogo de bloco baixo - a over-confianca (95%) custou caro no Brier (1.82 nosso x 1.64 mercado). Hoje caimos atras do mercado; e assim que o placar fica, sem maquiagem."
- },
- {
-  "tipo": "aovivo",
-  "hora": "13:00",
-  "texto": "BOLA ROLANDO - comeca Espanha x Cabo Verde (Mercedes-Benz Stadium, Atlanta). Apito as 13:00 de Brasilia, confirmado pelo relogio. Palpite mantido: Espanha 4x0 (P 95 por cento). Nota de escalacao: Lamine Yamal comeca no banco; Ferran Torres e Oyarzabal no ataque - a profundidade do elenco mantem a leitura, sem alerta. Lances a seguir."
- },
- {
-  "tipo": "clima",
-  "hora": "13:00",
-  "texto": "CLIMA - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta, 70 mil lugares, teto retratil e o telao Halo Board de 360 graus). Estreia historica de Cabo Verde em Copas do Mundo; a Furia mantem a posse, mas o ambiente fechado e barulhento pode dar energia ao azarao. Selecoes no gramado para os hinos, jogo prestes a comecar."
- },
- {
-  "tipo": "odds",
-  "hora": "13:00",
-  "texto": "ODDS NO APITO - Espanha x Cabo Verde (linha de fechamento, base do CLV): Espanha 1.08 | Empate 12.00 | Cabo Verde 36.00 | Under 2,5 3.20. Mercado crava Espanha como favorita extrema; vida real so nos totais de gols e na margem (handicap -2,5 a 1.90)."
- },
- {
-  "tipo": "pre_jogo",
-  "hora": "13:00",
-  "texto": "PRE-JOGO - Espanha x Cabo Verde (apito 13:00, Mercedes-Benz Stadium, Atlanta; estreia do Grupo H). ESCALACOES CONFIRMADAS. ESPANHA (De la Fuente): Unai Simon; Marcos Llorente, Pau Cubarsi, Laporte, Cucurella; Pedri, Rodri, Fabian Ruiz; Ferran Torres, Baena; Oyarzabal. Lamine Yamal e Nico Williams FORA do XI (gerenciando lesao na coxa), comecam no banco. CABO VERDE (Bubista), estreia historica em Copas: Vozinha; Steven Moreira, Pico, Logan Costa, Borges; Deroy Duarte, Lenini, Jamiro, Ryan Mendes, Jovane Cabral; Livramento - 4-2-3-1 defensivo. LEITURA: ausencia de Yamal/Nico ja estava precificada pelo modelo (lambda Espanha ~4,1); palpite mantido, Espanha vence com folga. Sem ALERTA."
  }
 ]

@@ -1,5 +1,5 @@
 {
- "updated": "23:56",
+ "updated": "08:35",
  "tips": 2,
  "hit": "43% (6/14)",
  "roi": "+7,5%",
@@ -35,12 +35,52 @@
  },
  "next": {
   "jogo": "Franca x Senegal",
-  "hora": "16/06 16:00 (Brasilia) - abre a rodada de amanha"
+  "hora": "16/06 16:00 (Brasilia) - abre a rodada de hoje"
  },
  "alerta": {
   "ativo": false
  },
- "analise": "Dia 15/06 encerrado (4 jogos, todos com surpresa: ESP 0x0 CPV, BEL 1x1 EGY, ARA 1x1 URU, IRN 2x2 NZL - nenhum favorito venceu). Proximo: Franca x Senegal amanha 16:00; analise completa sai na rodada matinal.",
- "analises": [],
+ "analise": "Recalibracao diaria (16 jogos encerrados desde 11/06): mu 0.264, beta 1.5 fixo, fator empate F 1.6 (otimo cru 2.4 regularizado), media-alvo 2.8 gols/jogo, P(empate) media 34 por cento - a Copa abriu com 7 empates em 16 jogos. Hoje 3 jogos: Franca x Senegal 16h, Iraque x Noruega 19h, Argentina x Argelia 22h. Disciplinado sem tip nos tres (edges no empate sao artefato do F regularizado, nao valor).",
+ "analises": [
+  {
+   "jogo": "Franca x Senegal",
+   "hora": "16:00",
+   "bolao": "Franca 2x1",
+   "disc": "-",
+   "louco": "Empate @ 4.40",
+   "fav": "Franca",
+   "fav_odd": "1.44",
+   "fav_mkt": "Franca",
+   "fav_mkt_odd": "1.44",
+   "elenco": "Franca completa (Mbappe, Dembele, Olise, Tchouameni); Senegal forte (Mane, N.Jackson, I.Sarr, Koulibaly)",
+   "texto": "Modelo Dixon-Coles recalibrado (mu 0.264, beta 1.5, fator empate F 1.6): lambda Franca 1,74 x Senegal 1,02 (total 2,76). Matriz Poisson+DC -> P(1/X/2) 47/35/19; Over 2,5 49 por cento, BTTS 56. Mercado de-vig (Betfair) 66/22/12. Bolao: EP otimo entre 1x0 (2,16) e 2x1 (2,12) - escolho Franca 2x1 (regra de estreia: favorito que vence mas concede, nao ancorar em 1x0); placar modal 1x1 (9 por cento). Disciplinado: SEM tip. O edge aparente no empate (+13pp) vem do F regularizado puxando empates pra cima depois de uma amostra com 7 empates em 16 jogos - artefato, nao valor; e o modelo subestima o favorito sharp. Nos totais o modelo fica na moeda (Over 49 vs mercado 53), EV abaixo de +3 por cento. Jogo Louco fica no empate (maior edge)."
+  },
+  {
+   "jogo": "Iraque x Noruega",
+   "hora": "19:00",
+   "bolao": "Noruega 0x1",
+   "disc": "-",
+   "louco": "Empate @ 7.00",
+   "fav": "Noruega",
+   "fav_odd": "1.22",
+   "fav_mkt": "Noruega",
+   "fav_mkt_odd": "1.22",
+   "elenco": "Noruega com Haaland (55 gols em 50 jogos) e Odegaard, 8 vitorias em 8 nas Eliminatorias; Iraque sem ataque do mesmo nivel",
+   "texto": "Modelo: lambda Iraque 1,06 x Noruega 1,68 (total 2,74); P(1/X/2) 20/35/44; Over 2,5 48 por cento, BTTS 56. Mercado de-vig coloca Noruega em ~80 por cento (odd 1,22), bem acima dos nossos 44 - divergencia grande = ERRO de modelo (nosso indice nao captura o abismo Haaland/Eliminatorias), nao valor. Por isso Disciplinado SEM tip e leitura conservadora. Bolao: EP otimo Noruega 0x1 (2,09); modal 1x1 (17 por cento). Jogo Louco no empate (maior edge nominal, +21pp, alta variancia). Favorito do modelo e do mercado coincidem: Noruega 1,22."
+  },
+  {
+   "jogo": "Argentina x Argelia",
+   "hora": "22:00",
+   "bolao": "Argentina 2x0",
+   "disc": "-",
+   "louco": "Empate @ 4.50",
+   "fav": "Argentina",
+   "fav_odd": "1.42",
+   "fav_mkt": "Argentina",
+   "fav_mkt_odd": "1.42",
+   "elenco": "Argentina campea mundial, 5 vitorias seguidas sofrendo 1 gol; Argelia nunca passou das oitavas em Copas",
+   "texto": "Modelo: lambda Argentina 1,96 x Argelia 0,91 (total 2,87); P(1/X/2) 54/32/14; Over 2,5 51 por cento, BTTS 54. Mercado de-vig (bet365/Kalshi) ~66-71/20/11-14. Bolao: EP otimo muito junto - 1x0 (2,40), 2x0 (2,37), 2x1 (2,35); escolho Argentina 2x0 (favorito claro vs defesa fraca, celula mais provavel 9,6 por cento, nao ancorar em 1x0); modal 1x1 (15 por cento). Disciplinado SEM tip: empate +11pp e artefato do F; favorito subestimado pelo modelo; totais na moeda. Jogo Louco no empate @ 4.50."
+  }
+ ],
  "odds_fech": {}
 }
