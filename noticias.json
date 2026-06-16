@@ -1,5 +1,15 @@
 [
  {
+  "tipo": "alerta",
+  "hora": "23:22",
+  "texto": "ALERTA - Ira x Nova Zelandia: GOL de Elijah Just (54min, o segundo dele) coloca a Nova Zelandia na FRENTE - Ira 1x2. A previsao do dia (Ira 1x0) esta INVERTIDA. Anterior: leitura pendia pro Ira (modelo dava 59 por cento). Novo: azarao lidera no 2o tempo e ameaca cravar a zebra; Ira precisa reagir."
+ },
+ {
+  "tipo": "aovivo",
+  "hora": "23:22",
+  "texto": "AO VIVO - Ira 1x2 Nova Zelandia, segundo tempo no SoFi Stadium (Inglewood/LA). VIROU A ZEBRA: Elijah Just fez o dele de novo (54min) e desempatou para os All Whites, que ja tinham aberto aos 7min; Rezaeian havia igualado para o Ira aos 32. Agora o Ira se lanca ao ataque atras do empate, jogo aberto na reta final."
+ },
+ {
   "tipo": "aovivo",
   "hora": "23:20",
   "texto": "AO VIVO - Ira 1x1 Nova Zelandia, segundo tempo no SoFi Stadium (Inglewood/LA), cerca de 65 min reais (a API ESPN exibe 53', feed atrasado ~11 min). NOVIDADE: o Ira voltou do intervalo mais agudo e ja mexeu - Mehdi Ghayedi entrou no lugar de Aria Yousefi para dar drible e velocidade pelos lados na busca da virada. Antes, o gol de Ali Nemati de cabeca havia sido anulado por impedimento; placar segue 1x1. Modelo ainda pende pro Ira (59 por cento) e o empate momentaneo VALIDA a cartada de 6 pontos do bolao (Ira 1x1) - o palpite seco Ira 1x0 ja caiu. A Nova Zelandia, na primeira Copa em 16 anos, aguenta a pressao e ameaca nos contra-ataques. Jogo aberto, sem alerta: leitura inalterada."
