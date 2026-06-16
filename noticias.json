@@ -1,6 +1,11 @@
 [
  {
   "tipo": "aovivo",
+  "hora": "23:49",
+  "texto": "AO VIVO - Ira 2x2 Nova Zelandia, ACRESCIMOS FINAIS no SoFi Stadium (Inglewood/LA). Feed ESPN avancou para 82' (real cerca de 94 min, atraso de aproximadamente 12 min). Sem gol novo desde Mohebbi (64); sequencia segue Just 7, Rezaeian 32, Just 54, Mohebbi 64. Empate se confirmando: palpite do dia Ira 1x0 ja descartado e a leitura ao vivo de empate como o mais provavel na reta final segue de pe. Aguardando o apito final."
+ },
+ {
+  "tipo": "aovivo",
   "hora": "23:40",
   "texto": "AO VIVO - Ira 2x2 Nova Zelandia, RETA FINAL no SoFi Stadium (Inglewood/LA), cerca de 83 min reais (API ESPN exibe 72', atraso de cerca de 11 min). Sem gol novo desde o empate de Mohebbi. Jogo aberto e nervoso: a Nova Zelandia segura o ponto historico contra um favorito do ranking, o Ira pressiona por nova virada. Nos minutos finais o resultado mais provavel e o proprio empate 2x2. Previsao do dia (Ira 1x0) ja descartada."
  },
@@ -193,10 +198,5 @@
   "tipo": "esquenta",
   "hora": "12:52",
   "texto": "ESQUENTA - Espanha x Cabo Verde (apito 13h). Palpite calibrado: Espanha 4x0 (EP 3,82; chance de cravar 12,8%). Mismatch: lambda Espanha 4,14 x Cabo Verde 0,43; Cabo Verde so marca em 35% dos cenarios. Disciplinado SEM tip (odd da Espanha curta demais, sem valor). Escalacoes saem ~15 min antes do apito."
- },
- {
-  "tipo": "analise",
-  "hora": "10:20",
-  "texto": "MODELO RECALIBRADO com os 12 jogos reais (sempre calculado, zero chute). Descoberta: estavamos calibrando o lambda pela mediana (2 gols) quando o Poisson mira a MEDIA (2,9) - por isso 0 placares exatos em 10 jogos. Corrigido (mu=0,26 beta=1,5, regularizado p/ nao overfittar a cauda). Placares de hoje subiram pro lugar certo: Espanha 4x0, Belgica 2x0, Uruguai 2x0, Ira 1x0. Esse e o caminho pra cravar placar e fechar o gap pro lider."
  }
 ]
