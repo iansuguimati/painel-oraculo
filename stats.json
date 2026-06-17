@@ -38,7 +38,10 @@
   "hora": "16:00 (Brasilia)"
  },
  "alerta": {
-  "ativo": false
+  "ativo": true,
+  "hora": "17:48",
+  "jogo": "Inglaterra x Croacia",
+  "texto": "Virada emocional no 1o tempo: 2x2 ao intervalo (Baturina 36', Kane 42', Musa 45+5). Anterior: Inglaterra favorita e Under 2,5 -> jogo aberto, Under 2,5 perdido (4 gols) e favoritismo ingles ameacado"
  },
  "analise": "Recalibracao diaria (16 jogos encerrados desde 11/06): mu 0.264, beta 1.5 fixo, fator empate F 1.6 (otimo cru 2.4 regularizado), media-alvo 2.8 gols/jogo, P(empate) media 34 por cento - a Copa abriu com 7 empates em 16 jogos. Hoje 3 jogos: Franca x Senegal 16h, Iraque x Noruega 19h, Argentina x Argelia 22h. Disciplinado sem tip nos tres (edges no empate sao artefato do F regularizado, nao valor).",
  "analises": [
