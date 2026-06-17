@@ -1,86 +1,46 @@
 {
-  "updated": "16/06/2026",
-  "tips": 2,
-  "hit": "43% (6/14)",
-  "roi": "+7,5%",
-  "clv": "+0,3%",
-  "brier": "0.711 (mercado 0.675)",
-  "bolao": 20,
-  "sim100": {
-    "fav": {
-      "stake": 1400,
-      "pnl": -390,
-      "roi": "-27.9%"
-    },
-    "louco": {
-      "stake": 1400,
-      "pnl": -640,
-      "roi": "-45.7%"
-    },
-    "favmkt": {
-      "stake": 1400,
-      "pnl": -390,
-      "roi": "-27.9%"
-    },
-    "disc": {
-      "stake": 200,
-      "pnl": 15,
-      "roi": "+7.5%"
-    }
+ "updated": "16/06/2026",
+ "tips": 2,
+ "hit": "43% (6/14)",
+ "roi": "+7,5%",
+ "clv": "+0,3%",
+ "brier": "0.711 (mercado 0.675)",
+ "bolao": 20,
+ "sim100": {
+  "fav": {
+   "stake": 1400,
+   "pnl": -390,
+   "roi": "-27.9%"
   },
-  "lines": {
-    "bolao": "-",
-    "disc": "-",
-    "louco": "-"
+  "louco": {
+   "stake": 1400,
+   "pnl": -640,
+   "roi": "-45.7%"
   },
-  "next": {
-    "jogo": "Franca x Senegal",
-    "hora": "16:00 (Brasilia)"
+  "favmkt": {
+   "stake": 1400,
+   "pnl": -390,
+   "roi": "-27.9%"
   },
-  "alerta": {
-    "ativo": false
-  },
-  "analise": "Recalibracao diaria (16 jogos encerrados desde 11/06): mu 0.264, beta 1.5 fixo, fator empate F 1.6 (otimo cru 2.4 regularizado), media-alvo 2.8 gols/jogo, P(empate) media 34 por cento - a Copa abriu com 7 empates em 16 jogos. Hoje 3 jogos: Franca x Senegal 16h, Iraque x Noruega 19h, Argentina x Argelia 22h. Disciplinado sem tip nos tres (edges no empate sao artefato do F regularizado, nao valor).",
-  "analises": [
-    {
-      "jogo": "Franca x Senegal",
-      "hora": "16:00",
-      "elenco": "Fra 1.57atq/0.83def vs Sen 1.56/0.85",
-      "bolao": "Franca 1x1",
-      "disc": "- (aval. no apito)",
-      "louco": "Dupla chance / empate",
-      "fav": "Franca",
-      "fav_odd": "-",
-      "fav_mkt": "Franca",
-      "fav_mkt_odd": "-",
-      "texto": "<b>Modelo final (ataque/defesa, alpha=4, rho=-0,13).</b> Forca: FRA ataca 1.69/sofre 0.88 | SEN ataca 1.56/sofre 0.83. <b>Lambda:</b> FRA 1.23 x 1.21 SEN (total 2.44). <b>1X2:</b> FRA 30% / empate 42% / SEN 29%. <b>Mercados:</b> Over 2,5 40% (Under 60%), Ambas marcam 54%. <b>Sem sofrer:</b> FRA 31%, SEN 30%. <b>Placares + provaveis:</b> 1x1 20% &bull; 0x0 14% &bull; 1x0 8% &bull; 0x1 7% &bull; 2x1 7%. <b>Forma (ult.6):</b> FRA 5V-0E-1D (16GF/6GS) | SEN 3V-1E-2D (8GF/7GS). <b>Placar EP do modelo:</b> 1x1 (2.20 pts). <b>PALPITE: Franca 1x1</b> (empate e o mais provavel)."
-    },
-    {
-      "jogo": "Iraque x Noruega",
-      "hora": "19:00",
-      "elenco": "Nor 1.92atq/0.92def vs Irq 1.03/0.89",
-      "bolao": "Noruega 2x0",
-      "disc": "- (aval. no apito)",
-      "louco": "Noruega",
-      "fav": "Noruega",
-      "fav_odd": "-",
-      "fav_mkt": "Noruega",
-      "fav_mkt_odd": "-",
-      "texto": "<b>Modelo final (ataque/defesa, alpha=4, rho=-0,13).</b> Forca: IRQ ataca 0.94/sofre 0.91 | NOR ataca 1.90/sofre 0.85. <b>Lambda:</b> IRQ 0.70 x 1.53 NOR (total 2.23). <b>1X2:</b> IRQ 13% / empate 39% / NOR 48%. <b>Mercados:</b> Over 2,5 35% (Under 65%), Ambas marcam 43%. <b>Sem sofrer:</b> IRQ 25%, NOR 49%. <b>Placares + provaveis:</b> 1x1 18% &bull; 0x0 17% &bull; 0x1 13% &bull; 0x2 11% &bull; 1x2 8%. <b>Forma (ult.6):</b> IRQ 3V-2E-1D (7GF/6GS) | NOR 3V-2E-1D (13GF/6GS). <b>Placar EP do modelo:</b> 0x1 (2.39 pts). <b>PALPITE: Noruega 2x0</b> (EP do modelo e 1x0; subimos pelo ataque forte da Noruega)."
-    },
-    {
-      "jogo": "Argentina x Argelia",
-      "hora": "22:00",
-      "elenco": "Arg 1.68atq/0.67def vs Alg 1.47/0.74",
-      "bolao": "Argentina 1x0",
-      "disc": "- (aval. no apito)",
-      "louco": "Under 2,5",
-      "fav": "Argentina",
-      "fav_odd": "-",
-      "fav_mkt": "Argentina",
-      "fav_mkt_odd": "-",
-      "texto": "<b>Modelo final (ataque/defesa, alpha=4, rho=-0,13).</b> Forca: ARG ataca 1.69/sofre 0.67 | ALG ataca 1.47/sofre 0.69. <b>Lambda:</b> ARG 1.02 x 0.87 ALG (total 1.89). <b>1X2:</b> ARG 30% / empate 47% / ALG 23%. <b>Mercados:</b> Over 2,5 26% (Under 74%), Ambas marcam 41%. <b>Sem sofrer:</b> ARG 43%, ALG 38%. <b>Placares + provaveis:</b> 0x0 22% &bull; 1x1 20% &bull; 1x0 11% &bull; 0x1 9% &bull; 2x0 7%. <b>Forma (ult.6):</b> ARG 6V-0E-0D (20GF/1GS) | ALG 4V-1E-1D (13GF/2GS). <b>Placar EP do modelo:</b> 0x0 (2.43 pts). <b>PALPITE: Argentina 1x0</b> (fator Messi; o modelo ve empate como mais provavel - 47% - pela defesa elite da Argelia, mas a vitoria apertada e defensavel)."
-    }
-  ],
-  "odds_fech": {}
+  "disc": {
+   "stake": 200,
+   "pnl": 15,
+   "roi": "+7.5%"
+  }
+ },
+ "lines": {
+  "bolao": "-",
+  "disc": "-",
+  "louco": "-"
+ },
+ "next": {
+  "jogo": "Inglaterra x Croacia",
+  "hora": "17:00 (Brasilia)"
+ },
+ "alerta": {
+  "ativo": false
+ },
+ "analise": "Recalibracao diaria (16 jogos encerrados desde 11/06): mu 0.264, beta 1.5 fixo, fator empate F 1.6 (otimo cru 2.4 regularizado), media-alvo 2.8 gols/jogo, P(empate) media 34 por cento - a Copa abriu com 7 empates em 16 jogos. Hoje 3 jogos: Franca x Senegal 16h, Iraque x Noruega 19h, Argentina x Argelia 22h. Disciplinado sem tip nos tres (edges no empate sao artefato do F regularizado, nao valor).",
+ "analises": [],
+ "odds_fech": {}
 }
