@@ -1,58 +1,10 @@
 [
   {
-    "data": "16/06",
-    "hora": "16:00",
-    "jogo": "Franca x Senegal",
-    "grupo": "-",
-    "palpite": "Franca 1x1",
-    "id": "-"
-  },
-  {
-    "data": "16/06",
-    "hora": "19:00",
-    "jogo": "Iraque x Noruega",
-    "grupo": "-",
-    "palpite": "Noruega 2x0",
-    "id": "-"
-  },
-  {
-    "data": "16/06",
-    "hora": "22:00",
-    "jogo": "Argentina x Argelia",
-    "grupo": "-",
-    "palpite": "Argentina 1x0",
-    "id": "-"
-  },
-  {
-    "data": "17/06",
-    "hora": "01:00",
-    "jogo": "Austria x Jordania",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "17/06",
-    "hora": "14:00",
-    "jogo": "Portugal x Congo (RDC)",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "17/06",
-    "hora": "17:00",
-    "jogo": "Inglaterra x Croacia",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
     "data": "17/06",
     "hora": "20:00",
     "jogo": "Gana x Panama",
     "grupo": "-",
-    "palpite": "-",
+    "palpite": "1x1",
     "id": "-"
   },
   {
@@ -60,7 +12,7 @@
     "hora": "23:00",
     "jogo": "Uzbequistao x Colombia",
     "grupo": "-",
-    "palpite": "-",
+    "palpite": "1x1",
     "id": "-"
   },
   {
