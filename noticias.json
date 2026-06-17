@@ -1,5 +1,10 @@
 [
  {
+  "tipo": "aovivo",
+  "hora": "18:09",
+  "texto": "GOL DA INGLATERRA - Jude Bellingham marca aos 47min, logo no inicio do segundo tempo: Inglaterra 3x2 Croacia (AT&T Stadium, Dallas). Chute de direita da entrada da area no canto inferior esquerdo. A Inglaterra retoma a frente e RESTAURA o favoritismo do modelo apos o susto do 2x2 ao intervalo. Jogo segue aberto - ja sao 5 gols e a Croacia de Modric provou que responde; Under 2,5 morto ha tempo. Placar 3x2 com cerca de 40min por jogar."
+ },
+ {
   "tipo": "esquenta",
   "hora": "18:03",
   "texto": "ESQUENTA - Gana x Panama 20:00 (estreia, Grupo). Modelo ataque/defesa: lambda Gana 1,32 x Panama 1,30 - praticamente igual. 1X2: Gana 30 / empate 40 / Panama 30. Jogo de moeda, placar baixo/medio - empate e o desfecho mais provavel. Palpite do bolao: 1x1. Disciplinado so avalia no apito (com as odds de fechamento na mao)."
@@ -193,10 +198,5 @@
   "tipo": "aovivo",
   "hora": "16:58",
   "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 60 min (Lumen Field, Seattle). Egito segura o golaco de Emam Ashour (19min) firme no bloco baixo, com Salah e Marmoush ameacando nos contras. A Belgica de Rudi Garcia segue com a posse e empurra por De Bruyne, Doku e Trossard, mas ainda nao furou - Lukaku ja se aquece no banco para dar referencia de area. Placar mantido 0x1, sem novo gol nesta etapa. Leitura segue INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisa de 2 gols em cerca de 30min e o relogio aperta - mas Belgica lancada com 9 de oficio tende a abrir espacos para o jogo estourar."
- },
- {
-  "tipo": "aovivo",
-  "hora": "16:53",
-  "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 55 min (Lumen Field, Seattle). Egito segue na frente com o golaco de Emam Ashour (19min) e se fecha em bloco baixo, apostando nos contras de Salah e Marmoush. A Belgica de Rudi Garcia tem a posse e empurra com De Bruyne, Doku e Trossard, mas ainda nao furou. Placar mantido 0x1, sem novo gol nesta etapa ate agora. Leitura segue INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) PRECISA de 2 gols e o relogio aperta: faltam cerca de 35min e o Egito recuado dificulta - mas a Belgica lancada abre espacos para contra-ataque, cenario que ainda pode estourar o total."
  }
 ]
