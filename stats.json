@@ -34,47 +34,20 @@
     "louco": "-"
   },
   "next": {
-    "jogo": "Gana x Panama",
-    "hora": "20:00 (Brasilia)"
+    "jogo": "Suica x Bosnia",
+    "hora": "16:00 (Brasilia)"
   },
   "alerta": {
     "ativo": false
   },
   "analise": "Recalibracao diaria (16 jogos encerrados desde 11/06): mu 0.264, beta 1.5 fixo, fator empate F 1.6 (otimo cru 2.4 regularizado), media-alvo 2.8 gols/jogo, P(empate) media 34 por cento - a Copa abriu com 7 empates em 16 jogos. Hoje 3 jogos: Franca x Senegal 16h, Iraque x Noruega 19h, Argentina x Argelia 22h. Disciplinado sem tip nos tres (edges no empate sao artefato do F regularizado, nao valor).",
-  "analises": [
-    {
-      "jogo": "Gana x Panama",
-      "hora": "20:00",
-      "elenco": "jogo parelho",
-      "bolao": "1x1",
-      "disc": "- (aval. no apito)",
-      "louco": "Under 2,5",
-      "fav": "Gana",
-      "fav_odd": "-",
-      "fav_mkt": "Gana",
-      "fav_mkt_odd": "-",
-      "texto": "<b>Modelo (ataque/defesa).</b> Lambda Gana 1,32 x Panama 1,30 - praticamente igual. 1X2: Gana 30% / empate 40% / Panama 30%. Jogo de moeda, baixo/medio placar. Placar EP: 1x1 (empate e o mais provavel)."
-    },
-    {
-      "jogo": "Uzbequistao x Colombia",
-      "hora": "23:00",
-      "elenco": "Colombia leve favorita",
-      "bolao": "1x1 (ou Colombia 1x0)",
-      "disc": "- (aval. no apito)",
-      "louco": "Under 2,5",
-      "fav": "Colombia",
-      "fav_odd": "-",
-      "fav_mkt": "Colombia",
-      "fav_mkt_odd": "-",
-      "texto": "<b>Modelo (ataque/defesa).</b> Lambda Uzbequistao 0,96 x Colombia 1,32. 1X2: Uzbequistao 21% / empate 42% / Colombia 36%. Colombia favorita, mas jogo travado - o empate ainda e o mais provavel. Placar EP: 1x1."
-    }
-  ],
+  "analises": [],
   "odds_fech": {
-    "jogo": "Inglaterra x Croacia",
-    "o1": "1.69",
-    "ox": "3.75",
-    "o2": "5.25",
-    "under": "1.69",
-    "hora": "16:58"
+    "jogo": "Suica x Bosnia",
+    "o1": "-",
+    "ox": "-",
+    "o2": "-",
+    "under": "-",
+    "hora": "16:00"
   }
 }
