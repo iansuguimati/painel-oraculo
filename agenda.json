@@ -1,50 +1,17 @@
 [
-  {
-    "data": "17/06",
-    "hora": "20:00",
-    "jogo": "Gana x Panama",
-    "grupo": "-",
-    "palpite": "1x1",
-    "id": "-"
-  },
-  {
-    "data": "17/06",
-    "hora": "23:00",
-    "jogo": "Uzbequistao x Colombia",
-    "grupo": "-",
-    "palpite": "1x1",
-    "id": "-"
-  },
-  {
-    "data": "18/06",
-    "hora": "13:00",
-    "jogo": "Tchequia x Africa do Sul",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "18/06",
-    "hora": "16:00",
-    "jogo": "Suica x Bosnia",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "18/06",
-    "hora": "19:00",
-    "jogo": "Canada x Catar",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "18/06",
-    "hora": "22:00",
-    "jogo": "Mexico x Coreia do Sul",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  }
+{"data":"18/06","hora":"16:00","jogo":"Suica x Bosnia","grupo":"B","palpite":"Suica 1x0","id":"-"},
+{"data":"18/06","hora":"19:00","jogo":"Canada x Catar","grupo":"B","palpite":"Canada 1x0","id":"-"},
+{"data":"18/06","hora":"22:00","jogo":"Mexico x Coreia do Sul","grupo":"A","palpite":"Mexico 1x0","id":"-"},
+{"data":"19/06","hora":"16:00","jogo":"EUA x Australia","grupo":"-","palpite":"-","id":"-"},
+{"data":"19/06","hora":"19:00","jogo":"Escocia x Marrocos","grupo":"-","palpite":"-","id":"-"},
+{"data":"19/06","hora":"21:30","jogo":"Brasil x Haiti","grupo":"-","palpite":"-","id":"-"},
+{"data":"20/06","hora":"00:00","jogo":"Turquia x Paraguai","grupo":"-","palpite":"-","id":"-"},
+{"data":"20/06","hora":"14:00","jogo":"Holanda x Suecia","grupo":"-","palpite":"-","id":"-"},
+{"data":"20/06","hora":"17:00","jogo":"Alemanha x Costa do Marfim","grupo":"-","palpite":"-","id":"-"},
+{"data":"20/06","hora":"21:00","jogo":"Equador x Curacao","grupo":"-","palpite":"-","id":"-"},
+{"data":"21/06","hora":"01:00","jogo":"Tunisia x Japao","grupo":"-","palpite":"-","id":"-"},
+{"data":"21/06","hora":"13:00","jogo":"Espanha x Arabia Saudita","grupo":"-","palpite":"-","id":"-"},
+{"data":"21/06","hora":"16:00","jogo":"Belgica x Ira","grupo":"-","palpite":"-","id":"-"},
+{"data":"21/06","hora":"19:00","jogo":"Uruguai x Cabo Verde","grupo":"-","palpite":"-","id":"-"},
+{"data":"21/06","hora":"22:00","jogo":"Nova Zelandia x Egito","grupo":"-","palpite":"-","id":"-"}
 ]
