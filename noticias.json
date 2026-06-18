@@ -45,6 +45,11 @@
   "texto": "AO VIVO 5min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Comeco pegado: amarelo cedo para Lee Kang-In aos 4min por falta tatica. Mexico tenta impor o mando e a altitude (1566m); Coreia bem postada. Sem sustos ainda."
  },
  {
+  "tipo": "forma",
+  "hora": "19:45",
+  "texto": "FORMA - Mexico x Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 22h Brasilia). Mexico vem QUENTE: 9 vitorias nos ultimos 10 jogos (unico tropeco um 0x0 com a Costa Rica) e estreia solida batendo a Africa do Sul 2x0 (Julian Quinones e Raul Jimenez). A Coreia mostrou forca mental: estava perdendo e VIROU sobre a Czechia 2x1, com Hwang In-beom e Oh Hyeon-gyu marcando nos ultimos 25 min. Os dois chegam com 3 pontos e moral. Leitura do modelo segue firme: anfitria leve favorita (45 por cento modelo / 47 mercado), jogo equilibrado e sem tip de valor ate aqui. Fontes: FanDuel Research, RotoWire (18/06)."
+ },
+ {
   "tipo": "odds",
   "hora": "19:43",
   "texto": "ODDS NO APITO - Mexico x Coreia do Sul: Mexico 2.00 | Empate 3.20 | Coreia do Sul 4.10 | Under 2,5 1.65 (linha de fechamento, base do CLV). Mercado e modelo quase identicos (Mexico 45 a 47 por cento) - jogo mais bem calibrado do dia, sem tip do Disciplinado."
@@ -53,11 +58,6 @@
   "tipo": "lance",
   "hora": "19:43",
   "texto": "BOLA ROLANDO - comeca Mexico x Coreia do Sul no Estadio Akron, Guadalajara. Atencao: a bola rolou ANTES do horario que constava na agenda (22h) - jogo ja ao vivo. Palpite do bolao: Mexico 1x0. Sem aposta de valor (Disciplinado fora): modelo e mercado batem, nenhum mercado com edge acima de 4pp."
- },
- {
-  "tipo": "forma",
-  "hora": "19:45",
-  "texto": "FORMA - Mexico x Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 22h Brasilia). Mexico vem QUENTE: 9 vitorias nos ultimos 10 jogos (unico tropeco um 0x0 com a Costa Rica) e estreia solida batendo a Africa do Sul 2x0 (Julian Quinones e Raul Jimenez). A Coreia mostrou forca mental: estava perdendo e VIROU sobre a Czechia 2x1, com Hwang In-beom e Oh Hyeon-gyu marcando nos ultimos 25 min. Os dois chegam com 3 pontos e moral. Leitura do modelo segue firme: anfitria leve favorita (45 por cento modelo / 47 mercado), jogo equilibrado e sem tip de valor ate aqui. Fontes: FanDuel Research, RotoWire (18/06)."
  },
  {
   "tipo": "esquenta",
@@ -198,30 +198,5 @@
   "tipo": "previsao",
   "hora": "05:15",
   "texto": "Suica x Bosnia (16h, Grupo B, Los Angeles): palpite Suica 1x0. O modelo da a Suica so 47 por cento contra 63 do mercado - favorita por margem menor que a precificada; o empate nominal e erro nosso, nao tip."
- },
- {
-  "tipo": "info",
-  "hora": "05:12",
-  "texto": "Os dias 15 a 17/06 rodaram sem palpite publicado (execucao automatica nao disparou); hoje Czechia 1x1 Africa do Sul tambem ficou sem palpite. Esses jogos nao entram no placar do modelo - honestidade primeiro."
- },
- {
-  "tipo": "resumo",
-  "hora": "05:10",
-  "texto": "PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8). Brier modelo 0,518 vs 0,511 mercado (n=8). Disciplinado: 1 tip resolvido, 1 acerto. Modelo reajustado: 918 jogos, alpha 4, F=1,15, rho=-0,13."
- },
- {
-  "tipo": "resultado",
-  "hora": "05:07",
-  "texto": "FIM (14/06): Costa do Marfim 1x0 Equador. Palpite Equador 1x0 = 0 PONTOS (placar invertido), MAS o tip do Disciplinado Under 1,75 GANHOU (1 gol no jogo, retorno 2.15, +115 em 100 reais)."
- },
- {
-  "tipo": "resultado",
-  "hora": "05:06",
-  "texto": "FIM (14/06): Suecia 5x1 Tunisia = palpite Suecia 1x0 = 3 PONTOS. Holanda 2x2 Japao = palpite Holanda 2x1 = 1 PONTO (acertou os 2 gols da Holanda, mas deu empate)."
- },
- {
-  "tipo": "resultado",
-  "hora": "05:05",
-  "texto": "FIM (14/06): Alemanha 7x1 Curacao. Palpite Alemanha 3x0 = 3 PONTOS (vencedor certo; a goleada veio muito acima do nosso placar)."
  }
 ]
