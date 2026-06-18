@@ -1,6 +1,11 @@
 [
  {
   "tipo": "lance",
+  "hora": "20:39",
+  "texto": "AO VIVO INTERVALO - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Primeiro tempo travado e equilibrado, como o modelo antecipou - era o jogo mais bem calibrado do dia (Under 2,5 colado em 60). Mexico anfitria levou leve vantagem com o mando e a altitude, mas nao furou a defesa coreana; Coreia organizada sem criar muito. Com 0x0 no intervalo, o Under 2,5 (fechamento 1.74) e o Empate do Jogo Louco (3.20) largam na frente; o favorito do modelo e do mercado (Mexico 2.00) ainda depende do gol no segundo tempo. Sem alerta - placar dentro da leitura."
+ },
+ {
+  "tipo": "lance",
   "hora": "20:28",
   "texto": "AO VIVO 43min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Fim de primeiro tempo se aproximando e segue o 0x0: jogo de pouca chance clara, com o Mexico mandando na posse mas esbarrando no bloco coreano, e a Coreia bem armada para o contra-ataque. Unico amarelo continua sendo o de Lee Kang-In (4min). O Under 2,5 (linha de fechamento 1.74) se confirmando ate aqui; palpite Mexico 1x0 segue vivo, sem tip do Disciplinado neste jogo (modelo e mercado quase colados)."
  },
@@ -193,10 +198,5 @@
   "tipo": "previsao",
   "hora": "05:16",
   "texto": "Canada x Catar (19h, Vancouver, anfitriao): palpite Canada 1x0. UNICO TIP de hoje: UNDER 2,5 a 2.00 - Catar com ataque fraco e Canada controlando sem abrir o jogo (Edge +10pp, EV +12,5 por cento)."
- },
- {
-  "tipo": "previsao",
-  "hora": "05:15",
-  "texto": "Suica x Bosnia (16h, Grupo B, Los Angeles): palpite Suica 1x0. O modelo da a Suica so 47 por cento contra 63 do mercado - favorita por margem menor que a precificada; o empate nominal e erro nosso, nao tip."
  }
 ]
