@@ -1,6 +1,11 @@
 [
  {
   "tipo": "lance",
+  "hora": "16:26",
+  "texto": "AO VIVO 26min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Sem gols, sem cartoes ate aqui. Jogo equilibrado entre dois times que empataram 1x1 na estreia. A leitura do bolao (Suica 1x0) segue de pe: a favorita ainda nao abriu o placar, mas mantem o controle. Quem perder fica perto da eliminacao."
+ },
+ {
+  "tipo": "lance",
   "hora": "16:00",
   "texto": "BOLA ROLANDO - comeca Suica x Bosnia no SoFi Stadium, Los Angeles (Grupo B). Bolao: Suica 1x0. Sem tip do Disciplinado - o edge do empate era erro do modelo (subestima a Suica), nao valor real."
  },
