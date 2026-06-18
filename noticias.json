@@ -1,5 +1,15 @@
 [
   {
+    "tipo": "aovivo",
+    "hora": "16:01",
+    "texto": "BOLA ROLANDO - comeca Suica x Bosnia no Los Angeles Stadium (Inglewood). Favoritismo da Suica; Bosnia se apoia em Dzeko e na solidez defensiva para segurar o duelo direto por vaga nas oitavas."
+  },
+  {
+    "tipo": "odds",
+    "hora": "16:00",
+    "texto": "ODDS NO APITO - Suica x Bosnia: Suica 1.56 | Empate 4.00 | Bosnia 6.00 | Under 2,5 1.80 (linha de fechamento, base do CLV). Mercado de-vig por volta de 60 por cento na Suica e leve favoritismo do Under - dois times de controle, ambos seguraram o 2,5 na estreia."
+  },
+  {
     "tipo": "clima",
     "hora": "16:00",
     "texto": "PRE-JOGO - Suica x Bosnia 16:00 (Grupo B, Los Angeles Stadium, Inglewood). Escalacoes divulgadas: Suica com Kobel; Widmer, Akanji, Elvedi, Rodriguez; Xhaka e Zakaria; Ndoye, Freuler, Vargas; Embolo. Bosnia com Vasilj; Dedic, Muharemovic, Kolasinac, Mujakic; Tahirovic e Hadziahmetovic; Bajraktarevic, Gigovic, Alajbegovic; Dzeko. Ambas vem de 1x1 na estreia, duelo direto por vaga. Mercado: Suica 1.56 (de-vig por volta de 60 por cento), empate 4.00, Bosnia 6.00. Suica 19a no ranking FIFA, Bosnia 63a."
@@ -188,15 +198,5 @@
     "tipo": "forma",
     "hora": "17:24",
     "texto": "FORMA - Arabia Saudita x Uruguai as 19:00 (Hard Rock Stadium, Miami). Forma recente da Celeste de Bielsa e irregular: empates 1x1 com a Inglaterra e 0x0 com a Argelia em marco, depois de levar 5x1 dos EUA em novembro; nas Eliminatorias fechou em 4o, com so 1 vitoria nos 9 jogos da reta final. Mesmo assim entra favoritissima pelo elenco (~78 vs ~38) e pela diferenca tecnica, ainda que sem Arrascaeta (lesao) e sem Araujo. A Arabia de Georgios Donis (no cargo desde abril) chega sem o goleiro Al-Aqidi (lesao); Al-Owais, titular em 2022, assume. Palpite do bolao: Uruguai 2x0. Modelo: lambda Arabia 0,77 x Uruguai 2,29 (total 3,06); 1X2 Uruguai 71 / empate 18 / Arabia 10. Total recalibrado p/ cima tirou o valor do Under - Disciplinado sem aposta, reavalia no apito."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "17:14",
-    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 80 min (Lumen Field, Seattle). O cerco belga aperta mas nao fura: De Bruyne tentou o chip por cima da linha do Egito e Ashour - autor do gol - voltou para cortar; logo depois KDB finalizou para fora. Meunier entrou pela direita buscando profundidade. Egito segue com bloco baixo, disciplina e Salah/Marmoush espreitando o contra. Faltando os minutos finais + acrescimos, o palpite do bolao (Belgica 2x0) esta liquidado e a zebra do Egito se cristaliza - seria a 2a grande surpresa do dia, ao lado do 0x0 da Espanha. Modelo permanece INVERTIDO; Over 2,5 do Disciplinado praticamente perdido (precisaria de 3 gols agora)."
-  },
-  {
-    "tipo": "aovivo",
-    "hora": "17:08",
-    "texto": "AO VIVO - Belgica 0x1 Egito, cerca de 68 min (Lumen Field, Seattle). Egito segura o golaco de Emam Ashour (19min) com bloco baixo e muita disciplina - no intervalo a Belgica tinha ZERO finalizacoes no gol contra 3 do Egito, sintoma de como o ataque belga travou. Rudi Garcia mexeu para furar o ferrolho (Lukaku acionado de referencia) e empurra com De Bruyne, Doku e Trossard, mas o placar segue 0x1. Leitura permanece INVERTIDA do palpite (Belgica 2x0); modelo ~ Belgica 45 / empate 28 / Egito 27. Disciplinado (Over 2,5 a 1.91) precisaria agora de 3 gols em cerca de 22min - cenario praticamente perdido; o jogo caminha para Under e ameaca uma segunda grande zebra do dia, ao lado do 0x0 da Espanha."
   }
 ]
