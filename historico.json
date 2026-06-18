@@ -180,5 +180,18 @@
   "disc": 0,
   "louco": -100,
   "favmkt": -100
+ },
+ {
+  "data": "18/06",
+  "jogo": "SUI x BIH",
+  "bolao_pts": 3,
+  "venc": 1,
+  "placar": 0,
+  "brier_m": 0.427,
+  "brier_k": 0.208,
+  "fav": 53,
+  "disc": 0,
+  "louco": -100,
+  "favmkt": 53
  }
 ]

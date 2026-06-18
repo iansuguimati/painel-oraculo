@@ -1,11 +1,11 @@
 {
   "updated": "18/06/2026",
   "tips": 2,
-  "hit": "62,5% (5/8)",
+  "hit": "66,7% (6/9)",
   "roi": "+115% (1 tip resolvido)",
   "clv": "-",
-  "brier": "0,518 (mercado 0,511)",
-  "bolao": 20,
+  "brier": "0,508 (mercado 0,477)",
+  "bolao": 23,
   "sim100": {
     "disc": {
       "stake": 200,
@@ -13,19 +13,19 @@
       "roi": "+7,5%"
     },
     "louco": {
-      "stake": 1400,
-      "pnl": -640,
-      "roi": "-45,7%"
+      "stake": 1500,
+      "pnl": -740,
+      "roi": "-49,3%"
     },
     "fav": {
-      "stake": 1400,
-      "pnl": -390,
-      "roi": "-27,9%"
+      "stake": 1500,
+      "pnl": -337,
+      "roi": "-22,5%"
     },
     "favmkt": {
-      "stake": 1400,
-      "pnl": -390,
-      "roi": "-27,9%"
+      "stake": 1500,
+      "pnl": -337,
+      "roi": "-22,5%"
     }
   },
   "lines": {
@@ -34,11 +34,14 @@
     "louco": "Empate Canada x Catar (5.70)"
   },
   "next": {
-    "jogo": "Suica x Bosnia",
-    "hora": "16:00 (Brasilia)"
+    "jogo": "Canada x Catar",
+    "hora": "AO VIVO - intervalo 3x0"
   },
   "alerta": {
-    "ativo": false
+    "ativo": true,
+    "hora": "17:37",
+    "jogo": "Canada x Catar",
+    "texto": "Canada 3x0 Catar ainda no 1o tempo; Catar com 10 (vermelho de Homam Ahmed aos 33). Disciplinado Under 2,5 a 2.00 JA PERDIDO. Anterior: jogo de poucos gols, Canada controla. Novo: goleada/Over estourado; bolao Canada 1x0 acerta o vencedor, erra o placar."
   },
   "analise": "RODADA 2 - 18/06. Tres jogos hoje: Suica x Bosnia (16h, LA), Canada x Catar (19h, Vancouver, anfitriao) e Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao). RESOLVIDOS com palpite desde a ultima execucao (14/06): Alemanha 7x1 Curacao (3x0 = 3 pts), Suecia 5x1 Tunisia (1x0 = 3 pts), Holanda 2x2 Japao (2x1 = 1 pt), Marfim 1x0 Equador (Equador 1x0 = 0 pts, mas o tip Under 1,75 GANHOU, +115). Os dias 15-17/06 nao rodaram (sem palpite). PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8), Brier modelo 0,518 vs 0,511 mercado (n=8). MODELO reajustado: Maher ataque/defesa Poisson L2, 918 jogos, alpha 4, mando 0,27, rho -0,13, F regularizado 1,15 (o F global 1,5 inflava o empate para 37 por cento, acima da base historica de 22-28 por cento - reduzido para bater a base rate). PRODUTO: 1 tip hoje - Canada x Catar UNDER 2,5 a 2.00 (Catar ataque fraco, Canada controla; Edge +10pp, EV +12,5 por cento). Nos outros dois o valor aparente de empate e erro do nosso modelo, que subestima os anfitrioes/favoritos Suica e Canada - nao publicamos. Simulacao 100 reais: Disciplinado +115 (1 tip), Favorito do modelo e do mercado +95 cada, Jogo Louco -80. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
   "analises": [

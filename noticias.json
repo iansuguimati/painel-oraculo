@@ -1,5 +1,20 @@
 [
  {
+  "tipo": "alerta",
+  "hora": "17:37",
+  "texto": "ALERTA - Canada x Catar: Canada faz 3x0 ainda no 1o tempo e o Catar fica com 10 (vermelho de Homam Ahmed aos 33). Nosso tip do Disciplinado era UNDER 2,5 a 2.00 - JA PERDIDO (3 gols no intervalo). Leitura anterior: Canada controla sem abrir o jogo, poucos gols. NOVA: goleada encaminhada e Over estourado; bolao Canada 1x0 acerta o vencedor mas erra feio o placar."
+ },
+ {
+  "tipo": "lance",
+  "hora": "17:36",
+  "texto": "AO VIVO INTERVALO - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Larin abriu aos 16, Jonathan David ampliou aos 29 e fechou de voleio aos 45+3. Aos 33 o Catar ficou com 10: vermelho direto de Homam Ahmed. Anfitriao dominante e com um a mais para o 2o tempo. Obs: o jogo comecou bem antes do horario que tinhamos na agenda (19h); cobertura ao vivo retomada agora."
+ },
+ {
+  "tipo": "fim",
+  "hora": "17:35",
+  "texto": "FIM DE JOGO - Suica 4x1 Bosnia (Grupo B, SoFi Stadium). Estava 0x0 ate o 70 e destravou na reta final com os reservas: Manzambi marcou duas vezes (74 e 90) e Vargas fez outro; a Bosnia, ja com 10 (vermelho de Muharemovic aos 80), descontou com Mahmic. Bolao Suica 1x0 acertou o vencedor (3 pts). Disciplinado nao tinha tip aqui. Over 2,5 e Ambas Marcam confirmados. Simulacoes: Favorito do modelo e do mercado (Suica 1.53) GANHARAM +53 cada; Jogo Louco (empate 4.10) perdeu -100."
+ },
+ {
   "tipo": "lance",
   "hora": "17:20",
   "texto": "AO VIVO 62min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Jogo esquentou: dois amarelos em dois minutos - Dedic (Suica) aos 59 e Dzeko (Bosnia) aos 61. Placar segue zerado, sem gols ate aqui. Palpite do bolao (Suica 1x0) ainda precisa do gol; o 0x0 favorece o Under (linha abriu em 1,81 no apito)."
