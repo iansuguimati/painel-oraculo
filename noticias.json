@@ -1,6 +1,11 @@
 [
  {
   "tipo": "lance",
+  "hora": "20:09",
+  "texto": "AO VIVO 28min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Segue 0x0 e travado: nenhuma chance clara desde o amarelo de Lee Kang-In aos 4min, unico cartao do jogo. Mexico circula a bola no campo de ataque sem furar o bloco coreano; Coreia bem postada esperando o contra-ataque. Under 2,5 (linha de fechamento 1.74) se confirmando ate aqui. Palpite segue Mexico 1x0; sem tip do Disciplinado, o jogo mais calibrado do dia."
+ },
+ {
+  "tipo": "lance",
   "hora": "20:07",
   "texto": "BOLA ROLANDO - Mexico x Coreia do Sul ja em andamento no Estadio Akron, Guadalajara (1566m, Grupo A): 0x0 no primeiro tempo, cerca de 22min. Apito saiu antes do horario que estava na agenda (a API ESPN confirma o jogo AO VIVO). Mexico anfitriao com Raul Jimenez no comando; Coreia armada para fechar e sair no contra-ataque, com Kang-In Lee e Min-Jae Kim. Sem tip do Disciplinado: jogo o mais calibrado do dia, modelo e mercado quase identicos. Bolao: Mexico 1x0."
  },
