@@ -1,93 +1,93 @@
 {
- "updated": "18/06/2026",
- "tips": 2,
- "hit": "62,5% (5/8)",
- "roi": "+115% (1 tip resolvido)",
- "clv": "-",
- "brier": "0,518 (mercado 0,511)",
- "bolao": 20,
- "sim100": {
-  "disc": {
-   "stake": 100,
-   "pnl": 115,
-   "roi": "+115%"
+  "updated": "18/06/2026",
+  "tips": 2,
+  "hit": "62,5% (5/8)",
+  "roi": "+115% (1 tip resolvido)",
+  "clv": "-",
+  "brier": "0,518 (mercado 0,511)",
+  "bolao": 20,
+  "sim100": {
+    "disc": {
+      "stake": 100,
+      "pnl": 115,
+      "roi": "+115%"
+    },
+    "louco": {
+      "stake": 800,
+      "pnl": -80,
+      "roi": "-10%"
+    },
+    "fav": {
+      "stake": 800,
+      "pnl": 95,
+      "roi": "+11,9%"
+    },
+    "favmkt": {
+      "stake": 800,
+      "pnl": 95,
+      "roi": "+11,9%"
+    }
   },
-  "louco": {
-   "stake": 800,
-   "pnl": -80,
-   "roi": "-10%"
+  "lines": {
+    "bolao": "Canada 1x0",
+    "disc": "Under 2,5 Canada x Catar (2.00)",
+    "louco": "Empate Canada x Catar (5.70)"
   },
-  "fav": {
-   "stake": 800,
-   "pnl": 95,
-   "roi": "+11,9%"
+  "next": {
+    "jogo": "Suica x Bosnia",
+    "hora": "16:00 (Brasilia)"
   },
-  "favmkt": {
-   "stake": 800,
-   "pnl": 95,
-   "roi": "+11,9%"
+  "alerta": {
+    "ativo": false
+  },
+  "analise": "RODADA 2 - 18/06. Tres jogos hoje: Suica x Bosnia (16h, LA), Canada x Catar (19h, Vancouver, anfitriao) e Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao). RESOLVIDOS com palpite desde a ultima execucao (14/06): Alemanha 7x1 Curacao (3x0 = 3 pts), Suecia 5x1 Tunisia (1x0 = 3 pts), Holanda 2x2 Japao (2x1 = 1 pt), Marfim 1x0 Equador (Equador 1x0 = 0 pts, mas o tip Under 1,75 GANHOU, +115). Os dias 15-17/06 nao rodaram (sem palpite). PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8), Brier modelo 0,518 vs 0,511 mercado (n=8). MODELO reajustado: Maher ataque/defesa Poisson L2, 918 jogos, alpha 4, mando 0,27, rho -0,13, F regularizado 1,15 (o F global 1,5 inflava o empate para 37 por cento, acima da base historica de 22-28 por cento - reduzido para bater a base rate). PRODUTO: 1 tip hoje - Canada x Catar UNDER 2,5 a 2.00 (Catar ataque fraco, Canada controla; Edge +10pp, EV +12,5 por cento). Nos outros dois o valor aparente de empate e erro do nosso modelo, que subestima os anfitrioes/favoritos Suica e Canada - nao publicamos. Simulacao 100 reais: Disciplinado +115 (1 tip), Favorito do modelo e do mercado +95 cada, Jogo Louco -80. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
+  "analises": [
+    {
+      "jogo": "Suica x Bosnia (16:00, Grupo B)",
+      "hora": "16:00",
+      "bolao": "Suica 1x0 (EP 2,23)",
+      "disc": "-",
+      "louco": "Empate (4.10)",
+      "fav": "Suica",
+      "fav_odd": "1.53",
+      "fav_mkt": "Suica",
+      "fav_mkt_odd": "1.53",
+      "elenco": "Suica ataque 0,37/defesa -0,22 (forte) vs Bosnia ataque 0,03/defesa -0,10 (mediana)",
+      "texto": "Suica x Bosnia no SoFi Stadium, Los Angeles - ambos vindo de 1x1 na estreia do Grupo B. ELENCO/MODELO: ataque Suica 0,37 vs defesa Bosnia -0,10; ataque Bosnia 0,03 vs defesa Suica -0,22. lambda Suica 1,53 x Bosnia 0,96, total 2,49. Matriz Poisson + Dixon-Coles (rho -0,13, F 1,15): 1X2 modelo Suica 47 / empate 32 / Bosnia 21. DE-VIG SHIN do mercado (Suica 1.53 / X 4.10 / Bosnia 6.06): Suica 63 / empate 22 / Bosnia 15. DIVERGENCIA: o modelo independente da a Suica so 47 por cento contra 63 do mercado - subestima a Suica em 16pp. O edge nominal do empate (+9pp) e da Bosnia (+7pp) e o reflexo desse erro, nao valor real (modo sombra: discordar do favorito por margem grande e provavel erro de modelo, nao se publica). Under 2,5 fica em 56 vs 53, Edge so +3pp, abaixo do corte. BOLAO: Suica 1x0, EP 2,23 - favorita num jogo de poucos gols; o empate e vivo (32) mas nao supera a Suica, entao trava-se o vencedor pelo maior floor. PRODUTO: sem tip."
+    },
+    {
+      "jogo": "Canada x Catar (19:00, Grupo B, anfitriao)",
+      "hora": "19:00",
+      "bolao": "Canada 1x0 (EP 2,80; 2x0 vivo)",
+      "disc": "Under 2,5 @ 2.00 (Edge +10pp, EV +12,5%)",
+      "louco": "Empate (5.70)",
+      "fav": "Canada",
+      "fav_odd": "1.278",
+      "fav_mkt": "Canada",
+      "fav_mkt_odd": "1.278",
+      "elenco": "Canada anfitria (mando +0,27) ataque 0,04/defesa -0,44 vs Catar ataque -0,13/defesa +0,13 (fraco dos dois lados)",
+      "texto": "Canada x Catar no BC Place, Vancouver - Canada e ANFITRIA (boost de mando +0,27 no modelo). ELENCO/MODELO: ataque Canada 0,04 vs defesa Catar +0,13 (fragil); ataque Catar -0,13 vs defesa Canada -0,44 (solida). Com o mando: lambda Canada 1,81 x Catar 0,66, total 2,47. Poisson DC: 1X2 modelo Canada 62 / empate 27 / Catar 11. DE-VIG SHIN (Canada 1.278 / X 5.70 / Catar 11.0): Canada 76 / empate 16 / Catar 8 - de novo o modelo subestima o anfitriao (14pp), entao o empate nominal (+11pp) NAO e tip. O VALOR REAL esta no TOTAL: o mercado precifica Over 2,5 favorito (-135), mas o Catar tem ataque fraco (so marcou de gol contra na estreia) e o Canada tende a controlar sem abrir o jogo. Modelo Under 2,5 = 56 por cento vs 46 do mercado: Edge +10pp, EV +12,5 por cento - passa o corte. TIP: UNDER 2,5 a 2.00 (odd pega para CLV). Anti-armadilha: aqui publicamos UNDER e o mercado leva Over, entao a regra que proibe Over contra Under>=58 nao se aplica. BOLAO: Canada 1x0, EP 2,80, com 2x0 logo atras (mismatch com azarao de ataque fraco)."
+    },
+    {
+      "jogo": "Mexico x Coreia do Sul (22:00, anfitriao, altitude)",
+      "hora": "22:00",
+      "bolao": "Mexico 1x0 (EP 2,21)",
+      "disc": "-",
+      "louco": "Empate (3.20)",
+      "fav": "Mexico",
+      "fav_odd": "2.05",
+      "fav_mkt": "Mexico",
+      "fav_mkt_odd": "2.05",
+      "elenco": "Mexico anfitria (mando +0,27, altitude 1566m) ataque 0,12/defesa -0,43 vs Coreia ataque 0,19/defesa -0,20",
+      "texto": "Mexico x Coreia do Sul no Estadio Akron, Guadalajara, a 1566m de altitude - Mexico ANFITRIA (mando +0,27). Ambos com 3 pontos (Mexico 2x0 Africa do Sul, Coreia 2x1 Czechia). ELENCO/MODELO: ataque Mexico 0,12 vs defesa Coreia -0,20; ataque Coreia 0,19 vs defesa Mexico -0,43 (Coreia tem ataque decente). Com o mando: lambda Mexico 1,42 x Coreia 0,92, total 2,34. Poisson DC: 1X2 modelo Mexico 45 / empate 33 / Coreia 22. DE-VIG SHIN (Mexico 2.05 / X 3.20 / Coreia 4.00): Mexico 47 / empate 30 / Coreia 23. CALIBRACAO: e o jogo mais bem calibrado do dia - modelo e mercado quase identicos (Mexico 45 vs 47), nenhum mercado com edge acima de +4pp; Under 2,5 colado (60 modelo e mercado). BOLAO: Mexico 1x0, EP 2,21 - anfitria leve favorita; o empate e alto (33) mas nao supera o Mexico. A altitude pesa contra a Coreia nao aclimatada, efeito ja embutido no mando. PRODUTO: sem tip - sem valor."
+    }
+  ],
+  "odds_fech": {
+    "jogo": "Suica x Bosnia",
+    "o1": "1.59",
+    "ox": "4.10",
+    "o2": "5.75",
+    "under": "1.80",
+    "hora": "16:31"
   }
- },
- "lines": {
-  "bolao": "Canada 1x0",
-  "disc": "Under 2,5 Canada x Catar (2.00)",
-  "louco": "Empate Canada x Catar (5.70)"
- },
- "next": {
-  "jogo": "Suica x Bosnia",
-  "hora": "16:00 (Brasilia)"
- },
- "alerta": {
-  "ativo": false
- },
- "analise": "RODADA 2 - 18/06. Tres jogos hoje: Suica x Bosnia (16h, LA), Canada x Catar (19h, Vancouver, anfitriao) e Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao). RESOLVIDOS com palpite desde a ultima execucao (14/06): Alemanha 7x1 Curacao (3x0 = 3 pts), Suecia 5x1 Tunisia (1x0 = 3 pts), Holanda 2x2 Japao (2x1 = 1 pt), Marfim 1x0 Equador (Equador 1x0 = 0 pts, mas o tip Under 1,75 GANHOU, +115). Os dias 15-17/06 nao rodaram (sem palpite). PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8), Brier modelo 0,518 vs 0,511 mercado (n=8). MODELO reajustado: Maher ataque/defesa Poisson L2, 918 jogos, alpha 4, mando 0,27, rho -0,13, F regularizado 1,15 (o F global 1,5 inflava o empate para 37 por cento, acima da base historica de 22-28 por cento - reduzido para bater a base rate). PRODUTO: 1 tip hoje - Canada x Catar UNDER 2,5 a 2.00 (Catar ataque fraco, Canada controla; Edge +10pp, EV +12,5 por cento). Nos outros dois o valor aparente de empate e erro do nosso modelo, que subestima os anfitrioes/favoritos Suica e Canada - nao publicamos. Simulacao 100 reais: Disciplinado +115 (1 tip), Favorito do modelo e do mercado +95 cada, Jogo Louco -80. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
- "analises": [
-  {
-   "jogo": "Suica x Bosnia (16:00, Grupo B)",
-   "hora": "16:00",
-   "bolao": "Suica 1x0 (EP 2,23)",
-   "disc": "-",
-   "louco": "Empate (4.10)",
-   "fav": "Suica",
-   "fav_odd": "1.53",
-   "fav_mkt": "Suica",
-   "fav_mkt_odd": "1.53",
-   "elenco": "Suica ataque 0,37/defesa -0,22 (forte) vs Bosnia ataque 0,03/defesa -0,10 (mediana)",
-   "texto": "Suica x Bosnia no SoFi Stadium, Los Angeles - ambos vindo de 1x1 na estreia do Grupo B. ELENCO/MODELO: ataque Suica 0,37 vs defesa Bosnia -0,10; ataque Bosnia 0,03 vs defesa Suica -0,22. lambda Suica 1,53 x Bosnia 0,96, total 2,49. Matriz Poisson + Dixon-Coles (rho -0,13, F 1,15): 1X2 modelo Suica 47 / empate 32 / Bosnia 21. DE-VIG SHIN do mercado (Suica 1.53 / X 4.10 / Bosnia 6.06): Suica 63 / empate 22 / Bosnia 15. DIVERGENCIA: o modelo independente da a Suica so 47 por cento contra 63 do mercado - subestima a Suica em 16pp. O edge nominal do empate (+9pp) e da Bosnia (+7pp) e o reflexo desse erro, nao valor real (modo sombra: discordar do favorito por margem grande e provavel erro de modelo, nao se publica). Under 2,5 fica em 56 vs 53, Edge so +3pp, abaixo do corte. BOLAO: Suica 1x0, EP 2,23 - favorita num jogo de poucos gols; o empate e vivo (32) mas nao supera a Suica, entao trava-se o vencedor pelo maior floor. PRODUTO: sem tip."
-  },
-  {
-   "jogo": "Canada x Catar (19:00, Grupo B, anfitriao)",
-   "hora": "19:00",
-   "bolao": "Canada 1x0 (EP 2,80; 2x0 vivo)",
-   "disc": "Under 2,5 @ 2.00 (Edge +10pp, EV +12,5%)",
-   "louco": "Empate (5.70)",
-   "fav": "Canada",
-   "fav_odd": "1.278",
-   "fav_mkt": "Canada",
-   "fav_mkt_odd": "1.278",
-   "elenco": "Canada anfitria (mando +0,27) ataque 0,04/defesa -0,44 vs Catar ataque -0,13/defesa +0,13 (fraco dos dois lados)",
-   "texto": "Canada x Catar no BC Place, Vancouver - Canada e ANFITRIA (boost de mando +0,27 no modelo). ELENCO/MODELO: ataque Canada 0,04 vs defesa Catar +0,13 (fragil); ataque Catar -0,13 vs defesa Canada -0,44 (solida). Com o mando: lambda Canada 1,81 x Catar 0,66, total 2,47. Poisson DC: 1X2 modelo Canada 62 / empate 27 / Catar 11. DE-VIG SHIN (Canada 1.278 / X 5.70 / Catar 11.0): Canada 76 / empate 16 / Catar 8 - de novo o modelo subestima o anfitriao (14pp), entao o empate nominal (+11pp) NAO e tip. O VALOR REAL esta no TOTAL: o mercado precifica Over 2,5 favorito (-135), mas o Catar tem ataque fraco (so marcou de gol contra na estreia) e o Canada tende a controlar sem abrir o jogo. Modelo Under 2,5 = 56 por cento vs 46 do mercado: Edge +10pp, EV +12,5 por cento - passa o corte. TIP: UNDER 2,5 a 2.00 (odd pega para CLV). Anti-armadilha: aqui publicamos UNDER e o mercado leva Over, entao a regra que proibe Over contra Under>=58 nao se aplica. BOLAO: Canada 1x0, EP 2,80, com 2x0 logo atras (mismatch com azarao de ataque fraco)."
-  },
-  {
-   "jogo": "Mexico x Coreia do Sul (22:00, anfitriao, altitude)",
-   "hora": "22:00",
-   "bolao": "Mexico 1x0 (EP 2,21)",
-   "disc": "-",
-   "louco": "Empate (3.20)",
-   "fav": "Mexico",
-   "fav_odd": "2.05",
-   "fav_mkt": "Mexico",
-   "fav_mkt_odd": "2.05",
-   "elenco": "Mexico anfitria (mando +0,27, altitude 1566m) ataque 0,12/defesa -0,43 vs Coreia ataque 0,19/defesa -0,20",
-   "texto": "Mexico x Coreia do Sul no Estadio Akron, Guadalajara, a 1566m de altitude - Mexico ANFITRIA (mando +0,27). Ambos com 3 pontos (Mexico 2x0 Africa do Sul, Coreia 2x1 Czechia). ELENCO/MODELO: ataque Mexico 0,12 vs defesa Coreia -0,20; ataque Coreia 0,19 vs defesa Mexico -0,43 (Coreia tem ataque decente). Com o mando: lambda Mexico 1,42 x Coreia 0,92, total 2,34. Poisson DC: 1X2 modelo Mexico 45 / empate 33 / Coreia 22. DE-VIG SHIN (Mexico 2.05 / X 3.20 / Coreia 4.00): Mexico 47 / empate 30 / Coreia 23. CALIBRACAO: e o jogo mais bem calibrado do dia - modelo e mercado quase identicos (Mexico 45 vs 47), nenhum mercado com edge acima de +4pp; Under 2,5 colado (60 modelo e mercado). BOLAO: Mexico 1x0, EP 2,21 - anfitria leve favorita; o empate e alto (33) mas nao supera o Mexico. A altitude pesa contra a Coreia nao aclimatada, efeito ja embutido no mando. PRODUTO: sem tip - sem valor."
-  }
- ],
- "odds_fech": {
-  "jogo": "Suica x Bosnia",
-  "o1": "1.59",
-  "ox": "4.10",
-  "o2": "5.75",
-  "under": "1.81",
-  "hora": "16:00"
- }
 }
