@@ -1,222 +1,227 @@
 [
-{
-"tipo": "lance",
-"hora": "20:17",
-"texto": "AO VIVO 34min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Mexico mais perto do gol: Brian Gutierrez bateu de fora da area com assistencia de Luis Romo e passou perto. Coreia se segura na marcacao e tenta sair em transicao; Lee Kang-In ja amarelado (4min) precisa cuidar das divididas. Placar magro mantem nosso palpite Mexico 1x0 vivo, mas o 0x0 ate aqui valoriza Under 2,5."
-},
-{
-"tipo": "lance",
-"hora": "20:09",
-"texto": "AO VIVO 28min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Segue 0x0 e travado: nenhuma chance clara desde o amarelo de Lee Kang-In aos 4min, unico cartao do jogo. Mexico circula a bola no campo de ataque sem furar o bloco coreano; Coreia bem postada esperando o contra-ataque. Under 2,5 (linha de fechamento 1.74) se confirmando ate aqui. Palpite segue Mexico 1x0; sem tip do Disciplinado, o jogo mais calibrado do dia."
-},
-{
-"tipo": "lance",
-"hora": "20:07",
-"texto": "BOLA ROLANDO - Mexico x Coreia do Sul ja em andamento no Estadio Akron, Guadalajara (1566m, Grupo A): 0x0 no primeiro tempo, cerca de 22min. Apito saiu antes do horario que estava na agenda (a API ESPN confirma o jogo AO VIVO). Mexico anfitriao com Raul Jimenez no comando; Coreia armada para fechar e sair no contra-ataque, com Kang-In Lee e Min-Jae Kim. Sem tip do Disciplinado: jogo o mais calibrado do dia, modelo e mercado quase identicos. Bolao: Mexico 1x0."
-},
-{
-"tipo": "odds",
-"hora": "20:07",
-"texto": "ODDS NO APITO - Mexico x Coreia do Sul: Mexico 2.00 | Empate 3.20 | Coreia do Sul 4.00 | Under 2,5 1.74 (linha de fechamento, base do CLV). Mercado quase colado ao modelo (Mexico 45 a 47 por cento), sem edge: o produto fica de fora deste jogo."
-},
-{
-"tipo": "lance",
-"hora": "20:02",
-"texto": "AO VIVO 19min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Duelo de quem venceu a estreia: Mexico bateu a Africa do Sul por 2x0 e a Coreia passou pela Republica Tcheca por 2x1, os dois com 3 pontos no grupo. Segue equilibrado e travado, poucas chances claras de gol; unico amarelo ainda e o de Lee Kang-In (4min). O Under 2,5 (linha 1.65) ate aqui se confirma."
-},
-{
-"tipo": "lance",
-"hora": "19:58",
-"texto": "AO VIVO 16min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Segue equilibrado e sem gols. Unico registro ate aqui e o amarelo de Lee Kang-In aos 4min por falta; desde entao jogo estudado, sem chance clara que mude a leitura. Palpite segue Mexico 1x0, mercado ainda com o anfitriao favorito."
-},
-{
-"tipo": "lance",
-"hora": "19:53",
-"texto": "AO VIVO 10min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Jogo aberto e equilibrado, ainda sem o gol. Os dois venceram a estreia (Mexico 2x0 Africa do Sul, Coreia 2x1 Republica Tcheca), entao quem ganhar encaminha a classificacao. Palpite Mexico 1x0 segue de pe; no apito o mercado dava Mexico 2.00 e Under 2,5 a 1.65 - leitura de jogo controlado e de poucos gols."
-},
-{
-"tipo": "lance",
-"hora": "19:49",
-"texto": "AO VIVO 5min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Comeco pegado: amarelo cedo para Lee Kang-In aos 4min por falta tatica. Mexico tenta impor o mando e a altitude (1566m); Coreia bem postada. Sem sustos ainda."
-},
-{
-"tipo": "odds",
-"hora": "19:43",
-"texto": "ODDS NO APITO - Mexico x Coreia do Sul: Mexico 2.00 | Empate 3.20 | Coreia do Sul 4.10 | Under 2,5 1.65 (linha de fechamento, base do CLV). Mercado e modelo quase identicos (Mexico 45 a 47 por cento) - jogo mais bem calibrado do dia, sem tip do Disciplinado."
-},
-{
-"tipo": "lance",
-"hora": "19:43",
-"texto": "BOLA ROLANDO - comeca Mexico x Coreia do Sul no Estadio Akron, Guadalajara. Atencao: a bola rolou ANTES do horario que constava na agenda (22h) - jogo ja ao vivo. Palpite do bolao: Mexico 1x0. Sem aposta de valor (Disciplinado fora): modelo e mercado batem, nenhum mercado com edge acima de 4pp."
-},
-{
-"tipo": "forma",
-"hora": "19:45",
-"texto": "FORMA - Mexico x Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 22h Brasilia). Mexico vem QUENTE: 9 vitorias nos ultimos 10 jogos (unico tropeco um 0x0 com a Costa Rica) e estreia solida batendo a Africa do Sul 2x0 (Julian Quinones e Raul Jimenez). A Coreia mostrou forca mental: estava perdendo e VIROU sobre a Czechia 2x1, com Hwang In-beom e Oh Hyeon-gyu marcando nos ultimos 25 min. Os dois chegam com 3 pontos e moral. Leitura do modelo segue firme: anfitria leve favorita (45 por cento modelo / 47 mercado), jogo equilibrado e sem tip de valor ate aqui. Fontes: FanDuel Research, RotoWire (18/06)."
-},
-{
-"tipo": "esquenta",
-"hora": "19:17",
-"texto": "ESQUENTA - Mexico x Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Agenda marca 22:00 mas os dois jogos de hoje rolaram cerca de 2h adiantados (Suica 4x1 Bosnia e Canada 6x0 Catar ja encerrados) - monitorando a ESPN para o apito real. Os dois vem de vitoria na estreia: Mexico 2x0 Africa do Sul (Quinones e Raul Jimenez), Coreia do Sul 2x1 Czechia (virada com Hwang In-beom e Oh Hyeon-gyu nos minutos finais). TIME NEWS: Cesar Montes (zagueiro do Mexico) SUSPENSO por vermelho na estreia - Edson Alvarez recua para a zaga e Gilberto Mora, de 17 anos, ganha vaga no meio. Coreia sem desfalques. Mercado pre-jogo: Mexico em torno de 1.95, empate 3.30, Coreia 4.20, linha de gols 2,5. Palpite do bolao: Mexico 1x0. Disciplinado: sem aposta - e o jogo mais calibrado do dia (Mexico 45 do modelo vs 47 do mercado), sem valor."
-},
-{
-"tipo": "fechamento",
-"hora": "18:53",
-"texto": "FIM DE JOGO - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Goleada do anfitriao com o Catar reduzido a NOVE (vermelhos de Homam aos 33 e Madibo aos 53). Larin abriu aos 16, Jonathan David fez hat-trick (29, 45+3 e 90+2), Nathan Saliba marcou de falta aos 64 e ainda saiu o quinto na reta final. BOLAO: palpite Canada 1x0 acertou o vencedor e o zero do Catar = 4 pontos (total do dia 27). SIMS 100 reais: Disciplinado (Under 2,5 a 2.00) PERDEU num jogo de 6 gols, -100; Jogo Louco (empate 5.70) -100; Favorito do Modelo (Canada 1.278) +28; Favorito do Mercado (Canada 1.278) +28. CLV do Under: pego e fechou a 2.00, igual a 0 por cento. LICAO: o modelo subestimou o anfitriao de novo (deu 62 por cento de vitoria, mercado 76) e o lambda do Catar inflou o Under - mando de campo mais expulsao cedo virou festa de gols. Proximo: Mexico x Coreia do Sul as 22:00."
-},
-{
-"tipo": "lance",
-"hora": "18:43",
-"texto": "AO VIVO 90+8 - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Saiu o SEXTO do anfitriao ja nos acrescimos (90+2). Catar com nove desde o 53, goleada historica de Larin (16), Jonathan David (29 e 45+3), Saliba de falta (64) e gol contra de Manai (75). So administracao ate o apito."
-},
-{
-"tipo": "lance",
-"hora": "18:26",
-"texto": "AO VIVO 90+2 - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Anfitriao ampliou na reta final e Jonathan David fechou o hat-trick aos 90+2, assistido por Saliba. Goleada selada contra os nove do Catar."
-},
-{
-"tipo": "lance",
-"hora": "18:21",
-"texto": "AO VIVO 76min - Canada 5x0 Catar (Grupo B, BC Place, Vancouver). Goleada total do anfitriao: gol contra de Mohamed Manai aos 75 fecha em cinco. Catar com NOVE em campo (dois vermelhos) nao segura mais nada e o Canada encaminha a vaga com sobras."
-},
-{
-"tipo": "lance",
-"hora": "18:18",
-"texto": "AO VIVO 74min - Canada 4x0 Catar (Grupo B, BC Place, Vancouver). Jogo decidido e entrando na reta final: anfitriao administra a goleada com Catar reduzido a NOVE (vermelhos de Homam Ahmed aos 33 e Assim Madibo aos 53). Sem gols novos desde o quarto de Saliba aos 64. O Under 2,5 (tip do Disciplinado a 2.00) ja esta perdido ha tempo; o fechamento com pontos e as quatro simulacoes sai no apito final."
-},
-{
-"tipo": "lance",
-"hora": "18:12",
-"texto": "AO VIVO 67min - Canada 4x0 Catar (Grupo B, BC Place, Vancouver). Nathan Saliba fez o quarto em cobranca de falta aos 64. O anfitriao atropela o Catar, que joga com NOVE (vermelhos de Homam aos 33 e Madibo aos 53). Jonathan David ja tinha marcado dois (29 e 45+3) e Larin abriu aos 16. Catar sem reacao."
-},
-{
-"tipo": "lance",
-"hora": "18:05",
-"texto": "AO VIVO 60min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Catar joga com NOVE (Homam no 33, Madibo no 53) e ja sacou o astro Akram Afif. Sem forcas, o Catar so administra; o Canada toca a bola e poupa pernas pensando no proximo jogo. Placar tranquilo para o anfitriao."
-},
-{
-"tipo": "lance",
-"hora": "18:03",
-"texto": "AO VIVO 57min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Catar fica com NOVE: Assim Madibo leva o segundo vermelho da equipe aos 53 (Homam El Amin ja tinha sido expulso aos 33). Dois homens a mais e tres gols na frente, o anfitriao apenas administra. O placar so tende a crescer; o nosso palpite de 1x0 ficou timido demais, o jogo confirma Canada muito superior."
-},
-{
-"tipo": "lance",
-"hora": "18:00",
-"texto": "AO VIVO 54min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Pressao total do anfitriao no 2o tempo: 66 por cento de posse, 15 finalizacoes (7 no alvo) e o Catar reduzido a 10 desde o vermelho de Homam Al-Amin no 32. Les Rouges caca o quarto gol; Catar so resiste. Placar mantido, sem lance que mude a leitura."
-},
-{
-"tipo": "lance",
-"hora": "17:53",
-"texto": "AO VIVO 2o tempo - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Recomeco sem mexer no placar: o anfitriao volta com 3x0 e um a mais (Catar com 10 desde o vermelho de Homam Ahmed aos 33). Jogo decidido; resta saber o tamanho da goleada. Palpite do bolao Canada 1x0 ja garantiu o vencedor (3 pontos), placar exato fora de alcance."
-},
-{
-"tipo": "fechamento",
-"hora": "17:47",
-"texto": "FIM DE JOGO - Suica 4x1 Bosnia (Grupo B, SoFi Stadium). O 0x0 que durou ate o minuto 74 virou goleada na reta final: Manzambi (74 e 90), Vargas (84) e Xhaka de penalti (90+7) para a Suica; Mahmic descontou para a Bosnia (90+3), que ainda terminou com 10 apos o vermelho de Muharemovic (80). PALPITE DO BOLAO Suica 1x0: acertou o vencedor (3 pontos), placar exato nao. Favorito do modelo e do mercado (Suica 1.53) GANHOU, +53 cada na simulacao de 100 reais; Jogo Louco (empate 4.10) perdeu, -100; Disciplinado nao tinha tip aqui. Brier modelo 0,427 vs mercado 0,208 - o mercado, que dava 63 por cento a Suica, leu melhor que o nosso modelo (47 por cento)."
-},
-{
-"tipo": "alerta",
-"hora": "17:45",
-"texto": "ALERTA - Canada x Catar: 3x0 ja no intervalo MATA o Under 2,5 (unico tip do Disciplinado hoje, pego a 2.00). Under 2,5 -> PERDIDO. Leitura anterior (anfitriao controla sem abrir o jogo) furada: o Canada marcou cedo e o vermelho do Catar aos 33 escancarou. Sera contabilizado -100 no fechamento."
-},
-{
-"tipo": "lance",
-"hora": "17:44",
-"texto": "AO VIVO INTERVALO - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). O anfitriao resolveu cedo: Larin abriu aos 16, Jonathan David fez aos 29 e ampliou de voleio aos 45+3, ja com o Catar reduzido a 10 (vermelho de Homam Ahmed aos 33). Palpite do bolao Canada 1x0 acertou o vencedor, mas o placar ja passou voando. (Motor reconectou ao jogo, que comecou antes do horario previsto na agenda.)"
-},
-{
-"tipo": "odds",
-"hora": "17:42",
-"texto": "ODDS NO APITO - Canada x Catar: Canada 1.278 | Empate 5.70 | Catar 11.0 | Under 2,5 2.00 (linha de fechamento, base do CLV)."
-},
-{
-"tipo": "lance",
-"hora": "17:20",
-"texto": "AO VIVO 62min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Jogo esquentou: dois amarelos em dois minutos - Dedic (Suica) aos 59 e Dzeko (Bosnia) aos 61. Placar segue zerado, sem gols ate aqui. Palpite do bolao (Suica 1x0) ainda precisa do gol; o 0x0 favorece o Under (linha abriu em 1,81 no apito)."
-},
-{
-"tipo": "lance",
-"hora": "17:14",
-"texto": "AO VIVO 56min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Jogo travado no comeco do 2o tempo, sem gols e sem chance clara desde o recomeco. A cada minuto sem bola na rede o Under 2,5 (linha de fechamento 1,81) ganha forca e o palpite do bolao Suica 1x0 fica mais dependente de um gol na reta final. Sem cartoes ate aqui."
-},
-{
-"tipo": "lance",
-"hora": "17:05",
-"texto": "AO VIVO 2o tempo - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Recomeco sem mexer no placar: a Suica volta tentando furar o bloco baixo bosnio, que segue compacto. 0x0 no inicio da etapa final, com o Under 2,5 (linha de fechamento 1.80) bem encaminhado e o palpite do bolao Suica 1x0 ainda dependendo do gol que nao saiu no 1o tempo."
-},
-{
-"tipo": "esquenta",
-"hora": "17:01",
-"texto": "ESQUENTA - Canada x Catar (19h, BC Place, Vancouver, Grupo B). O anfitriao Canada entra muito favorito: modelo 62 por cento de vitoria, mercado ainda mais (76 por cento, odd 1.278). Catar com ataque fragil - na estreia so marcou de gol contra. O UNICO tip do Disciplinado hoje mora aqui: UNDER 2,5 a 2.00 (Edge +10pp, EV +12,5 por cento) - Canada controla sem precisar abrir o jogo e o Catar quase nao cria. Bolao: Canada 1x0 (EP 2,80, com 2x0 logo atras). Faltam cerca de 2h para o apito."
-},
-{
-"tipo": "lance",
-"hora": "16:47",
-"texto": "INTERVALO - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Primeiro tempo de dominio suico em posse e volume de jogo, mas sem furar o bloco bosnio: muita bola, pouca chance clara de verdade. Zero a zero mantem o Under 2,5 (linha de fechamento 1.81) bem encaminhado e o palpite do bolao Suica 1x0 ainda vivo - so falta o gol. Bosnia se defende organizada e aposta no contra-ataque."
-},
-{
-"tipo": "lance",
-"hora": "16:43",
-"texto": "AO VIVO 43min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Reta final do 1o tempo sem gols: a Suica empilha posse e finalizacoes mas esbarra no bloco baixo bosnio. O 0x0 mantem o jogo colado a leitura do bolao (Suica 1x0) e segura a linha Under 2,5 que o mercado fechou em 1.81 - duelo travado ate aqui."
-},
-{
-"tipo": "lance",
-"hora": "16:34",
-"texto": "AO VIVO 35min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Suica domina (70 por cento de posse, 4 chutes a 1, 3 escanteios a 1) mas esbarra na defesa bosnia bem postada. Houve pausa para hidratacao aos 23min. Leitura mantida: favoritismo suico sem furar a marcacao, Under 2,5 caminhando bem (linha de fechamento 1.81)."
-},
-{
-"tipo": "lance",
-"hora": "16:26",
-"texto": "AO VIVO 26min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Sem gols, sem cartoes ate aqui. Jogo equilibrado entre dois times que empataram 1x1 na estreia. A leitura do bolao (Suica 1x0) segue de pe: a favorita ainda nao abriu o placar, mas mantem o controle. Quem perder fica perto da eliminacao."
-},
-{
-"tipo": "lance",
-"hora": "16:00",
-"texto": "BOLA ROLANDO - comeca Suica x Bosnia no SoFi Stadium, Los Angeles (Grupo B). Bolao: Suica 1x0. Sem tip do Disciplinado - o edge do empate era erro do modelo (subestima a Suica), nao valor real."
-},
-{
-"tipo": "odds",
-"hora": "16:00",
-"texto": "ODDS NO APITO - Suica x Bosnia: Suica 1.59 | Empate 4.10 | Bosnia 5.75 | Under 2,5 1.81 (linha de fechamento, base do CLV)."
-},
-{
-"tipo": "previsao",
-"hora": "05:17",
-"texto": "Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao): palpite Mexico 1x0. Jogo mais calibrado do dia (Mexico 45 modelo vs 47 mercado) - sem valor para tip."
-},
-{
-"tipo": "previsao",
-"hora": "05:16",
-"texto": "Canada x Catar (19h, Vancouver, anfitriao): palpite Canada 1x0. UNICO TIP de hoje: UNDER 2,5 a 2.00 - Catar com ataque fraco e Canada controlando sem abrir o jogo (Edge +10pp, EV +12,5 por cento)."
-},
-{
-"tipo": "previsao",
-"hora": "05:15",
-"texto": "Suica x Bosnia (16h, Grupo B, Los Angeles): palpite Suica 1x0. O modelo da a Suica so 47 por cento contra 63 do mercado - favorita por margem menor que a precificada; o empate nominal e erro nosso, nao tip."
-},
-{
-"tipo": "info",
-"hora": "05:12",
-"texto": "Os dias 15 a 17/06 rodaram sem palpite publicado (execucao automatica nao disparou); hoje Czechia 1x1 Africa do Sul tambem ficou sem palpite. Esses jogos nao entram no placar do modelo - honestidade primeiro."
-},
-{
-"tipo": "resumo",
-"hora": "05:10",
-"texto": "PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8). Brier modelo 0,518 vs 0,511 mercado (n=8). Disciplinado: 1 tip resolvido, 1 acerto. Modelo reajustado: 918 jogos, alpha 4, F=1,15, rho=-0,13."
-},
-{
-"tipo": "resultado",
-"hora": "05:07",
-"texto": "FIM (14/06): Costa do Marfim 1x0 Equador. Palpite Equador 1x0 = 0 PONTOS (placar invertido), MAS o tip do Disciplinado Under 1,75 GANHOU (1 gol no jogo, retorno 2.15, +115 em 100 reais)."
-},
-{
-"tipo": "resultado",
-"hora": "05:06",
-"texto": "FIM (14/06): Suecia 5x1 Tunisia = palpite Suecia 1x0 = 3 PONTOS. Holanda 2x2 Japao = palpite Holanda 2x1 = 1 PONTO (acertou os 2 gols da Holanda, mas deu empate)."
-},
-{
-"tipo": "resultado",
-"hora": "05:05",
-"texto": "FIM (14/06): Alemanha 7x1 Curacao. Palpite Alemanha 3x0 = 3 PONTOS (vencedor certo; a goleada veio muito acima do nosso placar)."
-}
+ {
+  "tipo": "lance",
+  "hora": "20:28",
+  "texto": "AO VIVO 43min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Fim de primeiro tempo se aproximando e segue o 0x0: jogo de pouca chance clara, com o Mexico mandando na posse mas esbarrando no bloco coreano, e a Coreia bem armada para o contra-ataque. Unico amarelo continua sendo o de Lee Kang-In (4min). O Under 2,5 (linha de fechamento 1.74) se confirmando ate aqui; palpite Mexico 1x0 segue vivo, sem tip do Disciplinado neste jogo (modelo e mercado quase colados)."
+ },
+ {
+  "tipo": "lance",
+  "hora": "20:17",
+  "texto": "AO VIVO 34min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Mexico mais perto do gol: Brian Gutierrez bateu de fora da area com assistencia de Luis Romo e passou perto. Coreia se segura na marcacao e tenta sair em transicao; Lee Kang-In ja amarelado (4min) precisa cuidar das divididas. Placar magro mantem nosso palpite Mexico 1x0 vivo, mas o 0x0 ate aqui valoriza Under 2,5."
+ },
+ {
+  "tipo": "lance",
+  "hora": "20:09",
+  "texto": "AO VIVO 28min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Segue 0x0 e travado: nenhuma chance clara desde o amarelo de Lee Kang-In aos 4min, unico cartao do jogo. Mexico circula a bola no campo de ataque sem furar o bloco coreano; Coreia bem postada esperando o contra-ataque. Under 2,5 (linha de fechamento 1.74) se confirmando ate aqui. Palpite segue Mexico 1x0; sem tip do Disciplinado, o jogo mais calibrado do dia."
+ },
+ {
+  "tipo": "lance",
+  "hora": "20:07",
+  "texto": "BOLA ROLANDO - Mexico x Coreia do Sul ja em andamento no Estadio Akron, Guadalajara (1566m, Grupo A): 0x0 no primeiro tempo, cerca de 22min. Apito saiu antes do horario que estava na agenda (a API ESPN confirma o jogo AO VIVO). Mexico anfitriao com Raul Jimenez no comando; Coreia armada para fechar e sair no contra-ataque, com Kang-In Lee e Min-Jae Kim. Sem tip do Disciplinado: jogo o mais calibrado do dia, modelo e mercado quase identicos. Bolao: Mexico 1x0."
+ },
+ {
+  "tipo": "odds",
+  "hora": "20:07",
+  "texto": "ODDS NO APITO - Mexico x Coreia do Sul: Mexico 2.00 | Empate 3.20 | Coreia do Sul 4.00 | Under 2,5 1.74 (linha de fechamento, base do CLV). Mercado quase colado ao modelo (Mexico 45 a 47 por cento), sem edge: o produto fica de fora deste jogo."
+ },
+ {
+  "tipo": "lance",
+  "hora": "20:02",
+  "texto": "AO VIVO 19min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Duelo de quem venceu a estreia: Mexico bateu a Africa do Sul por 2x0 e a Coreia passou pela Republica Tcheca por 2x1, os dois com 3 pontos no grupo. Segue equilibrado e travado, poucas chances claras de gol; unico amarelo ainda e o de Lee Kang-In (4min). O Under 2,5 (linha 1.65) ate aqui se confirma."
+ },
+ {
+  "tipo": "lance",
+  "hora": "19:58",
+  "texto": "AO VIVO 16min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Segue equilibrado e sem gols. Unico registro ate aqui e o amarelo de Lee Kang-In aos 4min por falta; desde entao jogo estudado, sem chance clara que mude a leitura. Palpite segue Mexico 1x0, mercado ainda com o anfitriao favorito."
+ },
+ {
+  "tipo": "lance",
+  "hora": "19:53",
+  "texto": "AO VIVO 10min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Jogo aberto e equilibrado, ainda sem o gol. Os dois venceram a estreia (Mexico 2x0 Africa do Sul, Coreia 2x1 Republica Tcheca), entao quem ganhar encaminha a classificacao. Palpite Mexico 1x0 segue de pe; no apito o mercado dava Mexico 2.00 e Under 2,5 a 1.65 - leitura de jogo controlado e de poucos gols."
+ },
+ {
+  "tipo": "lance",
+  "hora": "19:49",
+  "texto": "AO VIVO 5min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Comeco pegado: amarelo cedo para Lee Kang-In aos 4min por falta tatica. Mexico tenta impor o mando e a altitude (1566m); Coreia bem postada. Sem sustos ainda."
+ },
+ {
+  "tipo": "odds",
+  "hora": "19:43",
+  "texto": "ODDS NO APITO - Mexico x Coreia do Sul: Mexico 2.00 | Empate 3.20 | Coreia do Sul 4.10 | Under 2,5 1.65 (linha de fechamento, base do CLV). Mercado e modelo quase identicos (Mexico 45 a 47 por cento) - jogo mais bem calibrado do dia, sem tip do Disciplinado."
+ },
+ {
+  "tipo": "lance",
+  "hora": "19:43",
+  "texto": "BOLA ROLANDO - comeca Mexico x Coreia do Sul no Estadio Akron, Guadalajara. Atencao: a bola rolou ANTES do horario que constava na agenda (22h) - jogo ja ao vivo. Palpite do bolao: Mexico 1x0. Sem aposta de valor (Disciplinado fora): modelo e mercado batem, nenhum mercado com edge acima de 4pp."
+ },
+ {
+  "tipo": "forma",
+  "hora": "19:45",
+  "texto": "FORMA - Mexico x Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 22h Brasilia). Mexico vem QUENTE: 9 vitorias nos ultimos 10 jogos (unico tropeco um 0x0 com a Costa Rica) e estreia solida batendo a Africa do Sul 2x0 (Julian Quinones e Raul Jimenez). A Coreia mostrou forca mental: estava perdendo e VIROU sobre a Czechia 2x1, com Hwang In-beom e Oh Hyeon-gyu marcando nos ultimos 25 min. Os dois chegam com 3 pontos e moral. Leitura do modelo segue firme: anfitria leve favorita (45 por cento modelo / 47 mercado), jogo equilibrado e sem tip de valor ate aqui. Fontes: FanDuel Research, RotoWire (18/06)."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "19:17",
+  "texto": "ESQUENTA - Mexico x Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Agenda marca 22:00 mas os dois jogos de hoje rolaram cerca de 2h adiantados (Suica 4x1 Bosnia e Canada 6x0 Catar ja encerrados) - monitorando a ESPN para o apito real. Os dois vem de vitoria na estreia: Mexico 2x0 Africa do Sul (Quinones e Raul Jimenez), Coreia do Sul 2x1 Czechia (virada com Hwang In-beom e Oh Hyeon-gyu nos minutos finais). TIME NEWS: Cesar Montes (zagueiro do Mexico) SUSPENSO por vermelho na estreia - Edson Alvarez recua para a zaga e Gilberto Mora, de 17 anos, ganha vaga no meio. Coreia sem desfalques. Mercado pre-jogo: Mexico em torno de 1.95, empate 3.30, Coreia 4.20, linha de gols 2,5. Palpite do bolao: Mexico 1x0. Disciplinado: sem aposta - e o jogo mais calibrado do dia (Mexico 45 do modelo vs 47 do mercado), sem valor."
+ },
+ {
+  "tipo": "fechamento",
+  "hora": "18:53",
+  "texto": "FIM DE JOGO - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Goleada do anfitriao com o Catar reduzido a NOVE (vermelhos de Homam aos 33 e Madibo aos 53). Larin abriu aos 16, Jonathan David fez hat-trick (29, 45+3 e 90+2), Nathan Saliba marcou de falta aos 64 e ainda saiu o quinto na reta final. BOLAO: palpite Canada 1x0 acertou o vencedor e o zero do Catar = 4 pontos (total do dia 27). SIMS 100 reais: Disciplinado (Under 2,5 a 2.00) PERDEU num jogo de 6 gols, -100; Jogo Louco (empate 5.70) -100; Favorito do Modelo (Canada 1.278) +28; Favorito do Mercado (Canada 1.278) +28. CLV do Under: pego e fechou a 2.00, igual a 0 por cento. LICAO: o modelo subestimou o anfitriao de novo (deu 62 por cento de vitoria, mercado 76) e o lambda do Catar inflou o Under - mando de campo mais expulsao cedo virou festa de gols. Proximo: Mexico x Coreia do Sul as 22:00."
+ },
+ {
+  "tipo": "lance",
+  "hora": "18:43",
+  "texto": "AO VIVO 90+8 - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Saiu o SEXTO do anfitriao ja nos acrescimos (90+2). Catar com nove desde o 53, goleada historica de Larin (16), Jonathan David (29 e 45+3), Saliba de falta (64) e gol contra de Manai (75). So administracao ate o apito."
+ },
+ {
+  "tipo": "lance",
+  "hora": "18:26",
+  "texto": "AO VIVO 90+2 - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Anfitriao ampliou na reta final e Jonathan David fechou o hat-trick aos 90+2, assistido por Saliba. Goleada selada contra os nove do Catar."
+ },
+ {
+  "tipo": "lance",
+  "hora": "18:21",
+  "texto": "AO VIVO 76min - Canada 5x0 Catar (Grupo B, BC Place, Vancouver). Goleada total do anfitriao: gol contra de Mohamed Manai aos 75 fecha em cinco. Catar com NOVE em campo (dois vermelhos) nao segura mais nada e o Canada encaminha a vaga com sobras."
+ },
+ {
+  "tipo": "lance",
+  "hora": "18:18",
+  "texto": "AO VIVO 74min - Canada 4x0 Catar (Grupo B, BC Place, Vancouver). Jogo decidido e entrando na reta final: anfitriao administra a goleada com Catar reduzido a NOVE (vermelhos de Homam Ahmed aos 33 e Assim Madibo aos 53). Sem gols novos desde o quarto de Saliba aos 64. O Under 2,5 (tip do Disciplinado a 2.00) ja esta perdido ha tempo; o fechamento com pontos e as quatro simulacoes sai no apito final."
+ },
+ {
+  "tipo": "lance",
+  "hora": "18:12",
+  "texto": "AO VIVO 67min - Canada 4x0 Catar (Grupo B, BC Place, Vancouver). Nathan Saliba fez o quarto em cobranca de falta aos 64. O anfitriao atropela o Catar, que joga com NOVE (vermelhos de Homam aos 33 e Madibo aos 53). Jonathan David ja tinha marcado dois (29 e 45+3) e Larin abriu aos 16. Catar sem reacao."
+ },
+ {
+  "tipo": "lance",
+  "hora": "18:05",
+  "texto": "AO VIVO 60min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Catar joga com NOVE (Homam no 33, Madibo no 53) e ja sacou o astro Akram Afif. Sem forcas, o Catar so administra; o Canada toca a bola e poupa pernas pensando no proximo jogo. Placar tranquilo para o anfitriao."
+ },
+ {
+  "tipo": "lance",
+  "hora": "18:03",
+  "texto": "AO VIVO 57min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Catar fica com NOVE: Assim Madibo leva o segundo vermelho da equipe aos 53 (Homam El Amin ja tinha sido expulso aos 33). Dois homens a mais e tres gols na frente, o anfitriao apenas administra. O placar so tende a crescer; o nosso palpite de 1x0 ficou timido demais, o jogo confirma Canada muito superior."
+ },
+ {
+  "tipo": "lance",
+  "hora": "18:00",
+  "texto": "AO VIVO 54min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Pressao total do anfitriao no 2o tempo: 66 por cento de posse, 15 finalizacoes (7 no alvo) e o Catar reduzido a 10 desde o vermelho de Homam Al-Amin no 32. Les Rouges caca o quarto gol; Catar so resiste. Placar mantido, sem lance que mude a leitura."
+ },
+ {
+  "tipo": "lance",
+  "hora": "17:53",
+  "texto": "AO VIVO 2o tempo - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Recomeco sem mexer no placar: o anfitriao volta com 3x0 e um a mais (Catar com 10 desde o vermelho de Homam Ahmed aos 33). Jogo decidido; resta saber o tamanho da goleada. Palpite do bolao Canada 1x0 ja garantiu o vencedor (3 pontos), placar exato fora de alcance."
+ },
+ {
+  "tipo": "fechamento",
+  "hora": "17:47",
+  "texto": "FIM DE JOGO - Suica 4x1 Bosnia (Grupo B, SoFi Stadium). O 0x0 que durou ate o minuto 74 virou goleada na reta final: Manzambi (74 e 90), Vargas (84) e Xhaka de penalti (90+7) para a Suica; Mahmic descontou para a Bosnia (90+3), que ainda terminou com 10 apos o vermelho de Muharemovic (80). PALPITE DO BOLAO Suica 1x0: acertou o vencedor (3 pontos), placar exato nao. Favorito do modelo e do mercado (Suica 1.53) GANHOU, +53 cada na simulacao de 100 reais; Jogo Louco (empate 4.10) perdeu, -100; Disciplinado nao tinha tip aqui. Brier modelo 0,427 vs mercado 0,208 - o mercado, que dava 63 por cento a Suica, leu melhor que o nosso modelo (47 por cento)."
+ },
+ {
+  "tipo": "alerta",
+  "hora": "17:45",
+  "texto": "ALERTA - Canada x Catar: 3x0 ja no intervalo MATA o Under 2,5 (unico tip do Disciplinado hoje, pego a 2.00). Under 2,5 -> PERDIDO. Leitura anterior (anfitriao controla sem abrir o jogo) furada: o Canada marcou cedo e o vermelho do Catar aos 33 escancarou. Sera contabilizado -100 no fechamento."
+ },
+ {
+  "tipo": "lance",
+  "hora": "17:44",
+  "texto": "AO VIVO INTERVALO - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). O anfitriao resolveu cedo: Larin abriu aos 16, Jonathan David fez aos 29 e ampliou de voleio aos 45+3, ja com o Catar reduzido a 10 (vermelho de Homam Ahmed aos 33). Palpite do bolao Canada 1x0 acertou o vencedor, mas o placar ja passou voando. (Motor reconectou ao jogo, que comecou antes do horario previsto na agenda.)"
+ },
+ {
+  "tipo": "odds",
+  "hora": "17:42",
+  "texto": "ODDS NO APITO - Canada x Catar: Canada 1.278 | Empate 5.70 | Catar 11.0 | Under 2,5 2.00 (linha de fechamento, base do CLV)."
+ },
+ {
+  "tipo": "lance",
+  "hora": "17:20",
+  "texto": "AO VIVO 62min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Jogo esquentou: dois amarelos em dois minutos - Dedic (Suica) aos 59 e Dzeko (Bosnia) aos 61. Placar segue zerado, sem gols ate aqui. Palpite do bolao (Suica 1x0) ainda precisa do gol; o 0x0 favorece o Under (linha abriu em 1,81 no apito)."
+ },
+ {
+  "tipo": "lance",
+  "hora": "17:14",
+  "texto": "AO VIVO 56min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Jogo travado no comeco do 2o tempo, sem gols e sem chance clara desde o recomeco. A cada minuto sem bola na rede o Under 2,5 (linha de fechamento 1,81) ganha forca e o palpite do bolao Suica 1x0 fica mais dependente de um gol na reta final. Sem cartoes ate aqui."
+ },
+ {
+  "tipo": "lance",
+  "hora": "17:05",
+  "texto": "AO VIVO 2o tempo - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Recomeco sem mexer no placar: a Suica volta tentando furar o bloco baixo bosnio, que segue compacto. 0x0 no inicio da etapa final, com o Under 2,5 (linha de fechamento 1.80) bem encaminhado e o palpite do bolao Suica 1x0 ainda dependendo do gol que nao saiu no 1o tempo."
+ },
+ {
+  "tipo": "esquenta",
+  "hora": "17:01",
+  "texto": "ESQUENTA - Canada x Catar (19h, BC Place, Vancouver, Grupo B). O anfitriao Canada entra muito favorito: modelo 62 por cento de vitoria, mercado ainda mais (76 por cento, odd 1.278). Catar com ataque fragil - na estreia so marcou de gol contra. O UNICO tip do Disciplinado hoje mora aqui: UNDER 2,5 a 2.00 (Edge +10pp, EV +12,5 por cento) - Canada controla sem precisar abrir o jogo e o Catar quase nao cria. Bolao: Canada 1x0 (EP 2,80, com 2x0 logo atras). Faltam cerca de 2h para o apito."
+ },
+ {
+  "tipo": "lance",
+  "hora": "16:47",
+  "texto": "INTERVALO - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Primeiro tempo de dominio suico em posse e volume de jogo, mas sem furar o bloco bosnio: muita bola, pouca chance clara de verdade. Zero a zero mantem o Under 2,5 (linha de fechamento 1.81) bem encaminhado e o palpite do bolao Suica 1x0 ainda vivo - so falta o gol. Bosnia se defende organizada e aposta no contra-ataque."
+ },
+ {
+  "tipo": "lance",
+  "hora": "16:43",
+  "texto": "AO VIVO 43min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Reta final do 1o tempo sem gols: a Suica empilha posse e finalizacoes mas esbarra no bloco baixo bosnio. O 0x0 mantem o jogo colado a leitura do bolao (Suica 1x0) e segura a linha Under 2,5 que o mercado fechou em 1.81 - duelo travado ate aqui."
+ },
+ {
+  "tipo": "lance",
+  "hora": "16:34",
+  "texto": "AO VIVO 35min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Suica domina (70 por cento de posse, 4 chutes a 1, 3 escanteios a 1) mas esbarra na defesa bosnia bem postada. Houve pausa para hidratacao aos 23min. Leitura mantida: favoritismo suico sem furar a marcacao, Under 2,5 caminhando bem (linha de fechamento 1.81)."
+ },
+ {
+  "tipo": "lance",
+  "hora": "16:26",
+  "texto": "AO VIVO 26min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Sem gols, sem cartoes ate aqui. Jogo equilibrado entre dois times que empataram 1x1 na estreia. A leitura do bolao (Suica 1x0) segue de pe: a favorita ainda nao abriu o placar, mas mantem o controle. Quem perder fica perto da eliminacao."
+ },
+ {
+  "tipo": "lance",
+  "hora": "16:00",
+  "texto": "BOLA ROLANDO - comeca Suica x Bosnia no SoFi Stadium, Los Angeles (Grupo B). Bolao: Suica 1x0. Sem tip do Disciplinado - o edge do empate era erro do modelo (subestima a Suica), nao valor real."
+ },
+ {
+  "tipo": "odds",
+  "hora": "16:00",
+  "texto": "ODDS NO APITO - Suica x Bosnia: Suica 1.59 | Empate 4.10 | Bosnia 5.75 | Under 2,5 1.81 (linha de fechamento, base do CLV)."
+ },
+ {
+  "tipo": "previsao",
+  "hora": "05:17",
+  "texto": "Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao): palpite Mexico 1x0. Jogo mais calibrado do dia (Mexico 45 modelo vs 47 mercado) - sem valor para tip."
+ },
+ {
+  "tipo": "previsao",
+  "hora": "05:16",
+  "texto": "Canada x Catar (19h, Vancouver, anfitriao): palpite Canada 1x0. UNICO TIP de hoje: UNDER 2,5 a 2.00 - Catar com ataque fraco e Canada controlando sem abrir o jogo (Edge +10pp, EV +12,5 por cento)."
+ },
+ {
+  "tipo": "previsao",
+  "hora": "05:15",
+  "texto": "Suica x Bosnia (16h, Grupo B, Los Angeles): palpite Suica 1x0. O modelo da a Suica so 47 por cento contra 63 do mercado - favorita por margem menor que a precificada; o empate nominal e erro nosso, nao tip."
+ },
+ {
+  "tipo": "info",
+  "hora": "05:12",
+  "texto": "Os dias 15 a 17/06 rodaram sem palpite publicado (execucao automatica nao disparou); hoje Czechia 1x1 Africa do Sul tambem ficou sem palpite. Esses jogos nao entram no placar do modelo - honestidade primeiro."
+ },
+ {
+  "tipo": "resumo",
+  "hora": "05:10",
+  "texto": "PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8). Brier modelo 0,518 vs 0,511 mercado (n=8). Disciplinado: 1 tip resolvido, 1 acerto. Modelo reajustado: 918 jogos, alpha 4, F=1,15, rho=-0,13."
+ },
+ {
+  "tipo": "resultado",
+  "hora": "05:07",
+  "texto": "FIM (14/06): Costa do Marfim 1x0 Equador. Palpite Equador 1x0 = 0 PONTOS (placar invertido), MAS o tip do Disciplinado Under 1,75 GANHOU (1 gol no jogo, retorno 2.15, +115 em 100 reais)."
+ },
+ {
+  "tipo": "resultado",
+  "hora": "05:06",
+  "texto": "FIM (14/06): Suecia 5x1 Tunisia = palpite Suecia 1x0 = 3 PONTOS. Holanda 2x2 Japao = palpite Holanda 2x1 = 1 PONTO (acertou os 2 gols da Holanda, mas deu empate)."
+ },
+ {
+  "tipo": "resultado",
+  "hora": "05:05",
+  "texto": "FIM (14/06): Alemanha 7x1 Curacao. Palpite Alemanha 3x0 = 3 PONTOS (vencedor certo; a goleada veio muito acima do nosso placar)."
+ }
 ]
