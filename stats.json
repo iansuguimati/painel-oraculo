@@ -46,19 +46,6 @@
   "analise": "RODADA 2 - 18/06. ENCERRADO: Suica 4x1 Bosnia - o 0x0 ate o minuto 74 virou goleada na reta final (Manzambi 2, Vargas, Xhaka de penalti; Mahmic descontou, Bosnia com 10 desde o vermelho aos 80). Bolao Suica 1x0 acertou o vencedor (3 pts), favorito do modelo e do mercado (Suica 1.53) +53 cada na simulacao, Jogo Louco (empate) -100. Brier modelo 0,427 vs mercado 0,208 - o mercado leu melhor. AO VIVO AGORA: Canada 3x0 Catar no intervalo (Larin 16, J.David 29 e 45+3; Catar com 10 desde o vermelho aos 33). ALERTA honesto: o Under 2,5 a 2.00, unico tip do Disciplinado hoje, ja MORREU com 3 gols no 1o tempo - sera -100 no fechamento; erramos para baixo num jogo de anfitriao que abriu cedo. AINDA HOJE: Mexico x Coreia do Sul (22h, Guadalajara 1566m), o jogo mais calibrado do dia, sem tip. PLACAR acumulado: 23 pts Prodefy, 1X2 66,7 por cento (6/9), Brier modelo 0,508 vs 0,477 mercado. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
   "analises": [
     {
-      "jogo": "Suica x Bosnia (16:00, Grupo B)",
-      "hora": "16:00",
-      "bolao": "Suica 1x0 (EP 2,23)",
-      "disc": "-",
-      "louco": "Empate (4.10)",
-      "fav": "Suica",
-      "fav_odd": "1.53",
-      "fav_mkt": "Suica",
-      "fav_mkt_odd": "1.53",
-      "elenco": "Suica ataque 0,37/defesa -0,22 (forte) vs Bosnia ataque 0,03/defesa -0,10 (mediana)",
-      "texto": "Suica x Bosnia no SoFi Stadium, Los Angeles - ambos vindo de 1x1 na estreia do Grupo B. ELENCO/MODELO: ataque Suica 0,37 vs defesa Bosnia -0,10; ataque Bosnia 0,03 vs defesa Suica -0,22. lambda Suica 1,53 x Bosnia 0,96, total 2,49. Matriz Poisson + Dixon-Coles (rho -0,13, F 1,15): 1X2 modelo Suica 47 / empate 32 / Bosnia 21. DE-VIG SHIN do mercado (Suica 1.53 / X 4.10 / Bosnia 6.06): Suica 63 / empate 22 / Bosnia 15. DIVERGENCIA: o modelo independente da a Suica so 47 por cento contra 63 do mercado - subestima a Suica em 16pp. O edge nominal do empate (+9pp) e da Bosnia (+7pp) e o reflexo desse erro, nao valor real (modo sombra: discordar do favorito por margem grande e provavel erro de modelo, nao se publica). Under 2,5 fica em 56 vs 53, Edge so +3pp, abaixo do corte. BOLAO: Suica 1x0, EP 2,23 - favorita num jogo de poucos gols; o empate e vivo (32) mas nao supera a Suica, entao trava-se o vencedor pelo maior floor. PRODUTO: sem tip."
-    },
-    {
       "jogo": "Canada x Catar (19:00, Grupo B, anfitriao)",
       "hora": "19:00",
       "bolao": "Canada 1x0 (EP 2,80; 2x0 vivo)",
