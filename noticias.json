@@ -1,6 +1,11 @@
 [
 {
 "tipo": "lance",
+"hora": "20:54",
+"texto": "AO VIVO 51min - GOL DO MEXICO! Luis Romo abre o placar aos 50 do segundo tempo: Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). O gol confirma a leitura do Oraculo (palpite Mexico 1x0): o anfitriao furou o ferrolho coreano e agora joga para administrar. A Coreia, que segurava o 0x0, precisa se expor e abre espaco para o segundo."
+},
+{
+"tipo": "lance",
 "hora": "20:52",
 "texto": "AO VIVO 2o tempo - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Recomeco sem mexer no placar: segue o equilibrio que o modelo projetou (Mexico 45 / empate 33 / Coreia 22). A anfitria ainda nao furou a zaga de Kim Min-jae; um empate encaminha a classificacao dos dois. Cenario de poucos gols mantido, como o Under 2,5 (60 por cento) indicava."
 },
@@ -193,10 +198,5 @@
 "tipo": "odds",
 "hora": "16:00",
 "texto": "ODDS NO APITO - Suica x Bosnia: Suica 1.59 | Empate 4.10 | Bosnia 5.75 | Under 2,5 1.81 (linha de fechamento, base do CLV)."
-},
-{
-"tipo": "previsao",
-"hora": "05:17",
-"texto": "Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao): palpite Mexico 1x0. Jogo mais calibrado do dia (Mexico 45 modelo vs 47 mercado) - sem valor para tip."
 }
 ]
