@@ -34,16 +34,16 @@
     "louco": "Empate Canada x Catar (5.70)"
   },
   "next": {
-    "jogo": "Canada x Catar",
-    "hora": "AO VIVO - intervalo 3x0"
+    "jogo": "Mexico x Coreia do Sul",
+    "hora": "22:00 (Brasilia)"
   },
   "alerta": {
     "ativo": true,
-    "hora": "17:37",
+    "hora": "17:45",
     "jogo": "Canada x Catar",
-    "texto": "Canada 3x0 Catar ainda no 1o tempo; Catar com 10 (vermelho de Homam Ahmed aos 33). Disciplinado Under 2,5 a 2.00 JA PERDIDO. Anterior: jogo de poucos gols, Canada controla. Novo: goleada/Over estourado; bolao Canada 1x0 acerta o vencedor, erra o placar."
+    "texto": "3x0 no intervalo mata o Under 2,5 (tip Disciplinado a 2.00); leitura de jogo travado furada, Canada abriu cedo e Catar com 10. Under 2,5 -> perdido, -100 no fechamento."
   },
-  "analise": "RODADA 2 - 18/06. Tres jogos hoje: Suica x Bosnia (16h, LA), Canada x Catar (19h, Vancouver, anfitriao) e Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao). RESOLVIDOS com palpite desde a ultima execucao (14/06): Alemanha 7x1 Curacao (3x0 = 3 pts), Suecia 5x1 Tunisia (1x0 = 3 pts), Holanda 2x2 Japao (2x1 = 1 pt), Marfim 1x0 Equador (Equador 1x0 = 0 pts, mas o tip Under 1,75 GANHOU, +115). Os dias 15-17/06 nao rodaram (sem palpite). PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8), Brier modelo 0,518 vs 0,511 mercado (n=8). MODELO reajustado: Maher ataque/defesa Poisson L2, 918 jogos, alpha 4, mando 0,27, rho -0,13, F regularizado 1,15 (o F global 1,5 inflava o empate para 37 por cento, acima da base historica de 22-28 por cento - reduzido para bater a base rate). PRODUTO: 1 tip hoje - Canada x Catar UNDER 2,5 a 2.00 (Catar ataque fraco, Canada controla; Edge +10pp, EV +12,5 por cento). Nos outros dois o valor aparente de empate e erro do nosso modelo, que subestima os anfitrioes/favoritos Suica e Canada - nao publicamos. Simulacao 100 reais: Disciplinado +115 (1 tip), Favorito do modelo e do mercado +95 cada, Jogo Louco -80. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
+  "analise": "RODADA 2 - 18/06. ENCERRADO: Suica 4x1 Bosnia - o 0x0 ate o minuto 74 virou goleada na reta final (Manzambi 2, Vargas, Xhaka de penalti; Mahmic descontou, Bosnia com 10 desde o vermelho aos 80). Bolao Suica 1x0 acertou o vencedor (3 pts), favorito do modelo e do mercado (Suica 1.53) +53 cada na simulacao, Jogo Louco (empate) -100. Brier modelo 0,427 vs mercado 0,208 - o mercado leu melhor. AO VIVO AGORA: Canada 3x0 Catar no intervalo (Larin 16, J.David 29 e 45+3; Catar com 10 desde o vermelho aos 33). ALERTA honesto: o Under 2,5 a 2.00, unico tip do Disciplinado hoje, ja MORREU com 3 gols no 1o tempo - sera -100 no fechamento; erramos para baixo num jogo de anfitriao que abriu cedo. AINDA HOJE: Mexico x Coreia do Sul (22h, Guadalajara 1566m), o jogo mais calibrado do dia, sem tip. PLACAR acumulado: 23 pts Prodefy, 1X2 66,7 por cento (6/9), Brier modelo 0,508 vs 0,477 mercado. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
   "analises": [
     {
       "jogo": "Suica x Bosnia (16:00, Grupo B)",
@@ -86,11 +86,11 @@
     }
   ],
   "odds_fech": {
-    "jogo": "Suica x Bosnia",
-    "o1": "1.59",
-    "ox": "4.10",
-    "o2": "5.75",
-    "under": "1.80",
-    "hora": "16:31"
+    "jogo": "Canada x Catar",
+    "o1": "1.278",
+    "ox": "5.70",
+    "o2": "11.0",
+    "under": "2.00",
+    "hora": "17:42"
   }
 }

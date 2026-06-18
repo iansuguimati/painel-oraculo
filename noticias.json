@@ -1,5 +1,25 @@
 [
  {
+  "tipo": "fechamento",
+  "hora": "17:47",
+  "texto": "FIM DE JOGO - Suica 4x1 Bosnia (Grupo B, SoFi Stadium). O 0x0 que durou ate o minuto 74 virou goleada na reta final: Manzambi (74 e 90), Vargas (84) e Xhaka de penalti (90+7) para a Suica; Mahmic descontou para a Bosnia (90+3), que ainda terminou com 10 apos o vermelho de Muharemovic (80). PALPITE DO BOLAO Suica 1x0: acertou o vencedor (3 pontos), placar exato nao. Favorito do modelo e do mercado (Suica 1.53) GANHOU, +53 cada na simulacao de 100 reais; Jogo Louco (empate 4.10) perdeu, -100; Disciplinado nao tinha tip aqui. Brier modelo 0,427 vs mercado 0,208 - o mercado, que dava 63 por cento a Suica, leu melhor que o nosso modelo (47 por cento)."
+ },
+ {
+  "tipo": "alerta",
+  "hora": "17:45",
+  "texto": "ALERTA - Canada x Catar: 3x0 ja no intervalo MATA o Under 2,5 (unico tip do Disciplinado hoje, pego a 2.00). Under 2,5 -> PERDIDO. Leitura anterior (anfitriao controla sem abrir o jogo) furada: o Canada marcou cedo e o vermelho do Catar aos 33 escancarou. Sera contabilizado -100 no fechamento."
+ },
+ {
+  "tipo": "lance",
+  "hora": "17:44",
+  "texto": "AO VIVO INTERVALO - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). O anfitriao resolveu cedo: Larin abriu aos 16, Jonathan David fez aos 29 e ampliou de voleio aos 45+3, ja com o Catar reduzido a 10 (vermelho de Homam Ahmed aos 33). Palpite do bolao Canada 1x0 acertou o vencedor, mas o placar ja passou voando. (Motor reconectou ao jogo, que comecou antes do horario previsto na agenda.)"
+ },
+ {
+  "tipo": "odds",
+  "hora": "17:42",
+  "texto": "ODDS NO APITO - Canada x Catar: Canada 1.278 | Empate 5.70 | Catar 11.0 | Under 2,5 2.00 (linha de fechamento, base do CLV)."
+ },
+ {
   "tipo": "alerta",
   "hora": "17:37",
   "texto": "ALERTA - Canada x Catar: Canada faz 3x0 ainda no 1o tempo e o Catar fica com 10 (vermelho de Homam Ahmed aos 33). Nosso tip do Disciplinado era UNDER 2,5 a 2.00 - JA PERDIDO (3 gols no intervalo). Leitura anterior: Canada controla sem abrir o jogo, poucos gols. NOVA: goleada encaminhada e Over estourado; bolao Canada 1x0 acerta o vencedor mas erra feio o placar."
