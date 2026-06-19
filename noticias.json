@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "esquenta",
+    "hora": "14:03",
+    "texto": "ESQUENTA - EUA x Australia (anfitriao, Seattle, 16h Brasilia, Grupo D). Em menos de 2h rola o jogo dos donos da casa. O mercado e taxativo: EUA a 61 por cento (modelo de Shin). Nosso modelo cru e mais cauteloso - da empate 38 por cento e ate flerta com a Australia (33 por cento) -, mas aplicamos o fator mando de campo (+7pp) que ele subestima. Palpite do bolao: EUA 2x1, apostando que em duas defesas furadas a casa decide no detalhe. Disciplinado sem aposta de valor ate aqui."
+  },
+  {
     "tipo": "analise",
     "hora": "10:30",
     "texto": "METODOLOGIA - PALPITES COM FATORES DE CONTEXTO: o modelo e calibrado mas HUMILDE - nao mede mando, jogos must-win, motivacao pos-vexame, nem o tamanho real do mismatch. Onde o modelo indica EMPATE por nao enxergar esses fatores, sobrepomos com o FARO HUMANO, documentado jogo a jogo. E uma HIPOTESE a validar: vamos acompanhar se esses fatores rendem mais que seguir o modelo cego. Honestidade primeiro - nao afirmamos saber mais que o modelo, estamos TESTANDO o faro com disciplina."
@@ -193,10 +198,5 @@
     "tipo": "lance",
     "hora": "18:03",
     "texto": "AO VIVO 57min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Catar fica com NOVE: Assim Madibo leva o segundo vermelho da equipe aos 53 (Homam El Amin ja tinha sido expulso aos 33). Dois homens a mais e tres gols na frente, o anfitriao apenas administra. O placar so tende a crescer; o nosso palpite de 1x0 ficou timido demais, o jogo confirma Canada muito superior."
-  },
-  {
-    "tipo": "lance",
-    "hora": "18:00",
-    "texto": "AO VIVO 54min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Pressao total do anfitriao no 2o tempo: 66 por cento de posse, 15 finalizacoes (7 no alvo) e o Catar reduzido a 10 desde o vermelho de Homam Al-Amin no 32. Les Rouges caca o quarto gol; Catar so resiste. Placar mantido, sem lance que mude a leitura."
   }
 ]
