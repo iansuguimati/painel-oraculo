@@ -1,5 +1,10 @@
 [
   {
+    "tipo": "analise",
+    "hora": "10:30",
+    "texto": "METODOLOGIA - PALPITES COM FATORES DE CONTEXTO: o modelo e calibrado mas HUMILDE - nao mede mando, jogos must-win, motivacao pos-vexame, nem o tamanho real do mismatch. Onde o modelo indica EMPATE por nao enxergar esses fatores, sobrepomos com o FARO HUMANO, documentado jogo a jogo. E uma HIPOTESE a validar: vamos acompanhar se esses fatores rendem mais que seguir o modelo cego. Honestidade primeiro - nao afirmamos saber mais que o modelo, estamos TESTANDO o faro com disciplina."
+  },
+  {
     "tipo": "resultado",
     "hora": "19/06 06:00",
     "texto": "ENCERRADO 18/06: Mexico 1x0 Coreia do Sul. Gol de Luis Romo aos 50 (voleio apos falha do goleiro Kim na saida). O palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO - 6 pontos Prodefy. Favorito do modelo e do mercado (Mexico @2.05) lucrou; o empate do Jogo Louco perdeu. Brier modelo 0,460 vs mercado 0,424."
@@ -193,10 +198,5 @@
     "tipo": "lance",
     "hora": "18:00",
     "texto": "AO VIVO 54min - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Pressao total do anfitriao no 2o tempo: 66 por cento de posse, 15 finalizacoes (7 no alvo) e o Catar reduzido a 10 desde o vermelho de Homam Al-Amin no 32. Les Rouges caca o quarto gol; Catar so resiste. Placar mantido, sem lance que mude a leitura."
-  },
-  {
-    "tipo": "lance",
-    "hora": "17:53",
-    "texto": "AO VIVO 2o tempo - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Recomeco sem mexer no placar: o anfitriao volta com 3x0 e um a mais (Catar com 10 desde o vermelho de Homam Ahmed aos 33). Jogo decidido; resta saber o tamanho da goleada. Palpite do bolao Canada 1x0 ja garantiu o vencedor (3 pontos), placar exato fora de alcance."
   }
 ]
