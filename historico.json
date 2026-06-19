@@ -206,5 +206,18 @@
     "disc": -100,
     "louco": -100,
     "favmkt": 28
+  },
+  {
+    "data": "18/06",
+    "jogo": "MEX x KOR",
+    "bolao_pts": 6,
+    "venc": 1,
+    "placar": 1,
+    "brier_m": 0.46,
+    "brier_k": 0.424,
+    "fav": 105,
+    "disc": 0,
+    "louco": -100,
+    "favmkt": 105
   }
 ]

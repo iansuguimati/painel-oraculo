@@ -1,5 +1,45 @@
 [
   {
+    "tipo": "resultado",
+    "hora": "19/06 06:00",
+    "texto": "ENCERRADO 18/06: Mexico 1x0 Coreia do Sul. Gol de Luis Romo aos 50 (voleio apos falha do goleiro Kim na saida). O palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO - 6 pontos Prodefy. Favorito do modelo e do mercado (Mexico @2.05) lucrou; o empate do Jogo Louco perdeu. Brier modelo 0,460 vs mercado 0,424."
+  },
+  {
+    "tipo": "resultado",
+    "hora": "19/06 06:00",
+    "texto": "ENCERRADO 18/06: Czechia 1x1 Africa do Sul - jogo travado de meio de tabela. Sem palpite registrado (a partida escapou da agenda da execucao anterior); fica o aprendizado de fechar a janela de agenda mais cedo."
+  },
+  {
+    "tipo": "central",
+    "hora": "09:45",
+    "texto": "BALANCO: bolao acumulado 32 pts; acerto de 1X2 em 72,7 por cento (8/11); Brier medio de 17 jogos: modelo 0,651 vs mercado 0,598 - o mercado ainda le um pouco melhor, por isso o peso do modelo no blend segue baixo (w=0,30)."
+  },
+  {
+    "tipo": "jogo",
+    "hora": "16:00",
+    "texto": "HOJE EUA x Australia (anfitriao, Seattle): mercado poe os EUA em 61 por cento (Shin), o modelo cru so 32 - ratings da Australia inflados pela estreia 2x0 sobre a Turquia. Tratado como erro de modelo. Bolao EUA 2x1. Sem tip."
+  },
+  {
+    "tipo": "jogo",
+    "hora": "19:00",
+    "texto": "HOJE Escocia x Marrocos (Boston): o jogo mais calibrado do dia - modelo e mercado quase iguais (Marrocos ~50 por cento). Marrocos com defesa de elite (segurou o Brasil). Total baixo (Under 2,5 ~60). Bolao Marrocos 1x0. Sem edge, sem tip."
+  },
+  {
+    "tipo": "jogo",
+    "hora": "21:30",
+    "texto": "HOJE Brasil x Haiti: mercado da 89 por cento ao Brasil; o modelo so 47 - o lambda nao captura o abismo de elenco. Bolao Brasil 2x0 (mismatch contra defesa fraca, nao ancorar em 1x0). Sem tip Disciplinado."
+  },
+  {
+    "tipo": "jogo",
+    "hora": "00:00",
+    "texto": "HOJE Turquia x Paraguai (Levi's): os dois perderam a estreia, jogo de vida ou morte. Turquia favorita (~49 por cento Shin). Bolao Turquia 2x1, jogo tende a abrir. Under 2,5 sem edge. Sem tip."
+  },
+  {
+    "tipo": "central",
+    "hora": "09:45",
+    "texto": "METODO HOJE: modelo Maher de ataque/defesa reajustado com 907 jogos (alpha=4, mando 0,27, rho=-0,13, fator de empate F=1,15). Disciplinado sem tip - nenhum mercado passou no corte (Edge +4pp e EV +3 por cento); os 'edges' de empate eram artefato do F. Honestidade primeiro."
+  },
+  {
     "tipo": "lance",
     "hora": "21:31",
     "texto": "AO VIVO 87min - Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Reta final: o anfitriao segura a vantagem do gol de Luis Romo (voleio aos 50). Coreia se lanca ao ataque mas esbarra na marcacao mexicana; nada de novo no placar desde o gol. Palpite Mexico 1x0 no rumo certo, restando so os acrescimos para confirmar."
@@ -158,40 +198,5 @@
     "tipo": "lance",
     "hora": "17:53",
     "texto": "AO VIVO 2o tempo - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). Recomeco sem mexer no placar: o anfitriao volta com 3x0 e um a mais (Catar com 10 desde o vermelho de Homam Ahmed aos 33). Jogo decidido; resta saber o tamanho da goleada. Palpite do bolao Canada 1x0 ja garantiu o vencedor (3 pontos), placar exato fora de alcance."
-  },
-  {
-    "tipo": "fechamento",
-    "hora": "17:47",
-    "texto": "FIM DE JOGO - Suica 4x1 Bosnia (Grupo B, SoFi Stadium). O 0x0 que durou ate o minuto 74 virou goleada na reta final: Manzambi (74 e 90), Vargas (84) e Xhaka de penalti (90+7) para a Suica; Mahmic descontou para a Bosnia (90+3), que ainda terminou com 10 apos o vermelho de Muharemovic (80). PALPITE DO BOLAO Suica 1x0: acertou o vencedor (3 pontos), placar exato nao. Favorito do modelo e do mercado (Suica 1.53) GANHOU, +53 cada na simulacao de 100 reais; Jogo Louco (empate 4.10) perdeu, -100; Disciplinado nao tinha tip aqui. Brier modelo 0,427 vs mercado 0,208 - o mercado, que dava 63 por cento a Suica, leu melhor que o nosso modelo (47 por cento)."
-  },
-  {
-    "tipo": "alerta",
-    "hora": "17:45",
-    "texto": "ALERTA - Canada x Catar: 3x0 ja no intervalo MATA o Under 2,5 (unico tip do Disciplinado hoje, pego a 2.00). Under 2,5 -> PERDIDO. Leitura anterior (anfitriao controla sem abrir o jogo) furada: o Canada marcou cedo e o vermelho do Catar aos 33 escancarou. Sera contabilizado -100 no fechamento."
-  },
-  {
-    "tipo": "lance",
-    "hora": "17:44",
-    "texto": "AO VIVO INTERVALO - Canada 3x0 Catar (Grupo B, BC Place, Vancouver). O anfitriao resolveu cedo: Larin abriu aos 16, Jonathan David fez aos 29 e ampliou de voleio aos 45+3, ja com o Catar reduzido a 10 (vermelho de Homam Ahmed aos 33). Palpite do bolao Canada 1x0 acertou o vencedor, mas o placar ja passou voando. (Motor reconectou ao jogo, que comecou antes do horario previsto na agenda.)"
-  },
-  {
-    "tipo": "odds",
-    "hora": "17:42",
-    "texto": "ODDS NO APITO - Canada x Catar: Canada 1.278 | Empate 5.70 | Catar 11.0 | Under 2,5 2.00 (linha de fechamento, base do CLV)."
-  },
-  {
-    "tipo": "lance",
-    "hora": "17:20",
-    "texto": "AO VIVO 62min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Jogo esquentou: dois amarelos em dois minutos - Dedic (Suica) aos 59 e Dzeko (Bosnia) aos 61. Placar segue zerado, sem gols ate aqui. Palpite do bolao (Suica 1x0) ainda precisa do gol; o 0x0 favorece o Under (linha abriu em 1,81 no apito)."
-  },
-  {
-    "tipo": "lance",
-    "hora": "17:14",
-    "texto": "AO VIVO 56min - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Jogo travado no comeco do 2o tempo, sem gols e sem chance clara desde o recomeco. A cada minuto sem bola na rede o Under 2,5 (linha de fechamento 1,81) ganha forca e o palpite do bolao Suica 1x0 fica mais dependente de um gol na reta final. Sem cartoes ate aqui."
-  },
-  {
-    "tipo": "lance",
-    "hora": "17:05",
-    "texto": "AO VIVO 2o tempo - Suica 0x0 Bosnia (Grupo B, SoFi Stadium). Recomeco sem mexer no placar: a Suica volta tentando furar o bloco baixo bosnio, que segue compacto. 0x0 no inicio da etapa final, com o Under 2,5 (linha de fechamento 1.80) bem encaminhado e o palpite do bolao Suica 1x0 ainda dependendo do gol que nao saiu no 1o tempo."
   }
 ]
