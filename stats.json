@@ -1,210 +1,213 @@
 {
-  "updated": "19/06/2026",
-  "tips": 3,
-  "hit": "53,6% (15/28)",
-  "roi": "-28,3% (sim Disciplinado, 3 tips)",
-  "clv": "0,0% (1 tip, linha de fechamento)",
-  "brier": "0,651 (mercado 0,598, 17 jogos)",
-  "bolao": 60,
-  "sim100": {
-    "disc": {
-      "stake": 300,
-      "pnl": -85,
-      "roi": "-28,3%"
-    },
-    "louco": {
-      "stake": 1700,
-      "pnl": -940,
-      "roi": "-55,3%"
-    },
-    "fav": {
-      "stake": 1700,
-      "pnl": -204,
-      "roi": "-12,0%"
-    },
-    "favmkt": {
-      "stake": 1700,
-      "pnl": -204,
-      "roi": "-12,0%"
-    }
+ "updated": "19/06/2026",
+ "tips": 3,
+ "hit": "53,6% (15/28)",
+ "roi": "-28,3% (sim Disciplinado, 3 tips)",
+ "clv": "0,0% (1 tip, linha de fechamento)",
+ "brier": "0,651 (mercado 0,598, 17 jogos)",
+ "bolao": 60,
+ "sim100": {
+  "disc": {
+   "stake": 300,
+   "pnl": -85,
+   "roi": "-28,3%"
   },
-  "lines": {
-    "bolao": "Brasil 2x0",
-    "disc": "-",
-    "louco": "Empate Brasil x Haiti (12.0)"
+  "louco": {
+   "stake": 1700,
+   "pnl": -940,
+   "roi": "-55,3%"
   },
-  "next": {
-    "jogo": "EUA x Australia",
-    "hora": "16:00 (Brasilia)"
+  "fav": {
+   "stake": 1700,
+   "pnl": -204,
+   "roi": "-12,0%"
   },
-  "alerta": {
-    "ativo": false
-  },
-  "analise": "RODADA 2 - 19/06. ENCERRADO 18/06: Mexico 1x0 Coreia do Sul - palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO (6 pts! gol de Luis Romo aos 50, voleio apos falha do goleiro Kim). Favorito do modelo e do mercado Mexico @2.05 +105 cada; Jogo Louco (empate @3.20) -100; Brier modelo 0,460 vs mercado 0,424. Tambem encerrado: Czechia 1x1 Africa do Sul (sem palpite - escapou da agenda anterior). Bolao acumulado 32 pts; 1X2 72,7 por cento (8/11); Brier medio 17 jogos modelo 0,651 vs 0,598 mercado. HOJE (4 jogos): EUA x Australia, Escocia x Marrocos, Brasil x Haiti, Turquia x Paraguai. ATENCAO: o modelo cru subestima fortemente os favoritos hoje (EUA 32, Brasil 47) - ratings de Australia/Haiti inflados por amostra curta; tratado como ERRO DE MODELO (modo sombra), ancorado no mercado via blend w=0,30. Sem tip Disciplinado - nenhum edge real (os 'edges' de empate vem do fator F, nao do mercado). Modelo Maher ataque/defesa, 907 jogos, alpha=4, mando 0,27, rho=-0,13, F=1,15. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
-  "analises": [
-    {
-      "jogo": "EUA x Australia",
-      "hora": "19/06 16h",
-      "bolao": "EUA 2x1",
-      "disc": "-",
-      "louco": "MANDO",
-      "fav": "EUA",
-      "fav_odd": "-",
-      "fav_mkt": "EUA",
-      "fav_mkt_odd": "-",
-      "elenco": "MANDO",
-      "texto": "<b>FATOR: mando de campo (anfitriao).</b> O modelo da empate 38% e ate favorece a Australia (33%), mas o mando vale +7pp e em jogo de defesas furadas o 2x1 e o melhor placar de vitoria dos EUA. Bancamos o fator-casa que o modelo subestima."
-    },
-    {
-      "jogo": "Escocia x Marrocos",
-      "hora": "19/06 19h",
-      "bolao": "Marrocos 1x0",
-      "disc": "-",
-      "louco": "SEGUE MODELO",
-      "fav": "Marrocos",
-      "fav_odd": "-",
-      "fav_mkt": "Marrocos",
-      "fav_mkt_odd": "-",
-      "elenco": "SEGUE MODELO",
-      "texto": "<b>SEGUE O MODELO: Marrocos favorito (43%), EP 0x1.</b> Sem desvio."
-    },
-    {
-      "jogo": "Brasil x Haiti",
-      "hora": "19/06 21:30",
-      "bolao": "Brasil 2x0",
-      "disc": "-",
-      "louco": "MISMATCH",
-      "fav": "Brasil",
-      "fav_odd": "-",
-      "fav_mkt": "Brasil",
-      "fav_mkt_odd": "-",
-      "elenco": "MISMATCH",
-      "texto": "<b>FATOR: mismatch.</b> O modelo e humilde demais (Brasil so 42% vs Haiti). Brasil vs minnow vence folgado; o 2x0 corrige a humildade."
-    },
-    {
-      "jogo": "Turquia x Paraguai",
-      "hora": "20/06 00h",
-      "bolao": "Turquia 2x1",
-      "disc": "-",
-      "louco": "MUST-WIN",
-      "fav": "Turquia",
-      "fav_odd": "-",
-      "fav_mkt": "Turquia",
-      "fav_mkt_odd": "-",
-      "elenco": "MUST-WIN",
-      "texto": "<b>FATOR: must-win.</b> Os dois perderam a estreia - empate = quase eliminacao, entao vao pra cima. O modelo da empate (42%), mas a necessidade abre o jogo. 2x1 banca o ataque superior turco num jogo decisivo. (Pela conta pura seria 1x0; o faro de tabela puxa o 2x1.)"
-    },
-    {
-      "jogo": "Holanda x Suecia",
-      "hora": "20/06 14h",
-      "bolao": "Holanda 2x1",
-      "disc": "-",
-      "louco": "SEGUE MODELO",
-      "fav": "Holanda",
-      "fav_odd": "-",
-      "fav_mkt": "Holanda",
-      "fav_mkt_odd": "-",
-      "elenco": "SEGUE MODELO",
-      "texto": "<b>SEGUE O MODELO: Holanda favorita clara (49%), EP 2x1.</b> Sem desvio."
-    },
-    {
-      "jogo": "Alemanha x C.Marfim",
-      "hora": "20/06 17h",
-      "bolao": "Alemanha 2x1",
-      "disc": "-",
-      "louco": "QUALIDADE",
-      "fav": "Alemanha",
-      "fav_odd": "-",
-      "fav_mkt": "Alemanha",
-      "fav_mkt_odd": "-",
-      "elenco": "QUALIDADE",
-      "texto": "<b>FATOR: qualidade alema (aposta agressiva).</b> O modelo da empate (41%) com razao - a C.Marfim e forte (bateu a Franca, defesa elite). O 1x0 seria mais seguro, mas bancamos o 2x1 pelo ataque alemao (1,99). RISCO ASSUMIDO e declarado."
-    },
-    {
-      "jogo": "Equador x Curacao",
-      "hora": "20/06 21h",
-      "bolao": "Equador 2x0",
-      "disc": "-",
-      "louco": "MISMATCH",
-      "fav": "Equador",
-      "fav_odd": "-",
-      "fav_mkt": "Equador",
-      "fav_mkt_odd": "-",
-      "elenco": "MISMATCH",
-      "texto": "<b>FATOR: mismatch.</b> Curacao e peneira (18 gols sofridos em 6, tomou 7 da Alemanha). Modelo humilde (Equador 44%); o 2x0 corrige."
-    },
-    {
-      "jogo": "Tunisia x Japao",
-      "hora": "21/06 01h",
-      "bolao": "Japao 1x0",
-      "disc": "-",
-      "louco": "FAVORITO",
-      "fav": "Japao",
-      "fav_odd": "-",
-      "fav_mkt": "Japao",
-      "fav_mkt_odd": "-",
-      "elenco": "FAVORITO",
-      "texto": "<b>FATOR: superioridade do Japao.</b> Invicto, bateu a Inglaterra 1x0, defesa elite (0,69). O modelo da empate 0x0, mas bancamos o favorito num 1x0."
-    },
-    {
-      "jogo": "Espanha x Arabia",
-      "hora": "21/06 13h",
-      "bolao": "Espanha 2x0",
-      "disc": "-",
-      "louco": "MOTIVACAO",
-      "fav": "Espanha",
-      "fav_odd": "-",
-      "fav_mkt": "Espanha",
-      "fav_mkt_odd": "-",
-      "elenco": "MOTIVACAO",
-      "texto": "<b>FATOR DECISIVO: motivacao.</b> Apos o 0x0 vexatorio com Cabo Verde, a Espanha vem com sangue nos olhos pra golear. Modelo da Espanha 1x0; subimos pra 2x0 pela motivacao - fator que o modelo nao mede."
-    },
-    {
-      "jogo": "Belgica x Ira",
-      "hora": "21/06 16h",
-      "bolao": "Belgica 1x0",
-      "disc": "-",
-      "louco": "VITORIA APERTADA",
-      "fav": "Belgica",
-      "fav_odd": "-",
-      "fav_mkt": "Belgica",
-      "fav_mkt_odd": "-",
-      "elenco": "VITORIA APERTADA",
-      "texto": "<b>FATOR: vitoria magra.</b> Ira tem defesa solida e empata muito; a Belgica anda irregular. O 1x0 e o MELHOR placar de vitoria belga (EP 1,99 > 2x1 1,89). Modelo da empate; bancamos a vitoria apertada."
-    },
-    {
-      "jogo": "Uruguai x Cabo Verde",
-      "hora": "21/06 19h",
-      "bolao": "Uruguai 1x0",
-      "disc": "-",
-      "louco": "MISMATCH",
-      "fav": "Uruguai",
-      "fav_odd": "-",
-      "fav_mkt": "Uruguai",
-      "fav_mkt_odd": "-",
-      "elenco": "MISMATCH",
-      "texto": "<b>FATOR: mismatch.</b> Uruguai vs Cabo Verde (minnow). Modelo humilde demais (Uruguai so 25%); o 1x0 corrige."
-    },
-    {
-      "jogo": "Nova Zelandia x Egito",
-      "hora": "21/06 22h",
-      "bolao": "Egito 1x0",
-      "disc": "-",
-      "louco": "FAVORITO",
-      "fav": "Egito",
-      "fav_odd": "-",
-      "fav_mkt": "Egito",
-      "fav_mkt_odd": "-",
-      "elenco": "FAVORITO",
-      "texto": "<b>FATOR: Egito (Salah) favorito sobre a Nova Zelandia.</b> Modelo da empate 0x0; bancamos o favorito num 1x0."
-    }
-  ],
-  "odds_fech": {
-    "jogo": "Mexico x Coreia do Sul",
-    "o1": "2.00",
-    "ox": "3.20",
-    "o2": "4.10",
-    "under": "-",
-    "hora": "final 18/06"
+  "favmkt": {
+   "stake": 1700,
+   "pnl": -204,
+   "roi": "-12,0%"
   }
+ },
+ "lines": {
+  "bolao": "Brasil 2x0",
+  "disc": "-",
+  "louco": "Empate Brasil x Haiti (12.0)"
+ },
+ "next": {
+  "jogo": "EUA x Australia",
+  "hora": "16:00 (Brasilia)"
+ },
+ "alerta": {
+  "ativo": true,
+  "hora": "15:01",
+  "jogo": "EUA x Australia",
+  "texto": "Pulisic (astro dos EUA) FORA por lesao na panturrilha - confirmado por Pochettino. ANTERIOR: EUA 2x1 tranquilo pelo mando. NOVO: mantemos EUA 2x1 (mercado segue cerca de 60 por cento nos EUA) mas P(empate) sobe - o modelo ja via 38 por cento; jogo mais truncado, Under 2,5 ganha forca."
+ },
+ "analise": "RODADA 2 - 19/06. ENCERRADO 18/06: Mexico 1x0 Coreia do Sul - palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO (6 pts! gol de Luis Romo aos 50, voleio apos falha do goleiro Kim). Favorito do modelo e do mercado Mexico @2.05 +105 cada; Jogo Louco (empate @3.20) -100; Brier modelo 0,460 vs mercado 0,424. Tambem encerrado: Czechia 1x1 Africa do Sul (sem palpite - escapou da agenda anterior). Bolao acumulado 32 pts; 1X2 72,7 por cento (8/11); Brier medio 17 jogos modelo 0,651 vs 0,598 mercado. HOJE (4 jogos): EUA x Australia, Escocia x Marrocos, Brasil x Haiti, Turquia x Paraguai. ATENCAO: o modelo cru subestima fortemente os favoritos hoje (EUA 32, Brasil 47) - ratings de Australia/Haiti inflados por amostra curta; tratado como ERRO DE MODELO (modo sombra), ancorado no mercado via blend w=0,30. Sem tip Disciplinado - nenhum edge real (os 'edges' de empate vem do fator F, nao do mercado). Modelo Maher ataque/defesa, 907 jogos, alpha=4, mando 0,27, rho=-0,13, F=1,15. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
+ "analises": [
+  {
+   "jogo": "EUA x Australia",
+   "hora": "19/06 16h",
+   "bolao": "EUA 2x1",
+   "disc": "-",
+   "louco": "MANDO",
+   "fav": "EUA",
+   "fav_odd": "-",
+   "fav_mkt": "EUA",
+   "fav_mkt_odd": "-",
+   "elenco": "MANDO",
+   "texto": "<b>FATOR: mando de campo (anfitriao).</b> O modelo da empate 38% e ate favorece a Australia (33%), mas o mando vale +7pp e em jogo de defesas furadas o 2x1 e o melhor placar de vitoria dos EUA. Bancamos o fator-casa que o modelo subestima."
+  },
+  {
+   "jogo": "Escocia x Marrocos",
+   "hora": "19/06 19h",
+   "bolao": "Marrocos 1x0",
+   "disc": "-",
+   "louco": "SEGUE MODELO",
+   "fav": "Marrocos",
+   "fav_odd": "-",
+   "fav_mkt": "Marrocos",
+   "fav_mkt_odd": "-",
+   "elenco": "SEGUE MODELO",
+   "texto": "<b>SEGUE O MODELO: Marrocos favorito (43%), EP 0x1.</b> Sem desvio."
+  },
+  {
+   "jogo": "Brasil x Haiti",
+   "hora": "19/06 21:30",
+   "bolao": "Brasil 2x0",
+   "disc": "-",
+   "louco": "MISMATCH",
+   "fav": "Brasil",
+   "fav_odd": "-",
+   "fav_mkt": "Brasil",
+   "fav_mkt_odd": "-",
+   "elenco": "MISMATCH",
+   "texto": "<b>FATOR: mismatch.</b> O modelo e humilde demais (Brasil so 42% vs Haiti). Brasil vs minnow vence folgado; o 2x0 corrige a humildade."
+  },
+  {
+   "jogo": "Turquia x Paraguai",
+   "hora": "20/06 00h",
+   "bolao": "Turquia 2x1",
+   "disc": "-",
+   "louco": "MUST-WIN",
+   "fav": "Turquia",
+   "fav_odd": "-",
+   "fav_mkt": "Turquia",
+   "fav_mkt_odd": "-",
+   "elenco": "MUST-WIN",
+   "texto": "<b>FATOR: must-win.</b> Os dois perderam a estreia - empate = quase eliminacao, entao vao pra cima. O modelo da empate (42%), mas a necessidade abre o jogo. 2x1 banca o ataque superior turco num jogo decisivo. (Pela conta pura seria 1x0; o faro de tabela puxa o 2x1.)"
+  },
+  {
+   "jogo": "Holanda x Suecia",
+   "hora": "20/06 14h",
+   "bolao": "Holanda 2x1",
+   "disc": "-",
+   "louco": "SEGUE MODELO",
+   "fav": "Holanda",
+   "fav_odd": "-",
+   "fav_mkt": "Holanda",
+   "fav_mkt_odd": "-",
+   "elenco": "SEGUE MODELO",
+   "texto": "<b>SEGUE O MODELO: Holanda favorita clara (49%), EP 2x1.</b> Sem desvio."
+  },
+  {
+   "jogo": "Alemanha x C.Marfim",
+   "hora": "20/06 17h",
+   "bolao": "Alemanha 2x1",
+   "disc": "-",
+   "louco": "QUALIDADE",
+   "fav": "Alemanha",
+   "fav_odd": "-",
+   "fav_mkt": "Alemanha",
+   "fav_mkt_odd": "-",
+   "elenco": "QUALIDADE",
+   "texto": "<b>FATOR: qualidade alema (aposta agressiva).</b> O modelo da empate (41%) com razao - a C.Marfim e forte (bateu a Franca, defesa elite). O 1x0 seria mais seguro, mas bancamos o 2x1 pelo ataque alemao (1,99). RISCO ASSUMIDO e declarado."
+  },
+  {
+   "jogo": "Equador x Curacao",
+   "hora": "20/06 21h",
+   "bolao": "Equador 2x0",
+   "disc": "-",
+   "louco": "MISMATCH",
+   "fav": "Equador",
+   "fav_odd": "-",
+   "fav_mkt": "Equador",
+   "fav_mkt_odd": "-",
+   "elenco": "MISMATCH",
+   "texto": "<b>FATOR: mismatch.</b> Curacao e peneira (18 gols sofridos em 6, tomou 7 da Alemanha). Modelo humilde (Equador 44%); o 2x0 corrige."
+  },
+  {
+   "jogo": "Tunisia x Japao",
+   "hora": "21/06 01h",
+   "bolao": "Japao 1x0",
+   "disc": "-",
+   "louco": "FAVORITO",
+   "fav": "Japao",
+   "fav_odd": "-",
+   "fav_mkt": "Japao",
+   "fav_mkt_odd": "-",
+   "elenco": "FAVORITO",
+   "texto": "<b>FATOR: superioridade do Japao.</b> Invicto, bateu a Inglaterra 1x0, defesa elite (0,69). O modelo da empate 0x0, mas bancamos o favorito num 1x0."
+  },
+  {
+   "jogo": "Espanha x Arabia",
+   "hora": "21/06 13h",
+   "bolao": "Espanha 2x0",
+   "disc": "-",
+   "louco": "MOTIVACAO",
+   "fav": "Espanha",
+   "fav_odd": "-",
+   "fav_mkt": "Espanha",
+   "fav_mkt_odd": "-",
+   "elenco": "MOTIVACAO",
+   "texto": "<b>FATOR DECISIVO: motivacao.</b> Apos o 0x0 vexatorio com Cabo Verde, a Espanha vem com sangue nos olhos pra golear. Modelo da Espanha 1x0; subimos pra 2x0 pela motivacao - fator que o modelo nao mede."
+  },
+  {
+   "jogo": "Belgica x Ira",
+   "hora": "21/06 16h",
+   "bolao": "Belgica 1x0",
+   "disc": "-",
+   "louco": "VITORIA APERTADA",
+   "fav": "Belgica",
+   "fav_odd": "-",
+   "fav_mkt": "Belgica",
+   "fav_mkt_odd": "-",
+   "elenco": "VITORIA APERTADA",
+   "texto": "<b>FATOR: vitoria magra.</b> Ira tem defesa solida e empata muito; a Belgica anda irregular. O 1x0 e o MELHOR placar de vitoria belga (EP 1,99 > 2x1 1,89). Modelo da empate; bancamos a vitoria apertada."
+  },
+  {
+   "jogo": "Uruguai x Cabo Verde",
+   "hora": "21/06 19h",
+   "bolao": "Uruguai 1x0",
+   "disc": "-",
+   "louco": "MISMATCH",
+   "fav": "Uruguai",
+   "fav_odd": "-",
+   "fav_mkt": "Uruguai",
+   "fav_mkt_odd": "-",
+   "elenco": "MISMATCH",
+   "texto": "<b>FATOR: mismatch.</b> Uruguai vs Cabo Verde (minnow). Modelo humilde demais (Uruguai so 25%); o 1x0 corrige."
+  },
+  {
+   "jogo": "Nova Zelandia x Egito",
+   "hora": "21/06 22h",
+   "bolao": "Egito 1x0",
+   "disc": "-",
+   "louco": "FAVORITO",
+   "fav": "Egito",
+   "fav_odd": "-",
+   "fav_mkt": "Egito",
+   "fav_mkt_odd": "-",
+   "elenco": "FAVORITO",
+   "texto": "<b>FATOR: Egito (Salah) favorito sobre a Nova Zelandia.</b> Modelo da empate 0x0; bancamos o favorito num 1x0."
+  }
+ ],
+ "odds_fech": {
+  "jogo": "Mexico x Coreia do Sul",
+  "o1": "2.00",
+  "ox": "3.20",
+  "o2": "4.10",
+  "under": "-",
+  "hora": "final 18/06"
+ }
 }

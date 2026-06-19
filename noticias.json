@@ -1,5 +1,15 @@
 [
  {
+  "tipo": "alerta",
+  "hora": "15:01",
+  "texto": "ALERTA - EUA x Australia: Pulisic FORA confirmado (lesao panturrilha) - desfalque do astro dos EUA | ANTERIOR EUA 2x1 tranquilo pelo mando -> NOVO mantemos EUA 2x1 (mercado ainda banca os EUA, 60 por cento) mas o risco de EMPATE sobe: o modelo ja via empate 38 por cento e a ausencia reforca essa leitura. Jogo mais truncado, Under 2,5 ganha forca."
+ },
+ {
+  "tipo": "ultima",
+  "hora": "15:00",
+  "texto": "ULTIMA HORA - EUA x Australia (Seattle, 16h): Pochettino confirma Christian Pulisic FORA (lesao na panturrilha sofrida na estreia vs Paraguai) - principal nome dos EUA desfalca. Provavel EUA: Freese; Freeman, Richards, Ream, A.Robinson; Adams, McKennie, Tillman; Dest, Balogun e o substituto na esquerda. Australia com Popovic ousado: Patrick Beach (22) no gol no lugar de Mat Ryan, e Mohamed Toure (que sentiu caibra vs Turquia) na frente. Mercado: EUA 1.61, empate 4.30, Australia 5.10, Under 2,5 a 1.88. De-vig: EUA cerca de 60, empate 21, Australia 18 por cento."
+ },
+ {
   "tipo": "historico",
   "hora": "14:45",
   "texto": "HISTORICO - EUA x Australia: 4 confrontos previos, TODOS amistosos - EUA 2 vitorias, Australia 1, 1 empate (ultimo: EUA venceu em outubro de 2025). Esta e a PRIMEIRA decisao OFICIAL entre os dois. Amostra pequena e so de amistoso pesa pouco; o palpite segue ancorado no mando de campo (anfitriao, Seattle) e no 2x1 dos EUA."
