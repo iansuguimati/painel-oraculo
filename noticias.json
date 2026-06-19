@@ -1,5 +1,10 @@
 [
  {
+  "tipo": "historico",
+  "hora": "15:11",
+  "texto": "HISTORICO - EUA x Australia: 4 confrontos previos, TODOS amistosos - EUA 2 vitorias, Australia 1, 1 empate. A Australia venceu o primeiro (1x0 em 1992), mas os EUA estao invictos nos 3 seguintes: 0x0 (1998), 3x1 (2010) e 2x1 no amistoso mais recente, em outubro de 2025. Este e o PRIMEIRO duelo OFICIAL entre eles - estreia do confronto em Copa do Mundo. O retrospecto recente sustenta o palpite EUA 2x1."
+ },
+ {
   "tipo": "alerta",
   "hora": "15:01",
   "texto": "ALERTA - EUA x Australia: Pulisic FORA confirmado (lesao panturrilha) - desfalque do astro dos EUA | ANTERIOR EUA 2x1 tranquilo pelo mando -> NOVO mantemos EUA 2x1 (mercado ainda banca os EUA, 60 por cento) mas o risco de EMPATE sobe: o modelo ja via empate 38 por cento e a ausencia reforca essa leitura. Jogo mais truncado, Under 2,5 ganha forca."
@@ -193,20 +198,5 @@
   "tipo": "lance",
   "hora": "18:43",
   "texto": "AO VIVO 90+8 - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Saiu o SEXTO do anfitriao ja nos acrescimos (90+2). Catar com nove desde o 53, goleada historica de Larin (16), Jonathan David (29 e 45+3), Saliba de falta (64) e gol contra de Manai (75). So administracao ate o apito."
- },
- {
-  "tipo": "lance",
-  "hora": "18:26",
-  "texto": "AO VIVO 90+2 - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Anfitriao ampliou na reta final e Jonathan David fechou o hat-trick aos 90+2, assistido por Saliba. Goleada selada contra os nove do Catar."
- },
- {
-  "tipo": "lance",
-  "hora": "18:21",
-  "texto": "AO VIVO 76min - Canada 5x0 Catar (Grupo B, BC Place, Vancouver). Goleada total do anfitriao: gol contra de Mohamed Manai aos 75 fecha em cinco. Catar com NOVE em campo (dois vermelhos) nao segura mais nada e o Canada encaminha a vaga com sobras."
- },
- {
-  "tipo": "lance",
-  "hora": "18:18",
-  "texto": "AO VIVO 74min - Canada 4x0 Catar (Grupo B, BC Place, Vancouver). Jogo decidido e entrando na reta final: anfitriao administra a goleada com Catar reduzido a NOVE (vermelhos de Homam Ahmed aos 33 e Assim Madibo aos 53). Sem gols novos desde o quarto de Saliba aos 64. O Under 2,5 (tip do Disciplinado a 2.00) ja esta perdido ha tempo; o fechamento com pontos e as quatro simulacoes sai no apito final."
  }
 ]
