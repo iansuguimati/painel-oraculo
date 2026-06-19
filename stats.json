@@ -5,7 +5,7 @@
   "roi": "-28,3% (sim Disciplinado, 3 tips)",
   "clv": "0,0% (1 tip, linha de fechamento)",
   "brier": "0,651 (mercado 0,598, 17 jogos)",
-  "bolao": 32,
+  "bolao": 60,
   "sim100": {
     "disc": {
       "stake": 300,
