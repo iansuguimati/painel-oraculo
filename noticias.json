@@ -1,202 +1,57 @@
 [
-  {
-    "tipo": "lance",
-    "hora": "15:43",
-    "texto": "PRE-JOGO - EUA x Australia (Lumen Field, Seattle): escalacoes confirmadas. EUA SEM Pulisic - Pochettino arma 3-4-1-2 com Pepi e Balogun na frente e Tillman de 10; Freese no gol, Tim Ream na zaga. Australia defensiva com linha de 5 (Souttar, Burgess) e O Neill no meio, mesma base do 2x0 sobre a Turquia. Palpite MANTIDO EUA 2x1: mercado segue cerca de 61 por cento nos EUA (-160) e a entrada de Pepi preserva o poder de ataque mesmo sem o astro. Atencao: Australia fechada e Under 2,5 a 1.88 (cerca de 53 por cento) pedem cautela com Over."
-  },
-  {
-    "tipo": "lance",
-    "hora": "15:31",
-    "texto": "ULTIMA HORA - EUA x Australia (16:00, Seattle): EUA favoritos a -160 (aprox 1.62 decimal), empate +320 (4.20), Australia +410 (5.10). De-vig aponta EUA aprox 59 por cento, empate 23, Australia 19. Pulisic em duvida - treinou separado e Pochettino nao confirmou titularidade. Australia com elenco cheio e formato 3-4-2-1 defensivo para absorver e contra-atacar. EUA vem de 4x1 sobre o Paraguai; Australia surpreendeu com 2x0 na Turquia."
-  },
-  {
-    "tipo": "historico",
-    "hora": "15:11",
-    "texto": "HISTORICO - EUA x Australia: 4 confrontos previos, TODOS amistosos - EUA 2 vitorias, Australia 1, 1 empate. A Australia venceu o primeiro (1x0 em 1992), mas os EUA estao invictos nos 3 seguintes: 0x0 (1998), 3x1 (2010) e 2x1 no amistoso mais recente, em outubro de 2025. Este e o PRIMEIRO duelo OFICIAL entre eles - estreia do confronto em Copa do Mundo. O retrospecto recente sustenta o palpite EUA 2x1."
-  },
-  {
-    "tipo": "alerta",
-    "hora": "15:01",
-    "texto": "ALERTA - EUA x Australia: Pulisic FORA confirmado (lesao panturrilha) - desfalque do astro dos EUA | ANTERIOR EUA 2x1 tranquilo pelo mando -> NOVO mantemos EUA 2x1 (mercado ainda banca os EUA, 60 por cento) mas o risco de EMPATE sobe: o modelo ja via empate 38 por cento e a ausencia reforca essa leitura. Jogo mais truncado, Under 2,5 ganha forca."
-  },
-  {
-    "tipo": "ultima",
-    "hora": "15:00",
-    "texto": "ULTIMA HORA - EUA x Australia (Seattle, 16h): Pochettino confirma Christian Pulisic FORA (lesao na panturrilha sofrida na estreia vs Paraguai) - principal nome dos EUA desfalca. Provavel EUA: Freese; Freeman, Richards, Ream, A.Robinson; Adams, McKennie, Tillman; Dest, Balogun e o substituto na esquerda. Australia com Popovic ousado: Patrick Beach (22) no gol no lugar de Mat Ryan, e Mohamed Toure (que sentiu caibra vs Turquia) na frente. Mercado: EUA 1.61, empate 4.30, Australia 5.10, Under 2,5 a 1.88. De-vig: EUA cerca de 60, empate 21, Australia 18 por cento."
-  },
-  {
-    "tipo": "forma",
-    "hora": "14:33",
-    "texto": "FORMA - EUA x Australia: os dois venceram a estreia. EUA atropelaram o Paraguai 4x1; a Australia surpreendeu a Turquia 2x0, recuada e mortal no contra-ataque. Empatados em pontos no Grupo D, quem vencer encaminha a lideranca. Forma recente forte dos dois lados aponta jogo aberto - o mando dos EUA (Lumen Field, Seattle) segue como nosso fator de desempate no 2x1."
-  },
-  {
-    "tipo": "esquenta",
-    "hora": "14:03",
-    "texto": "ESQUENTA - EUA x Australia (anfitriao, Seattle, 16h Brasilia, Grupo D). Em menos de 2h rola o jogo dos donos da casa. O mercado e taxativo: EUA a 61 por cento (modelo de Shin). Nosso modelo cru e mais cauteloso - da empate 38 por cento e ate flerta com a Australia (33 por cento) -, mas aplicamos o fator mando de campo (+7pp) que ele subestima. Palpite do bolao: EUA 2x1, apostando que em duas defesas furadas a casa decide no detalhe. Disciplinado sem aposta de valor ate aqui."
-  },
-  {
-    "tipo": "analise",
-    "hora": "10:30",
-    "texto": "METODOLOGIA - PALPITES COM FATORES DE CONTEXTO: o modelo e calibrado mas HUMILDE - nao mede mando, jogos must-win, motivacao pos-vexame, nem o tamanho real do mismatch. Onde o modelo indica EMPATE por nao enxergar esses fatores, sobrepomos com o FARO HUMANO, documentado jogo a jogo. E uma HIPOTESE a validar: vamos acompanhar se esses fatores rendem mais que seguir o modelo cego. Honestidade primeiro - nao afirmamos saber mais que o modelo, estamos TESTANDO o faro com disciplina."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "19/06 06:00",
-    "texto": "ENCERRADO 18/06: Mexico 1x0 Coreia do Sul. Gol de Luis Romo aos 50 (voleio apos falha do goleiro Kim na saida). O palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO - 6 pontos Prodefy. Favorito do modelo e do mercado (Mexico @2.05) lucrou; o empate do Jogo Louco perdeu. Brier modelo 0,460 vs mercado 0,424."
-  },
-  {
-    "tipo": "resultado",
-    "hora": "19/06 06:00",
-    "texto": "ENCERRADO 18/06: Czechia 1x1 Africa do Sul - jogo travado de meio de tabela. Sem palpite registrado (a partida escapou da agenda da execucao anterior); fica o aprendizado de fechar a janela de agenda mais cedo."
-  },
-  {
-    "tipo": "central",
-    "hora": "09:45",
-    "texto": "BALANCO: bolao acumulado 32 pts; acerto de 1X2 em 72,7 por cento (8/11); Brier medio de 17 jogos: modelo 0,651 vs mercado 0,598 - o mercado ainda le um pouco melhor, por isso o peso do modelo no blend segue baixo (w=0,30)."
-  },
-  {
-    "tipo": "jogo",
-    "hora": "16:00",
-    "texto": "HOJE EUA x Australia (anfitriao, Seattle): mercado poe os EUA em 61 por cento (Shin), o modelo cru so 32 - ratings da Australia inflados pela estreia 2x0 sobre a Turquia. Tratado como erro de modelo. Bolao EUA 2x1. Sem tip."
-  },
-  {
-    "tipo": "jogo",
-    "hora": "19:00",
-    "texto": "HOJE Escocia x Marrocos (Boston): o jogo mais calibrado do dia - modelo e mercado quase iguais (Marrocos ~50 por cento). Marrocos com defesa de elite (segurou o Brasil). Total baixo (Under 2,5 ~60). Bolao Marrocos 1x0. Sem edge, sem tip."
-  },
-  {
-    "tipo": "jogo",
-    "hora": "21:30",
-    "texto": "HOJE Brasil x Haiti: mercado da 89 por cento ao Brasil; o modelo so 47 - o lambda nao captura o abismo de elenco. Bolao Brasil 2x0 (mismatch contra defesa fraca, nao ancorar em 1x0). Sem tip Disciplinado."
-  },
-  {
-    "tipo": "jogo",
-    "hora": "00:00",
-    "texto": "HOJE Turquia x Paraguai (Levi's): os dois perderam a estreia, jogo de vida ou morte. Turquia favorita (~49 por cento Shin). Bolao Turquia 2x1, jogo tende a abrir. Under 2,5 sem edge. Sem tip."
-  },
-  {
-    "tipo": "central",
-    "hora": "09:45",
-    "texto": "METODO HOJE: modelo Maher de ataque/defesa reajustado com 907 jogos (alpha=4, mando 0,27, rho=-0,13, fator de empate F=1,15). Disciplinado sem tip - nenhum mercado passou no corte (Edge +4pp e EV +3 por cento); os 'edges' de empate eram artefato do F. Honestidade primeiro."
-  },
-  {
-    "tipo": "lance",
-    "hora": "21:31",
-    "texto": "AO VIVO 87min - Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Reta final: o anfitriao segura a vantagem do gol de Luis Romo (voleio aos 50). Coreia se lanca ao ataque mas esbarra na marcacao mexicana; nada de novo no placar desde o gol. Palpite Mexico 1x0 no rumo certo, restando so os acrescimos para confirmar."
-  },
-  {
-    "tipo": "lance",
-    "hora": "21:15",
-    "texto": "AO VIVO 73min - Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Entrando nos 15 minutos finais, o anfitriao segura o 1x0 de Luis Romo (50min, voleio). Sem gol novo e sem cartao novo desde o amarelo de Paik Seung-Ho (58min): o Mexico controla a posse e a Coreia ainda nao achou o caminho do empate. Nosso palpite Mexico 1x0 segue exato e o Under 2,5 (fechamento aprox 1.60) segue vivo com so um gol. A Coreia precisa se lancar agora, o que abre o contra-ataque para o segundo mexicano."
-  },
-  {
-    "tipo": "lance",
-    "hora": "21:08",
-    "texto": "AO VIVO 66min - Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m de altitude). Luis Romo abriu aos 50: o goleiro Kim Seung-gyu se atrapalhou com o proprio zagueiro na saida, a bola sobrou limpa e Romo empurrou pro gol vazio. Mexico voltou melhor do intervalo e quase ampliou com Brian Gutierrez. Dois amarelos. Nosso palpite do bolao era Mexico 1x0 - batendo ate aqui."
-  },
-  {
-    "tipo": "odds",
-    "hora": "21:08",
-    "texto": "ODDS NO APITO - Mexico x Coreia: Mexico 2.05 | Empate 3.20 | Coreia 4.00 | Under 2,5 aprox 1.60 (linha de fechamento, base do CLV). Jogo mais bem calibrado do dia: modelo (Mexico 45 / empate 33 / Coreia 22) quase identico ao mercado, nenhum mercado com edge de +4pp - Disciplinado fica de fora."
-  },
-  {
-    "tipo": "lance",
-    "hora": "21:04",
-    "texto": "AO VIVO 60min - Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Amarelo para Paik Seung-Ho aos 58 - a Coreia ja apela para a falta tatica, sinal de pressa atras do empate. O Mexico administra a vantagem do gol de Luis Romo e controla o meio-campo. Restam cerca de 30 minutos para a Coreia se lancar ao ataque; nosso palpite Mexico 1x0 segue valendo."
-  },
-  {
-    "tipo": "lance",
-    "hora": "21:01",
-    "texto": "AO VIVO 58min - Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). O gol de Luis Romo aos 50 (voleio) segue de pe e o anfitriao passou a administrar: recua linhas, controla a posse e aposta no contra-ataque. A Coreia do Sul precisa se lancar para buscar o empate que encaminharia a classificacao, e ao se abrir deixa espaco para o segundo do Mexico - cenario que valoriza tanto o Over tardio quanto o proprio palpite Mexico 1x0, exato ate aqui. Unico cartao continua o amarelo de Lee Kang-In (4min). Sem lance que mude a leitura: favorito do modelo e do mercado (Mexico 2.00) na frente, restam cerca de 30min mais acrescimos."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:54",
-    "texto": "AO VIVO 51min - GOL DO MEXICO! Luis Romo abre o placar aos 50 do segundo tempo: Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). O gol confirma a leitura do Oraculo (palpite Mexico 1x0): o anfitriao furou o ferrolho coreano e agora joga para administrar. A Coreia, que segurava o 0x0, precisa se expor e abre espaco para o segundo."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:52",
-    "texto": "AO VIVO 2o tempo - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Recomeco sem mexer no placar: segue o equilibrio que o modelo projetou (Mexico 45 / empate 33 / Coreia 22). A anfitria ainda nao furou a zaga de Kim Min-jae; um empate encaminha a classificacao dos dois. Cenario de poucos gols mantido, como o Under 2,5 (60 por cento) indicava."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:48",
-    "texto": "AO VIVO 63min - Mexico 1x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). GOL DO MEXICO aos 50min: Luis Romo recebeu no meio da area e bateu de direita no canto, Mexico 1x0. O gol confirma nosso palpite Mexico 1x0 e a leitura do favorito anfitriao furando o bloco coreano no segundo tempo. Aos 58min, Paik Seung-Ho levou amarelo. Coreia precisa se expor para buscar o empate, o que abre espaco para o contra-ataque mexicano. Under 2,5 (linha de fechamento 1.74) segue vivo com so um gol ate aqui. Sem tip do Disciplinado neste jogo: modelo e mercado quase colados."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:39",
-    "texto": "AO VIVO INTERVALO - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Primeiro tempo travado e equilibrado, como o modelo antecipou - era o jogo mais bem calibrado do dia (Under 2,5 colado em 60). Mexico anfitria levou leve vantagem com o mando e a altitude, mas nao furou a defesa coreana; Coreia organizada sem criar muito. Com 0x0 no intervalo, o Under 2,5 (fechamento 1.74) e o Empate do Jogo Louco (3.20) largam na frente; o favorito do modelo e do mercado (Mexico 2.00) ainda depende do gol no segundo tempo. Sem alerta - placar dentro da leitura."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:28",
-    "texto": "AO VIVO 43min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Fim de primeiro tempo se aproximando e segue o 0x0: jogo de pouca chance clara, com o Mexico mandando na posse mas esbarrando no bloco coreano, e a Coreia bem armada para o contra-ataque. Unico amarelo continua sendo o de Lee Kang-In (4min). O Under 2,5 (linha de fechamento 1.74) se confirmando ate aqui; palpite Mexico 1x0 segue vivo, sem tip do Disciplinado neste jogo (modelo e mercado quase colados)."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:17",
-    "texto": "AO VIVO 34min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Mexico mais perto do gol: Brian Gutierrez bateu de fora da area com assistencia de Luis Romo e passou perto. Coreia se segura na marcacao e tenta sair em transicao; Lee Kang-In ja amarelado (4min) precisa cuidar das divididas. Placar magro mantem nosso palpite Mexico 1x0 vivo, mas o 0x0 ate aqui valoriza Under 2,5."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:09",
-    "texto": "AO VIVO 28min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Segue 0x0 e travado: nenhuma chance clara desde o amarelo de Lee Kang-In aos 4min, unico cartao do jogo. Mexico circula a bola no campo de ataque sem furar o bloco coreano; Coreia bem postada esperando o contra-ataque. Under 2,5 (linha de fechamento 1.74) se confirmando ate aqui. Palpite segue Mexico 1x0; sem tip do Disciplinado, o jogo mais calibrado do dia."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:07",
-    "texto": "BOLA ROLANDO - Mexico x Coreia do Sul ja em andamento no Estadio Akron, Guadalajara (1566m, Grupo A): 0x0 no primeiro tempo, cerca de 22min. Apito saiu antes do horario que estava na agenda (a API ESPN confirma o jogo AO VIVO). Mexico anfitriao com Raul Jimenez no comando; Coreia armada para fechar e sair no contra-ataque, com Kang-In Lee e Min-Jae Kim. Sem tip do Disciplinado: jogo o mais calibrado do dia, modelo e mercado quase identicos. Bolao: Mexico 1x0."
-  },
-  {
-    "tipo": "lance",
-    "hora": "20:02",
-    "texto": "AO VIVO 19min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Duelo de quem venceu a estreia: Mexico bateu a Africa do Sul por 2x0 e a Coreia passou pela Republica Tcheca por 2x1, os dois com 3 pontos no grupo. Segue equilibrado e travado, poucas chances claras de gol; unico amarelo ainda e o de Lee Kang-In (4min). O Under 2,5 (linha 1.65) ate aqui se confirma."
-  },
-  {
-    "tipo": "lance",
-    "hora": "19:58",
-    "texto": "AO VIVO 16min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Segue equilibrado e sem gols. Unico registro ate aqui e o amarelo de Lee Kang-In aos 4min por falta; desde entao jogo estudado, sem chance clara que mude a leitura. Palpite segue Mexico 1x0, mercado ainda com o anfitriao favorito."
-  },
-  {
-    "tipo": "lance",
-    "hora": "19:53",
-    "texto": "AO VIVO 10min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Jogo aberto e equilibrado, ainda sem o gol. Os dois venceram a estreia (Mexico 2x0 Africa do Sul, Coreia 2x1 Republica Tcheca), entao quem ganhar encaminha a classificacao. Palpite Mexico 1x0 segue de pe; no apito o mercado dava Mexico 2.00 e Under 2,5 a 1.65 - leitura de jogo controlado e de poucos gols."
-  },
-  {
-    "tipo": "lance",
-    "hora": "19:49",
-    "texto": "AO VIVO 5min - Mexico 0x0 Coreia do Sul (Grupo A, Estadio Akron, Guadalajara). Comeco pegado: amarelo cedo para Lee Kang-In aos 4min por falta tatica. Mexico tenta impor o mando e a altitude (1566m); Coreia bem postada. Sem sustos ainda."
-  },
-  {
-    "tipo": "forma",
-    "hora": "19:45",
-    "texto": "FORMA - Mexico x Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 22h Brasilia). Mexico vem QUENTE: 9 vitorias nos ultimos 10 jogos (unico tropeco um 0x0 com a Costa Rica) e estreia solida batendo a Africa do Sul 2x0 (Julian Quinones e Raul Jimenez). A Coreia mostrou forca mental: estava perdendo e VIROU sobre a Czechia 2x1, com Hwang In-beom e Oh Hyeon-gyu marcando nos ultimos 25 min. Os dois chegam com 3 pontos e moral. Leitura do modelo segue firme: anfitria leve favorita (45 por cento modelo / 47 mercado), jogo equilibrado e sem tip de valor ate aqui. Fontes: FanDuel Research, RotoWire (18/06)."
-  },
-  {
-    "tipo": "odds",
-    "hora": "19:43",
-    "texto": "ODDS NO APITO - Mexico x Coreia do Sul: Mexico 2.00 | Empate 3.20 | Coreia do Sul 4.10 | Under 2,5 1.65 (linha de fechamento, base do CLV). Mercado e modelo quase identicos (Mexico 45 a 47 por cento) - jogo mais bem calibrado do dia, sem tip do Disciplinado."
-  },
-  {
-    "tipo": "lance",
-    "hora": "19:43",
-    "texto": "BOLA ROLANDO - comeca Mexico x Coreia do Sul no Estadio Akron, Guadalajara. Atencao: a bola rolou ANTES do horario que constava na agenda (22h) - jogo ja ao vivo. Palpite do bolao: Mexico 1x0. Sem aposta de valor (Disciplinado fora): modelo e mercado batem, nenhum mercado com edge acima de 4pp."
-  },
-  {
-    "tipo": "esquenta",
-    "hora": "19:17",
-    "texto": "ESQUENTA - Mexico x Coreia do Sul (Grupo A, Estadio Akron, Guadalajara, 1566m). Agenda marca 22:00 mas os dois jogos de hoje rolaram cerca de 2h adiantados (Suica 4x1 Bosnia e Canada 6x0 Catar ja encerrados) - monitorando a ESPN para o apito real. Os dois vem de vitoria na estreia: Mexico 2x0 Africa do Sul (Quinones e Raul Jimenez), Coreia do Sul 2x1 Czechia (virada com Hwang In-beom e Oh Hyeon-gyu nos minutos finais). TIME NEWS: Cesar Montes (zagueiro do Mexico) SUSPENSO por vermelho na estreia - Edson Alvarez recua para a zaga e Gilberto Mora, de 17 anos, ganha vaga no meio. Coreia sem desfalques. Mercado pre-jogo: Mexico em torno de 1.95, empate 3.30, Coreia 4.20, linha de gols 2,5. Palpite do bolao: Mexico 1x0. Disciplinado: sem aposta - e o jogo mais calibrado do dia (Mexico 45 do modelo vs 47 do mercado), sem valor."
-  },
-  {
-    "tipo": "fechamento",
-    "hora": "18:53",
-    "texto": "FIM DE JOGO - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Goleada do anfitriao com o Catar reduzido a NOVE (vermelhos de Homam aos 33 e Madibo aos 53). Larin abriu aos 16, Jonathan David fez hat-trick (29, 45+3 e 90+2), Nathan Saliba marcou de falta aos 64 e ainda saiu o quinto na reta final. BOLAO: palpite Canada 1x0 acertou o vencedor e o zero do Catar = 4 pontos (total do dia 27). SIMS 100 reais: Disciplinado (Under 2,5 a 2.00) PERDEU num jogo de 6 gols, -100; Jogo Louco (empate 5.70) -100; Favorito do Modelo (Canada 1.278) +28; Favorito do Mercado (Canada 1.278) +28. CLV do Under: pego e fechou a 2.00, igual a 0 por cento. LICAO: o modelo subestimou o anfitriao de novo (deu 62 por cento de vitoria, mercado 76) e o lambda do Catar inflou o Under - mando de campo mais expulsao cedo virou festa de gols. Proximo: Mexico x Coreia do Sul as 22:00."
-  },
-  {
-    "tipo": "lance",
-    "hora": "18:43",
-    "texto": "AO VIVO 90+8 - Canada 6x0 Catar (Grupo B, BC Place, Vancouver). Saiu o SEXTO do anfitriao ja nos acrescimos (90+2). Catar com nove desde o 53, goleada historica de Larin (16), Jonathan David (29 e 45+3), Saliba de falta (64) e gol contra de Manai (75). So administracao ate o apito."
-  }
+{
+"tipo": "previsao",
+"hora": "15:42",
+"texto": "PRE-JOGO (19/06) - EUA x Australia, 16h, Lumen Field, Seattle (Grupo D). Vale a lideranca e a vaga: os dois venceram a estreia por margem (EUA 4x1 Paraguai, Australia tambem por mais de um gol). Odds de mercado: EUA 1.62 | Empate 4.20 | Australia 5.10 | Under 2,5 1.88. EUA favorito claro. Escalacoes: Pochettino deve repetir o XI que bateu o Paraguai, mas Pulisic e duvida para comecar; Australia com elenco quase cheio, Toure em duvida (panturrilha). Balogun (2 gols na estreia) e o nome a observar. Sem tip do Disciplinado - sem analise propria do modelo para hoje, nao publicamos edge sem base (honestidade primeiro)."
+},
+{
+"tipo": "lance",
+"hora": "16:00",
+"texto": "BOLA ROLANDO - comeca Suica x Bosnia no SoFi Stadium, Los Angeles (Grupo B). Bolao: Suica 1x0. Sem tip do Disciplinado - o edge do empate era erro do modelo (subestima a Suica), nao valor real."
+},
+{
+"tipo": "odds",
+"hora": "16:00",
+"texto": "ODDS NO APITO - Suica x Bosnia: Suica 1.59 | Empate 4.10 | Bosnia 5.75 | Under 2,5 1.81 (linha de fechamento, base do CLV)."
+},
+{
+"tipo": "resultado",
+"hora": "05:05",
+"texto": "FIM (14/06): Alemanha 7x1 Curacao. Palpite Alemanha 3x0 = 3 PONTOS (vencedor certo; a goleada veio muito acima do nosso placar)."
+},
+{
+"tipo": "resultado",
+"hora": "05:06",
+"texto": "FIM (14/06): Suecia 5x1 Tunisia = palpite Suecia 1x0 = 3 PONTOS. Holanda 2x2 Japao = palpite Holanda 2x1 = 1 PONTO (acertou os 2 gols da Holanda, mas deu empate)."
+},
+{
+"tipo": "resultado",
+"hora": "05:07",
+"texto": "FIM (14/06): Costa do Marfim 1x0 Equador. Palpite Equador 1x0 = 0 PONTOS (placar invertido), MAS o tip do Disciplinado Under 1,75 GANHOU (1 gol no jogo, retorno 2.15, +115 em 100 reais)."
+},
+{
+"tipo": "resumo",
+"hora": "05:10",
+"texto": "PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8). Brier modelo 0,518 vs 0,511 mercado (n=8). Disciplinado: 1 tip resolvido, 1 acerto. Modelo reajustado: 918 jogos, alpha 4, F=1,15, rho=-0,13."
+},
+{
+"tipo": "info",
+"hora": "05:12",
+"texto": "Os dias 15 a 17/06 rodaram sem palpite publicado (execucao automatica nao disparou); hoje Czechia 1x1 Africa do Sul tambem ficou sem palpite. Esses jogos nao entram no placar do modelo - honestidade primeiro."
+},
+{
+"tipo": "previsao",
+"hora": "05:15",
+"texto": "Suica x Bosnia (16h, Grupo B, Los Angeles): palpite Suica 1x0. O modelo da a Suica so 47 por cento contra 63 do mercado - favorita por margem menor que a precificada; o empate nominal e erro nosso, nao tip."
+},
+{
+"tipo": "previsao",
+"hora": "05:16",
+"texto": "Canada x Catar (19h, Vancouver, anfitriao): palpite Canada 1x0. UNICO TIP de hoje: UNDER 2,5 a 2.00 - Catar com ataque fraco e Canada controlando sem abrir o jogo (Edge +10pp, EV +12,5 por cento)."
+},
+{
+"tipo": "previsao",
+"hora": "05:17",
+"texto": "Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao): palpite Mexico 1x0. Jogo mais calibrado do dia (Mexico 45 modelo vs 47 mercado) - sem valor para tip."
+}
 ]
