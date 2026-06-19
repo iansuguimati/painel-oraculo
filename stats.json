@@ -1,67 +1,67 @@
 {
- "updated": "18/06/2026",
- "tips": 3,
- "hit": "70,0% (7/10)",
- "roi": "-28,3% (3 tips resolvidos)",
- "clv": "0% (Under 2,5 pego e fechado a 2.00)",
- "brier": "0,480 (mercado 0,438)",
- "bolao": 27,
- "sim100": {
-  "disc": {
-   "stake": 300,
-   "pnl": -85,
-   "roi": "-28,3%"
+  "updated": "18/06/2026",
+  "tips": 3,
+  "hit": "70,0% (7/10)",
+  "roi": "-28,3% (sim Disciplinado, 3 tips)",
+  "clv": "0,0% (1 tip, linha de fechamento)",
+  "brier": "0,663 (mercado 0,609, 16 jogos)",
+  "bolao": 26,
+  "sim100": {
+    "disc": {
+      "stake": 300,
+      "pnl": -85,
+      "roi": "-28,3%"
+    },
+    "louco": {
+      "stake": 1600,
+      "pnl": -840,
+      "roi": "-52,5%"
+    },
+    "fav": {
+      "stake": 1600,
+      "pnl": -309,
+      "roi": "-19,3%"
+    },
+    "favmkt": {
+      "stake": 1600,
+      "pnl": -309,
+      "roi": "-19,3%"
+    }
   },
-  "louco": {
-   "stake": 1600,
-   "pnl": -840,
-   "roi": "-52,5%"
+  "lines": {
+    "bolao": "Mexico 1x0",
+    "disc": "-",
+    "louco": "Empate Mexico x Coreia (3.20)"
   },
-  "fav": {
-   "stake": 1600,
-   "pnl": -309,
-   "roi": "-19,3%"
+  "next": {
+    "jogo": "Mexico x Coreia do Sul",
+    "hora": "22:00 (Brasilia)"
   },
-  "favmkt": {
-   "stake": 1600,
-   "pnl": -309,
-   "roi": "-19,3%"
+  "alerta": {
+    "ativo": false
+  },
+  "analise": "RODADA 2 - 18/06. ENCERRADO: Canada 6x0 Catar - vitoria HISTORICA do anfitriao (1a do Canada em Copas masculinas, maior de uma selecao da Concacaf em Mundiais). Hat-trick de Jonathan David (29, 45+3, 90+2), Larin (16), Saliba (64) e gol contra de Manai (75); Catar com 9 (vermelhos aos 33 e 53), Kone lesionado. Bolao Canada 1x0 acertou o vencedor (3 pts, total 26). Disciplinado: Under 2,5 a 2.00 PERDEU (-100, CLV 0%) - erramos para baixo de novo num jogo de mando claro; favorito do modelo e do mercado (Canada 1.278) +28 cada; Jogo Louco -100; Brier modelo 0,229 vs mercado 0,090 (mercado leu melhor). AO VIVO AGORA: Mexico 1x0 Coreia do Sul (Romo aos 50, apos falha do goleiro Kim), ~78min em Guadalajara (1566m) - o jogo mais calibrado do dia, sem tip; palpite do bolao (Mexico 1x0) batendo no placar. Brier medio acumulado (16 jogos) modelo 0,663 vs 0,609 mercado; 1X2 70 por cento (7/10). JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
+  "analises": [
+    {
+      "jogo": "Mexico x Coreia do Sul (22:00, anfitriao, altitude)",
+      "hora": "22:00",
+      "bolao": "Mexico 1x0 (EP 2,21)",
+      "disc": "-",
+      "louco": "Empate (3.20)",
+      "fav": "Mexico",
+      "fav_odd": "2.05",
+      "fav_mkt": "Mexico",
+      "fav_mkt_odd": "2.05",
+      "elenco": "Mexico anfitria (mando +0,27, altitude 1566m) ataque 0,12/defesa -0,43 vs Coreia ataque 0,19/defesa -0,20",
+      "texto": "Mexico x Coreia do Sul no Estadio Akron, Guadalajara, a 1566m de altitude - Mexico ANFITRIA (mando +0,27). Ambos com 3 pontos (Mexico 2x0 Africa do Sul, Coreia 2x1 Czechia). ELENCO/MODELO: ataque Mexico 0,12 vs defesa Coreia -0,20; ataque Coreia 0,19 vs defesa Mexico -0,43 (Coreia tem ataque decente). Com o mando: lambda Mexico 1,42 x Coreia 0,92, total 2,34. Poisson DC: 1X2 modelo Mexico 45 / empate 33 / Coreia 22. DE-VIG SHIN (Mexico 2.05 / X 3.20 / Coreia 4.00): Mexico 47 / empate 30 / Coreia 23. CALIBRACAO: e o jogo mais bem calibrado do dia - modelo e mercado quase identicos (Mexico 45 vs 47), nenhum mercado com edge acima de +4pp; Under 2,5 colado (60 modelo e mercado). BOLAO: Mexico 1x0, EP 2,21 - anfitria leve favorita; o empate e alto (33) mas nao supera o Mexico. A altitude pesa contra a Coreia nao aclimatada, efeito ja embutido no mando. PRODUTO: sem tip - sem valor."
+    }
+  ],
+  "odds_fech": {
+    "jogo": "Mexico x Coreia do Sul",
+    "o1": "2.00",
+    "ox": "3.20",
+    "o2": "4.10",
+    "under": "-",
+    "hora": "21:18"
   }
- },
- "lines": {
-  "bolao": "Mexico 1x0",
-  "disc": "-",
-  "louco": "Empate Mexico x Coreia do Sul (3.20)"
- },
- "next": {
-  "jogo": "Mexico x Coreia do Sul",
-  "hora": "22:00 (Brasilia)"
- },
- "alerta": {
-  "ativo": false
- },
- "analise": "RODADA 2 - 18/06. ENCERRADO: Suica 4x1 Bosnia - o 0x0 ate o minuto 74 virou goleada na reta final (Manzambi 2, Vargas, Xhaka de penalti; Mahmic descontou, Bosnia com 10 desde o vermelho aos 80). Bolao Suica 1x0 acertou o vencedor (3 pts), favorito do modelo e do mercado (Suica 1.53) +53 cada na simulacao, Jogo Louco (empate) -100. Brier modelo 0,427 vs mercado 0,208 - o mercado leu melhor. AO VIVO AGORA: Canada 3x0 Catar no intervalo (Larin 16, J.David 29 e 45+3; Catar com 10 desde o vermelho aos 33). ALERTA honesto: o Under 2,5 a 2.00, unico tip do Disciplinado hoje, ja MORREU com 3 gols no 1o tempo - sera -100 no fechamento; erramos para baixo num jogo de anfitriao que abriu cedo. AINDA HOJE: Mexico x Coreia do Sul (22h, Guadalajara 1566m), o jogo mais calibrado do dia, sem tip. PLACAR acumulado: 23 pts Prodefy, 1X2 66,7 por cento (6/9), Brier modelo 0,508 vs 0,477 mercado. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
- "analises": [
-  {
-   "jogo": "Mexico x Coreia do Sul (22:00, anfitriao, altitude)",
-   "hora": "22:00",
-   "bolao": "Mexico 1x0 (EP 2,21)",
-   "disc": "-",
-   "louco": "Empate (3.20)",
-   "fav": "Mexico",
-   "fav_odd": "2.05",
-   "fav_mkt": "Mexico",
-   "fav_mkt_odd": "2.05",
-   "elenco": "Mexico anfitria (mando +0,27, altitude 1566m) ataque 0,12/defesa -0,43 vs Coreia ataque 0,19/defesa -0,20",
-   "texto": "Mexico x Coreia do Sul no Estadio Akron, Guadalajara, a 1566m de altitude - Mexico ANFITRIA (mando +0,27). Ambos com 3 pontos (Mexico 2x0 Africa do Sul, Coreia 2x1 Czechia). ELENCO/MODELO: ataque Mexico 0,12 vs defesa Coreia -0,20; ataque Coreia 0,19 vs defesa Mexico -0,43 (Coreia tem ataque decente). Com o mando: lambda Mexico 1,42 x Coreia 0,92, total 2,34. Poisson DC: 1X2 modelo Mexico 45 / empate 33 / Coreia 22. DE-VIG SHIN (Mexico 2.05 / X 3.20 / Coreia 4.00): Mexico 47 / empate 30 / Coreia 23. CALIBRACAO: e o jogo mais bem calibrado do dia - modelo e mercado quase identicos (Mexico 45 vs 47), nenhum mercado com edge acima de +4pp; Under 2,5 colado (60 modelo e mercado). BOLAO: Mexico 1x0, EP 2,21 - anfitria leve favorita; o empate e alto (33) mas nao supera o Mexico. A altitude pesa contra a Coreia nao aclimatada, efeito ja embutido no mando. PRODUTO: sem tip - sem valor."
-  }
- ],
- "odds_fech": {
-  "jogo": "Mexico x Coreia",
-  "o1": "2.05",
-  "ox": "3.20",
-  "o2": "4.00",
-  "under": "1.60",
-  "hora": "21:08"
- }
 }
