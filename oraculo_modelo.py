@@ -91,7 +91,7 @@ def fit(matches, alpha=4.0, iters=25, half=300):
     return {"b0": float(w[2*T+1]), "home": float(w[2*T]), "alpha": alpha, "atk": atk, "dfn": dfn, "teams": teams}
 
 def lam(model, home, away, neutral=True):
-    hadv = 0.0 if (neutral and home not in ANFITRIOES) else model["home"]
+    hadv = (0.50 if home in ANFITRIOES else 0.0) if neutral else model["home"]  # bonus anfitriao de Copa (validado: hosts venceram 4/5 + literatura)
     lh = exp(model["b0"] + model["atk"].get(home, 0) + model["dfn"].get(away, 0) + hadv)
     la = exp(model["b0"] + model["atk"].get(away, 0) + model["dfn"].get(home, 0))
     return lh, la
