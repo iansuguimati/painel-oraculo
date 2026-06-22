@@ -1,0 +1,15 @@
+{
+  "data": "2026-06-23",
+  "overrides": {
+    "Colombia x Congo DR": {
+      "placar": "Colombia 1x0",
+      "motivo": "Modelo crava empate (44%) mas mercado da Colombia favorita solida (-195, ~66%); modelo subestima o gap de qualidade. Override humano declarado."
+    }
+  },
+  "palpites_modelo": {
+    "Portugal x Uzbequistao": "1x0",
+    "Inglaterra x Gana": "1x0",
+    "Panama x Croacia": "Croacia 0x1",
+    "Colombia x Congo DR": "1x1 (substituido por override 1x0)"
+  }
+}
