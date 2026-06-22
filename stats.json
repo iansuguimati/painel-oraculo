@@ -1,5 +1,5 @@
 {
-  "updated": "19/06/2026",
+  "updated": "22/06 14:52",
   "tips": 3,
   "hit": "53,6% (15/28)",
   "roi": "-28,3% (sim Disciplinado, 3 tips)",
@@ -33,27 +33,63 @@
     "disc": "-",
     "louco": "Empate Brasil x Haiti (12.0)"
   },
-  "next": {
-    "jogo": "Nova Zelandia x Egito",
-    "hora": "22:00 (Brasilia)"
-  },
+  "next": "Argentina x Austria - hoje 14h (Brasilia)",
   "alerta": {
     "ativo": false
   },
   "analise": "RODADA 2 - 19/06. ENCERRADO 18/06: Mexico 1x0 Coreia do Sul - palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO (6 pts! gol de Luis Romo aos 50, voleio apos falha do goleiro Kim). Favorito do modelo e do mercado Mexico @2.05 +105 cada; Jogo Louco (empate @3.20) -100; Brier modelo 0,460 vs mercado 0,424. Tambem encerrado: Czechia 1x1 Africa do Sul (sem palpite - escapou da agenda anterior). Bolao acumulado 32 pts; 1X2 72,7 por cento (8/11); Brier medio 17 jogos modelo 0,651 vs 0,598 mercado. HOJE (4 jogos): EUA x Australia, Escocia x Marrocos, Brasil x Haiti, Turquia x Paraguai. ATENCAO: o modelo cru subestima fortemente os favoritos hoje (EUA 32, Brasil 47) - ratings de Australia/Haiti inflados por amostra curta; tratado como ERRO DE MODELO (modo sombra), ancorado no mercado via blend w=0,30. Sem tip Disciplinado - nenhum edge real (os 'edges' de empate vem do fator F, nao do mercado). Modelo Maher ataque/defesa, 907 jogos, alpha=4, mando 0,27, rho=-0,13, F=1,15. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
   "analises": [
     {
-      "jogo": "Nova Zelandia x Egito",
-      "hora": "21/06 22h",
-      "bolao": "Egito 1x0",
+      "jogo": "Argentina x Austria",
+      "hora": "22/06 14h",
+      "bolao": "Argentina 2x1",
       "disc": "-",
-      "louco": "FAVORITO",
-      "fav": "Egito",
+      "louco": "-",
+      "fav": "Empate (modelo 39%) / Argentina no override",
       "fav_odd": "-",
-      "fav_mkt": "Egito",
+      "fav_mkt": "Argentina",
+      "fav_mkt_odd": "-210",
+      "elenco": "Messi (ARG)",
+      "texto": "Modelo ve jogo parelho: 37/39/23 (casa/empate/fora), lambda ARG 1.30 (ja com fator estrela Messi +8%) x AUT 0.97, F-contexto 1.49. O modelo cravaria 1x1. OVERRIDE HUMANO DECLARADO: fixei Argentina 2x1 pelo FATOR MESSI - craque decide jogo travado de margem minima, algo que a forca coletiva nao captura. O mercado concorda (Argentina ~65% de-vig, -210), reforcado pela torcida argentina gigante em Dallas (mando disfarcado). Desvio consciente do numero puro."
+    },
+    {
+      "jogo": "Franca x Iraque",
+      "hora": "22/06 18h",
+      "bolao": "Franca 2x0",
+      "disc": "-",
+      "louco": "-",
+      "fav": "Franca (modelo 51%)",
+      "fav_odd": "-",
+      "fav_mkt": "Franca",
+      "fav_mkt_odd": "-1100",
+      "elenco": "Mbappe / Dembele (FRA)",
+      "texto": "lambda FRA 1.53 (com fator estrela Mbappe/Dembele) x IRQ 0.73, F-contexto 1.20. Modelo cravaria 1x0 (EP 2.51) mas e HUMILDE DEMAIS: da 0x0 com 13.6% e Over2.5 so 38%, contra mercado Franca -1100 e linha O/U 3.5 (espera 2+ gols da Franca). Causa: Iraque tem rating defensivo inflado por adversarios fracos na Asia. UPGRADE HUMANO DECLARADO para 2x0: Franca favoritissima, ataque do Iraque fraco (lambda 0.73) + defesa francesa elite = jogo limpo provavel. 2x0 (11.5%) mais provavel que 2x1 (8.4%)."
+    },
+    {
+      "jogo": "Noruega x Senegal",
+      "hora": "22/06 21h",
+      "bolao": "1x1",
+      "disc": "-",
+      "louco": "-",
+      "fav": "Empate (modelo 37%)",
+      "fav_odd": "-",
+      "fav_mkt": "-",
       "fav_mkt_odd": "-",
-      "elenco": "FAVORITO",
-      "texto": "<b>FATOR: Egito (Salah) favorito sobre a Nova Zelandia.</b> Modelo da empate 0x0; bancamos o favorito num 1x0."
+      "elenco": "Haaland (NOR)",
+      "texto": "Jogo equilibrado: 36/37/26, lambda NOR 1.39 (com fator estrela Haaland) x SEN 1.25, F-contexto 1.53. Dois ataques bons - maior BTTS (57%) e Over2.5 (45%) do dia. Palpite do modelo 1x1; sem override."
+    },
+    {
+      "jogo": "Jordania x Argelia",
+      "hora": "23/06 00h",
+      "bolao": "Argelia 0x1",
+      "disc": "-",
+      "louco": "-",
+      "fav": "Argelia (modelo 56%)",
+      "fav_odd": "-",
+      "fav_mkt": "-",
+      "fav_mkt_odd": "-",
+      "elenco": "-",
+      "texto": "Mismatch a favor da Argelia: 13/29/56, lambda JOR 0.70 x ALG 1.64, F-contexto baixo 1.13 (empate raro em mismatch). Modelo confiante na Argelia. Palpite 0x1; sem override."
     }
   ],
   "odds_fech": {}
