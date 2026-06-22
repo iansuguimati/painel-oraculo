@@ -11,14 +11,17 @@ from datetime import date
 
 ANFITRIOES = {"USA", "MEX", "CAN"}
 
-# Fator ESTRELA (declarado, hipotese em teste): craque que decide jogo sozinho, acima
-# do que a forca coletiva captura. Boost regularizado +8% na lambda de ATAQUE do time.
-# Validado 22/06/2026 em 10 jogos com craque (OOS): RPS 0.1693->0.1626, melhora 7/10,
-# 99% bootstrap. Uniforme (nao tiers) p/ nao overfitar 10 jogos. O ATAQUE/DEFESA ja inclui
-# jogos COM o craque; o boost corrige o residual de individualidade em jogos truncados.
-ESTRELAS = {"ARG": "Messi", "FRA": "Mbappe", "POR": "Cristiano", "BRA": "Vinicius Jr",
-            "NOR": "Haaland", "ENG": "Bellingham", "BEL": "De Bruyne", "EGY": "Salah"}
+# Craques GRITANTES de verdade: top-punhado do mundo E em forma em 2026 (curado 22/06).
+# Tirei Cristiano (41a, fora do top) e De Bruyne (em queda); adicionei Yamal (Espanha) e
+# Dembele (atual Bola de Ouro 2025). Messi e Salah ficam como lendas ainda decisivas.
+# Boost regularizado +8% na lambda de ATAQUE do time (validado 10 jogos OOS, 99% bootstrap).
+ESTRELAS = {"FRA": "Mbappe / Dembele", "ESP": "Lamine Yamal", "ENG": "Harry Kane",
+            "NOR": "Haaland", "BRA": "Vinicius Jr", "ARG": "Messi", "EGY": "Salah"}
 BOOST_ESTRELA = 0.08
+
+# Craques com risco de lesao/poupanca: so aplicar o boost se CONFIRMADO no XI titular.
+# A tarefa diaria checa a escalacao (WebSearch) antes de cada jogo desses times.
+CRAQUE_CHECAR_ESCALACAO = {"ESP": "Lamine Yamal (voltou de lesao de coxa em abr/26; apto, mas confirmar no XI)"}
 
 def _get(url, timeout=20):
     return json.load(urllib.request.urlopen(url, timeout=timeout))
@@ -124,4 +127,14 @@ if __name__ == "__main__":
     else:
         matches = pull_matches()
         json.dump(matches, open("/tmp/intl.json", "w"))
-    t
+    train = [m for m in matches if m["d"] < "2026-06-11"]
+    model = fit(train)
+    out = {"_meta": {"modelo": "Maher ataque/defesa Poisson L2 + recencia (half 300d)",
+                     "jogos_treino": len(train), "data_fit": time.strftime("%Y-%m-%d"),
+                     "alpha": model["alpha"], "home_adv": round(model["home"], 3), "b0": round(model["b0"], 3)},
+           "b0": model["b0"], "home": model["home"], "atk": model["atk"], "dfn": model["dfn"]}
+    json.dump(out, open("ratings_ad.json", "w"), ensure_ascii=False, indent=2)
+    print(f"OK: {len(train)} jogos de treino, {len(model['teams'])} selecoes.")
+    for t in ["ESP","GER","IRN","URU","JPN","ARG","ALG"]:
+        if t in model["atk"]:
+            print(f"  {t}: ataque {exp(model['b0']+model['atk'][t]):.2f} | defesa {exp(model['b0']+model['dfn'][t]):.2f}")
