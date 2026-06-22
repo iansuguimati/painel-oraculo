@@ -191,7 +191,7 @@ function loadCharts(){if(!window.Chart)return;getJSON("historico.json").then(fun
   var t='<table class="trk"><thead><tr><th>Data</th><th>Jogo</th><th>Venc</th><th>Placar</th><th>Pts</th><th>Brier k/m</th><th>Fav</th><th>Disc</th><th>Louco</th><th>Mkt</th></tr></thead><tbody>'+rows+'</tbody></table>';
   var te=$("trkTable");if(te)te.innerHTML=t;})();
   var labels=H.map(function(g){return g.jogo;});
-  function cum(k){var t=0;return H.map(function(g){t+=g[k];return t;});}
+  function cum(k){var t=0;return H.map(function(g){t+=(g[k]||0);return t;});}
   var gc="rgba(255,255,255,.07)",tc="#9fb3c8";
   var base={responsive:true,plugins:{legend:{labels:{color:tc,boxWidth:12,font:{size:11}}}},scales:{x:{ticks:{color:tc,font:{size:10}},grid:{color:gc}},y:{ticks:{color:tc,font:{size:10}},grid:{color:gc}}}};
   new Chart(document.getElementById("cLucro"),{type:"line",data:{labels:labels,datasets:[
@@ -203,7 +203,7 @@ function loadCharts(){if(!window.Chart)return;getJSON("historico.json").then(fun
   new Chart(document.getElementById("cAcerto"),{type:"line",data:{labels:labels,datasets:[
     {label:"% vencedor",data:vp,borderColor:"#3fb98a",backgroundColor:"#3fb98a",tension:.2},
     {label:"% placar exato",data:pp,borderColor:"#C8A24B",backgroundColor:"#C8A24B",tension:.2}]},options:o2});
-  var bm=[],bk=[],tm=0,tk=0;H.forEach(function(g,i){tm+=g.brier_m;tk+=g.brier_k;bm.push((tm/(i+1)).toFixed(3));bk.push((tk/(i+1)).toFixed(3));});
+  var bm=[],bk=[],tm=0,nm=0,tk=0,nk=0;H.forEach(function(g){if(g.brier_m!=null){tm+=g.brier_m;nm++;bm.push((tm/nm).toFixed(3));}else{bm.push(null);}if(g.brier_k!=null){tk+=g.brier_k;nk++;bk.push((tk/nk).toFixed(3));}else{bk.push(null);}});
   new Chart(document.getElementById("cBrier"),{type:"line",data:{labels:labels,datasets:[
     {label:"Modelo",data:bm,borderColor:"#C8A24B",backgroundColor:"#C8A24B",tension:.2},
     {label:"Mercado",data:bk,borderColor:"#7fb0e6",backgroundColor:"#7fb0e6",tension:.2}]},options:base});

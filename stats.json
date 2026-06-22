@@ -1,10 +1,10 @@
 {
-  "updated": "22/06 14:59",
+  "updated": "22/06 15:08",
   "tips": 3,
-  "hit": "53,6% (15/28)",
+  "hit": "57,5% (23/40)",
   "roi": "-28,3% (sim Disciplinado, 3 tips)",
   "clv": "0,0% (1 tip, linha de fechamento)",
-  "brier": "0,651 (mercado 0,598, 17 jogos)",
+  "brier": "0,549 (mercado 0,598, 17 jogos)",
   "bolao": 98,
   "sim100": {
     "disc": {
