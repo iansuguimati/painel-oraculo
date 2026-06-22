@@ -1,130 +1,162 @@
 [
   {
-    "data": "19/06",
-    "hora": "16:00",
-    "jogo": "EUA x Australia",
-    "grupo": "D",
-    "palpite": "EUA 2x1",
-    "id": "-"
-  },
-  {
-    "data": "19/06",
-    "hora": "19:00",
-    "jogo": "Escocia x Marrocos",
-    "grupo": "-",
-    "palpite": "Escocia 0x1",
-    "id": "-"
-  },
-  {
-    "data": "19/06",
-    "hora": "21:30",
-    "jogo": "Brasil x Haiti",
-    "grupo": "C",
-    "palpite": "Brasil 2x0",
-    "id": "-"
-  },
-  {
-    "data": "20/06",
-    "hora": "00:00",
-    "jogo": "Turquia x Paraguai",
-    "grupo": "-",
-    "palpite": "Turquia 2x1",
-    "id": "-"
-  },
-  {
-    "data": "20/06",
-    "hora": "14:00",
-    "jogo": "Holanda x Suecia",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "20/06",
-    "hora": "17:00",
-    "jogo": "Alemanha x Costa do Marfim",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "20/06",
-    "hora": "21:00",
-    "jogo": "Equador x Curacao",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "21/06",
-    "hora": "01:00",
-    "jogo": "Tunisia x Japao",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "21/06",
-    "hora": "13:00",
-    "jogo": "Espanha x Arabia Saudita",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "21/06",
-    "hora": "16:00",
-    "jogo": "Belgica x Ira",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "21/06",
-    "hora": "19:00",
-    "jogo": "Uruguai x Cabo Verde",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
-    "data": "21/06",
-    "hora": "22:00",
-    "jogo": "Nova Zelandia x Egito",
-    "grupo": "-",
-    "palpite": "-",
-    "id": "-"
-  },
-  {
     "data": "22/06",
     "hora": "14:00",
     "jogo": "Argentina x Austria",
     "grupo": "-",
-    "palpite": "-",
+    "palpite": "Argentina 2x1",
     "id": "-"
   },
   {
     "data": "22/06",
     "hora": "18:00",
-    "jogo": "Franca x Iraque",
+    "jogo": "France x Iraq",
     "grupo": "-",
-    "palpite": "-",
+    "palpite": "Franca 2x0",
     "id": "-"
   },
   {
     "data": "22/06",
     "hora": "21:00",
-    "jogo": "Noruega x Senegal",
+    "jogo": "Norway x Senegal",
     "grupo": "-",
-    "palpite": "-",
+    "palpite": "Empate 1x1",
+    "id": "-"
+  },
+  {
+    "data": "22/06",
+    "hora": "00:00",
+    "jogo": "Jordan x Algeria",
+    "grupo": "-",
+    "palpite": "Algeria 0x1",
     "id": "-"
   },
   {
     "data": "23/06",
-    "hora": "00:00",
-    "jogo": "Jordania x Argelia",
+    "hora": "14:00",
+    "jogo": "Portugal x Uzbekistan",
     "grupo": "-",
-    "palpite": "-",
+    "palpite": "Portugal 1x0",
+    "id": "-"
+  },
+  {
+    "data": "23/06",
+    "hora": "17:00",
+    "jogo": "England x Ghana",
+    "grupo": "-",
+    "palpite": "England 1x0",
+    "id": "-"
+  },
+  {
+    "data": "23/06",
+    "hora": "20:00",
+    "jogo": "Panama x Croatia",
+    "grupo": "-",
+    "palpite": "Croatia 0x1",
+    "id": "-"
+  },
+  {
+    "data": "23/06",
+    "hora": "23:00",
+    "jogo": "Colombia x Congo DR",
+    "grupo": "-",
+    "palpite": "Colombia 1x0",
+    "id": "-"
+  },
+  {
+    "data": "24/06",
+    "hora": "16:00",
+    "jogo": "Bosnia-Herz x Qatar",
+    "grupo": "-",
+    "palpite": "Bosnia-Herz 1x0",
+    "id": "-"
+  },
+  {
+    "data": "24/06",
+    "hora": "16:00",
+    "jogo": "Switzerland x Canada",
+    "grupo": "-",
+    "palpite": "Empate 1x1",
+    "id": "-"
+  },
+  {
+    "data": "24/06",
+    "hora": "19:00",
+    "jogo": "Morocco x Haiti",
+    "grupo": "-",
+    "palpite": "Morocco 1x0",
+    "id": "-"
+  },
+  {
+    "data": "24/06",
+    "hora": "19:00",
+    "jogo": "Scotland x Brazil",
+    "grupo": "-",
+    "palpite": "Brazil 1x2",
+    "id": "-"
+  },
+  {
+    "data": "24/06",
+    "hora": "22:00",
+    "jogo": "Czechia x Mexico",
+    "grupo": "-",
+    "palpite": "Empate 1x1",
+    "id": "-"
+  },
+  {
+    "data": "24/06",
+    "hora": "22:00",
+    "jogo": "South Africa x South Korea",
+    "grupo": "-",
+    "palpite": "Empate 1x1",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "17:00",
+    "jogo": "Curaçao x Ivory Coast",
+    "grupo": "-",
+    "palpite": "Ivory Coast 0x1",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "17:00",
+    "jogo": "Ecuador x Germany",
+    "grupo": "-",
+    "palpite": "Empate 1x1",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "20:00",
+    "jogo": "Japan x Sweden",
+    "grupo": "-",
+    "palpite": "Japan 1x0",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "20:00",
+    "jogo": "Tunisia x Netherlands",
+    "grupo": "-",
+    "palpite": "Empate 1x1",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "23:00",
+    "jogo": "Paraguay x Australia",
+    "grupo": "-",
+    "palpite": "Empate 0x0",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "23:00",
+    "jogo": "Türkiye x USA",
+    "grupo": "-",
+    "palpite": "Türkiye 2x1",
     "id": "-"
   }
 ]

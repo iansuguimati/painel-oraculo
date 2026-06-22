@@ -1,82 +1,42 @@
 [
- {
-  "tipo": "previsao",
-  "hora": "21:38",
-  "texto": "ULTIMA HORA - Nova Zelandia x Egito (22h, BC Place, Vancouver, Grupo G): Egito provavel em 4-2-3-1 com Salah (capitao e artilheiro historico) e Marmoush no ataque; Nova Zelandia com Chris Wood na frente. Odds de mercado: Egito 1.57 favorito, empate 4.00, Nova Zelandia 6.00; linha de gols Over/Under 2,5. Mercado da ~62 por cento ao Egito. Bolao mantem Egito 1x0; Disciplinado SEM aposta (sem edge claro - modelo ate ve 0x0). Ambos empataram na estreia (NZ 2x2 Ira, Egito 0x0 Belgica): quem vencer encaminha a classificacao no Grupo G."
- },
- {
-  "tipo": "lance",
-  "hora": "16:13",
-  "texto": "GOL EUA! 1x0 aos 11' - gol contra de Cameron Burgess (zagueiro da Australia) apos pressao americana no Lumen Field, Seattle. EUA abre o placar e confirma a leitura do palpite (EUA 2x1). Mesmo sem Pulisic, a equipe da casa domina a posse e encaminha a lideranca do Grupo D se segurar."
- },
- {
-  "tipo": "odds",
-  "hora": "16:01",
-  "texto": "ODDS NO APITO - EUA x Australia: EUA 1.62 | Empate 4.20 | Australia 5.10 | Under 2,5 1.88 (linha de fechamento, base do CLV)"
- },
- {
-  "tipo": "lance",
-  "hora": "16:01",
-  "texto": "BOLA ROLANDO - comeca EUA x Australia no Lumen Field, Seattle (Grupo D). Vale a lideranca: EUA vem do 4x1 sobre o Paraguai, Australia surpreendeu a Turquia por 2x0. Bolao: EUA 2x1. Modelo aponta o mandante muito favorito."
- },
- {
-  "tipo": "lance",
-  "hora": "16:00",
-  "texto": "BOLA ROLANDO - comeca Suica x Bosnia no SoFi Stadium, Los Angeles (Grupo B). Bolao: Suica 1x0. Sem tip do Disciplinado - o edge do empate era erro do modelo (subestima a Suica), nao valor real."
- },
- {
-  "tipo": "odds",
-  "hora": "16:00",
-  "texto": "ODDS NO APITO - Suica x Bosnia: Suica 1.59 | Empate 4.10 | Bosnia 5.75 | Under 2,5 1.81 (linha de fechamento, base do CLV)."
- },
- {
-  "tipo": "clima",
-  "hora": "15:51",
-  "texto": "CLIMA - EUA x Australia (Lumen Field, Seattle): XI confirmado e Pulisic CORTADO de vez (lesao na panturrilha) - estava como duvida as 15:42, agora oficialmente fora. EUA (4-2-3-1): Freese; Freeman, Richards, Ream, Robinson; Adams, Tillman; Dest, McKennie, Pepi; Balogun (2 gols na estreia) na referencia. Australia repete a base que venceu a Turquia 2x0. Mercado nao mexeu (EUA 1.59), ja precificava o desfalque - sem ALERTA. Palpite segue EUA 2x1, sem tip de valor. Bola rola as 16h."
- },
- {
-  "tipo": "previsao",
-  "hora": "15:42",
-  "texto": "PRE-JOGO (19/06) - EUA x Australia, 16h, Lumen Field, Seattle (Grupo D). Vale a lideranca e a vaga: os dois venceram a estreia por margem (EUA 4x1 Paraguai, Australia tambem por mais de um gol). Odds de mercado: EUA 1.62 | Empate 4.20 | Australia 5.10 | Under 2,5 1.88. EUA favorito claro. Escalacoes: Pochettino deve repetir o XI que bateu o Paraguai, mas Pulisic e duvida para comecar; Australia com elenco quase cheio, Toure em duvida (panturrilha). Balogun (2 gols na estreia) e o nome a observar. Sem tip do Disciplinado - sem analise propria do modelo para hoje, nao publicamos edge sem base (honestidade primeiro)."
- },
- {
-  "tipo": "previsao",
-  "hora": "05:17",
-  "texto": "Mexico x Coreia do Sul (22h, Guadalajara 1566m, anfitriao): palpite Mexico 1x0. Jogo mais calibrado do dia (Mexico 45 modelo vs 47 mercado) - sem valor para tip."
- },
- {
-  "tipo": "previsao",
-  "hora": "05:16",
-  "texto": "Canada x Catar (19h, Vancouver, anfitriao): palpite Canada 1x0. UNICO TIP de hoje: UNDER 2,5 a 2.00 - Catar com ataque fraco e Canada controlando sem abrir o jogo (Edge +10pp, EV +12,5 por cento)."
- },
- {
-  "tipo": "previsao",
-  "hora": "05:15",
-  "texto": "Suica x Bosnia (16h, Grupo B, Los Angeles): palpite Suica 1x0. O modelo da a Suica so 47 por cento contra 63 do mercado - favorita por margem menor que a precificada; o empate nominal e erro nosso, nao tip."
- },
- {
-  "tipo": "info",
-  "hora": "05:12",
-  "texto": "Os dias 15 a 17/06 rodaram sem palpite publicado (execucao automatica nao disparou); hoje Czechia 1x1 Africa do Sul tambem ficou sem palpite. Esses jogos nao entram no placar do modelo - honestidade primeiro."
- },
- {
-  "tipo": "resumo",
-  "hora": "05:10",
-  "texto": "PLACAR: 20 pontos Prodefy no ledger (historico), 1X2 em 62,5 por cento (5/8). Brier modelo 0,518 vs 0,511 mercado (n=8). Disciplinado: 1 tip resolvido, 1 acerto. Modelo reajustado: 918 jogos, alpha 4, F=1,15, rho=-0,13."
- },
- {
-  "tipo": "resultado",
-  "hora": "05:07",
-  "texto": "FIM (14/06): Costa do Marfim 1x0 Equador. Palpite Equador 1x0 = 0 PONTOS (placar invertido), MAS o tip do Disciplinado Under 1,75 GANHOU (1 gol no jogo, retorno 2.15, +115 em 100 reais)."
- },
- {
-  "tipo": "resultado",
-  "hora": "05:06",
-  "texto": "FIM (14/06): Suecia 5x1 Tunisia = palpite Suecia 1x0 = 3 PONTOS. Holanda 2x2 Japao = palpite Holanda 2x1 = 1 PONTO (acertou os 2 gols da Holanda, mas deu empate)."
- },
- {
-  "tipo": "resultado",
-  "hora": "05:05",
-  "texto": "FIM (14/06): Alemanha 7x1 Curacao. Palpite Alemanha 3x0 = 3 PONTOS (vencedor certo; a goleada veio muito acima do nosso placar)."
- }
+  {
+    "tipo": "analise",
+    "hora": "12:10",
+    "texto": "MODELO ATUALIZADO - duas melhorias validadas e no ar: FATOR ESTRELA (craque gritante eleva ataque do time +8 por cento - Mbappe/Dembele, Yamal, Kane, Haaland, Vinicius, Messi, Salah) e FATOR DE EMPATE por contexto (menos empate em jogo desigual). Backfill de 40 jogos no historico; acerto do modelo 57,5 por cento (23 de 40), Brier 0,549 abaixo do mercado."
+  },
+  {
+    "tipo": "previsao",
+    "hora": "13:30",
+    "texto": "HOJE - Argentina x Austria (14h, Dallas): jogo da ponta do Grupo J, dois 100 por cento. Modelo ve parelho (37/39/23) mas o palpite oficial e Argentina 2x1 pelo fator Messi - craque decide jogo travado, e o mercado concorda (-210)."
+  },
+  {
+    "tipo": "previsao",
+    "hora": "13:35",
+    "texto": "HOJE - Franca x Iraque (18h): Franca favoritissima (mercado -1100, linha de gols 3.5). Palpite 2x0 - upgrade declarado porque o modelo e humilde demais contra minnows; ataque do Iraque fraco e defesa francesa elite."
+  },
+  {
+    "tipo": "previsao",
+    "hora": "13:40",
+    "texto": "HOJE - Noruega x Senegal (21h): o jogo mais aberto da rodada (maior chance de ambas marcarem e de Over). Equilibrado, palpite 1x1. Haaland em campo."
+  },
+  {
+    "tipo": "previsao",
+    "hora": "13:45",
+    "texto": "AMANHA - destaque Inglaterra x Gana (17h): Inglaterra favorita com Kane (54 por cento). E Colombia x Congo: mercado da Colombia favorita, override humano para Colombia 1x0."
+  },
+  {
+    "tipo": "historico",
+    "hora": "00:00",
+    "texto": "RESULTADO 21/06 - NZL x EGY: bolao 1 pts, errou vencedor."
+  },
+  {
+    "tipo": "historico",
+    "hora": "00:00",
+    "texto": "RESULTADO 21/06 - URU x CPV: bolao 3 pts, acertou vencedor."
+  },
+  {
+    "tipo": "historico",
+    "hora": "00:00",
+    "texto": "RESULTADO 21/06 - BEL x IRN: bolao 1 pts, errou vencedor."
+  }
 ]
