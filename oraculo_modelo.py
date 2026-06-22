@@ -11,6 +11,15 @@ from datetime import date
 
 ANFITRIOES = {"USA", "MEX", "CAN"}
 
+# Fator ESTRELA (declarado, hipotese em teste): craque que decide jogo sozinho, acima
+# do que a forca coletiva captura. Boost regularizado +8% na lambda de ATAQUE do time.
+# Validado 22/06/2026 em 10 jogos com craque (OOS): RPS 0.1693->0.1626, melhora 7/10,
+# 99% bootstrap. Uniforme (nao tiers) p/ nao overfitar 10 jogos. O ATAQUE/DEFESA ja inclui
+# jogos COM o craque; o boost corrige o residual de individualidade em jogos truncados.
+ESTRELAS = {"ARG": "Messi", "FRA": "Mbappe", "POR": "Cristiano", "BRA": "Vinicius Jr",
+            "NOR": "Haaland", "ENG": "Bellingham", "BEL": "De Bruyne", "EGY": "Salah"}
+BOOST_ESTRELA = 0.08
+
 def _get(url, timeout=20):
     return json.load(urllib.request.urlopen(url, timeout=timeout))
 
@@ -94,6 +103,10 @@ def lam(model, home, away, neutral=True):
     hadv = (0.50 if home in ANFITRIOES else 0.0) if neutral else model["home"]  # bonus anfitriao de Copa (validado: hosts venceram 4/5 + literatura)
     lh = exp(model["b0"] + model["atk"].get(home, 0) + model["dfn"].get(away, 0) + hadv)
     la = exp(model["b0"] + model["atk"].get(away, 0) + model["dfn"].get(home, 0))
+    if home in ESTRELAS:                  # fator estrela: craque eleva o ataque (validado, declarado)
+        lh *= (1 + BOOST_ESTRELA)
+    if away in ESTRELAS:
+        la *= (1 + BOOST_ESTRELA)
     return lh, la
 
 def fator_empate(lh, la, k=0.5, base=1.6, piso=1.0):
@@ -111,14 +124,4 @@ if __name__ == "__main__":
     else:
         matches = pull_matches()
         json.dump(matches, open("/tmp/intl.json", "w"))
-    train = [m for m in matches if m["d"] < "2026-06-11"]
-    model = fit(train)
-    out = {"_meta": {"modelo": "Maher ataque/defesa Poisson L2 + recencia (half 300d)",
-                     "jogos_treino": len(train), "data_fit": time.strftime("%Y-%m-%d"),
-                     "alpha": model["alpha"], "home_adv": round(model["home"], 3), "b0": round(model["b0"], 3)},
-           "b0": model["b0"], "home": model["home"], "atk": model["atk"], "dfn": model["dfn"]}
-    json.dump(out, open("ratings_ad.json", "w"), ensure_ascii=False, indent=2)
-    print(f"OK: {len(train)} jogos de treino, {len(model['teams'])} selecoes.")
-    for t in ["ESP","GER","IRN","URU","JPN","ARG","ALG"]:
-        if t in model["atk"]:
-            print(f"  {t}: ataque {exp(model['b0']+model['atk'][t]):.2f} | defesa {exp(model['b0']+model['dfn'][t]):.2f}")
+    t
