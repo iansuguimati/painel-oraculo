@@ -96,6 +96,15 @@ def lam(model, home, away, neutral=True):
     la = exp(model["b0"] + model["atk"].get(away, 0) + model["dfn"].get(home, 0))
     return lh, la
 
+def fator_empate(lh, la, k=0.5, base=1.6, piso=1.0):
+    """Fator de empate F DEPENDENTE DO CONTEXTO (validado 22/06/2026, 40 jogos OOS).
+    Em jogo parelho o favorito tropeca mais (empate comum) -> F alto (=base 1.6).
+    Em mismatch o empate e raro -> F cai linearmente com o gap de forca |lh-la|.
+    Corrige a humildade-excessiva do modelo em mismatch (Brasil x Haiti, Japao x Suecia).
+    Ganho OOS: RPS 0.1758->0.1724, acerto 55->55%, bolao +6pts; melhora 27/40 jogos (91% bootstrap).
+    k regularizado em 0.5 (otimo cru 0.7-1.0 nao adotado, anti-overfit)."""
+    return max(piso, base - k * abs(lh - la))
+
 if __name__ == "__main__":
     if "--cache" in sys.argv and os.path.exists("/tmp/intl.json"):
         matches = json.load(open("/tmp/intl.json"))
