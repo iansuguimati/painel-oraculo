@@ -19,6 +19,21 @@ ESTRELAS = {"FRA": "Mbappe / Dembele", "ESP": "Lamine Yamal", "ENG": "Harry Kane
             "NOR": "Haaland", "BRA": "Vinicius Jr", "ARG": "Messi", "EGY": "Salah"}
 BOOST_ESTRELA = 0.08
 
+# Fator de TORNEIO (abertura): esta Copa esta MUITO aberta - 3.05 gols/jogo REAL vs ~2.47
+# que o modelo (calibrado em amistosos/eliminatorias) esperava. Escala a lambda p/ casar a
+# media observada. Validado OUT-OF-SAMPLE (treino 22 jogos / teste 22): RPS 0.1676->0.156,
+# Over2.5 42%->56% (real 59%), bolao +14 pts. Regularizado em 1.18 (abaixo do cru 1.235).
+# A tarefa diaria RECALIBRA por media movel (sobe se seguir aberto, cai no mata-mata).
+G_TORNEIO = 1.18
+
+def fator_torneio(media_real, media_modelo, peso=0.8, cap=1.30, piso=1.0):
+    """Escala de abertura do torneio: razao (gols reais / gols esperados), regularizada.
+    peso<1 encolhe rumo a 1 (anti-overfit); cap evita explosao em amostra pequena."""
+    if not media_modelo or media_modelo <= 0:
+        return 1.0
+    g = 1.0 + peso * (media_real / media_modelo - 1.0)
+    return max(piso, min(cap, g))
+
 # Craques com risco de lesao/poupanca: so aplicar o boost se CONFIRMADO no XI titular.
 # A tarefa diaria checa a escalacao (WebSearch) antes de cada jogo desses times.
 CRAQUE_CHECAR_ESCALACAO = {"ESP": "Lamine Yamal (voltou de lesao de coxa em abr/26; apto, mas confirmar no XI)"}
@@ -110,6 +125,7 @@ def lam(model, home, away, neutral=True):
         lh *= (1 + BOOST_ESTRELA)
     if away in ESTRELAS:
         la *= (1 + BOOST_ESTRELA)
+    lh *= G_TORNEIO; la *= G_TORNEIO     # fator de abertura do torneio (Copa correndo aberta)
     return lh, la
 
 def fator_empate(lh, la, k=0.5, base=1.6, piso=1.0):
