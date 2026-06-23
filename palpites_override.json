@@ -1,15 +1,22 @@
-{
-  "data": "2026-06-23",
-  "overrides": {
-    "Colombia x Congo DR": {
-      "placar": "Colombia 1x0",
-      "motivo": "Modelo crava empate (44%) mas mercado da Colombia favorita solida (-195, ~66%); modelo subestima o gap de qualidade. Override humano declarado."
-    }
+[
+  {
+    "data": "2026-06-23",
+    "jogo": "Colombia x Congo DR",
+    "home": "COL",
+    "away": "COD",
+    "hs": 1,
+    "as": 0,
+    "placar": "Colombia 1 x 0 Congo DR",
+    "motivo": "Mercado da Colombia favorita (-195); confirmado pelo blend modelo+mercado."
   },
-  "palpites_modelo": {
-    "Portugal x Uzbequistao": "1x0",
-    "Inglaterra x Gana": "1x0",
-    "Panama x Croacia": "Croacia 0x1",
-    "Colombia x Congo DR": "1x1 (substituido por override 1x0)"
+  {
+    "data": "2026-06-24",
+    "jogo": "Scotland x Brazil",
+    "home": "SCO",
+    "away": "BRA",
+    "hs": 1,
+    "as": 3,
+    "placar": "Scotland 1 x 3 Brazil",
+    "motivo": "Desvio consciente do usuario: 3x1 Brasil custa so 0.11 EP vs 2x1, Brasil 37% de marcar 3+, jogo aberto (gols esp 3.45) e Escocia se lanca (must-win)."
   }
-}
+]
