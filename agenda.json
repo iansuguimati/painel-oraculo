@@ -4,7 +4,7 @@
     "hora": "14:00",
     "jogo": "Portugal x Uzbekistan",
     "grupo": "-",
-    "palpite": "Portugal 1x0",
+    "palpite": "Portugal 2x1",
     "id": "-"
   },
   {
@@ -12,7 +12,7 @@
     "hora": "17:00",
     "jogo": "England x Ghana",
     "grupo": "-",
-    "palpite": "England 1x0",
+    "palpite": "England 2x1",
     "id": "-"
   },
   {
@@ -36,7 +36,7 @@
     "hora": "16:00",
     "jogo": "Bosnia-Herz x Qatar",
     "grupo": "-",
-    "palpite": "Bosnia-Herz 1x0",
+    "palpite": "Bosnia-Herz 2x1",
     "id": "-"
   },
   {
@@ -52,7 +52,7 @@
     "hora": "19:00",
     "jogo": "Morocco x Haiti",
     "grupo": "-",
-    "palpite": "Morocco 1x0",
+    "palpite": "Morocco 2x1",
     "id": "-"
   },
   {
@@ -68,7 +68,7 @@
     "hora": "22:00",
     "jogo": "Czechia x Mexico",
     "grupo": "-",
-    "palpite": "Mexico 0x1",
+    "palpite": "Mexico 1x2",
     "id": "-"
   },
   {
@@ -84,7 +84,7 @@
     "hora": "17:00",
     "jogo": "Curaçao x Ivory Coast",
     "grupo": "-",
-    "palpite": "Ivory Coast 1x2",
+    "palpite": "Ivory Coast 1x3",
     "id": "-"
   },
   {
@@ -140,7 +140,7 @@
     "hora": "16:00",
     "jogo": "Senegal x Iraq",
     "grupo": "-",
-    "palpite": "Senegal 1x0",
+    "palpite": "Senegal 2x0",
     "id": "-"
   },
   {
@@ -156,7 +156,7 @@
     "hora": "21:00",
     "jogo": "Uruguay x Spain",
     "grupo": "-",
-    "palpite": "Spain 0x1",
+    "palpite": "Spain 1x2",
     "id": "-"
   },
   {
@@ -172,7 +172,7 @@
     "hora": "00:00",
     "jogo": "New Zealand x Belgium",
     "grupo": "-",
-    "palpite": "Belgium 1x2",
+    "palpite": "Belgium 1x3",
     "id": "-"
   }
 ]

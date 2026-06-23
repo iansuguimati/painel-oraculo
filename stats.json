@@ -1,5 +1,5 @@
 {
-  "updated": "23/06 15:20",
+  "updated": "23/06 15:40",
   "tips": 3,
   "hit": "57,5% (23/40)",
   "roi": "-28,3% (sim Disciplinado, 3 tips)",
@@ -42,7 +42,7 @@
     {
       "jogo": "Portugal x Uzbekistan",
       "hora": "23/06 14h",
-      "bolao": "Portugal 1x0",
+      "bolao": "Portugal 2x1",
       "disc": "-",
       "louco": "-",
       "fav": "Portugal",
@@ -50,12 +50,12 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "lambda 1.64-1.03 (ja com fator torneio G=1.18, Copa correndo a 3 gols/jogo), F-contexto 1.30. P 46/33/20%. Over2.5 47%, ambas marcam 54%. Placar do bolao pelo EP Prodefy."
+      "texto": "lambda 1.64-1.03 (fator torneio G=1.18, Copa a ~3 gols/jogo), F=1.30. P 46/33/20%, Over2.5 47%, ambas 54%. MODO ELASTICO: placar mais cheio quando empata em pontos esperados."
     },
     {
       "jogo": "England x Ghana",
       "hora": "23/06 17h",
-      "bolao": "England 1x0",
+      "bolao": "England 2x1",
       "disc": "-",
       "louco": "-",
       "fav": "England",
@@ -63,7 +63,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "Harry Kane",
-      "texto": "lambda 1.91-0.88 (ja com fator torneio G=1.18, Copa correndo a 3 gols/jogo), F-contexto 1.08. P 59/25/15%. Over2.5 52%, ambas marcam 51%. Placar do bolao pelo EP Prodefy."
+      "texto": "lambda 1.91-0.88 (fator torneio G=1.18, Copa a ~3 gols/jogo), F=1.08. P 59/25/15%, Over2.5 52%, ambas 51%. MODO ELASTICO: placar mais cheio quando empata em pontos esperados."
     },
     {
       "jogo": "Panama x Croatia",
@@ -76,7 +76,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "lambda 1.33-1.93 (ja com fator torneio G=1.18, Copa correndo a 3 gols/jogo), F-contexto 1.30. P 23/30/46%. Over2.5 61%, ambas marcam 65%. Placar do bolao pelo EP Prodefy."
+      "texto": "lambda 1.33-1.93 (fator torneio G=1.18, Copa a ~3 gols/jogo), F=1.30. P 23/30/46%, Over2.5 61%, ambas 65%. MODO ELASTICO: placar mais cheio quando empata em pontos esperados."
     },
     {
       "jogo": "Colombia x Congo DR",
@@ -89,7 +89,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "OVERRIDE HUMANO: Colombia 1x0. Modelo crava empate 1x1 (mercado da Colombia favorita -195). lambda 1.23-1.15, jogo de poucos gols (Over 38%)."
+      "texto": "OVERRIDE HUMANO: Colombia 1x0. Modelo ve 1x1 (mercado Colombia favorita -195); jogo travado, Over 38%."
     }
   ],
   "odds_fech": {}

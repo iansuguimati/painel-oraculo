@@ -137,6 +137,36 @@ def fator_empate(lh, la, k=0.5, base=1.6, piso=1.0):
     k regularizado em 0.5 (otimo cru 0.7-1.0 nao adotado, anti-overfit)."""
     return max(piso, base - k * abs(lh - la))
 
+def pontos_prodefy(i, j, a, b):
+    """Pontuacao Prodefy: 6 placar exato, 4 vencedor+1 placar, 3 so vencedor, 1 so 1 placar, 0."""
+    if i == a and j == b:
+        return 6
+    wc = (i > j and a > b) or (i < j and a < b) or (i == j and a == b)
+    og = (i == a) or (j == b)
+    return 4 if wc and og else 3 if wc else 1 if og else 0
+
+def placar_bolao(M, elastic=True, thr=0.10, N=7):
+    """Placar do bolao que MAXIMIZA o EP do Prodefy. Com elastic=True (padrao desde 23/06,
+    pedido do usuario): DESEMPATE ELASTICO - entre placares a <=thr de EP do melhor E com o
+    MESMO vencedor, escolhe o de MAIS gols (Copa correndo aberta; custo ~0.03 EP/jogo, ganha
+    upside de cravar o 6). Placares cheios (Inglaterra 2x1) em vez de 1x0 quando empatam."""
+    R, C = len(M), len(M[0])
+    def outc(i, j):
+        return 0 if i > j else (1 if i == j else 2)
+    tab = []
+    for i in range(N):
+        for j in range(N):
+            e = sum(M[a][b] * pontos_prodefy(i, j, a, b) for a in range(R) for b in range(C))
+            tab.append((e, i, j))
+    tab.sort(reverse=True)
+    best = tab[0]
+    if not elastic:
+        return (best[1], best[2])
+    bo = outc(best[1], best[2])
+    cand = [(i + j, e, i, j) for e, i, j in tab if e >= best[0] - thr and outc(i, j) == bo]
+    cand.sort(reverse=True)
+    return (cand[0][2], cand[0][3])
+
 if __name__ == "__main__":
     if "--cache" in sys.argv and os.path.exists("/tmp/intl.json"):
         matches = json.load(open("/tmp/intl.json"))
