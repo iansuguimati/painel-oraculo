@@ -145,6 +145,32 @@ def pontos_prodefy(i, j, a, b):
     og = (i == a) or (j == b)
     return 4 if wc and og else 3 if wc else 1 if og else 0
 
+def prob_1x2(M):
+    """Probabilidades 1/X/2 (casa/empate/fora) a partir da matriz de placares."""
+    R, C = len(M), len(M[0])
+    H = sum(M[i][j] for i in range(R) for j in range(C) if i > j)
+    D = sum(M[i][i] for i in range(min(R, C)))
+    return [H, D, 1.0 - H - D]
+
+def blend_mercado(M, p_mercado, w=0.5):
+    """Blinda o palpite do BOLAO com o sinal do MERCADO (grandes favoritos das casas).
+    P_blend = w*P_modelo + (1-w)*P_mercado (use shin_probs do oraculo_devig nas odds).
+    Reescala a matriz de placares p/ casar P_blend mantendo a FORMA do modelo. SO para o
+    PALPITE - NUNCA para edge/tips (esses ficam cegos as odds: anti-circularidade).
+    O mercado ja precifica estrelas/must-win/lesoes, entao o blend subsume esses fatores.
+    Validado OUT-OF-SAMPLE (treino 22 / teste 22): RPS modelo 0.158 -> blend 0.135."""
+    Pm = prob_1x2(M)
+    Pb = [w * Pm[k] + (1 - w) * p_mercado[k] for k in range(3)]
+    s = sum(Pb); Pb = [x / s for x in Pb]
+    fac = [Pb[k] / Pm[k] if Pm[k] > 0 else 0.0 for k in range(3)]
+    R, C = len(M), len(M[0]); out = [[0.0] * C for _ in range(R)]
+    for i in range(R):
+        for j in range(C):
+            o = 0 if i > j else (1 if i == j else 2)
+            out[i][j] = M[i][j] * fac[o]
+    tot = sum(sum(r) for r in out)
+    return [[v / tot for v in r] for r in out]
+
 def placar_bolao(M, elastic=True, thr=0.10, N=7):
     """Placar do bolao que MAXIMIZA o EP do Prodefy. Com elastic=True (padrao desde 23/06,
     pedido do usuario): DESEMPATE ELASTICO - entre placares a <=thr de EP do melhor E com o

@@ -1,5 +1,5 @@
 {
-  "updated": "23/06 15:40",
+  "updated": "23/06 15:56",
   "tips": 3,
   "hit": "57,5% (23/40)",
   "roi": "-28,3% (sim Disciplinado, 3 tips)",
@@ -50,12 +50,12 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "lambda 1.64-1.03 (fator torneio G=1.18, Copa a ~3 gols/jogo), F=1.30. P 46/33/20%, Over2.5 47%, ambas 54%. MODO ELASTICO: placar mais cheio quando empata em pontos esperados."
+      "texto": "lambda 1.64-1.03 (G=1.18, F=1.30). mercado 85/10/4, BLEND modelo+mercado 50/50 -> 65/21/12. Over2.5 47%. Modo elastico + sinal das casas."
     },
     {
       "jogo": "England x Ghana",
       "hora": "23/06 17h",
-      "bolao": "England 2x1",
+      "bolao": "England 2x0",
       "disc": "-",
       "louco": "-",
       "fav": "England",
@@ -63,7 +63,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "Harry Kane",
-      "texto": "lambda 1.91-0.88 (fator torneio G=1.18, Copa a ~3 gols/jogo), F=1.08. P 59/25/15%, Over2.5 52%, ambas 51%. MODO ELASTICO: placar mais cheio quando empata em pontos esperados."
+      "texto": "lambda 1.91-0.88 (G=1.18, F=1.08). mercado 81/12/5, BLEND modelo+mercado 50/50 -> 70/19/10. Over2.5 52%. Modo elastico + sinal das casas."
     },
     {
       "jogo": "Panama x Croatia",
@@ -76,7 +76,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "lambda 1.33-1.93 (fator torneio G=1.18, Copa a ~3 gols/jogo), F=1.30. P 23/30/46%, Over2.5 61%, ambas 65%. MODO ELASTICO: placar mais cheio quando empata em pontos esperados."
+      "texto": "lambda 1.33-1.93 (G=1.18, F=1.30). mercado 13/21/65, BLEND modelo+mercado 50/50 -> 18/25/55. Over2.5 61%. Modo elastico + sinal das casas."
     },
     {
       "jogo": "Colombia x Congo DR",
@@ -89,7 +89,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "OVERRIDE HUMANO: Colombia 1x0. Modelo ve 1x1 (mercado Colombia favorita -195); jogo travado, Over 38%."
+      "texto": "OVERRIDE seu (Colombia 1x0) - AGORA CONFIRMADO pelo modelo+mercado (blend da Colombia favorita). lambda 1.23-1.15, Over 38%."
     }
   ],
   "odds_fech": {}
