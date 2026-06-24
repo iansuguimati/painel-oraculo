@@ -2,15 +2,15 @@
   "updated": "24/06 12:20",
   "tips": 3,
   "hit": "59,1% (26/44)",
-  "roi": "-28,3% (sim Disciplinado, 3 tips)",
+  "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
   "clv": "0,0% (1 tip, linha de fechamento)",
   "brier": "0,556 (mercado 0,572, 21 jogos)",
   "bolao": 123,
   "sim100": {
     "disc": {
-      "stake": 700,
-      "pnl": 265,
-      "roi": "+37,9%"
+      "stake": 300,
+      "pnl": -85,
+      "roi": "-28,3%"
     },
     "louco": {
       "stake": 2100,

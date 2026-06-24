@@ -530,7 +530,7 @@
     "fav": 14,
     "favmkt": 14,
     "louco": -100,
-    "disc": -100
+    "disc": null
   },
   {
     "data": "23/06",
@@ -543,7 +543,7 @@
     "fav": -100,
     "favmkt": -100,
     "louco": 650,
-    "disc": 650
+    "disc": null
   },
   {
     "data": "23/06",
@@ -556,7 +556,7 @@
     "fav": 43,
     "favmkt": 43,
     "louco": -100,
-    "disc": -100
+    "disc": null
   },
   {
     "data": "23/06",
@@ -569,6 +569,6 @@
     "fav": -100,
     "favmkt": 51,
     "louco": -100,
-    "disc": -100
+    "disc": null
   }
 ]
