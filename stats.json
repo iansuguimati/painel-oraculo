@@ -1,31 +1,31 @@
 {
-  "updated": "23/06 16:07",
+  "updated": "24/06 12:20",
   "tips": 3,
-  "hit": "57,5% (23/40)",
+  "hit": "59,1% (26/44)",
   "roi": "-28,3% (sim Disciplinado, 3 tips)",
   "clv": "0,0% (1 tip, linha de fechamento)",
-  "brier": "0,549 (mercado 0,598, 17 jogos)",
-  "bolao": 98,
+  "brier": "0,556 (mercado 0,572, 21 jogos)",
+  "bolao": 123,
   "sim100": {
     "disc": {
-      "stake": 300,
-      "pnl": -85,
-      "roi": "-28,3%"
+      "stake": 700,
+      "pnl": 265,
+      "roi": "+37,9%"
     },
     "louco": {
-      "stake": 1700,
-      "pnl": -940,
-      "roi": "-55,3%"
+      "stake": 2100,
+      "pnl": -590,
+      "roi": "-28,1%"
     },
     "fav": {
-      "stake": 1700,
-      "pnl": -204,
-      "roi": "-12,0%"
+      "stake": 2100,
+      "pnl": -347,
+      "roi": "-16,5%"
     },
     "favmkt": {
-      "stake": 1700,
-      "pnl": -204,
-      "roi": "-12,0%"
+      "stake": 2100,
+      "pnl": -196,
+      "roi": "-9,3%"
     }
   },
   "lines": {
