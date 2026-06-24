@@ -1,37 +1,5 @@
 [
   {
-    "data": "23/06",
-    "hora": "14:00",
-    "jogo": "Portugal x Uzbekistan",
-    "grupo": "-",
-    "palpite": "Portugal 2 x 1 Uzbekistan  (vence Portugal)",
-    "id": "-"
-  },
-  {
-    "data": "23/06",
-    "hora": "17:00",
-    "jogo": "England x Ghana",
-    "grupo": "-",
-    "palpite": "England 2 x 0 Ghana  (vence England)",
-    "id": "-"
-  },
-  {
-    "data": "23/06",
-    "hora": "20:00",
-    "jogo": "Panama x Croatia",
-    "grupo": "-",
-    "palpite": "Panama 1 x 2 Croatia  (vence Croatia)",
-    "id": "-"
-  },
-  {
-    "data": "23/06",
-    "hora": "23:00",
-    "jogo": "Colombia x Congo DR",
-    "grupo": "-",
-    "palpite": "Colombia 1 x 0 Congo DR  (vence Colombia) [seu palpite]",
-    "id": "-"
-  },
-  {
     "data": "24/06",
     "hora": "16:00",
     "jogo": "Bosnia-Herz x Qatar",
@@ -44,7 +12,7 @@
     "hora": "16:00",
     "jogo": "Switzerland x Canada",
     "grupo": "-",
-    "palpite": "Switzerland 1 x 1 Canada  (empate)",
+    "palpite": "Switzerland 1 x 0 Canada  (vence Switzerland)",
     "id": "-"
   },
   {
@@ -68,7 +36,7 @@
     "hora": "22:00",
     "jogo": "Czechia x Mexico",
     "grupo": "-",
-    "palpite": "Czechia 1 x 2 Mexico  (vence Mexico)",
+    "palpite": "Czechia 0 x 1 Mexico  (vence Mexico)",
     "id": "-"
   },
   {
@@ -76,7 +44,103 @@
     "hora": "22:00",
     "jogo": "South Africa x South Korea",
     "grupo": "-",
-    "palpite": "South Africa 1 x 2 South Korea  (vence South Korea)",
+    "palpite": "South Africa 0 x 1 South Korea  (vence South Korea)",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "17:00",
+    "jogo": "Curaçao x Ivory Coast",
+    "grupo": "-",
+    "palpite": "Curaçao 1 x 2 Ivory Coast  (vence Ivory Coast)",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "17:00",
+    "jogo": "Ecuador x Germany",
+    "grupo": "-",
+    "palpite": "Ecuador 0 x 1 Germany  (vence Germany)",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "20:00",
+    "jogo": "Japan x Sweden",
+    "grupo": "-",
+    "palpite": "Japan 2 x 1 Sweden  (vence Japan)",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "20:00",
+    "jogo": "Tunisia x Netherlands",
+    "grupo": "-",
+    "palpite": "Tunisia 1 x 2 Netherlands  (vence Netherlands)",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "23:00",
+    "jogo": "Paraguay x Australia",
+    "grupo": "-",
+    "palpite": "Paraguay 1 x 1 Australia  (empate)",
+    "id": "-"
+  },
+  {
+    "data": "25/06",
+    "hora": "23:00",
+    "jogo": "Türkiye x USA",
+    "grupo": "-",
+    "palpite": "Türkiye 1 x 2 USA  (vence USA)",
+    "id": "-"
+  },
+  {
+    "data": "26/06",
+    "hora": "16:00",
+    "jogo": "Norway x France",
+    "grupo": "-",
+    "palpite": "Norway 1 x 2 France  (vence France)",
+    "id": "-"
+  },
+  {
+    "data": "26/06",
+    "hora": "16:00",
+    "jogo": "Senegal x Iraq",
+    "grupo": "-",
+    "palpite": "Senegal 2 x 0 Iraq  (vence Senegal)",
+    "id": "-"
+  },
+  {
+    "data": "26/06",
+    "hora": "21:00",
+    "jogo": "Cape Verde x Saudi Arabia",
+    "grupo": "-",
+    "palpite": "Cape Verde 1 x 0 Saudi Arabia  (vence Cape Verde)",
+    "id": "-"
+  },
+  {
+    "data": "26/06",
+    "hora": "21:00",
+    "jogo": "Uruguay x Spain",
+    "grupo": "-",
+    "palpite": "Uruguay 0 x 2 Spain  (vence Spain)",
+    "id": "-"
+  },
+  {
+    "data": "26/06",
+    "hora": "00:00",
+    "jogo": "Egypt x Iran",
+    "grupo": "-",
+    "palpite": "Egypt 1 x 1 Iran  (empate)",
+    "id": "-"
+  },
+  {
+    "data": "26/06",
+    "hora": "00:00",
+    "jogo": "New Zealand x Belgium",
+    "grupo": "-",
+    "palpite": "New Zealand 1 x 3 Belgium  (vence Belgium)",
     "id": "-"
   }
 ]
