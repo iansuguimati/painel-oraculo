@@ -137,6 +137,36 @@ def fator_empate(lh, la, k=0.5, base=1.6, piso=1.0):
     k regularizado em 0.5 (otimo cru 0.7-1.0 nao adotado, anti-overfit)."""
     return max(piso, base - k * abs(lh - la))
 
+def fator_decisao(stakes):
+    """Peso de DECISAO/tabela (declarado, hipotese - 24/06/2026). Modula a prob de EMPATE
+    pela motivacao REAL que o mercado pode subestimar. O mercado ja precifica must-win, entao
+    o fator e PEQUENO e so atua onde a tabela/chaveamento da sinal claro:
+      'seeding_forte': os 2 ja classificados mas brigam por 1o lugar com PREMIO grande
+                       (adversario mais fraco + descanso + mando no mata-mata) -> os 2 vao
+                       pra vitoria -> MENOS empate (x0.82).
+      'mustwin_both' : empate elimina os 2 -> os 2 atacam -> MENOS empate (x0.80).
+      'biscotto'     : empate CLASSIFICA os 2 (melhor 3o) -> jogo trava -> MAIS empate (x1.12).
+      'normal'/'dead': neutro (x1.0) - deixa o mercado mandar.
+    Retorna multiplicador da prob de empate; aplicar DEPOIS do blend e renormalizar.
+    So vale pro PALPITE do bolao (nao mexe em edge/tips)."""
+    return {"seeding_forte": 0.82, "mustwin_both": 0.80, "biscotto": 1.12,
+            "normal": 1.0, "dead": 1.0}.get(stakes, 1.0)
+
+def aplica_decisao(M, stakes):
+    """Reescala a matriz pra refletir o fator de decisao na prob de empate."""
+    if stakes in (None, "normal", "dead"):
+        return M
+    P = prob_1x2(M); fD = fator_decisao(stakes)
+    Pn = [P[0], P[1]*fD, P[2]]; sN = sum(Pn); Pn = [x/sN for x in Pn]
+    fac = [Pn[k]/P[k] if P[k] > 0 else 0.0 for k in range(3)]
+    R, C = len(M), len(M[0]); out = [[0.0]*C for _ in range(R)]
+    for i in range(R):
+        for j in range(C):
+            o = 0 if i > j else (1 if i == j else 2)
+            out[i][j] = M[i][j]*fac[o]
+    t = sum(sum(r) for r in out)
+    return [[v/t for v in r] for r in out]
+
 def pontos_prodefy(i, j, a, b):
     """Pontuacao Prodefy: 6 placar exato, 4 vencedor+1 placar, 3 so vencedor, 1 so 1 placar, 0."""
     if i == a and j == b:
