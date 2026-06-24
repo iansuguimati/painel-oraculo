@@ -1,42 +1,22 @@
 [
   {
     "tipo": "analise",
-    "hora": "12:10",
-    "texto": "MODELO ATUALIZADO - duas melhorias validadas e no ar: FATOR ESTRELA (craque gritante eleva ataque do time +8 por cento - Mbappe/Dembele, Yamal, Kane, Haaland, Vinicius, Messi, Salah) e FATOR DE EMPATE por contexto (menos empate em jogo desigual). Backfill de 40 jogos no historico; acerto do modelo 57,5 por cento (23 de 40), Brier 0,549 abaixo do mercado."
+    "hora": "09:27",
+    "texto": "PAINEL ATUALIZADO 24/06 - resultados de ontem lancados (13 pts no bolao, Colombia 1x0 CRAVADA = 6 pts). Bolao em 123, taxa de acerto 59,1 por cento (26 de 44 jogos). Modelo: blend modelo+mercado + fator torneio (G=1.18) + modo elastico + fator estrela."
+  },
+  {
+    "tipo": "historico",
+    "hora": "00:30",
+    "texto": "ONTEM 23/06: Portugal 5x0 Uzbequistao (acertamos vencedor), Inglaterra 0x0 Gana (ZEBRA - o mercado dava Inglaterra a 81 por cento e ela empatou), Panama 0x1 Croacia (vencedor ok), Colombia 1x0 Congo (PLACAR EXATO, 6 pts)."
   },
   {
     "tipo": "previsao",
     "hora": "13:30",
-    "texto": "HOJE - Argentina x Austria (14h, Dallas): jogo da ponta do Grupo J, dois 100 por cento. Modelo ve parelho (37/39/23) mas o palpite oficial e Argentina 2x1 pelo fator Messi - craque decide jogo travado, e o mercado concorda (-210)."
+    "texto": "HOJE 24/06 - 6 jogos. Destaques: Marrocos x Haiti (Marrocos defesa de elite, palpite 2x0), Escocia x Brasil (palpite 3x1, Brasil favorito num jogo aberto), Bosnia x Catar (2x1). Suica x Canada e o mais travado (1x1)."
   },
   {
-    "tipo": "previsao",
+    "tipo": "odds",
     "hora": "13:35",
-    "texto": "HOJE - Franca x Iraque (18h): Franca favoritissima (mercado -1100, linha de gols 3.5). Palpite 2x0 - upgrade declarado porque o modelo e humilde demais contra minnows; ataque do Iraque fraco e defesa francesa elite."
-  },
-  {
-    "tipo": "previsao",
-    "hora": "13:40",
-    "texto": "HOJE - Noruega x Senegal (21h): o jogo mais aberto da rodada (maior chance de ambas marcarem e de Over). Equilibrado, palpite 1x1. Haaland em campo."
-  },
-  {
-    "tipo": "previsao",
-    "hora": "13:45",
-    "texto": "AMANHA - destaque Inglaterra x Gana (17h): Inglaterra favorita com Kane (54 por cento). E Colombia x Congo: mercado da Colombia favorita, override humano para Colombia 1x0."
-  },
-  {
-    "tipo": "historico",
-    "hora": "00:00",
-    "texto": "RESULTADO 21/06 - NZL x EGY: bolao 1 pts, errou vencedor."
-  },
-  {
-    "tipo": "historico",
-    "hora": "00:00",
-    "texto": "RESULTADO 21/06 - URU x CPV: bolao 3 pts, acertou vencedor."
-  },
-  {
-    "tipo": "historico",
-    "hora": "00:00",
-    "texto": "RESULTADO 21/06 - BEL x IRN: bolao 1 pts, errou vencedor."
+    "texto": "DISCIPLINADO sem tip hoje: o mercado esta mais afiado que o modelo, entao as diferencas que aparecem nao sao valor real (seria apostar no erro do proprio modelo). Sem edge confiavel, sem aposta - e a disciplina que protege a banca."
   }
 ]
