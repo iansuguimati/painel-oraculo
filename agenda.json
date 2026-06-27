@@ -1,146 +1,82 @@
 [
   {
-    "data": "24/06",
-    "hora": "16:00",
-    "jogo": "Bosnia-Herz x Qatar",
+    "data": "27/06",
+    "hora": "18:00",
+    "jogo": "Croatia x Ghana",
     "grupo": "-",
-    "palpite": "Bosnia-Herz 2 x 1 Qatar  (vence Bosnia-Herz)",
+    "palpite": "Croatia 2 x 1 Ghana  (vence Croatia)",
     "id": "-"
   },
   {
-    "data": "24/06",
-    "hora": "16:00",
-    "jogo": "Switzerland x Canada",
+    "data": "27/06",
+    "hora": "18:00",
+    "jogo": "Panama x England",
     "grupo": "-",
-    "palpite": "Switzerland 1 x 0 Canada  (vence Switzerland)",
+    "palpite": "Panama 1 x 2 England  (vence England)",
     "id": "-"
   },
   {
-    "data": "24/06",
-    "hora": "19:00",
-    "jogo": "Morocco x Haiti",
+    "data": "27/06",
+    "hora": "20:30",
+    "jogo": "Colombia x Portugal",
     "grupo": "-",
-    "palpite": "Morocco 2 x 0 Haiti  (vence Morocco)",
+    "palpite": "Colombia 1 x 2 Portugal  (vence Portugal)",
     "id": "-"
   },
   {
-    "data": "24/06",
-    "hora": "19:00",
-    "jogo": "Scotland x Brazil",
+    "data": "27/06",
+    "hora": "20:30",
+    "jogo": "Congo DR x Uzbekistan",
     "grupo": "-",
-    "palpite": "Scotland 1 x 3 Brazil  (vence Brazil) [seu palpite]",
+    "palpite": "Congo DR 1 x 0 Uzbekistan  (vence Congo DR)",
     "id": "-"
   },
   {
-    "data": "24/06",
-    "hora": "22:00",
-    "jogo": "Czechia x Mexico",
-    "grupo": "-",
-    "palpite": "Czechia 0 x 1 Mexico  (vence Mexico)",
-    "id": "-"
-  },
-  {
-    "data": "24/06",
-    "hora": "22:00",
-    "jogo": "South Africa x South Korea",
-    "grupo": "-",
-    "palpite": "South Africa 0 x 1 South Korea  (vence South Korea)",
-    "id": "-"
-  },
-  {
-    "data": "25/06",
-    "hora": "17:00",
-    "jogo": "Curaçao x Ivory Coast",
-    "grupo": "-",
-    "palpite": "Curaçao 1 x 2 Ivory Coast  (vence Ivory Coast)",
-    "id": "-"
-  },
-  {
-    "data": "25/06",
-    "hora": "17:00",
-    "jogo": "Ecuador x Germany",
-    "grupo": "-",
-    "palpite": "Ecuador 0 x 1 Germany  (vence Germany)",
-    "id": "-"
-  },
-  {
-    "data": "25/06",
-    "hora": "20:00",
-    "jogo": "Japan x Sweden",
-    "grupo": "-",
-    "palpite": "Japan 2 x 1 Sweden  (vence Japan)",
-    "id": "-"
-  },
-  {
-    "data": "25/06",
-    "hora": "20:00",
-    "jogo": "Tunisia x Netherlands",
-    "grupo": "-",
-    "palpite": "Tunisia 1 x 2 Netherlands  (vence Netherlands)",
-    "id": "-"
-  },
-  {
-    "data": "25/06",
+    "data": "27/06",
     "hora": "23:00",
-    "jogo": "Paraguay x Australia",
+    "jogo": "Algeria x Austria",
     "grupo": "-",
-    "palpite": "Paraguay 1 x 1 Australia  (empate)",
+    "palpite": "Algeria 1 x 1 Austria  (empate)",
     "id": "-"
   },
   {
-    "data": "25/06",
+    "data": "27/06",
     "hora": "23:00",
-    "jogo": "Türkiye x USA",
+    "jogo": "Jordan x Argentina",
     "grupo": "-",
-    "palpite": "Türkiye 1 x 2 USA  (vence USA)",
+    "palpite": "Jordan 0 x 3 Argentina  (vence Argentina)",
     "id": "-"
   },
   {
-    "data": "26/06",
+    "data": "28/06",
     "hora": "16:00",
-    "jogo": "Norway x France",
-    "grupo": "-",
-    "palpite": "Norway 1 x 2 France  (vence France)",
+    "jogo": "South Africa x Canada",
+    "grupo": "MM",
+    "palpite": "South Africa 0 x 1 Canada  (vence Canada)",
     "id": "-"
   },
   {
-    "data": "26/06",
-    "hora": "16:00",
-    "jogo": "Senegal x Iraq",
-    "grupo": "-",
-    "palpite": "Senegal 2 x 0 Iraq  (vence Senegal)",
+    "data": "29/06",
+    "hora": "14:00",
+    "jogo": "Brazil x Japan",
+    "grupo": "MM",
+    "palpite": "Brazil 2 x 1 Japan  (vence Brazil)",
     "id": "-"
   },
   {
-    "data": "26/06",
-    "hora": "21:00",
-    "jogo": "Cape Verde x Saudi Arabia",
-    "grupo": "-",
-    "palpite": "Cape Verde 1 x 0 Saudi Arabia  (vence Cape Verde)",
+    "data": "29/06",
+    "hora": "17:30",
+    "jogo": "Germany x Paraguay",
+    "grupo": "MM",
+    "palpite": "Germany 2 x 1 Paraguay  (vence Germany)",
     "id": "-"
   },
   {
-    "data": "26/06",
-    "hora": "21:00",
-    "jogo": "Uruguay x Spain",
-    "grupo": "-",
-    "palpite": "Uruguay 0 x 2 Spain  (vence Spain)",
-    "id": "-"
-  },
-  {
-    "data": "26/06",
-    "hora": "00:00",
-    "jogo": "Egypt x Iran",
-    "grupo": "-",
-    "palpite": "Egypt 1 x 1 Iran  (empate)",
-    "id": "-"
-  },
-  {
-    "data": "26/06",
-    "hora": "00:00",
-    "jogo": "New Zealand x Belgium",
-    "grupo": "-",
-    "palpite": "New Zealand 1 x 3 Belgium  (vence Belgium)",
+    "data": "29/06",
+    "hora": "22:00",
+    "jogo": "Netherlands x Morocco",
+    "grupo": "MM",
+    "palpite": "Netherlands 1 x 1 Morocco  (empate)",
     "id": "-"
   }
 ]
