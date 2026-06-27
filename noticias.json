@@ -1,22 +1,27 @@
 [
   {
     "tipo": "analise",
-    "hora": "09:27",
-    "texto": "PAINEL ATUALIZADO 24/06 - resultados de ontem lancados (13 pts no bolao, Colombia 1x0 CRAVADA = 6 pts). Bolao em 123, taxa de acerto 59,1 por cento (26 de 44 jogos). Modelo: blend modelo+mercado + fator torneio (G=1.18) + modo elastico + fator estrela."
-  },
-  {
-    "tipo": "historico",
-    "hora": "00:30",
-    "texto": "ONTEM 23/06: Portugal 5x0 Uzbequistao (acertamos vencedor), Inglaterra 0x0 Gana (ZEBRA - o mercado dava Inglaterra a 81 por cento e ela empatou), Panama 0x1 Croacia (vencedor ok), Colombia 1x0 Congo (PLACAR EXATO, 6 pts)."
+    "hora": "10:43",
+    "texto": "ORACULO em 2o LUGAR no bolao com 177 pontos! Reta final da fase de grupos hoje (Grupos J, K, L); a partir de domingo comeca o mata-mata (Roda de 32). Modelo full no ar: blend de mercado + fator torneio (G=1.175) + fator estrela + fator de DECISAO (tabela/chaveamento) + modo elastico."
   },
   {
     "tipo": "previsao",
-    "hora": "13:30",
-    "texto": "HOJE 24/06 - 6 jogos. Destaques: Marrocos x Haiti (Marrocos defesa de elite, palpite 2x0), Escocia x Brasil (palpite 3x1, Brasil favorito num jogo aberto), Bosnia x Catar (2x1). Suica x Canada e o mais travado (1x1)."
+    "hora": "13:00",
+    "texto": "HOJE 27/06 - destaque tatico: Argelia x Austria. A Argentina ja e 1a do Grupo J, e quem terminar em 2o pega a ESPANHA na Roda de 32. Logo, ninguem quer muito vencer (vencer = cair na Espanha) e o empate pode classificar os dois - palpite 1x1 (biscoito). O mercado concorda: 46 por cento de empate."
+  },
+  {
+    "tipo": "previsao",
+    "hora": "13:05",
+    "texto": "Colombia x Portugal: os dois brigam pelo 1o lugar do Grupo K (1o pega um 3o colocado fraco; 2o pega o vice do L). Vao pra cima - palpite Portugal por 2x1. Panama x Inglaterra e Jordania x Argentina: favoritos folgados."
   },
   {
     "tipo": "odds",
-    "hora": "13:35",
-    "texto": "DISCIPLINADO sem tip hoje: o mercado esta mais afiado que o modelo, entao as diferencas que aparecem nao sao valor real (seria apostar no erro do proprio modelo). Sem edge confiavel, sem aposta - e a disciplina que protege a banca."
+    "hora": "13:10",
+    "texto": "REGRA DE MATA-MATA (Prodefy/padrao dos boloes): o placar que conta e o do TEMPO REGULAMENTAR (90 min + acrescimos). Prorrogacao e penaltis NAO contam pro placar. Se voce palpita empate num jogo de mata-mata, o sistema pede pra escolher tambem quem avanca. Nossos palpites ja sao do tempo normal - alinhados."
+  },
+  {
+    "tipo": "previsao",
+    "hora": "13:15",
+    "texto": "MATA-MATA dom/seg: Africa do Sul x Canada (Canada favorito), Brasil x Japao (Brasil 2x1), Alemanha x Paraguai (Alemanha forte), Holanda x Marrocos (moeda - 50/50, vai a penaltis)."
   }
 ]
