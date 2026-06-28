@@ -1,7 +1,7 @@
 {
-  "updated": "27/06 10:43",
+  "updated": "28/06 01:08",
   "tips": 3,
-  "hit": "59,1% (26/44)",
+  "hit": "60,9% (28/46)",
   "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
   "clv": "0,0% (1 tip, linha de fechamento)",
   "brier": "0,556 (mercado 0,572, 21 jogos)",
@@ -33,7 +33,7 @@
     "disc": "-",
     "louco": "Empate Brasil x Haiti (12.0)"
   },
-  "next": "Croacia x Gana e Panama x Inglaterra - 18h",
+  "next": "Argelia x Austria e Jordania x Argentina - 23h",
   "alerta": {
     "ativo": false
   },

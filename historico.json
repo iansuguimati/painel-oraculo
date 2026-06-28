@@ -570,5 +570,31 @@
     "favmkt": 51,
     "louco": -100,
     "disc": null
+  },
+  {
+    "data": "27/06",
+    "jogo": "CRO x GHA",
+    "bolao_pts": 6,
+    "venc": 1,
+    "placar": 1,
+    "brier_m": 0.486,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
+  },
+  {
+    "data": "27/06",
+    "jogo": "PAN x ENG",
+    "bolao_pts": 4,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.204,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
   }
 ]
