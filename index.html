@@ -124,7 +124,7 @@ footer{margin-top:20px;text-align:center;color:var(--mut);font-size:12px;line-he
 
 <div class="cta"><h3>Receba os tips com vantagem comprovada</h3><p>Analises 1/X/2 que precificam o que o mercado ignora.</p><a class="btn" href="#" id="ctaBtn">Quero os tips no Telegram</a></div>
 
-<h2>Agenda - proximos jogos</h2>
+<h2>Agenda - proximos 4 jogos</h2>
 <div class="h2note">A transmissao ao vivo de cada jogo comeca sozinha 15 min antes do apito inicial (com as escalacoes) e so encerra apos o fim oficial - cobre prorrogacao e penaltis.</div>
 <div class="news"><div class="news-head"><span class="news-title">Calendario Copa 2026</span><span class="news-upd">horario de Brasilia</span></div>
 <div id="agendaList"><div class="ni"><span>Carregando agenda...</span></div></div></div>
@@ -181,7 +181,10 @@ function loadNews(){getJSON("noticias.json").then(function(d){
 }).catch(function(){});}
 window.toggleOld=function(){var o=$("oldNews"),b=$("oldBtn");if(!o||!b)return;if(o.style.display==="none"){o.style.display="block";b.textContent="Ver menos";}else{o.style.display="none";b.textContent="Ver anteriores ("+o.children.length+")";}};
 function loadAgenda(){getJSON("agenda.json").then(function(d){window.GAMES=d;try{loadNews();}catch(_e){}
-  var h=d.map(function(g){var tg=(g.palpite&&g.palpite!=="-")?'<span class="tag t-previsao">'+g.palpite+'</span>':'<span class="tag t-lance">agendado</span>';
+  var nw=new Date(),yy=nw.getFullYear();
+  var up=d.filter(function(g){var pp=g.data.split("/"),hm=(g.hora||"00:00").split(":");var dt=new Date(yy,parseInt(pp[1],10)-1,parseInt(pp[0],10),parseInt(hm[0],10),parseInt(hm[1],10));return dt.getTime()>nw.getTime()-7200000;});
+  if(!up.length)up=d.slice(-4);
+  var h=up.slice(0,4).map(function(g){var tg=(g.palpite&&g.palpite!=="-")?'<span class="tag t-previsao">'+g.palpite+'</span>':'<span class="tag t-lance">agendado</span>';
   return '<div class="ni"><span class="h">'+g.data+' '+g.hora+'</span>'+tg+'<span>'+g.jogo+(g.grupo&&g.grupo!=="-"?' (Grupo '+g.grupo+')':'')+'</span></div>';}).join("");
   try{var now=new Date(),yr=now.getFullYear(),prox=null;for(var z=0;z<d.length;z++){var pp=d[z].data.split("/"),hm=(d[z].hora||"00:00").split(":"),dt=new Date(yr,parseInt(pp[1],10)-1,parseInt(pp[0],10),parseInt(hm[0],10),parseInt(hm[1],10));if(dt.getTime()>now.getTime()){prox=d[z];break;}}if(prox){var nj=$("nextJogo"),nh=$("nextHora");if(nj)nj.textContent=prox.jogo;if(nh)nh.textContent=prox.hora+" (Brasilia)";}}catch(e){}
   var el=$("agendaList");if(el&&h)el.innerHTML=h;
