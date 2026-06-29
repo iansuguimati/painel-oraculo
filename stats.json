@@ -1,7 +1,7 @@
 {
-  "updated": "28/06 01:23",
+  "updated": "29/06 12:39",
   "tips": 3,
-  "hit": "60,9% (28/46)",
+  "hit": "62,7% (32/51)",
   "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
   "clv": "0,0% (1 tip, linha de fechamento)",
   "brier": "0,556 (mercado 0,572, 21 jogos)",
@@ -33,25 +33,12 @@
     "disc": "-",
     "louco": "Empate Brasil x Haiti (12.0)"
   },
-  "next": "Africa do Sul x Canada - dom 16h (Roda de 32)",
+  "next": "Brasil x Japao - hoje 14h (Roda de 32)",
   "alerta": {
     "ativo": false
   },
   "analise": "RODADA 2 - 19/06. ENCERRADO 18/06: Mexico 1x0 Coreia do Sul - palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO (6 pts! gol de Luis Romo aos 50, voleio apos falha do goleiro Kim). Favorito do modelo e do mercado Mexico @2.05 +105 cada; Jogo Louco (empate @3.20) -100; Brier modelo 0,460 vs mercado 0,424. Tambem encerrado: Czechia 1x1 Africa do Sul (sem palpite - escapou da agenda anterior). Bolao acumulado 32 pts; 1X2 72,7 por cento (8/11); Brier medio 17 jogos modelo 0,651 vs 0,598 mercado. HOJE (4 jogos): EUA x Australia, Escocia x Marrocos, Brasil x Haiti, Turquia x Paraguai. ATENCAO: o modelo cru subestima fortemente os favoritos hoje (EUA 32, Brasil 47) - ratings de Australia/Haiti inflados por amostra curta; tratado como ERRO DE MODELO (modo sombra), ancorado no mercado via blend w=0,30. Sem tip Disciplinado - nenhum edge real (os 'edges' de empate vem do fator F, nao do mercado). Modelo Maher ataque/defesa, 907 jogos, alpha=4, mando 0,27, rho=-0,13, F=1,15. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
   "analises": [
-    {
-      "jogo": "South Africa x Canada",
-      "hora": "28/06 16h",
-      "bolao": "South Africa 0 x 1 Canada (vence Canada)",
-      "disc": "-",
-      "louco": "-",
-      "fav": "Canada",
-      "fav_odd": "-",
-      "fav_mkt": "-",
-      "fav_mkt_odd": "-",
-      "elenco": "-",
-      "texto": "FORCAS: South Africa ataca 1.16 e sofre 0.93 gols/jogo; Canada ataca 1.21 e sofre 0.76. LAMBDAS (gols esperados, ja com bonus de anfitriao (+0,50) + fator torneio G=1.175): South Africa 0.88 x Canada 1.13 (total 2.01). F-contexto=1.48 (empate inflado, jogo parelho). PROBABILIDADES: modelo cego 22/43/34; mercado 16/25/57; BLEND modelo+mercado (50/50) = 19/34/45 (casa/empate/fora). Over2.5 32%, ambas marcam 41%. PALPITE 0x1: escolhido por maximo valor esperado Prodefy no modo elastico (placar mais cheio quando empata em pontos). MATA-MATA: empate em 90 min vai a penaltis - o placar 0x1 conta pro bolao (penalti nao), e quem avanca e Canada."
-    },
     {
       "jogo": "Brazil x Japan",
       "hora": "29/06 14h",
@@ -63,7 +50,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "Vinicius Jr",
-      "texto": "FORCAS: Brazil ataca 1.84 e sofre 0.94 gols/jogo; Japan ataca 1.58 e sofre 0.69. LAMBDAS (gols esperados, ja com fator estrela +8% (Vinicius Jr) + fator torneio G=1.175): Brazil 1.38 x Japan 1.49 (total 2.87). F-contexto=1.55 (empate inflado, jogo parelho). PROBABILIDADES: modelo cego 29/37/33; mercado 57/24/18; BLEND modelo+mercado (50/50) = 43/31/25 (casa/empate/fora). Over2.5 53%, ambas marcam 60%. PALPITE 2x1: escolhido por maximo valor esperado Prodefy no modo elastico (placar mais cheio quando empata em pontos). MATA-MATA: empate em 90 min vai a penaltis - o placar 2x1 conta pro bolao (penalti nao), e quem avanca e Brazil."
+      "texto": "FORCAS: Brazil ataca 1.84/sofre 0.94; Japan ataca 1.58/sofre 0.69. LAMBDAS (com estrela Vinicius Jr, G=1.178): Brazil 1.38 x Japan 1.49 (total 2.87). F-contexto 1.55. PROBS: modelo cego 29/37/33; mercado 55/25/18; BLEND 42/31/26 (casa/E/fora). Over2.5 53%, ambas 60%. PALPITE 2x1 por maximo EP Prodefy (modo elastico). MATA-MATA: placar conta o tempo normal (penalti nao); quem avanca = Brazil."
     },
     {
       "jogo": "Germany x Paraguay",
@@ -76,7 +63,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "FORCAS: Germany ataca 1.99 e sofre 0.90 gols/jogo; Paraguay ataca 1.33 e sofre 0.88. LAMBDAS (gols esperados, ja com fator torneio G=1.175): Germany 1.76 x Paraguay 1.21 (total 2.98). F-contexto=1.33 (empate reduzido, mismatch). PROBABILIDADES: modelo cego 44/32/22; mercado 70/18/10; BLEND modelo+mercado (50/50) = 57/25/16 (casa/empate/fora). Over2.5 57%, ambas marcam 59%. PALPITE 2x1: escolhido por maximo valor esperado Prodefy no modo elastico (placar mais cheio quando empata em pontos). MATA-MATA: empate em 90 min vai a penaltis - o placar 2x1 conta pro bolao (penalti nao), e quem avanca e Germany."
+      "texto": "FORCAS: Germany ataca 1.99/sofre 0.90; Paraguay ataca 1.33/sofre 0.88. LAMBDAS (com G=1.178): Germany 1.77 x Paraguay 1.22 (total 2.98). F-contexto 1.33. PROBS: modelo cego 44/32/22; mercado 71/18/9; BLEND 58/25/16 (casa/E/fora). Over2.5 57%, ambas 59%. PALPITE 2x1 por maximo EP Prodefy (modo elastico). MATA-MATA: placar conta o tempo normal (penalti nao); quem avanca = Germany."
     },
     {
       "jogo": "Netherlands x Morocco",
@@ -84,12 +71,12 @@
       "bolao": "Netherlands 1 x 1 Morocco (empate)",
       "disc": "-",
       "louco": "-",
-      "fav": "Netherlands",
+      "fav": "Morocco",
       "fav_odd": "-",
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "FORCAS: Netherlands ataca 1.79 e sofre 0.91 gols/jogo; Morocco ataca 1.68 e sofre 0.62. LAMBDAS (gols esperados, ja com fator torneio G=1.175): Netherlands 1.12 x Morocco 1.53 (total 2.65). F-contexto=1.39 (empate reduzido, mismatch). PROBABILIDADES: modelo cego 23/35/40; mercado 45/29/24; BLEND modelo+mercado (50/50) = 34/32/32 (casa/empate/fora). Over2.5 47%, ambas marcam 55%. PALPITE 1x1: escolhido por maximo valor esperado Prodefy no modo elastico (placar mais cheio quando empata em pontos). MATA-MATA: empate em 90 min vai a penaltis - o placar 1x1 conta pro bolao (penalti nao), e quem avanca e jogo de moeda."
+      "texto": "FORCAS: Netherlands ataca 1.79/sofre 0.91; Morocco ataca 1.68/sofre 0.62. LAMBDAS (com G=1.178): Netherlands 1.12 x Morocco 1.53 (total 2.66). F-contexto 1.39. PROBS: modelo cego 23/35/40; mercado 41/30/27; BLEND 32/33/33 (casa/E/fora). Over2.5 47%, ambas 55%. PALPITE 1x1 por maximo EP Prodefy (modo elastico). MATA-MATA: placar conta o tempo normal (penalti nao); quem avanca = moeda (penaltis)."
     }
   ],
   "odds_fech": {}

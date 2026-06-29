@@ -596,5 +596,70 @@
     "disc": null,
     "louco": null,
     "favmkt": null
+  },
+  {
+    "data": "27/06",
+    "jogo": "COL x POR",
+    "bolao_pts": 0,
+    "venc": 0,
+    "placar": 0,
+    "brier_m": 0.636,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
+  },
+  {
+    "data": "27/06",
+    "jogo": "COD x UZB",
+    "bolao_pts": 3,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.688,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
+  },
+  {
+    "data": "27/06",
+    "jogo": "ALG x AUT",
+    "bolao_pts": 3,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.522,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
+  },
+  {
+    "data": "27/06",
+    "jogo": "JOR x ARG",
+    "bolao_pts": 4,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.139,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
+  },
+  {
+    "data": "28/06",
+    "jogo": "RSA x CAN",
+    "bolao_pts": 6,
+    "venc": 1,
+    "placar": 1,
+    "brier_m": 0.679,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
   }
 ]
