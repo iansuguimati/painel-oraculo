@@ -1,5 +1,5 @@
 {
-  "updated": "29/06 12:39",
+  "updated": "29/06 13:30",
   "tips": 3,
   "hit": "62,7% (32/51)",
   "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
@@ -68,7 +68,7 @@
     {
       "jogo": "Netherlands x Morocco",
       "hora": "29/06 22h",
-      "bolao": "Netherlands 1 x 1 Morocco (empate)",
+      "bolao": "Netherlands 1 x 1 Morocco (empate - AVANCA MARROCOS nos penaltis)",
       "disc": "-",
       "louco": "-",
       "fav": "Morocco",
@@ -76,7 +76,7 @@
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "FORCAS: Netherlands ataca 1.79/sofre 0.91; Morocco ataca 1.68/sofre 0.62. LAMBDAS (com G=1.178): Netherlands 1.12 x Morocco 1.53 (total 2.66). F-contexto 1.39. PROBS: modelo cego 23/35/40; mercado 41/30/27; BLEND 32/33/33 (casa/E/fora). Over2.5 47%, ambas 55%. PALPITE 1x1 por maximo EP Prodefy (modo elastico). MATA-MATA: placar conta o tempo normal (penalti nao); quem avanca = moeda (penaltis)."
+      "texto": "FORCAS: Netherlands ataca 1.79/sofre 0.91; Morocco ataca 1.68/sofre 0.62. LAMBDAS (com G=1.178): Netherlands 1.12 x Morocco 1.53 (total 2.66). F-contexto 1.39. PROBS: modelo cego 23/35/40; mercado 41/30/27; BLEND 32/33/33 (casa/E/fora). Over2.5 47%, ambas 55%. PALPITE 1x1 por maximo EP Prodefy (modo elastico). MATA-MATA: placar conta o tempo normal (penalti nao); quem avanca = MARROCOS nos penaltis. QUEM AVANCA (decisao): MARROCOS. Razao = fator GOLEIRO: Bono e especialista em disputa (defendeu os penaltis vs Espanha em 2022 e classificou). Na loteria, o goleiro pesa mais que o batedor. Batedores: Holanda (Depay/Gakpo) ate batem melhor, mas o Bono equilibra e o historico de shootout favorece o Marrocos (eles venceram a ultima grande disputa, a Holanda perdeu)."
     }
   ],
   "odds_fech": {}
