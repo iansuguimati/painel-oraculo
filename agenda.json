@@ -1,29 +1,5 @@
 [
   {
-    "data": "29/06",
-    "hora": "14:00",
-    "jogo": "Brazil x Japan",
-    "grupo": "MM",
-    "palpite": "Brazil 2 x 1 Japan (vence Brazil)",
-    "id": "-"
-  },
-  {
-    "data": "29/06",
-    "hora": "17:30",
-    "jogo": "Germany x Paraguay",
-    "grupo": "MM",
-    "palpite": "Germany 2 x 1 Paraguay (vence Germany)",
-    "id": "-"
-  },
-  {
-    "data": "29/06",
-    "hora": "22:00",
-    "jogo": "Netherlands x Morocco",
-    "grupo": "MM",
-    "palpite": "Netherlands 1 x 1 Morocco (empate)",
-    "id": "-"
-  },
-  {
     "data": "30/06",
     "hora": "14:00",
     "jogo": "Ivory Coast x Norway",
@@ -45,6 +21,54 @@
     "jogo": "Mexico x Ecuador",
     "grupo": "MM",
     "palpite": "Mexico 1 x 0 Ecuador (vence Mexico)",
+    "id": "-"
+  },
+  {
+    "data": "01/07",
+    "hora": "13:00",
+    "jogo": "England x Congo DR",
+    "grupo": "MM",
+    "palpite": "England 1 x 0 Congo DR (vence England)",
+    "id": "-"
+  },
+  {
+    "data": "01/07",
+    "hora": "17:00",
+    "jogo": "Belgium x Senegal",
+    "grupo": "MM",
+    "palpite": "Belgium 2 x 1 Senegal (vence Belgium)",
+    "id": "-"
+  },
+  {
+    "data": "01/07",
+    "hora": "21:00",
+    "jogo": "USA x Bosnia-Herz",
+    "grupo": "MM",
+    "palpite": "USA 3 x 1 Bosnia-Herz (vence USA)",
+    "id": "-"
+  },
+  {
+    "data": "02/07",
+    "hora": "16:00",
+    "jogo": "Spain x Austria",
+    "grupo": "MM",
+    "palpite": "Spain 2 x 1 Austria (vence Spain)",
+    "id": "-"
+  },
+  {
+    "data": "02/07",
+    "hora": "20:00",
+    "jogo": "Portugal x Croatia",
+    "grupo": "MM",
+    "palpite": "Portugal 2 x 1 Croatia (vence Portugal)",
+    "id": "-"
+  },
+  {
+    "data": "02/07",
+    "hora": "00:00",
+    "jogo": "Switzerland x Algeria",
+    "grupo": "MM",
+    "palpite": "Switzerland 1 x 1 Algeria (empate)",
     "id": "-"
   }
 ]

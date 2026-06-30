@@ -1,7 +1,7 @@
 {
-  "updated": "29/06 13:30",
+  "updated": "30/06 15:30",
   "tips": 3,
-  "hit": "62,7% (32/51)",
+  "hit": "63,0% (34/54)",
   "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
   "clv": "0,0% (1 tip, linha de fechamento)",
   "brier": "0,556 (mercado 0,572, 21 jogos)",
@@ -33,7 +33,7 @@
     "disc": "-",
     "louco": "Empate Brasil x Haiti (12.0)"
   },
-  "next": "Brasil x Japao - hoje 14h (Roda de 32)",
+  "next": "Costa do Marfim x Noruega - hoje 14h (Roda de 32)",
   "alerta": {
     "ativo": false
   },
