@@ -1,22 +1,32 @@
 [
   {
-    "data": "2026-06-23",
-    "jogo": "Colombia x Congo DR",
-    "home": "COL",
-    "away": "COD",
-    "hs": 1,
-    "as": 0,
-    "placar": "Colombia 1 x 0 Congo DR",
-    "motivo": "Mercado da Colombia favorita (-195); confirmado pelo blend modelo+mercado."
+    "data": "2026-07-03",
+    "jogo": "Argentina x Cape Verde",
+    "home": "ARG",
+    "away": "CPV",
+    "hs": 3,
+    "as": 1,
+    "placar": "Argentina 3 x 1 Cape Verde",
+    "motivo": "Desvio agressivo do usuario: Argentina inspirada (Messi) enche o Cabo Verde, que tem 55% de chance de nicar um gol. 3x1 mais consistente que 3x0."
   },
   {
-    "data": "2026-06-24",
-    "jogo": "Scotland x Brazil",
-    "home": "SCO",
-    "away": "BRA",
+    "data": "2026-07-04",
+    "jogo": "Paraguay x France",
+    "home": "PAR",
+    "away": "FRA",
     "hs": 1,
     "as": 3,
-    "placar": "Scotland 1 x 3 Brazil",
-    "motivo": "Desvio consciente do usuario: 3x1 Brasil custa so 0.11 EP vs 2x1, Brasil 37% de marcar 3+, jogo aberto (gols esp 3.45) e Escocia se lanca (must-win)."
+    "placar": "Paraguay 1 x 3 France",
+    "motivo": "Usuario ve a Franca voando (eye test acima do modelo). Franca goleia; Paraguai tem 65% de marcar. 3x1."
+  },
+  {
+    "data": "2026-07-06",
+    "jogo": "Portugal x Spain",
+    "home": "POR",
+    "away": "ESP",
+    "hs": 1,
+    "as": 2,
+    "placar": "Portugal 1 x 2 Spain",
+    "motivo": "Espanha 2x1 (favorita, Yamal decide; jogo aberto Over 61%). Coincide com o modelo."
   }
 ]
