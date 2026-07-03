@@ -1,11 +1,11 @@
 {
-  "updated": "03/07 10:32",
+  "updated": "03/07 11:06",
   "tips": 3,
   "hit": "66,7% (42/63)",
   "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
   "clv": "0,0% (1 tip, linha de fechamento)",
   "brier": "0,556 (mercado 0,572, 21 jogos)",
-  "bolao": 177,
+  "bolao": 251,
   "sim100": {
     "disc": {
       "stake": 300,
@@ -33,50 +33,50 @@
     "disc": "-",
     "louco": "Empate Brasil x Haiti (12.0)"
   },
-  "next": "Australia 0 x 1 Egypt - 03/07 15h",
+  "next": "Australia x Egito - hoje 15h",
   "alerta": {
     "ativo": false
   },
   "analise": "RODADA 2 - 19/06. ENCERRADO 18/06: Mexico 1x0 Coreia do Sul - palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO (6 pts! gol de Luis Romo aos 50, voleio apos falha do goleiro Kim). Favorito do modelo e do mercado Mexico @2.05 +105 cada; Jogo Louco (empate @3.20) -100; Brier modelo 0,460 vs mercado 0,424. Tambem encerrado: Czechia 1x1 Africa do Sul (sem palpite - escapou da agenda anterior). Bolao acumulado 32 pts; 1X2 72,7 por cento (8/11); Brier medio 17 jogos modelo 0,651 vs 0,598 mercado. HOJE (4 jogos): EUA x Australia, Escocia x Marrocos, Brasil x Haiti, Turquia x Paraguai. ATENCAO: o modelo cru subestima fortemente os favoritos hoje (EUA 32, Brasil 47) - ratings de Australia/Haiti inflados por amostra curta; tratado como ERRO DE MODELO (modo sombra), ancorado no mercado via blend w=0,30. Sem tip Disciplinado - nenhum edge real (os 'edges' de empate vem do fator F, nao do mercado). Modelo Maher ataque/defesa, 907 jogos, alpha=4, mando 0,27, rho=-0,13, F=1,15. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
   "analises": [
     {
-      "jogo": "Ivory Coast x Norway",
-      "hora": "30/06 14h",
-      "bolao": "Ivory Coast 1 x 2 Norway (vence Norway)",
+      "jogo": "Australia x Egypt",
+      "hora": "03/07 15h",
+      "bolao": "Australia 0 x 1 Egypt (vence Egypt)",
       "disc": "-",
       "louco": "-",
-      "fav": "Norway",
+      "fav": "Egypt",
       "fav_odd": "-",
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
-      "elenco": "Haaland",
-      "texto": "FORCAS: Ivory Coast ataca 1.55/sofre 0.74; Norway ataca 1.96/sofre 0.85. LAMBDAS (com estrela Haaland, G=1.17): Ivory Coast 1.33 x Norway 1.56 (total 2.89). F-contexto 1.48. PROBS: modelo cego 27/36/36; mercado 26/28/45; BLEND 27/32/40 (casa/E/fora). Over2.5 53%, ambas 60%. PALPITE 1x2 por maximo EP Prodefy (modo elastico). DISCIPLINADO: sem tip (mercado mais afiado, sem valor real). MATA-MATA: placar conta o tempo normal; quem avanca = Norway."
+      "elenco": "Salah",
+      "texto": "FORCAS: Australia ataca 1.38/sofre 0.82; Egypt ataca 1.25/sofre 0.73. lambda Australia 0.90 x Egypt 0.99 (G mata-mata 1.05, estrela Salah). BLEND+mata-mata 31/24/43 (casa/E/fora). Over2.5 32%. Palpite 0x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
     },
     {
-      "jogo": "France x Sweden",
-      "hora": "30/06 18h",
-      "bolao": "France 3 x 1 Sweden (vence France)",
+      "jogo": "Argentina x Cape Verde",
+      "hora": "03/07 19h",
+      "bolao": "Argentina 3 x 1 Cape Verde (vence Argentina) [seu palpite]",
       "disc": "-",
       "louco": "-",
-      "fav": "France",
+      "fav": "Argentina",
       "fav_odd": "-",
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
-      "elenco": "Mbappe / Dembele",
-      "texto": "FORCAS: France ataca 1.75/sofre 0.87; Sweden ataca 1.50/sofre 1.31. LAMBDAS (com estrela Mbappe / Dembele, G=1.17): France 2.49 x Sweden 1.31 (total 3.80). F-contexto 1.01. PROBS: modelo cego 61/20/17; mercado 75/15/8; BLEND 68/17/13 (casa/E/fora). Over2.5 74%, ambas 67%. PALPITE 3x1 por maximo EP Prodefy (modo elastico). DISCIPLINADO: sem tip (mercado mais afiado, sem valor real). MATA-MATA: placar conta o tempo normal; quem avanca = France."
+      "elenco": "Messi",
+      "texto": "OVERRIDE seu (goleada agressiva). FORCAS: Argentina ataca 1.73/sofre 0.68; Cape Verde ataca 1.29/sofre 0.98. lambda Argentina 1.64 x Cape Verde 0.79 (G mata-mata 1.05, estrela Messi). BLEND+mata-mata 77/11/10 (casa/E/fora). Over2.5 50%. Palpite 3x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
     },
     {
-      "jogo": "Mexico x Ecuador",
-      "hora": "30/06 22h",
-      "bolao": "Mexico 1 x 0 Ecuador (vence Mexico)",
+      "jogo": "Colombia x Ghana",
+      "hora": "03/07 22h",
+      "bolao": "Colombia 2 x 1 Ghana (vence Colombia)",
       "disc": "-",
       "louco": "-",
-      "fav": "Mexico",
+      "fav": "Colombia",
       "fav_odd": "-",
       "fav_mkt": "-",
       "fav_mkt_odd": "-",
       "elenco": "-",
-      "texto": "FORCAS: Mexico ataca 1.32/sofre 0.76; Ecuador ataca 1.17/sofre 0.66. LAMBDAS (com anfitriao, G=1.17): Mexico 1.44 x Ecuador 0.89 (total 2.33). F-contexto 1.33. PROBS: modelo cego 43/36/19; mercado 42/33/24; BLEND 42/35/21 (casa/E/fora). Over2.5 39%, ambas 47%. PALPITE 1x0 por maximo EP Prodefy (modo elastico). DISCIPLINADO: sem tip (mercado mais afiado, sem valor real). MATA-MATA: placar conta o tempo normal; quem avanca = Mexico."
+      "texto": "FORCAS: Colombia ataca 1.64/sofre 0.96; Ghana ataca 1.24/sofre 1.08. lambda Colombia 1.59 x Ghana 1.07 (G mata-mata 1.05). BLEND+mata-mata 64/16/18 (casa/E/fora). Over2.5 54%. Palpite 2x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
     }
   ],
   "odds_fech": {}
