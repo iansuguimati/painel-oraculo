@@ -24,7 +24,7 @@ BOOST_ESTRELA = 0.08
 # media observada. Validado OUT-OF-SAMPLE (treino 22 jogos / teste 22): RPS 0.1676->0.156,
 # Over2.5 42%->56% (real 59%), bolao +14 pts. Regularizado em 1.18 (abaixo do cru 1.235).
 # A tarefa diaria RECALIBRA por media movel (sobe se seguir aberto, cai no mata-mata).
-G_TORNEIO = 1.156
+G_TORNEIO = 1.05  # FASE DE MATA-MATA: gols/jogo caiu p/ 2.62 (era ~3.0 nos grupos)
 
 def fator_torneio(media_real, media_modelo, peso=0.8, cap=1.30, piso=1.0):
     """Escala de abertura do torneio: razao (gols reais / gols esperados), regularizada.
@@ -146,11 +146,11 @@ def fator_decisao(stakes):
                        pra vitoria -> MENOS empate (x0.82).
       'mustwin_both' : empate elimina os 2 -> os 2 atacam -> MENOS empate (x0.80).
       'biscotto'     : empate CLASSIFICA os 2 (melhor 3o) -> jogo trava -> MAIS empate (x1.12).
-      'normal'/'dead': neutro (x1.0) - deixa o mercado mandar.
+      'mata_mata'   : jogo de mata-mata (empate de 90min e RARO ~15% real vs 34% do modelo;\n                       os times decidem no tempo normal) -> MENOS empate (x0.50, validado 13 jogos).\n      'normal'/'dead': neutro (x1.0) - deixa o mercado mandar.
     Retorna multiplicador da prob de empate; aplicar DEPOIS do blend e renormalizar.
     So vale pro PALPITE do bolao (nao mexe em edge/tips)."""
     return {"seeding_forte": 0.82, "mustwin_both": 0.80, "biscotto": 1.12,
-            "normal": 1.0, "dead": 1.0}.get(stakes, 1.0)
+            "mata_mata": 0.50, "normal": 1.0, "dead": 1.0}.get(stakes, 1.0)
 
 def aplica_decisao(M, stakes):
     """Reescala a matriz pra refletir o fator de decisao na prob de empate."""
