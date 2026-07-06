@@ -1,7 +1,7 @@
 {
-  "updated": "03/07 11:06",
+  "updated": "06/07 10:19",
   "tips": 3,
-  "hit": "66,7% (42/63)",
+  "hit": "67,1% (47/70)",
   "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
   "clv": "0,0% (1 tip, linha de fechamento)",
   "brier": "0,556 (mercado 0,572, 21 jogos)",
@@ -33,7 +33,7 @@
     "disc": "-",
     "louco": "Empate Brasil x Haiti (12.0)"
   },
-  "next": "Australia x Egito - hoje 15h",
+  "next": "Portugal 1 x 2 Spain - 06/07 16h",
   "alerta": {
     "ativo": false
   },

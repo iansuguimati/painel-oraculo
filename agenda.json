@@ -1,61 +1,5 @@
 [
   {
-    "data": "03/07",
-    "hora": "15:00",
-    "jogo": "Australia x Egypt",
-    "grupo": "MM",
-    "palpite": "Australia 0 x 1 Egypt (vence Egypt)",
-    "id": "-"
-  },
-  {
-    "data": "03/07",
-    "hora": "19:00",
-    "jogo": "Argentina x Cape Verde",
-    "grupo": "MM",
-    "palpite": "Argentina 3 x 1 Cape Verde (vence Argentina) [seu palpite]",
-    "id": "-"
-  },
-  {
-    "data": "03/07",
-    "hora": "22:30",
-    "jogo": "Colombia x Ghana",
-    "grupo": "MM",
-    "palpite": "Colombia 2 x 1 Ghana (vence Colombia)",
-    "id": "-"
-  },
-  {
-    "data": "04/07",
-    "hora": "14:00",
-    "jogo": "Canada x Morocco",
-    "grupo": "MM",
-    "palpite": "Canada 0 x 1 Morocco (vence Morocco)",
-    "id": "-"
-  },
-  {
-    "data": "04/07",
-    "hora": "18:00",
-    "jogo": "Paraguay x France",
-    "grupo": "MM",
-    "palpite": "Paraguay 1 x 3 France (vence France) [seu palpite]",
-    "id": "-"
-  },
-  {
-    "data": "05/07",
-    "hora": "17:00",
-    "jogo": "Brazil x Norway",
-    "grupo": "MM",
-    "palpite": "Brazil 2 x 1 Norway (vence Brazil)",
-    "id": "-"
-  },
-  {
-    "data": "05/07",
-    "hora": "21:00",
-    "jogo": "Mexico x England",
-    "grupo": "MM",
-    "palpite": "Mexico 1 x 2 England (vence England)",
-    "id": "-"
-  },
-  {
     "data": "06/07",
     "hora": "16:00",
     "jogo": "Portugal x Spain",
@@ -68,21 +12,53 @@
     "hora": "21:00",
     "jogo": "USA x Belgium",
     "grupo": "MM",
-    "palpite": "USA 1 x 2 Belgium (vence Belgium)",
+    "palpite": "USA 2 x 3 Belgium (vence Belgium)",
     "id": "-"
   },
   {
     "data": "07/07",
     "hora": "13:00",
-    "jogo": "RD32 W14 x RD32 W16",
+    "jogo": "Argentina x Egypt",
     "grupo": "MM",
-    "palpite": "-",
+    "palpite": "Argentina 1 x 0 Egypt (vence Argentina)",
     "id": "-"
   },
   {
     "data": "07/07",
     "hora": "17:00",
-    "jogo": "Switzerland x RD32 W15",
+    "jogo": "Switzerland x Colombia",
+    "grupo": "MM",
+    "palpite": "Switzerland 1 x 2 Colombia (vence Colombia)",
+    "id": "-"
+  },
+  {
+    "data": "09/07",
+    "hora": "17:00",
+    "jogo": "France x Morocco",
+    "grupo": "MM",
+    "palpite": "France 2 x 1 Morocco (vence France)",
+    "id": "-"
+  },
+  {
+    "data": "10/07",
+    "hora": "16:00",
+    "jogo": "RD16 W5 x RD16 W6",
+    "grupo": "MM",
+    "palpite": "-",
+    "id": "-"
+  },
+  {
+    "data": "11/07",
+    "hora": "18:00",
+    "jogo": "Norway x England",
+    "grupo": "MM",
+    "palpite": "Norway 1 x 2 England (vence England)",
+    "id": "-"
+  },
+  {
+    "data": "11/07",
+    "hora": "22:00",
+    "jogo": "RD16 W7 x RD16 W8",
     "grupo": "MM",
     "palpite": "-",
     "id": "-"
