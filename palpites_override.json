@@ -48,5 +48,15 @@
     "as": 1,
     "placar": "Argentina 2 x 1 Switzerland",
     "motivo": "CRAVADA elastica: Argentina faz 2.67 gols/jogo (ataque em brasa), Suica sofre 0.80 e a defesa argentina vazou 2 nos ultimos 2 jogos. 1x0 era conservador demais - vitoria por 2 com a Suica nicando um."
+  },
+  {
+    "data": "2026-07-09",
+    "jogo": "France x Morocco",
+    "home": "FRA",
+    "away": "MAR",
+    "hs": 2,
+    "as": 1,
+    "placar": "France 2 x 1 Morocco",
+    "motivo": "CRAVADA: Franca superior nos 2 lados (ataca 2.80, sofre 0.40 = 2a melhor defesa). Marrocos organizado mas faz exatamente 1 gol nos jogos duros (1-1 Brasil, 1-1 Holanda). Franca 2, Marrocos 1."
   }
 ]
