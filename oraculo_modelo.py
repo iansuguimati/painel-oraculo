@@ -16,7 +16,8 @@ ANFITRIOES = {"USA", "MEX", "CAN"}
 # Dembele (atual Bola de Ouro 2025). Messi e Salah ficam como lendas ainda decisivas.
 # Boost regularizado +8% na lambda de ATAQUE do time (validado 10 jogos OOS, 99% bootstrap).
 ESTRELAS = {"FRA": "Mbappe / Dembele", "ESP": "Lamine Yamal", "ENG": "Harry Kane",
-            "NOR": "Haaland", "BRA": "Vinicius Jr", "ARG": "Messi", "EGY": "Salah"}
+            "NOR": "Haaland", "BRA": "Vinicius Jr", "ARG": "Messi", "EGY": "Salah",
+            "BEL": "Lukaku"}  # Lukaku on fire: maior artilheiro da historia da Belgica em Copas (add 08/07)
 BOOST_ESTRELA = 0.08
 
 # Fator de TORNEIO (abertura): esta Copa esta MUITO aberta - 3.05 gols/jogo REAL vs ~2.47
