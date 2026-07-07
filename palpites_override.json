@@ -28,5 +28,25 @@
     "as": 2,
     "placar": "Portugal 1 x 2 Spain",
     "motivo": "Espanha 2x1 (favorita, Yamal decide; jogo aberto Over 61%). Coincide com o modelo."
+  },
+  {
+    "data": "2026-07-10",
+    "jogo": "Spain x Belgium",
+    "home": "ESP",
+    "away": "BEL",
+    "hs": 2,
+    "as": 1,
+    "placar": "Spain 2 x 1 Belgium",
+    "motivo": "CRAVADA alta confianca: placar mais provavel (11.9%) e maior EP. Jogo aberto (Over 68%), Espanha+Yamal levam, Belgica marca."
+  },
+  {
+    "data": "2026-07-11",
+    "jogo": "Argentina x Switzerland",
+    "home": "ARG",
+    "away": "SUI",
+    "hs": 1,
+    "as": 0,
+    "placar": "Argentina 1 x 0 Switzerland",
+    "motivo": "CRAVADA alta confianca: 1x0 e o mais provavel (10.7%); Suica ferrolho (0x0 vs Colombia), jogo travado, vitoria magra da Argentina."
   }
 ]
