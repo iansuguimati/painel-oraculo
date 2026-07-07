@@ -1,37 +1,5 @@
 [
   {
-    "data": "06/07",
-    "hora": "16:00",
-    "jogo": "Portugal x Spain",
-    "grupo": "MM",
-    "palpite": "Portugal 1 x 2 Spain (vence Spain) [seu palpite]",
-    "id": "-"
-  },
-  {
-    "data": "06/07",
-    "hora": "21:00",
-    "jogo": "USA x Belgium",
-    "grupo": "MM",
-    "palpite": "USA 1 x 2 Belgium (vence Belgium)",
-    "id": "-"
-  },
-  {
-    "data": "07/07",
-    "hora": "13:00",
-    "jogo": "Argentina x Egypt",
-    "grupo": "MM",
-    "palpite": "Argentina 1 x 0 Egypt (vence Argentina)",
-    "id": "-"
-  },
-  {
-    "data": "07/07",
-    "hora": "17:00",
-    "jogo": "Switzerland x Colombia",
-    "grupo": "MM",
-    "palpite": "Switzerland 1 x 2 Colombia (vence Colombia)",
-    "id": "-"
-  },
-  {
     "data": "09/07",
     "hora": "17:00",
     "jogo": "France x Morocco",
@@ -42,9 +10,9 @@
   {
     "data": "10/07",
     "hora": "16:00",
-    "jogo": "RD16 W5 x RD16 W6",
+    "jogo": "Spain x Belgium",
     "grupo": "MM",
-    "palpite": "-",
+    "palpite": "Spain 2 x 1 Belgium (vence Spain)",
     "id": "-"
   },
   {
@@ -58,9 +26,9 @@
   {
     "data": "11/07",
     "hora": "22:00",
-    "jogo": "RD16 W7 x RD16 W8",
+    "jogo": "Argentina x Switzerland",
     "grupo": "MM",
-    "palpite": "-",
+    "palpite": "Argentina 2 x 1 Switzerland (vence Argentina)",
     "id": "-"
   }
 ]

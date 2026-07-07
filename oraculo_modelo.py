@@ -24,7 +24,7 @@ BOOST_ESTRELA = 0.08
 # media observada. Validado OUT-OF-SAMPLE (treino 22 jogos / teste 22): RPS 0.1676->0.156,
 # Over2.5 42%->56% (real 59%), bolao +14 pts. Regularizado em 1.18 (abaixo do cru 1.235).
 # A tarefa diaria RECALIBRA por media movel (sobe se seguir aberto, cai no mata-mata).
-G_TORNEIO = 1.05  # FASE DE MATA-MATA: gols/jogo caiu p/ 2.62 (era ~3.0 nos grupos)
+G_TORNEIO = 1.073  # mata-mata (fases avancadas ficaram mais abertas, 2.82 gols)
 
 def fator_torneio(media_real, media_modelo, peso=0.8, cap=1.30, piso=1.0):
     """Escala de abertura do torneio: razao (gols reais / gols esperados), regularizada.

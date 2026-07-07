@@ -908,5 +908,57 @@
     "disc": null,
     "louco": null,
     "favmkt": null
+  },
+  {
+    "data": "06/07",
+    "jogo": "POR x ESP",
+    "bolao_pts": 3,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.552,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
+  },
+  {
+    "data": "06/07",
+    "jogo": "USA x BEL",
+    "bolao_pts": 4,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.483,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
+  },
+  {
+    "data": "07/07",
+    "jogo": "ARG x EGY",
+    "bolao_pts": 3,
+    "venc": 1,
+    "placar": 0,
+    "brier_m": 0.589,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
+  },
+  {
+    "data": "07/07",
+    "jogo": "SUI x COL",
+    "bolao_pts": 0,
+    "venc": 0,
+    "placar": 0,
+    "brier_m": 0.579,
+    "brier_k": null,
+    "fav": null,
+    "disc": null,
+    "louco": null,
+    "favmkt": null
   }
 ]
