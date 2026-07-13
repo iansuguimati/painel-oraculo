@@ -1,7 +1,7 @@
 {
-  "updated": "09/07 14:38",
+  "updated": "13/07 11:41",
   "tips": 3,
-  "hit": "68,0% (51/75)",
+  "hit": "69,2% (54/78)",
   "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
   "clv": "0,0% (1 tip, linha de fechamento)",
   "brier": "0,556 (mercado 0,572, 21 jogos)",
@@ -33,7 +33,7 @@
     "disc": "-",
     "louco": "Empate Brasil x Haiti (12.0)"
   },
-  "next": "Franca x Marrocos - hoje 17h",
+  "next": "SEMIFINAL Franca x Espanha - 14/07 16h",
   "alerta": {
     "ativo": false
   },
