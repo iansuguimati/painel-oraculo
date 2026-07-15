@@ -78,5 +78,25 @@
   "as": 2,
   "placar": "Inglaterra 1 x 2 Argentina",
   "motivo": "Palpite VERDADEIRO (nao-cobertura). Argentina mais quente: 2,83 gols/jogo vs 2,17, nunca marcou <2; defesas iguais (1,00). Mercado poe ENG a frente so por narrativa de mando em palco neutro -> mesmo desconto que deram a Espanha. Seguro-Dibu nos penaltis se empatar. Leitura de mesa: rivais provavelmente na ENG (vies anti-ARG) -> ir de ARG amplia a lideranca de 6 se a ARG vencer. Bussolas alinhadas."
+ },
+ {
+  "data": "18/07",
+  "jogo": "FRA x ENG",
+  "home": "FRA",
+  "away": "ENG",
+  "hs": 2,
+  "as": 1,
+  "placar": "Franca 2 x 1 Inglaterra",
+  "motivo": "Disputa 3o. Franca melhor: 2,29 GF/0,57 GA vs ENG 2,17/1,00; ataque Mbappe+Dembele mais potente; fator estrela. RESSALVA: jogo de 3o e o menos previsivel (motivacao baixa, rotacao, tende a ser aberto) -> alta variancia."
+ },
+ {
+  "data": "19/07",
+  "jogo": "ESP x ARG",
+  "home": "ESP",
+  "away": "ARG",
+  "hs": 2,
+  "as": 1,
+  "placar": "Espanha 2 x 1 Argentina",
+  "motivo": "FINAL. Forca imparavel (ARG 2,83 GF) x objeto inamovivel (ESP 0,14 GA, 1 gol sofrido no torneio inteiro, 6 CS em 7). ESP zerou Franca/Portugal/Uruguai -> neutraliza ataque quente. Defesa ARG vaza (1,00). Mercado ESP ~42/emp 32/ARG 25 -> ESP favorita clara. Salva-vidas ARG: Messi + Dibu nos penaltis se empatar. Alt: ESP 1x0."
  }
 ]
