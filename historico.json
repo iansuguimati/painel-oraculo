@@ -1026,5 +1026,19 @@
   "louco": null,
   "favmkt": null,
   "obs": "Espanha 2-0. Palpite = Franca (COBERTURA de lider). Analise-lupa cravou Espanha, mas 2o/3o tb foram Franca -> erraram junto, lideranca de 6 intacta."
+ },
+ {
+  "data": "15/07",
+  "jogo": "ENG x ARG",
+  "bolao_pts": 6,
+  "venc": 1,
+  "placar": 1,
+  "brier_m": null,
+  "brier_k": null,
+  "fav": null,
+  "disc": null,
+  "louco": null,
+  "favmkt": null,
+  "obs": "CRAVADA Argentina 2x1 (palpite verdadeiro, contrarian ao mercado). ARG virou de 1-0: Enzo 85' e Lautaro 90'+2', Messi 2 assist. Estrategia perfeita: 2o (proximo rival) tinha o MESMO palpite -> lead de 7 congelado; 3o/4o na ING zeraram."
  }
 ]

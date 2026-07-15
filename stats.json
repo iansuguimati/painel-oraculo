@@ -1,11 +1,11 @@
 {
  "updated": "14/07 13:45",
  "tips": 3,
- "hit": "54/79 (68,4%)",
+ "hit": "55/80 (68,8%)",
  "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
  "clv": "0,0% (1 tip, linha de fechamento)",
  "brier": "0,556 (mercado 0,572, 21 jogos)",
- "bolao": 279,
+ "bolao": 285,
  "sim100": {
   "disc": {
    "stake": 300,
@@ -37,7 +37,7 @@
  "alerta": {
   "ativo": false
  },
- "analise": "15/07 SEMI ENG x ARG -> palpite VERDADEIRO: Argentina 2x1. Nao-cobertura consciente: ARG e o time mais quente (2,83 gols/jogo, nunca <2), mercado subprecifica igual fez com a Espanha, e Dibu e seguro nos penaltis. Se rivais foram na ING (vies), ARG vencendo AMPLIA os 6 pts de vantagem. Risco coberto pela folga + Dibu.",
+ "analise": "15/07 SEMI: CRAVAMOS Argentina 2x1 (ENG 1-2 ARG). Palpite verdadeiro venceu o mercado de novo (como a Espanha). ARG virou de 1-0 com Messi dando as 2 assist (Enzo 85', Lautaro 90+2). Estrategia de lider impecavel: o 2o colocado tinha o MESMO palpite -> vantagem congelada; 3o/4o foram na Inglaterra e zeraram. Lideranca AMPLIADA. Final: Argentina x Espanha.",
  "analises": [
   {
    "jogo": "Australia x Egypt",
