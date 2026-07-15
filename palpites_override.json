@@ -1,72 +1,82 @@
 [
-  {
-    "data": "2026-07-03",
-    "jogo": "Argentina x Cape Verde",
-    "home": "ARG",
-    "away": "CPV",
-    "hs": 3,
-    "as": 1,
-    "placar": "Argentina 3 x 1 Cape Verde",
-    "motivo": "Desvio agressivo do usuario: Argentina inspirada (Messi) enche o Cabo Verde, que tem 55% de chance de nicar um gol. 3x1 mais consistente que 3x0."
-  },
-  {
-    "data": "2026-07-04",
-    "jogo": "Paraguay x France",
-    "home": "PAR",
-    "away": "FRA",
-    "hs": 1,
-    "as": 3,
-    "placar": "Paraguay 1 x 3 France",
-    "motivo": "Usuario ve a Franca voando (eye test acima do modelo). Franca goleia; Paraguai tem 65% de marcar. 3x1."
-  },
-  {
-    "data": "2026-07-06",
-    "jogo": "Portugal x Spain",
-    "home": "POR",
-    "away": "ESP",
-    "hs": 1,
-    "as": 2,
-    "placar": "Portugal 1 x 2 Spain",
-    "motivo": "Espanha 2x1 (favorita, Yamal decide; jogo aberto Over 61%). Coincide com o modelo."
-  },
-  {
-    "data": "2026-07-10",
-    "jogo": "Spain x Belgium",
-    "home": "ESP",
-    "away": "BEL",
-    "hs": 2,
-    "as": 1,
-    "placar": "Spain 2 x 1 Belgium",
-    "motivo": "CRAVADA revisada: a Belgica esta em brasa no mata-mata (3.5 gols/jogo, marcou em TODOS os jogos). Clean sheet contra ela e arriscado demais. Espanha vence pela qualidade+muralha (limita a Belgica a 1, nao 3-4), mas a Belgica acha o gol. 2x1."
-  },
-  {
-    "data": "2026-07-11",
-    "jogo": "Argentina x Switzerland",
-    "home": "ARG",
-    "away": "SUI",
-    "hs": 2,
-    "as": 1,
-    "placar": "Argentina 2 x 1 Switzerland",
-    "motivo": "CRAVADA elastica: Argentina faz 2.67 gols/jogo (ataque em brasa), Suica sofre 0.80 e a defesa argentina vazou 2 nos ultimos 2 jogos. 1x0 era conservador demais - vitoria por 2 com a Suica nicando um."
-  },
-  {
-    "data": "2026-07-09",
-    "jogo": "France x Morocco",
-    "home": "FRA",
-    "away": "MAR",
-    "hs": 2,
-    "as": 0,
-    "placar": "France 2 x 0 Morocco",
-    "motivo": "NOVIDADE confirmada (09/07): Saibari (atacante) FORA do Marrocos por lesao. Ataque marroquino enfraquecido vs muralha francesa (0.40 sofridos) + precedente 2x0 na semi 2022. Franca a full (Mbappe/Dembele). Clean sheet virou o cenario mais provavel."
-  },
-  {
-    "data": "2026-07-14",
-    "jogo": "France x Spain",
-    "home": "FRA",
-    "away": "ESP",
-    "hs": 1,
-    "as": 2,
-    "placar": "France 1 x 2 Spain",
-    "motivo": "CRAVADA estrategica+analitica: Espanha favorita clara. (1) Historico: bateu essa base da Franca 2x1 na Euro 2024 e 5x4 na Nations 2025, Yamal decidindo. (2) Forca: ataque espanhol 2.13 fura a defesa francesa (rachou vs Noruega 1.96). (3) NOTICIA: Franca desfalcada - Upamecano+Saliba (zagueiros) e Kone+Tchouameni (meio) duvidosos, Mbappe com tornozelo; Espanha 100%. Lider ataca com a favorita pra abrir a vantagem."
-  }
+ {
+  "data": "2026-07-03",
+  "jogo": "Argentina x Cape Verde",
+  "home": "ARG",
+  "away": "CPV",
+  "hs": 3,
+  "as": 1,
+  "placar": "Argentina 3 x 1 Cape Verde",
+  "motivo": "Desvio agressivo do usuario: Argentina inspirada (Messi) enche o Cabo Verde, que tem 55% de chance de nicar um gol. 3x1 mais consistente que 3x0."
+ },
+ {
+  "data": "2026-07-04",
+  "jogo": "Paraguay x France",
+  "home": "PAR",
+  "away": "FRA",
+  "hs": 1,
+  "as": 3,
+  "placar": "Paraguay 1 x 3 France",
+  "motivo": "Usuario ve a Franca voando (eye test acima do modelo). Franca goleia; Paraguai tem 65% de marcar. 3x1."
+ },
+ {
+  "data": "2026-07-06",
+  "jogo": "Portugal x Spain",
+  "home": "POR",
+  "away": "ESP",
+  "hs": 1,
+  "as": 2,
+  "placar": "Portugal 1 x 2 Spain",
+  "motivo": "Espanha 2x1 (favorita, Yamal decide; jogo aberto Over 61%). Coincide com o modelo."
+ },
+ {
+  "data": "2026-07-10",
+  "jogo": "Spain x Belgium",
+  "home": "ESP",
+  "away": "BEL",
+  "hs": 2,
+  "as": 1,
+  "placar": "Spain 2 x 1 Belgium",
+  "motivo": "CRAVADA revisada: a Belgica esta em brasa no mata-mata (3.5 gols/jogo, marcou em TODOS os jogos). Clean sheet contra ela e arriscado demais. Espanha vence pela qualidade+muralha (limita a Belgica a 1, nao 3-4), mas a Belgica acha o gol. 2x1."
+ },
+ {
+  "data": "2026-07-11",
+  "jogo": "Argentina x Switzerland",
+  "home": "ARG",
+  "away": "SUI",
+  "hs": 2,
+  "as": 1,
+  "placar": "Argentina 2 x 1 Switzerland",
+  "motivo": "CRAVADA elastica: Argentina faz 2.67 gols/jogo (ataque em brasa), Suica sofre 0.80 e a defesa argentina vazou 2 nos ultimos 2 jogos. 1x0 era conservador demais - vitoria por 2 com a Suica nicando um."
+ },
+ {
+  "data": "2026-07-09",
+  "jogo": "France x Morocco",
+  "home": "FRA",
+  "away": "MAR",
+  "hs": 2,
+  "as": 0,
+  "placar": "France 2 x 0 Morocco",
+  "motivo": "NOVIDADE confirmada (09/07): Saibari (atacante) FORA do Marrocos por lesao. Ataque marroquino enfraquecido vs muralha francesa (0.40 sofridos) + precedente 2x0 na semi 2022. Franca a full (Mbappe/Dembele). Clean sheet virou o cenario mais provavel."
+ },
+ {
+  "data": "2026-07-14",
+  "jogo": "France x Spain",
+  "home": "FRA",
+  "away": "ESP",
+  "hs": 1,
+  "as": 2,
+  "placar": "France 1 x 2 Spain",
+  "motivo": "CRAVADA estrategica+analitica: Espanha favorita clara. (1) Historico: bateu essa base da Franca 2x1 na Euro 2024 e 5x4 na Nations 2025, Yamal decidindo. (2) Forca: ataque espanhol 2.13 fura a defesa francesa (rachou vs Noruega 1.96). (3) NOTICIA: Franca desfalcada - Upamecano+Saliba (zagueiros) e Kone+Tchouameni (meio) duvidosos, Mbappe com tornozelo; Espanha 100%. Lider ataca com a favorita pra abrir a vantagem."
+ },
+ {
+  "data": "15/07",
+  "jogo": "ENG x ARG",
+  "home": "ENG",
+  "away": "ARG",
+  "hs": 1,
+  "as": 2,
+  "placar": "Inglaterra 1 x 2 Argentina",
+  "motivo": "Palpite VERDADEIRO (nao-cobertura). Argentina mais quente: 2,83 gols/jogo vs 2,17, nunca marcou <2; defesas iguais (1,00). Mercado poe ENG a frente so por narrativa de mando em palco neutro -> mesmo desconto que deram a Espanha. Seguro-Dibu nos penaltis se empatar. Leitura de mesa: rivais provavelmente na ENG (vies anti-ARG) -> ir de ARG amplia a lideranca de 6 se a ARG vencer. Bussolas alinhadas."
+ }
 ]
