@@ -1,83 +1,83 @@
 {
-  "updated": "14/07 13:45",
-  "tips": 3,
-  "hit": "69,2% (54/78)",
-  "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
-  "clv": "0,0% (1 tip, linha de fechamento)",
-  "brier": "0,556 (mercado 0,572, 21 jogos)",
-  "bolao": 279,
-  "sim100": {
-    "disc": {
-      "stake": 300,
-      "pnl": -85,
-      "roi": "-28,3%"
-    },
-    "louco": {
-      "stake": 2100,
-      "pnl": -590,
-      "roi": "-28,1%"
-    },
-    "fav": {
-      "stake": 2100,
-      "pnl": -347,
-      "roi": "-16,5%"
-    },
-    "favmkt": {
-      "stake": 2100,
-      "pnl": -196,
-      "roi": "-9,3%"
-    }
+ "updated": "14/07 13:45",
+ "tips": 3,
+ "hit": "54/79 (68,4%)",
+ "roi": "-28,3% (sim Disciplinado, 3 tips reais)",
+ "clv": "0,0% (1 tip, linha de fechamento)",
+ "brier": "0,556 (mercado 0,572, 21 jogos)",
+ "bolao": 279,
+ "sim100": {
+  "disc": {
+   "stake": 300,
+   "pnl": -85,
+   "roi": "-28,3%"
   },
-  "lines": {
-    "bolao": "Brasil 2x0",
-    "disc": "-",
-    "louco": "Empate Brasil x Haiti (12.0)"
+  "louco": {
+   "stake": 2100,
+   "pnl": -590,
+   "roi": "-28,1%"
   },
-  "next": "SEMI Franca x Espanha - hoje 16h",
-  "alerta": {
-    "ativo": false
+  "fav": {
+   "stake": 2100,
+   "pnl": -347,
+   "roi": "-16,5%"
   },
-  "analise": "RODADA 2 - 19/06. ENCERRADO 18/06: Mexico 1x0 Coreia do Sul - palpite do bolao Mexico 1x0 CRAVOU O PLACAR EXATO (6 pts! gol de Luis Romo aos 50, voleio apos falha do goleiro Kim). Favorito do modelo e do mercado Mexico @2.05 +105 cada; Jogo Louco (empate @3.20) -100; Brier modelo 0,460 vs mercado 0,424. Tambem encerrado: Czechia 1x1 Africa do Sul (sem palpite - escapou da agenda anterior). Bolao acumulado 32 pts; 1X2 72,7 por cento (8/11); Brier medio 17 jogos modelo 0,651 vs 0,598 mercado. HOJE (4 jogos): EUA x Australia, Escocia x Marrocos, Brasil x Haiti, Turquia x Paraguai. ATENCAO: o modelo cru subestima fortemente os favoritos hoje (EUA 32, Brasil 47) - ratings de Australia/Haiti inflados por amostra curta; tratado como ERRO DE MODELO (modo sombra), ancorado no mercado via blend w=0,30. Sem tip Disciplinado - nenhum edge real (os 'edges' de empate vem do fator F, nao do mercado). Modelo Maher ataque/defesa, 907 jogos, alpha=4, mando 0,27, rho=-0,13, F=1,15. JOGO RESPONSAVEL: analise estatistica, nao recomendacao financeira.",
-  "analises": [
-    {
-      "jogo": "Australia x Egypt",
-      "hora": "03/07 15h",
-      "bolao": "Australia 0 x 1 Egypt (vence Egypt)",
-      "disc": "-",
-      "louco": "-",
-      "fav": "Egypt",
-      "fav_odd": "-",
-      "fav_mkt": "-",
-      "fav_mkt_odd": "-",
-      "elenco": "Salah",
-      "texto": "FORCAS: Australia ataca 1.38/sofre 0.82; Egypt ataca 1.25/sofre 0.73. lambda Australia 0.90 x Egypt 0.99 (G mata-mata 1.05, estrela Salah). BLEND+mata-mata 31/24/43 (casa/E/fora). Over2.5 32%. Palpite 0x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
-    },
-    {
-      "jogo": "Argentina x Cape Verde",
-      "hora": "03/07 19h",
-      "bolao": "Argentina 3 x 1 Cape Verde (vence Argentina) [seu palpite]",
-      "disc": "-",
-      "louco": "-",
-      "fav": "Argentina",
-      "fav_odd": "-",
-      "fav_mkt": "-",
-      "fav_mkt_odd": "-",
-      "elenco": "Messi",
-      "texto": "OVERRIDE seu (goleada agressiva). FORCAS: Argentina ataca 1.73/sofre 0.68; Cape Verde ataca 1.29/sofre 0.98. lambda Argentina 1.64 x Cape Verde 0.79 (G mata-mata 1.05, estrela Messi). BLEND+mata-mata 77/11/10 (casa/E/fora). Over2.5 50%. Palpite 3x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
-    },
-    {
-      "jogo": "Colombia x Ghana",
-      "hora": "03/07 22h",
-      "bolao": "Colombia 2 x 1 Ghana (vence Colombia)",
-      "disc": "-",
-      "louco": "-",
-      "fav": "Colombia",
-      "fav_odd": "-",
-      "fav_mkt": "-",
-      "fav_mkt_odd": "-",
-      "elenco": "-",
-      "texto": "FORCAS: Colombia ataca 1.64/sofre 0.96; Ghana ataca 1.24/sofre 1.08. lambda Colombia 1.59 x Ghana 1.07 (G mata-mata 1.05). BLEND+mata-mata 64/16/18 (casa/E/fora). Over2.5 54%. Palpite 2x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
-    }
-  ],
-  "odds_fech": {}
+  "favmkt": {
+   "stake": 2100,
+   "pnl": -196,
+   "roi": "-9,3%"
+  }
+ },
+ "lines": {
+  "bolao": "Brasil 2x0",
+  "disc": "-",
+  "louco": "Empate Brasil x Haiti (12.0)"
+ },
+ "next": "SEMI Franca x Espanha - hoje 16h",
+ "alerta": {
+  "ativo": false
+ },
+ "analise": "14/07 FRA 0-2 ESP: a analise-lupa acertou (Espanha melhor no ataque ajustado + H2H/Yamal), mas como LIDER cobrimos com a Franca. 2o e 3o tb apostaram Franca -> erramos juntos, os 6 pts de vantagem seguem intactos. So o 4o (21 atras) lucrou. Analista le o jogo; campeao de bolao protege a ponta.",
+ "analises": [
+  {
+   "jogo": "Australia x Egypt",
+   "hora": "03/07 15h",
+   "bolao": "Australia 0 x 1 Egypt (vence Egypt)",
+   "disc": "-",
+   "louco": "-",
+   "fav": "Egypt",
+   "fav_odd": "-",
+   "fav_mkt": "-",
+   "fav_mkt_odd": "-",
+   "elenco": "Salah",
+   "texto": "FORCAS: Australia ataca 1.38/sofre 0.82; Egypt ataca 1.25/sofre 0.73. lambda Australia 0.90 x Egypt 0.99 (G mata-mata 1.05, estrela Salah). BLEND+mata-mata 31/24/43 (casa/E/fora). Over2.5 32%. Palpite 0x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
+  },
+  {
+   "jogo": "Argentina x Cape Verde",
+   "hora": "03/07 19h",
+   "bolao": "Argentina 3 x 1 Cape Verde (vence Argentina) [seu palpite]",
+   "disc": "-",
+   "louco": "-",
+   "fav": "Argentina",
+   "fav_odd": "-",
+   "fav_mkt": "-",
+   "fav_mkt_odd": "-",
+   "elenco": "Messi",
+   "texto": "OVERRIDE seu (goleada agressiva). FORCAS: Argentina ataca 1.73/sofre 0.68; Cape Verde ataca 1.29/sofre 0.98. lambda Argentina 1.64 x Cape Verde 0.79 (G mata-mata 1.05, estrela Messi). BLEND+mata-mata 77/11/10 (casa/E/fora). Over2.5 50%. Palpite 3x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
+  },
+  {
+   "jogo": "Colombia x Ghana",
+   "hora": "03/07 22h",
+   "bolao": "Colombia 2 x 1 Ghana (vence Colombia)",
+   "disc": "-",
+   "louco": "-",
+   "fav": "Colombia",
+   "fav_odd": "-",
+   "fav_mkt": "-",
+   "fav_mkt_odd": "-",
+   "elenco": "-",
+   "texto": "FORCAS: Colombia ataca 1.64/sofre 0.96; Ghana ataca 1.24/sofre 1.08. lambda Colombia 1.59 x Ghana 1.07 (G mata-mata 1.05). BLEND+mata-mata 64/16/18 (casa/E/fora). Over2.5 54%. Palpite 2x1. No mata-mata o empate e raro (cortamos pela metade) e o placar conta o tempo normal."
+  }
+ ],
+ "odds_fech": {}
 }
